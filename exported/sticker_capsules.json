@@ -1,0 +1,1850 @@
+[
+  {
+    "definition_index": 4014,
+    "name": "crate_sticker_pack_kat2014_01",
+    "market_hash_name": "EMS Katowice 2014 Challengers",
+    "item_description": "#CSGO_crate_sticker_pack_kat2014_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_01",
+    "item_set_id": "crate_sticker_pack_kat2014_01"
+  },
+  {
+    "definition_index": 4015,
+    "name": "crate_sticker_pack_kat2014_02",
+    "market_hash_name": "EMS Katowice 2014 Legends",
+    "item_description": "#CSGO_crate_sticker_pack_kat2014_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_kat2014_02",
+    "item_set_id": "crate_sticker_pack_kat2014_02"
+  },
+  {
+    "definition_index": 4016,
+    "name": "crate_sticker_pack_community01",
+    "market_hash_name": "Community Sticker Capsule 1",
+    "item_description": "CSGO_crate_sticker_pack_community01_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community01",
+    "item_set_id": "crate_sticker_pack_community01"
+  },
+  {
+    "definition_index": 4020,
+    "name": "crate_sticker_pack_cologne2014_01",
+    "market_hash_name": "ESL One Cologne 2014 Legends",
+    "item_description": "#CSGO_crate_sticker_pack_cologne2014_desc01",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_01",
+    "item_set_id": "crate_sticker_pack_cologne2014_01"
+  },
+  {
+    "definition_index": 4021,
+    "name": "crate_sticker_pack_cologne2014_02",
+    "market_hash_name": "ESL One Cologne 2014 Challengers",
+    "item_description": "#CSGO_crate_sticker_pack_cologne2014_desc02",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2014_02",
+    "item_set_id": "crate_sticker_pack_cologne2014_02"
+  },
+  {
+    "definition_index": 4030,
+    "name": "crate_sticker_pack_dhw2014_01",
+    "market_hash_name": "DreamHack 2014 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_dhw2014_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_dhw2014_01",
+    "item_set_id": "crate_sticker_pack_dhw2014_01"
+  },
+  {
+    "definition_index": 4086,
+    "name": "crate_sticker_pack_eslkatowice2015_01",
+    "market_hash_name": "ESL One Katowice 2015 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_eslkatowice2015_desc01",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_01",
+    "item_set_id": "crate_sticker_pack_eslkatowice2015_01"
+  },
+  {
+    "definition_index": 4087,
+    "name": "crate_sticker_pack_eslkatowice2015_02",
+    "market_hash_name": "ESL One Katowice 2015 Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_eslkatowice2015_desc02",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslkatowice2015_02",
+    "item_set_id": "crate_sticker_pack_eslkatowice2015_02"
+  },
+  {
+    "definition_index": 4090,
+    "name": "crate_sticker_pack_enfu_capsule",
+    "market_hash_name": "Enfu Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_enfu_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_enfu_capsule",
+    "item_set_id": "crate_sticker_pack_enfu_capsule_lootlist"
+  },
+  {
+    "definition_index": 4109,
+    "name": "crate_sticker_pack_eslcologne2015_legends",
+    "market_hash_name": "ESL One Cologne 2015 Legends (Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_eslcologne2015_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_01",
+    "item_set_id": "crate_sticker_pack_eslcologne2015_legends"
+  },
+  {
+    "definition_index": 4110,
+    "name": "crate_sticker_pack_eslcologne2015_challengers",
+    "market_hash_name": "ESL One Cologne 2015 Challengers (Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_eslcologne2015_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_02",
+    "item_set_id": "crate_sticker_pack_eslcologne2015_challengers"
+  },
+  {
+    "definition_index": 4111,
+    "name": "crate_signature_pack_eslcologne2015_group_1",
+    "market_hash_name": "Autograph Capsule | Group A (Foil) | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_1",
+    "item_set_id": "crate_signature_pack_eslcologne2015_group_1_legendary"
+  },
+  {
+    "definition_index": 4112,
+    "name": "crate_signature_pack_eslcologne2015_group_2",
+    "market_hash_name": "Autograph Capsule | Group B (Foil) | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_2",
+    "item_set_id": "crate_signature_pack_eslcologne2015_group_2_legendary"
+  },
+  {
+    "definition_index": 4113,
+    "name": "crate_signature_pack_eslcologne2015_group_3",
+    "market_hash_name": "Autograph Capsule | Group C (Foil) | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_group_3_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_3",
+    "item_set_id": "crate_signature_pack_eslcologne2015_group_3_legendary"
+  },
+  {
+    "definition_index": 4114,
+    "name": "crate_signature_pack_eslcologne2015_group_4",
+    "market_hash_name": "Autograph Capsule | Group D (Foil) | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_group_4_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_eslcologne2015_group_4",
+    "item_set_id": "crate_signature_pack_eslcologne2015_group_4_legendary"
+  },
+  {
+    "definition_index": 4115,
+    "name": "crate_signature_pack_eslcologne2015_fnatic",
+    "market_hash_name": "Autograph Capsule | Fnatic | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_fnatic_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_fnatic",
+    "item_set_id": "eslcologne2015_signatures_fnatic"
+  },
+  {
+    "definition_index": 4116,
+    "name": "crate_signature_pack_eslcologne2015_luminositygaming",
+    "market_hash_name": "Autograph Capsule | Luminosity Gaming | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_luminositygaming_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_luminositygaming",
+    "item_set_id": "eslcologne2015_signatures_luminositygaming"
+  },
+  {
+    "definition_index": 4117,
+    "name": "crate_signature_pack_eslcologne2015_navi",
+    "market_hash_name": "Autograph Capsule | Natus Vincere | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_navi_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_navi",
+    "item_set_id": "eslcologne2015_signatures_navi"
+  },
+  {
+    "definition_index": 4118,
+    "name": "crate_signature_pack_eslcologne2015_ninjasinpyjamas",
+    "market_hash_name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_ninjasinpyjamas_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_ninjasinpyjamas",
+    "item_set_id": "eslcologne2015_signatures_ninjasinpyjamas"
+  },
+  {
+    "definition_index": 4119,
+    "name": "crate_signature_pack_eslcologne2015_envyus",
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_envyus_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_envyus",
+    "item_set_id": "eslcologne2015_signatures_envyus"
+  },
+  {
+    "definition_index": 4120,
+    "name": "crate_signature_pack_eslcologne2015_titan",
+    "market_hash_name": "Autograph Capsule | Titan | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_titan_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_titan",
+    "item_set_id": "eslcologne2015_signatures_titan"
+  },
+  {
+    "definition_index": 4121,
+    "name": "crate_signature_pack_eslcologne2015_solomid",
+    "market_hash_name": "Autograph Capsule | Team SoloMid | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_solomid_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_solomid",
+    "item_set_id": "eslcologne2015_signatures_solomid"
+  },
+  {
+    "definition_index": 4122,
+    "name": "crate_signature_pack_eslcologne2015_virtuspro",
+    "market_hash_name": "Autograph Capsule | Virtus.Pro | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_virtuspro_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_virtuspro",
+    "item_set_id": "eslcologne2015_signatures_virtuspro"
+  },
+  {
+    "definition_index": 4123,
+    "name": "crate_signature_pack_eslcologne2015_mousesports",
+    "market_hash_name": "Autograph Capsule | mousesports | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_mousesports_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_mousesports",
+    "item_set_id": "eslcologne2015_signatures_mousesports"
+  },
+  {
+    "definition_index": 4124,
+    "name": "crate_signature_pack_eslcologne2015_renegades",
+    "market_hash_name": "Autograph Capsule | Renegades | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_renegades_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_renegades",
+    "item_set_id": "eslcologne2015_signatures_renegades"
+  },
+  {
+    "definition_index": 4125,
+    "name": "crate_signature_pack_eslcologne2015_teamimmunity",
+    "market_hash_name": "Autograph Capsule | Team Immunity | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_teamimmunity_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_teamimmunity",
+    "item_set_id": "eslcologne2015_signatures_teamimmunity"
+  },
+  {
+    "definition_index": 4126,
+    "name": "crate_signature_pack_eslcologne2015_ebettle",
+    "market_hash_name": "Autograph Capsule | Team eBettle | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_ebettle_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_ebettle",
+    "item_set_id": "eslcologne2015_signatures_ebettle"
+  },
+  {
+    "definition_index": 4127,
+    "name": "crate_signature_pack_eslcologne2015_kinguin",
+    "market_hash_name": "Autograph Capsule | Team Kinguin | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_kinguin_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_kinguin",
+    "item_set_id": "eslcologne2015_signatures_kinguin"
+  },
+  {
+    "definition_index": 4128,
+    "name": "crate_signature_pack_eslcologne2015_flipside",
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_flipside_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_flipside",
+    "item_set_id": "eslcologne2015_signatures_flipside"
+  },
+  {
+    "definition_index": 4129,
+    "name": "crate_signature_pack_eslcologne2015_clg",
+    "market_hash_name": "Autograph Capsule | Counter Logic Gaming | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_clg_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_clg",
+    "item_set_id": "eslcologne2015_signatures_clg"
+  },
+  {
+    "definition_index": 4130,
+    "name": "crate_signature_pack_eslcologne2015_cloud9",
+    "market_hash_name": "Autograph Capsule | Cloud9 G2A | Cologne 2015",
+    "item_description": "#CSGO_crate_signature_pack_eslcologne2015_cloud9_desc",
+    "image_inventory": "econ/weapon_cases/cologne2015_cloud9",
+    "item_set_id": "eslcologne2015_signatures_cloud9"
+  },
+  {
+    "definition_index": 4156,
+    "name": "crate_sticker_pack_cluj2015_legends",
+    "market_hash_name": "DreamHack Cluj-Napoca 2015 Legends (Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_cluj2015_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_01",
+    "item_set_id": "crate_sticker_pack_cluj2015_legends"
+  },
+  {
+    "definition_index": 4157,
+    "name": "crate_sticker_pack_cluj2015_challengers",
+    "market_hash_name": "DreamHack Cluj-Napoca 2015 Challengers (Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_cluj2015_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_02",
+    "item_set_id": "crate_sticker_pack_cluj2015_challengers"
+  },
+  {
+    "definition_index": 4158,
+    "name": "crate_signature_pack_cluj2015_group_1",
+    "market_hash_name": "Autograph Capsule | Challengers (Foil) | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_1",
+    "item_set_id": "crate_signature_pack_cluj2015_group_1_legendary"
+  },
+  {
+    "definition_index": 4159,
+    "name": "crate_signature_pack_cluj2015_group_2",
+    "market_hash_name": "Autograph Capsule | Legends (Foil) | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cluj2015_group_2",
+    "item_set_id": "crate_signature_pack_cluj2015_group_2_legendary"
+  },
+  {
+    "definition_index": 4160,
+    "name": "crate_signature_pack_cluj2015_nip",
+    "market_hash_name": "Autograph Capsule | Ninjas in Pyjamas | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_nip_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_nip",
+    "item_set_id": "cluj2015_signatures_nip"
+  },
+  {
+    "definition_index": 4161,
+    "name": "crate_signature_pack_cluj2015_dig",
+    "market_hash_name": "Autograph Capsule | Team Dignitas | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_dig_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_dig",
+    "item_set_id": "cluj2015_signatures_dig"
+  },
+  {
+    "definition_index": 4162,
+    "name": "crate_signature_pack_cluj2015_clg",
+    "market_hash_name": "Autograph Capsule | Counter Logic Gaming | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_clg_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_clg",
+    "item_set_id": "cluj2015_signatures_clg"
+  },
+  {
+    "definition_index": 4163,
+    "name": "crate_signature_pack_cluj2015_vex",
+    "market_hash_name": "Autograph Capsule | Vexed Gaming | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_vex_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_vex",
+    "item_set_id": "cluj2015_signatures_vex"
+  },
+  {
+    "definition_index": 4164,
+    "name": "crate_signature_pack_cluj2015_flip",
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_flip_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_flip",
+    "item_set_id": "cluj2015_signatures_flip"
+  },
+  {
+    "definition_index": 4165,
+    "name": "crate_signature_pack_cluj2015_liq",
+    "market_hash_name": "Autograph Capsule | Team Liquid | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_liq_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_liq",
+    "item_set_id": "cluj2015_signatures_liq"
+  },
+  {
+    "definition_index": 4166,
+    "name": "crate_signature_pack_cluj2015_mss",
+    "market_hash_name": "Autograph Capsule | mousesports | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_mss_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_mss",
+    "item_set_id": "cluj2015_signatures_mss"
+  },
+  {
+    "definition_index": 4167,
+    "name": "crate_signature_pack_cluj2015_navi",
+    "market_hash_name": "Autograph Capsule | Natus Vincere | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_navi_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_navi",
+    "item_set_id": "cluj2015_signatures_navi"
+  },
+  {
+    "definition_index": 4168,
+    "name": "crate_signature_pack_cluj2015_vp",
+    "market_hash_name": "Autograph Capsule | Virtus.Pro | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_vp_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_vp",
+    "item_set_id": "cluj2015_signatures_vp"
+  },
+  {
+    "definition_index": 4169,
+    "name": "crate_signature_pack_cluj2015_c9",
+    "market_hash_name": "Autograph Capsule | Cloud9 | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_c9_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_c9",
+    "item_set_id": "cluj2015_signatures_c9"
+  },
+  {
+    "definition_index": 4170,
+    "name": "crate_signature_pack_cluj2015_g2",
+    "market_hash_name": "Autograph Capsule | G2 Esports | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_g2_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_g2",
+    "item_set_id": "cluj2015_signatures_g2"
+  },
+  {
+    "definition_index": 4171,
+    "name": "crate_signature_pack_cluj2015_tit",
+    "market_hash_name": "Autograph Capsule | Titan | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_tit_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_tit",
+    "item_set_id": "cluj2015_signatures_tit"
+  },
+  {
+    "definition_index": 4172,
+    "name": "crate_signature_pack_cluj2015_tsolo",
+    "market_hash_name": "Autograph Capsule | Team SoloMid | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_tsolo_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_tsolo",
+    "item_set_id": "cluj2015_signatures_tsolo"
+  },
+  {
+    "definition_index": 4173,
+    "name": "crate_signature_pack_cluj2015_nv",
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_nv_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_nv",
+    "item_set_id": "cluj2015_signatures_nv"
+  },
+  {
+    "definition_index": 4174,
+    "name": "crate_signature_pack_cluj2015_fntc",
+    "market_hash_name": "Autograph Capsule | Fnatic | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_fntc_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_fntc",
+    "item_set_id": "cluj2015_signatures_fntc"
+  },
+  {
+    "definition_index": 4175,
+    "name": "crate_signature_pack_cluj2015_lumi",
+    "market_hash_name": "Autograph Capsule | Luminosity Gaming | Cluj-Napoca 2015",
+    "item_description": "#CSGO_crate_signature_pack_cluj2015_lumi_desc",
+    "image_inventory": "econ/weapon_cases/cluj2015_lumi",
+    "item_set_id": "cluj2015_signatures_lumi"
+  },
+  {
+    "definition_index": 4183,
+    "name": "crate_sticker_pack_pinups_capsule",
+    "market_hash_name": "Pinups Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_pinups_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_pinups_capsule",
+    "item_set_id": "crate_sticker_pack_pinups_capsule_lootlist"
+  },
+  {
+    "definition_index": 4184,
+    "name": "crate_sticker_pack_slid3_capsule",
+    "market_hash_name": "Slid3 Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_slid3_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_slid3_capsule",
+    "item_set_id": "crate_sticker_pack_slid3_capsule_lootlist"
+  },
+  {
+    "definition_index": 4185,
+    "name": "crate_sticker_pack_team_roles_capsule",
+    "market_hash_name": "Team Roles Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_team_roles_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_team_roles_capsule",
+    "item_set_id": "crate_sticker_pack_team_roles_capsule_lootlist"
+  },
+  {
+    "definition_index": 4205,
+    "name": "crate_sticker_pack_columbus2016_legends",
+    "market_hash_name": "MLG Columbus 2016 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_columbus2016_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_01",
+    "item_set_id": "crate_sticker_pack_columbus2016_legends"
+  },
+  {
+    "definition_index": 4206,
+    "name": "crate_sticker_pack_columbus2016_challengers",
+    "market_hash_name": "MLG Columbus 2016 Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_columbus2016_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_02",
+    "item_set_id": "crate_sticker_pack_columbus2016_challengers"
+  },
+  {
+    "definition_index": 4207,
+    "name": "crate_signature_pack_columbus2016_group_1",
+    "market_hash_name": "Autograph Capsule | Challengers (Foil) | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_1",
+    "item_set_id": "crate_signature_pack_columbus2016_group_1_legendary"
+  },
+  {
+    "definition_index": 4208,
+    "name": "crate_signature_pack_columbus2016_group_2",
+    "market_hash_name": "Autograph Capsule | Legends (Foil) | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_columbus2016_group_2",
+    "item_set_id": "crate_signature_pack_columbus2016_group_2_legendary"
+  },
+  {
+    "definition_index": 4209,
+    "name": "crate_signature_pack_columbus2016_nip",
+    "market_hash_name": "Autograph Capsule | Ninjas in Pyjamas | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_nip_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_nip",
+    "item_set_id": "columbus2016_signatures_nip"
+  },
+  {
+    "definition_index": 4210,
+    "name": "crate_signature_pack_columbus2016_splc",
+    "market_hash_name": "Autograph Capsule | Splyce | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_splc_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_splc",
+    "item_set_id": "columbus2016_signatures_splc"
+  },
+  {
+    "definition_index": 4211,
+    "name": "crate_signature_pack_columbus2016_clg",
+    "market_hash_name": "Autograph Capsule | Counter Logic Gaming | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_clg_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_clg",
+    "item_set_id": "columbus2016_signatures_clg"
+  },
+  {
+    "definition_index": 4212,
+    "name": "crate_signature_pack_columbus2016_gamb",
+    "market_hash_name": "Autograph Capsule | Gambit Gaming | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_gamb_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_gamb",
+    "item_set_id": "columbus2016_signatures_gamb"
+  },
+  {
+    "definition_index": 4213,
+    "name": "crate_signature_pack_columbus2016_flip",
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_flip_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_flip",
+    "item_set_id": "columbus2016_signatures_flip"
+  },
+  {
+    "definition_index": 4214,
+    "name": "crate_signature_pack_columbus2016_liq",
+    "market_hash_name": "Autograph Capsule | Team Liquid | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_liq_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_liq",
+    "item_set_id": "columbus2016_signatures_liq"
+  },
+  {
+    "definition_index": 4215,
+    "name": "crate_signature_pack_columbus2016_mss",
+    "market_hash_name": "Autograph Capsule | mousesports | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_mss_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_mss",
+    "item_set_id": "columbus2016_signatures_mss"
+  },
+  {
+    "definition_index": 4216,
+    "name": "crate_signature_pack_columbus2016_navi",
+    "market_hash_name": "Autograph Capsule | Natus Vincere | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_navi_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_navi",
+    "item_set_id": "columbus2016_signatures_navi"
+  },
+  {
+    "definition_index": 4217,
+    "name": "crate_signature_pack_columbus2016_vp",
+    "market_hash_name": "Autograph Capsule | Virtus.Pro | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_vp_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_vp",
+    "item_set_id": "columbus2016_signatures_vp"
+  },
+  {
+    "definition_index": 4218,
+    "name": "crate_signature_pack_columbus2016_c9",
+    "market_hash_name": "Autograph Capsule | Cloud9 | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_c9_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_c9",
+    "item_set_id": "columbus2016_signatures_c9"
+  },
+  {
+    "definition_index": 4219,
+    "name": "crate_signature_pack_columbus2016_g2",
+    "market_hash_name": "Autograph Capsule | G2 Esports | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_g2_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_g2",
+    "item_set_id": "columbus2016_signatures_g2"
+  },
+  {
+    "definition_index": 4220,
+    "name": "crate_signature_pack_columbus2016_faze",
+    "market_hash_name": "Autograph Capsule | FaZe Clan | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_faze_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_faze",
+    "item_set_id": "columbus2016_signatures_faze"
+  },
+  {
+    "definition_index": 4221,
+    "name": "crate_signature_pack_columbus2016_astr",
+    "market_hash_name": "Autograph Capsule | Astralis | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_astr_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_astr",
+    "item_set_id": "columbus2016_signatures_astr"
+  },
+  {
+    "definition_index": 4222,
+    "name": "crate_signature_pack_columbus2016_nv",
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_nv_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_nv",
+    "item_set_id": "columbus2016_signatures_nv"
+  },
+  {
+    "definition_index": 4223,
+    "name": "crate_signature_pack_columbus2016_fntc",
+    "market_hash_name": "Autograph Capsule | Fnatic | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_fntc_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_fntc",
+    "item_set_id": "columbus2016_signatures_fntc"
+  },
+  {
+    "definition_index": 4224,
+    "name": "crate_signature_pack_columbus2016_lumi",
+    "market_hash_name": "Autograph Capsule | Luminosity Gaming | MLG Columbus 2016",
+    "item_description": "#CSGO_crate_signature_pack_columbus2016_lumi_desc",
+    "image_inventory": "econ/weapon_cases/columbus2016_lumi",
+    "item_set_id": "columbus2016_signatures_lumi"
+  },
+  {
+    "definition_index": 4254,
+    "name": "crate_sticker_pack_cologne2016_legends",
+    "market_hash_name": "Cologne 2016 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_cologne2016_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_01",
+    "item_set_id": "crate_sticker_pack_cologne2016_legends"
+  },
+  {
+    "definition_index": 4255,
+    "name": "crate_sticker_pack_cologne2016_challengers",
+    "market_hash_name": "Cologne 2016 Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_cologne2016_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_02",
+    "item_set_id": "crate_sticker_pack_cologne2016_challengers"
+  },
+  {
+    "definition_index": 4256,
+    "name": "crate_signature_pack_cologne2016_group_1",
+    "market_hash_name": "Autograph Capsule | Challengers (Foil) | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_1",
+    "item_set_id": "crate_signature_pack_cologne2016_group_1_legendary"
+  },
+  {
+    "definition_index": 4257,
+    "name": "crate_signature_pack_cologne2016_group_2",
+    "market_hash_name": "Autograph Capsule | Legends (Foil) | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cologne2016_group_2",
+    "item_set_id": "crate_signature_pack_cologne2016_group_2_legendary"
+  },
+  {
+    "definition_index": 4258,
+    "name": "crate_signature_pack_cologne2016_nip",
+    "market_hash_name": "Autograph Capsule | Ninjas in Pyjamas | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_nip_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_nip",
+    "item_set_id": "cologne2016_signatures_nip"
+  },
+  {
+    "definition_index": 4259,
+    "name": "crate_signature_pack_cologne2016_optc",
+    "market_hash_name": "Autograph Capsule | OpTic Gaming | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_optc_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_optc",
+    "item_set_id": "cologne2016_signatures_optc"
+  },
+  {
+    "definition_index": 4260,
+    "name": "crate_signature_pack_cologne2016_clg",
+    "market_hash_name": "Autograph Capsule | Counter Logic Gaming | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_clg_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_clg",
+    "item_set_id": "cologne2016_signatures_clg"
+  },
+  {
+    "definition_index": 4261,
+    "name": "crate_signature_pack_cologne2016_gamb",
+    "market_hash_name": "Autograph Capsule | Gambit Gaming | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_gamb_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_gamb",
+    "item_set_id": "cologne2016_signatures_gamb"
+  },
+  {
+    "definition_index": 4262,
+    "name": "crate_signature_pack_cologne2016_flip",
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_flip_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_flip",
+    "item_set_id": "cologne2016_signatures_flip"
+  },
+  {
+    "definition_index": 4263,
+    "name": "crate_signature_pack_cologne2016_liq",
+    "market_hash_name": "Autograph Capsule | Team Liquid | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_liq_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_liq",
+    "item_set_id": "cologne2016_signatures_liq"
+  },
+  {
+    "definition_index": 4264,
+    "name": "crate_signature_pack_cologne2016_mss",
+    "market_hash_name": "Autograph Capsule | mousesports | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_mss_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_mss",
+    "item_set_id": "cologne2016_signatures_mss"
+  },
+  {
+    "definition_index": 4265,
+    "name": "crate_signature_pack_cologne2016_navi",
+    "market_hash_name": "Autograph Capsule | Natus Vincere | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_navi_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_navi",
+    "item_set_id": "cologne2016_signatures_navi"
+  },
+  {
+    "definition_index": 4266,
+    "name": "crate_signature_pack_cologne2016_vp",
+    "market_hash_name": "Autograph Capsule | Virtus.Pro | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_vp_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_vp",
+    "item_set_id": "cologne2016_signatures_vp"
+  },
+  {
+    "definition_index": 4267,
+    "name": "crate_signature_pack_cologne2016_sk",
+    "market_hash_name": "Autograph Capsule | SK Gaming | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_sk_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_sk",
+    "item_set_id": "cologne2016_signatures_sk"
+  },
+  {
+    "definition_index": 4268,
+    "name": "crate_signature_pack_cologne2016_g2",
+    "market_hash_name": "Autograph Capsule | G2 Esports | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_g2_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_g2",
+    "item_set_id": "cologne2016_signatures_g2"
+  },
+  {
+    "definition_index": 4269,
+    "name": "crate_signature_pack_cologne2016_faze",
+    "market_hash_name": "Autograph Capsule | FaZe Clan | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_faze_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_faze",
+    "item_set_id": "cologne2016_signatures_faze"
+  },
+  {
+    "definition_index": 4270,
+    "name": "crate_signature_pack_cologne2016_astr",
+    "market_hash_name": "Autograph Capsule | Astralis | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_astr_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_astr",
+    "item_set_id": "cologne2016_signatures_astr"
+  },
+  {
+    "definition_index": 4271,
+    "name": "crate_signature_pack_cologne2016_nv",
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_nv_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_nv",
+    "item_set_id": "cologne2016_signatures_nv"
+  },
+  {
+    "definition_index": 4272,
+    "name": "crate_signature_pack_cologne2016_fntc",
+    "market_hash_name": "Autograph Capsule | Fnatic | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_fntc_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_fntc",
+    "item_set_id": "cologne2016_signatures_fntc"
+  },
+  {
+    "definition_index": 4273,
+    "name": "crate_signature_pack_cologne2016_dig",
+    "market_hash_name": "Autograph Capsule | Team Dignitas | Cologne 2016",
+    "item_description": "#CSGO_crate_signature_pack_cologne2016_dig_desc",
+    "image_inventory": "econ/weapon_cases/cologne2016_dig",
+    "item_set_id": "cologne2016_signatures_dig"
+  },
+  {
+    "definition_index": 4323,
+    "name": "crate_sticker_pack_atlanta2017_legends",
+    "market_hash_name": "Atlanta 2017 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_atlanta2017_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_01",
+    "item_set_id": "crate_sticker_pack_atlanta2017_legends"
+  },
+  {
+    "definition_index": 4324,
+    "name": "crate_sticker_pack_atlanta2017_challengers",
+    "market_hash_name": "Atlanta 2017 Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_atlanta2017_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_02",
+    "item_set_id": "crate_sticker_pack_atlanta2017_challengers"
+  },
+  {
+    "definition_index": 4325,
+    "name": "crate_signature_pack_atlanta2017_group_1",
+    "market_hash_name": "Autograph Capsule | Challengers (Foil) | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_1",
+    "item_set_id": "crate_signature_pack_atlanta2017_group_1_legendary"
+  },
+  {
+    "definition_index": 4326,
+    "name": "crate_signature_pack_atlanta2017_group_2",
+    "market_hash_name": "Autograph Capsule | Legends (Foil) | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_atlanta2017_group_2",
+    "item_set_id": "crate_signature_pack_atlanta2017_group_2_legendary"
+  },
+  {
+    "definition_index": 4327,
+    "name": "crate_signature_pack_atlanta2017_astr",
+    "market_hash_name": "Autograph Capsule | Astralis | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_astr_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_astr",
+    "item_set_id": "atlanta2017_signatures_astr"
+  },
+  {
+    "definition_index": 4328,
+    "name": "crate_signature_pack_atlanta2017_nv",
+    "market_hash_name": "Autograph Capsule | Team EnVyUs | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_nv_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_nv",
+    "item_set_id": "atlanta2017_signatures_nv"
+  },
+  {
+    "definition_index": 4329,
+    "name": "crate_signature_pack_atlanta2017_faze",
+    "market_hash_name": "Autograph Capsule | FaZe Clan | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_faze_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_faze",
+    "item_set_id": "atlanta2017_signatures_faze"
+  },
+  {
+    "definition_index": 4330,
+    "name": "crate_signature_pack_atlanta2017_flip",
+    "market_hash_name": "Autograph Capsule | Flipsid3 Tactics | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_flip_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_flip",
+    "item_set_id": "atlanta2017_signatures_flip"
+  },
+  {
+    "definition_index": 4331,
+    "name": "crate_signature_pack_atlanta2017_fntc",
+    "market_hash_name": "Autograph Capsule | Fnatic | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_fntc_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_fntc",
+    "item_set_id": "atlanta2017_signatures_fntc"
+  },
+  {
+    "definition_index": 4332,
+    "name": "crate_signature_pack_atlanta2017_g2",
+    "market_hash_name": "Autograph Capsule | G2 Esports | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_g2_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_g2",
+    "item_set_id": "atlanta2017_signatures_g2"
+  },
+  {
+    "definition_index": 4333,
+    "name": "crate_signature_pack_atlanta2017_gamb",
+    "market_hash_name": "Autograph Capsule | Gambit Gaming | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_gamb_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_gamb",
+    "item_set_id": "atlanta2017_signatures_gamb"
+  },
+  {
+    "definition_index": 4334,
+    "name": "crate_signature_pack_atlanta2017_god",
+    "market_hash_name": "Autograph Capsule | GODSENT | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_god_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_god",
+    "item_set_id": "atlanta2017_signatures_god"
+  },
+  {
+    "definition_index": 4335,
+    "name": "crate_signature_pack_atlanta2017_hlr",
+    "market_hash_name": "Autograph Capsule | HellRaisers | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_hlr_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_hlr",
+    "item_set_id": "atlanta2017_signatures_hlr"
+  },
+  {
+    "definition_index": 4336,
+    "name": "crate_signature_pack_atlanta2017_mss",
+    "market_hash_name": "Autograph Capsule | mousesports | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_mss_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_mss",
+    "item_set_id": "atlanta2017_signatures_mss"
+  },
+  {
+    "definition_index": 4337,
+    "name": "crate_signature_pack_atlanta2017_navi",
+    "market_hash_name": "Autograph Capsule | Natus Vincere | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_navi_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_navi",
+    "item_set_id": "atlanta2017_signatures_navi"
+  },
+  {
+    "definition_index": 4338,
+    "name": "crate_signature_pack_atlanta2017_nor",
+    "market_hash_name": "Autograph Capsule | North | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_nor_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_nor",
+    "item_set_id": "atlanta2017_signatures_nor"
+  },
+  {
+    "definition_index": 4339,
+    "name": "crate_signature_pack_atlanta2017_optc",
+    "market_hash_name": "Autograph Capsule | OpTic Gaming | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_optc_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_optc",
+    "item_set_id": "atlanta2017_signatures_optc"
+  },
+  {
+    "definition_index": 4340,
+    "name": "crate_signature_pack_atlanta2017_sk",
+    "market_hash_name": "Autograph Capsule | SK Gaming | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_sk_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_sk",
+    "item_set_id": "atlanta2017_signatures_sk"
+  },
+  {
+    "definition_index": 4341,
+    "name": "crate_signature_pack_atlanta2017_liq",
+    "market_hash_name": "Autograph Capsule | Team Liquid | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_liq_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_liq",
+    "item_set_id": "atlanta2017_signatures_liq"
+  },
+  {
+    "definition_index": 4342,
+    "name": "crate_signature_pack_atlanta2017_vp",
+    "market_hash_name": "Autograph Capsule | Virtus.Pro | Atlanta 2017",
+    "item_description": "#CSGO_crate_signature_pack_atlanta2017_vp_desc",
+    "image_inventory": "econ/weapon_cases/atlanta2017_vp",
+    "item_set_id": "atlanta2017_signatures_vp"
+  },
+  {
+    "definition_index": 4391,
+    "name": "crate_sticker_pack_krakow2017_legends",
+    "market_hash_name": "Krakow 2017 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_krakow2017_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_01",
+    "item_set_id": "crate_sticker_pack_krakow2017_legends"
+  },
+  {
+    "definition_index": 4392,
+    "name": "crate_sticker_pack_krakow2017_challengers",
+    "market_hash_name": "Krakow 2017 Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_krakow2017_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_02",
+    "item_set_id": "crate_sticker_pack_krakow2017_challengers"
+  },
+  {
+    "definition_index": 4393,
+    "name": "crate_signature_pack_krakow2017_group_1",
+    "market_hash_name": "Krakow 2017 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_krakow2017_group_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_1",
+    "item_set_id": "crate_signature_pack_krakow2017_group_players_collection_1"
+  },
+  {
+    "definition_index": 4394,
+    "name": "crate_signature_pack_krakow2017_group_2",
+    "market_hash_name": "Krakow 2017 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_krakow2017_group_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_krakow2017_group_2",
+    "item_set_id": "crate_signature_pack_krakow2017_group_players_collection_2"
+  },
+  {
+    "definition_index": 4456,
+    "name": "crate_sticker_pack_boston2018_legends",
+    "market_hash_name": "Boston 2018 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_boston2018_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends",
+    "item_set_id": "crate_sticker_pack_boston2018_legends"
+  },
+  {
+    "definition_index": 4478,
+    "name": "crate_sticker_pack_boston2018_legends_ntv",
+    "market_hash_name": "Boston 2018 Attending Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_boston2018_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_legends_ntv",
+    "item_set_id": "crate_sticker_pack_boston2018_legends_ntv"
+  },
+  {
+    "definition_index": 4457,
+    "name": "crate_sticker_pack_boston2018_challengers",
+    "market_hash_name": "Boston 2018 Returning Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_boston2018_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_challengers",
+    "item_set_id": "crate_sticker_pack_boston2018_challengers"
+  },
+  {
+    "definition_index": 4458,
+    "name": "crate_sticker_pack_boston2018_contenders",
+    "market_hash_name": "Boston 2018 Minor Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_boston2018_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders",
+    "item_set_id": "crate_sticker_pack_boston2018_contenders"
+  },
+  {
+    "definition_index": 4474,
+    "name": "crate_sticker_pack_boston2018_contenders_flg",
+    "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_boston2018_contenders_flg_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_contenders_flg",
+    "item_set_id": "crate_sticker_pack_boston2018_contenders_flg"
+  },
+  {
+    "definition_index": 4459,
+    "name": "crate_signature_pack_boston2018_group_legends",
+    "market_hash_name": "Boston 2018 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_boston2018_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends",
+    "item_set_id": "crate_signature_pack_boston2018_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4479,
+    "name": "crate_signature_pack_boston2018_group_legends_ntv",
+    "market_hash_name": "Boston 2018 Attending Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_boston2018_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_legends_ntv",
+    "item_set_id": "crate_signature_pack_boston2018_group_players_collection_legends_ntv"
+  },
+  {
+    "definition_index": 4460,
+    "name": "crate_signature_pack_boston2018_group_challengers",
+    "market_hash_name": "Boston 2018 Returning Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_boston2018_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_challengers",
+    "item_set_id": "crate_signature_pack_boston2018_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4461,
+    "name": "crate_signature_pack_boston2018_group_contenders",
+    "market_hash_name": "Boston 2018 Minor Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_boston2018_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders",
+    "item_set_id": "crate_signature_pack_boston2018_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4475,
+    "name": "crate_signature_pack_boston2018_group_contenders_flg",
+    "market_hash_name": "Boston 2018 Minor Challengers with Flash Gaming Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_boston2018_group_contenders_flg_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_boston2018_group_contenders_flg",
+    "item_set_id": "crate_signature_pack_boston2018_group_players_collection_contenders_flg"
+  },
+  {
+    "definition_index": 4533,
+    "name": "crate_sticker_pack_london2018_legends",
+    "market_hash_name": "London 2018 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_london2018_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_legends",
+    "item_set_id": "crate_sticker_pack_london2018_legends"
+  },
+  {
+    "definition_index": 4534,
+    "name": "crate_sticker_pack_london2018_challengers",
+    "market_hash_name": "London 2018 Returning Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_london2018_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_challengers",
+    "item_set_id": "crate_sticker_pack_london2018_challengers"
+  },
+  {
+    "definition_index": 4535,
+    "name": "crate_sticker_pack_london2018_contenders",
+    "market_hash_name": "London 2018 Minor Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_london2018_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_contenders",
+    "item_set_id": "crate_sticker_pack_london2018_contenders"
+  },
+  {
+    "definition_index": 4536,
+    "name": "crate_signature_pack_london2018_group_legends",
+    "market_hash_name": "London 2018 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_london2018_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_legends",
+    "item_set_id": "crate_signature_pack_london2018_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4537,
+    "name": "crate_signature_pack_london2018_group_challengers",
+    "market_hash_name": "London 2018 Returning Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_london2018_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_challengers",
+    "item_set_id": "crate_signature_pack_london2018_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4538,
+    "name": "crate_signature_pack_london2018_group_contenders",
+    "market_hash_name": "London 2018 Minor Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_london2018_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_london2018_group_contenders",
+    "item_set_id": "crate_signature_pack_london2018_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4584,
+    "name": "crate_sticker_pack_katowice2019_legends",
+    "market_hash_name": "Katowice 2019 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_katowice2019_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_legends",
+    "item_set_id": "crate_sticker_pack_katowice2019_legends"
+  },
+  {
+    "definition_index": 4585,
+    "name": "crate_sticker_pack_katowice2019_challengers",
+    "market_hash_name": "Katowice 2019 Returning Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_katowice2019_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_challengers",
+    "item_set_id": "crate_sticker_pack_katowice2019_challengers"
+  },
+  {
+    "definition_index": 4586,
+    "name": "crate_sticker_pack_katowice2019_contenders",
+    "market_hash_name": "Katowice 2019 Minor Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_katowice2019_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_contenders",
+    "item_set_id": "crate_sticker_pack_katowice2019_contenders"
+  },
+  {
+    "definition_index": 4587,
+    "name": "crate_signature_pack_katowice2019_group_legends",
+    "market_hash_name": "Katowice 2019 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_katowice2019_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_legends",
+    "item_set_id": "crate_signature_pack_katowice2019_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4588,
+    "name": "crate_signature_pack_katowice2019_group_challengers",
+    "market_hash_name": "Katowice 2019 Returning Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_katowice2019_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_challengers",
+    "item_set_id": "crate_signature_pack_katowice2019_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4589,
+    "name": "crate_signature_pack_katowice2019_group_contenders",
+    "market_hash_name": "Katowice 2019 Minor Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_katowice2019_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_katowice2019_group_contenders",
+    "item_set_id": "crate_signature_pack_katowice2019_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4654,
+    "name": "crate_sticker_pack_berlin2019_legends",
+    "market_hash_name": "Berlin 2019 Legends (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_berlin2019_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_legends",
+    "item_set_id": "crate_sticker_pack_berlin2019_legends"
+  },
+  {
+    "definition_index": 4655,
+    "name": "crate_sticker_pack_berlin2019_challengers",
+    "market_hash_name": "Berlin 2019 Returning Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_berlin2019_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_challengers",
+    "item_set_id": "crate_sticker_pack_berlin2019_challengers"
+  },
+  {
+    "definition_index": 4656,
+    "name": "crate_sticker_pack_berlin2019_contenders",
+    "market_hash_name": "Berlin 2019 Minor Challengers (Holo/Foil)",
+    "item_description": "#CSGO_crate_sticker_pack_berlin2019_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_contenders",
+    "item_set_id": "crate_sticker_pack_berlin2019_contenders"
+  },
+  {
+    "definition_index": 4657,
+    "name": "crate_signature_pack_berlin2019_group_legends",
+    "market_hash_name": "Berlin 2019 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_berlin2019_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_legends",
+    "item_set_id": "crate_signature_pack_berlin2019_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4658,
+    "name": "crate_signature_pack_berlin2019_group_challengers",
+    "market_hash_name": "Berlin 2019 Returning Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_berlin2019_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_challengers",
+    "item_set_id": "crate_signature_pack_berlin2019_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4659,
+    "name": "crate_signature_pack_berlin2019_group_contenders",
+    "market_hash_name": "Berlin 2019 Minor Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_berlin2019_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_berlin2019_group_contenders",
+    "item_set_id": "crate_signature_pack_berlin2019_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4743,
+    "name": "crate_sticker_pack_rmr2020_legends",
+    "market_hash_name": "2020 RMR Legends",
+    "item_description": "#CSGO_crate_sticker_pack_rmr2020_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_legends",
+    "item_set_id": "crate_sticker_pack_rmr2020_legends"
+  },
+  {
+    "definition_index": 4744,
+    "name": "crate_sticker_pack_rmr2020_challengers",
+    "market_hash_name": "2020 RMR Challengers",
+    "item_description": "#CSGO_crate_sticker_pack_rmr2020_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_challengers",
+    "item_set_id": "crate_sticker_pack_rmr2020_challengers"
+  },
+  {
+    "definition_index": 4745,
+    "name": "crate_sticker_pack_rmr2020_contenders",
+    "market_hash_name": "2020 RMR Contenders",
+    "item_description": "#CSGO_crate_sticker_pack_rmr2020_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rmr2020_contenders",
+    "item_set_id": "crate_sticker_pack_rmr2020_contenders"
+  },
+  {
+    "definition_index": 4282,
+    "name": "crate_sticker_pack_sugarface_capsule",
+    "market_hash_name": "Sugarface Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_sugarface_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_sugarface_capsule",
+    "item_set_id": "crate_sticker_pack_sugarface_capsule_lootlist"
+  },
+  {
+    "definition_index": 4283,
+    "name": "crate_sticker_pack_bestiary_capsule",
+    "market_hash_name": "Bestiary Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_bestiary_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bestiary_capsule",
+    "item_set_id": "crate_sticker_pack_bestiary_capsule_lootlist"
+  },
+  {
+    "definition_index": 4404,
+    "name": "crate_sticker_pack_illuminate_capsule_01",
+    "market_hash_name": "Perfect World Sticker Capsule 1",
+    "item_description": "#CSGO_crate_sticker_pack_illuminate_capsule_01_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_01",
+    "item_set_id": "crate_sticker_pack_illuminate_capsule_01_lootlist"
+  },
+  {
+    "definition_index": 4405,
+    "name": "crate_sticker_pack_illuminate_capsule_02",
+    "market_hash_name": "Perfect World Sticker Capsule 2",
+    "item_description": "#CSGO_crate_sticker_pack_illuminate_capsule_02_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_illuminate_capsule_02",
+    "item_set_id": "crate_sticker_pack_illuminate_capsule_02_lootlist"
+  },
+  {
+    "definition_index": 4470,
+    "name": "crate_sticker_pack_comm2018_01_capsule",
+    "market_hash_name": "Community Capsule 2018",
+    "item_description": "#CSGO_crate_sticker_pack_comm2018_01_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_comm2018_01_capsule",
+    "item_set_id": "crate_sticker_pack_comm2018_01_capsule_lootlist"
+  },
+  {
+    "definition_index": 4547,
+    "name": "crate_sticker_pack_skillgroup_capsule",
+    "market_hash_name": "Skill Groups Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_skillgroup_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_skillgroup_capsule",
+    "item_set_id": "crate_sticker_pack_skillgroup_capsule_lootlist"
+  },
+  {
+    "definition_index": 4599,
+    "name": "crate_sticker_pack_feral_predators_capsule",
+    "market_hash_name": "Feral Predators Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_feral_predators_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_feral_predators_capsule",
+    "item_set_id": "crate_sticker_pack_feral_predators_capsule_lootlist"
+  },
+  {
+    "definition_index": 4600,
+    "name": "crate_sticker_pack_shattered_web",
+    "market_hash_name": "Shattered Web Sticker Collection",
+    "item_description": "#CSGO_crate_sticker_pack_shattered_web_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_shattered_web_capsule",
+    "item_set_id": "crate_sticker_pack_shattered_web_lootlist"
+  },
+  {
+    "definition_index": 4597,
+    "name": "crate_sticker_pack_halo_capsule",
+    "market_hash_name": "Halo Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_halo_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_halo_capsule",
+    "item_set_id": "crate_sticker_pack_halo_capsule_lootlist"
+  },
+  {
+    "definition_index": 4616,
+    "name": "crate_sticker_pack_warhammer",
+    "market_hash_name": "Warhammer 40,000 Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_warhammer_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_capsule",
+    "item_set_id": "crate_sticker_pack_warhammer_lootlist"
+  },
+  {
+    "definition_index": 4729,
+    "name": "crate_sticker_pack_broken_fang",
+    "market_hash_name": "Broken Fang Sticker Collection",
+    "item_description": "#CSGO_crate_sticker_pack_broken_fang_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_broken_fang_capsule",
+    "item_set_id": "crate_sticker_pack_broken_fang_lootlist"
+  },
+  {
+    "definition_index": 4477,
+    "name": "crate_sticker_pack_chicken_capsule",
+    "market_hash_name": "Chicken Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_chicken_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_chicken_capsule",
+    "item_set_id": "crate_sticker_pack_chicken_capsule_lootlist"
+  },
+  {
+    "definition_index": 4670,
+    "name": "crate_sticker_pack_cs20_capsule",
+    "market_hash_name": "CS20 Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_cs20_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cs20_capsule",
+    "item_set_id": "crate_sticker_pack_cs20_capsule_lootlist"
+  },
+  {
+    "definition_index": 4694,
+    "name": "crate_sticker_pack_hlalyx_capsule",
+    "market_hash_name": "Half-Life: Alyx Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_hlalyx_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_hlalyx_capsule",
+    "item_set_id": "crate_sticker_pack_hlalyx_capsule_lootlist"
+  },
+  {
+    "definition_index": 4719,
+    "name": "crate_sticker_pack_recoil",
+    "market_hash_name": "Recoil Sticker Collection",
+    "item_description": "#CSGO_crate_sticker_pack_recoil_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_recoil_capsule",
+    "item_set_id": "crate_sticker_pack_recoil_lootlist"
+  },
+  {
+    "definition_index": 4746,
+    "name": "crate_sticker_pack_poorly_drawn",
+    "market_hash_name": "Poorly Drawn Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_poorly_drawn_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_poorly_drawn_capsule",
+    "item_set_id": "crate_sticker_pack_poorly_drawn_lootlist"
+  },
+  {
+    "definition_index": 4779,
+    "name": "crate_sticker_pack_riptide_surfshop",
+    "market_hash_name": "Riptide Surf Shop Sticker Collection",
+    "item_description": "#CSGO_crate_sticker_pack_riptide_surfshop_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_riptide_surfshop_capsule",
+    "item_set_id": "crate_sticker_pack_riptide_surfshop_lootlist"
+  },
+  {
+    "definition_index": 4782,
+    "name": "crate_sticker_pack_community2021_capsule",
+    "market_hash_name": "2021 Community Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_community2021_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2021_capsule",
+    "item_set_id": "crate_sticker_pack_community2021_capsule_lootlist"
+  },
+  {
+    "definition_index": 4789,
+    "name": "crate_sticker_pack_bf2042_capsule",
+    "market_hash_name": "Battlefield 2042 Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_bf2042_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_bf2042_capsule",
+    "item_set_id": "crate_sticker_pack_bf2042_capsule_lootlist"
+  },
+  {
+    "definition_index": 4783,
+    "name": "crate_sticker_pack_op_riptide_capsule",
+    "market_hash_name": "Operation Riptide Sticker Collection",
+    "item_description": "#CSGO_crate_sticker_pack_op_riptide_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_op_riptide_capsule",
+    "item_set_id": "crate_sticker_pack_op_riptide_capsule_lootlist"
+  },
+  {
+    "definition_index": 4803,
+    "name": "crate_sticker_pack_stockh2021_legends",
+    "market_hash_name": "Stockholm 2021 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_stockh2021_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_legends",
+    "item_set_id": "crate_sticker_pack_stockh2021_legends"
+  },
+  {
+    "definition_index": 4804,
+    "name": "crate_sticker_pack_stockh2021_challengers",
+    "market_hash_name": "Stockholm 2021 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_stockh2021_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_challengers",
+    "item_set_id": "crate_sticker_pack_stockh2021_challengers"
+  },
+  {
+    "definition_index": 4805,
+    "name": "crate_sticker_pack_stockh2021_contenders",
+    "market_hash_name": "Stockholm 2021 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_stockh2021_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_contenders",
+    "item_set_id": "crate_sticker_pack_stockh2021_contenders"
+  },
+  {
+    "definition_index": 4816,
+    "name": "crate_signature_pack_stockh2021_group_champions",
+    "market_hash_name": "Stockholm 2021 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_stockh2021_group_champions_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_champions",
+    "item_set_id": "crate_signature_pack_stockh2021_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4817,
+    "name": "crate_signature_pack_stockh2021_group_finalists",
+    "market_hash_name": "Stockholm 2021 Finalists Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_stockh2021_group_finalists_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_stockh2021_group_finalists",
+    "item_set_id": "crate_signature_pack_stockh2021_group_players_collection_finalists"
+  },
+  {
+    "definition_index": 4832,
+    "name": "crate_sticker_pack_antwerp2022_legends",
+    "market_hash_name": "Antwerp 2022 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_antwerp2022_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_legends",
+    "item_set_id": "crate_sticker_pack_antwerp2022_legends"
+  },
+  {
+    "definition_index": 4833,
+    "name": "crate_sticker_pack_antwerp2022_challengers",
+    "market_hash_name": "Antwerp 2022 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_antwerp2022_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_challengers",
+    "item_set_id": "crate_sticker_pack_antwerp2022_challengers"
+  },
+  {
+    "definition_index": 4834,
+    "name": "crate_sticker_pack_antwerp2022_contenders",
+    "market_hash_name": "Antwerp 2022 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_antwerp2022_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_contenders",
+    "item_set_id": "crate_sticker_pack_antwerp2022_contenders"
+  },
+  {
+    "definition_index": 4842,
+    "name": "crate_signature_pack_antwerp2022_group_legends",
+    "market_hash_name": "Antwerp 2022 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_legends",
+    "item_set_id": "crate_signature_pack_antwerp2022_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4843,
+    "name": "crate_signature_pack_antwerp2022_group_challengers",
+    "market_hash_name": "Antwerp 2022 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_challengers",
+    "item_set_id": "crate_signature_pack_antwerp2022_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4844,
+    "name": "crate_signature_pack_antwerp2022_group_contenders",
+    "market_hash_name": "Antwerp 2022 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_contenders",
+    "item_set_id": "crate_signature_pack_antwerp2022_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4845,
+    "name": "crate_signature_pack_antwerp2022_group_champions",
+    "market_hash_name": "Antwerp 2022 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_antwerp2022_group_champions_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_antwerp2022_group_champions",
+    "item_set_id": "crate_signature_pack_antwerp2022_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4857,
+    "name": "crate_sticker_pack_rio2022_legends",
+    "market_hash_name": "Rio 2022 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_rio2022_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_legends",
+    "item_set_id": "crate_sticker_pack_rio2022_legends"
+  },
+  {
+    "definition_index": 4858,
+    "name": "crate_sticker_pack_rio2022_challengers",
+    "market_hash_name": "Rio 2022 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_rio2022_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_challengers",
+    "item_set_id": "crate_sticker_pack_rio2022_challengers"
+  },
+  {
+    "definition_index": 4859,
+    "name": "crate_sticker_pack_rio2022_contenders",
+    "market_hash_name": "Rio 2022 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_rio2022_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_contenders",
+    "item_set_id": "crate_sticker_pack_rio2022_contenders"
+  },
+  {
+    "definition_index": 4867,
+    "name": "crate_signature_pack_rio2022_group_legends",
+    "market_hash_name": "Rio 2022 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_rio2022_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_legends",
+    "item_set_id": "crate_signature_pack_rio2022_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4868,
+    "name": "crate_signature_pack_rio2022_group_challengers",
+    "market_hash_name": "Rio 2022 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_rio2022_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_challengers",
+    "item_set_id": "crate_signature_pack_rio2022_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4869,
+    "name": "crate_signature_pack_rio2022_group_contenders",
+    "market_hash_name": "Rio 2022 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_rio2022_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_contenders",
+    "item_set_id": "crate_signature_pack_rio2022_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4870,
+    "name": "crate_signature_pack_rio2022_group_champions",
+    "market_hash_name": "Rio 2022 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_rio2022_group_champions_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_rio2022_group_champions",
+    "item_set_id": "crate_signature_pack_rio2022_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4890,
+    "name": "crate_sticker_pack_paris2023_legends",
+    "market_hash_name": "Paris 2023 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_paris2023_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_legends",
+    "item_set_id": "crate_sticker_pack_paris2023_legends"
+  },
+  {
+    "definition_index": 4891,
+    "name": "crate_sticker_pack_paris2023_challengers",
+    "market_hash_name": "Paris 2023 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_paris2023_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_challengers",
+    "item_set_id": "crate_sticker_pack_paris2023_challengers"
+  },
+  {
+    "definition_index": 4892,
+    "name": "crate_sticker_pack_paris2023_contenders",
+    "market_hash_name": "Paris 2023 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_paris2023_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_contenders",
+    "item_set_id": "crate_sticker_pack_paris2023_contenders"
+  },
+  {
+    "definition_index": 4900,
+    "name": "crate_signature_pack_paris2023_group_legends",
+    "market_hash_name": "Paris 2023 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_paris2023_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_legends",
+    "item_set_id": "crate_signature_pack_paris2023_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4901,
+    "name": "crate_signature_pack_paris2023_group_challengers",
+    "market_hash_name": "Paris 2023 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_paris2023_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_challengers",
+    "item_set_id": "crate_signature_pack_paris2023_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4902,
+    "name": "crate_signature_pack_paris2023_group_contenders",
+    "market_hash_name": "Paris 2023 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_paris2023_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_contenders",
+    "item_set_id": "crate_signature_pack_paris2023_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4903,
+    "name": "crate_signature_pack_paris2023_group_champions",
+    "market_hash_name": "Paris 2023 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_paris2023_group_champions_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_paris2023_group_champions",
+    "item_set_id": "crate_signature_pack_paris2023_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4923,
+    "name": "crate_sticker_pack_cph2024_legends",
+    "market_hash_name": "Copenhagen 2024 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_cph2024_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_legends",
+    "item_set_id": "crate_sticker_pack_cph2024_legends"
+  },
+  {
+    "definition_index": 4924,
+    "name": "crate_sticker_pack_cph2024_challengers",
+    "market_hash_name": "Copenhagen 2024 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_cph2024_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_challengers",
+    "item_set_id": "crate_sticker_pack_cph2024_challengers"
+  },
+  {
+    "definition_index": 4925,
+    "name": "crate_sticker_pack_cph2024_contenders",
+    "market_hash_name": "Copenhagen 2024 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_cph2024_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_contenders",
+    "item_set_id": "crate_sticker_pack_cph2024_contenders"
+  },
+  {
+    "definition_index": 4937,
+    "name": "crate_signature_pack_cph2024_group_legends",
+    "market_hash_name": "Copenhagen 2024 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_cph2024_group_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_legends",
+    "item_set_id": "crate_signature_pack_cph2024_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4938,
+    "name": "crate_signature_pack_cph2024_group_challengers",
+    "market_hash_name": "Copenhagen 2024 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_cph2024_group_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_challengers",
+    "item_set_id": "crate_signature_pack_cph2024_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4939,
+    "name": "crate_signature_pack_cph2024_group_contenders",
+    "market_hash_name": "Copenhagen 2024 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_cph2024_group_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_contenders",
+    "item_set_id": "crate_signature_pack_cph2024_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4940,
+    "name": "crate_signature_pack_cph2024_group_champions",
+    "market_hash_name": "Copenhagen 2024 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_cph2024_group_champions_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_cph2024_group_champions",
+    "item_set_id": "crate_signature_pack_cph2024_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4964,
+    "name": "crate_sticker_pack_sha2024_legends",
+    "market_hash_name": "Shanghai 2024 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_sha2024_legends_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_legends",
+    "item_set_id": "crate_sticker_pack_sha2024_legends"
+  },
+  {
+    "definition_index": 4965,
+    "name": "crate_sticker_pack_sha2024_challengers",
+    "market_hash_name": "Shanghai 2024 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_sha2024_challengers_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_challengers",
+    "item_set_id": "crate_sticker_pack_sha2024_challengers"
+  },
+  {
+    "definition_index": 4966,
+    "name": "crate_sticker_pack_sha2024_contenders",
+    "market_hash_name": "Shanghai 2024 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_sha2024_contenders_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_contenders",
+    "item_set_id": "crate_sticker_pack_sha2024_contenders"
+  },
+  {
+    "definition_index": 4978,
+    "name": "crate_signature_pack_sha2024_group_legends",
+    "market_hash_name": "Shanghai 2024 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_sha2024_group_legends_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_legends",
+    "item_set_id": "crate_signature_pack_sha2024_group_players_collection_legends"
+  },
+  {
+    "definition_index": 4979,
+    "name": "crate_signature_pack_sha2024_group_challengers",
+    "market_hash_name": "Shanghai 2024 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_sha2024_group_challengers_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_challengers",
+    "item_set_id": "crate_signature_pack_sha2024_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 4980,
+    "name": "crate_signature_pack_sha2024_group_contenders",
+    "market_hash_name": "Shanghai 2024 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_sha2024_group_contenders_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_contenders",
+    "item_set_id": "crate_signature_pack_sha2024_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 4981,
+    "name": "crate_signature_pack_sha2024_group_champions",
+    "market_hash_name": "Shanghai 2024 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_sha2024_group_champions_desc",
+    "image_inventory": "econ/tournaments/sha2024/crate_sticker_pack_sha2024_group_champions",
+    "item_set_id": "crate_signature_pack_sha2024_group_players_collection_champions"
+  },
+  {
+    "definition_index": 4784,
+    "name": "crate_sticker_pack_spring2022_capsule",
+    "market_hash_name": "The Boardroom Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_spring2022_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_spring2022_capsule",
+    "item_set_id": "crate_sticker_pack_spring2022_capsule_lootlist"
+  },
+  {
+    "definition_index": 4847,
+    "name": "crate_sticker_pack_csgo10_capsule",
+    "market_hash_name": "10 Year Birthday Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_csgo10_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_csgo10_capsule",
+    "item_set_id": "crate_sticker_pack_csgo10_capsule_lootlist"
+  },
+  {
+    "definition_index": 4879,
+    "name": "crate_sticker_pack_community2022_capsule",
+    "market_hash_name": "Espionage Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_community2022_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community2022_capsule",
+    "item_set_id": "crate_sticker_pack_community2022_capsule_lootlist"
+  },
+  {
+    "definition_index": 4905,
+    "name": "crate_sticker_pack_community_2024_capsule",
+    "market_hash_name": "Ambush Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_community_2024_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_community_2024_capsule",
+    "item_set_id": "crate_sticker_pack_community_2024_capsule_lootlist"
+  },
+  {
+    "definition_index": 7011,
+    "name": "crate_sticker_pack_warhammer_traitor_capsule",
+    "market_hash_name": "Warhammer 40,000 Traitor Astartes Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_warhammer_traitor_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_traitor_capsule",
+    "item_set_id": "crate_sticker_pack_warhammer_traitor_capsule_lootlist"
+  },
+  {
+    "definition_index": 7013,
+    "name": "crate_sticker_pack_warhammer_adeptus_capsule",
+    "market_hash_name": "Warhammer 40,000 Adeptus Astartes Sticker Capsule",
+    "item_description": "CSGO_crate_sticker_pack_warhammer_adeptus_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_adeptus_capsule",
+    "item_set_id": "crate_sticker_pack_warhammer_adeptus_capsule_lootlist"
+  },
+  {
+    "definition_index": 7015,
+    "name": "crate_sticker_pack_warhammer_imperium_capsule",
+    "market_hash_name": "Warhammer 40,000 Imperium Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_warhammer_imperium_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_imperium_capsule",
+    "item_set_id": "crate_sticker_pack_warhammer_imperium_capsule_lootlist"
+  },
+  {
+    "definition_index": 7017,
+    "name": "crate_sticker_pack_warhammer_xenos_capsule",
+    "market_hash_name": "Warhammer 40,000 Xenos Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_warhammer_xenos_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_sticker_pack_warhammer_xenos_capsule",
+    "item_set_id": "crate_sticker_pack_warhammer_xenos_capsule_lootlist"
+  },
+  {
+    "definition_index": 5117,
+    "name": "crate_sticker_pack_aus2025_legends",
+    "market_hash_name": "Austin 2025 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_aus2025_legends_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_legends",
+    "item_set_id": "crate_sticker_pack_aus2025_legends"
+  },
+  {
+    "definition_index": 5118,
+    "name": "crate_sticker_pack_aus2025_challengers",
+    "market_hash_name": "Austin 2025 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_aus2025_challengers_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_challengers",
+    "item_set_id": "crate_sticker_pack_aus2025_challengers"
+  },
+  {
+    "definition_index": 5119,
+    "name": "crate_sticker_pack_aus2025_contenders",
+    "market_hash_name": "Austin 2025 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_aus2025_contenders_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_contenders",
+    "item_set_id": "crate_sticker_pack_aus2025_contenders"
+  },
+  {
+    "definition_index": 5131,
+    "name": "crate_signature_pack_aus2025_group_legends",
+    "market_hash_name": "Austin 2025 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_aus2025_group_legends_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_legends",
+    "item_set_id": "crate_signature_pack_aus2025_group_players_collection_legends"
+  },
+  {
+    "definition_index": 5132,
+    "name": "crate_signature_pack_aus2025_group_challengers",
+    "market_hash_name": "Austin 2025 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_aus2025_group_challengers_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_challengers",
+    "item_set_id": "crate_signature_pack_aus2025_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 5133,
+    "name": "crate_signature_pack_aus2025_group_contenders",
+    "market_hash_name": "Austin 2025 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_aus2025_group_contenders_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_contenders",
+    "item_set_id": "crate_signature_pack_aus2025_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 5134,
+    "name": "crate_signature_pack_aus2025_group_champions",
+    "market_hash_name": "Austin 2025 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_aus2025_group_champions_desc",
+    "image_inventory": "econ/tournaments/aus2025/crate_sticker_pack_aus2025_group_champions",
+    "item_set_id": "crate_signature_pack_aus2025_group_players_collection_champions"
+  },
+  {
+    "definition_index": 5216,
+    "name": "crate_sticker_pack_bud2025_legends",
+    "market_hash_name": "Budapest 2025 Legends Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_bud2025_legends_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_legends",
+    "item_set_id": "crate_sticker_pack_bud2025_legends"
+  },
+  {
+    "definition_index": 5217,
+    "name": "crate_sticker_pack_bud2025_challengers",
+    "market_hash_name": "Budapest 2025 Challengers Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_bud2025_challengers_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_challengers",
+    "item_set_id": "crate_sticker_pack_bud2025_challengers"
+  },
+  {
+    "definition_index": 5218,
+    "name": "crate_sticker_pack_bud2025_contenders",
+    "market_hash_name": "Budapest 2025 Contenders Sticker Capsule",
+    "item_description": "#CSGO_crate_sticker_pack_bud2025_contenders_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_contenders",
+    "item_set_id": "crate_sticker_pack_bud2025_contenders"
+  },
+  {
+    "definition_index": 5230,
+    "name": "crate_signature_pack_bud2025_group_legends",
+    "market_hash_name": "Budapest 2025 Legends Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_bud2025_group_legends_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_legends",
+    "item_set_id": "crate_signature_pack_bud2025_group_players_collection_legends"
+  },
+  {
+    "definition_index": 5231,
+    "name": "crate_signature_pack_bud2025_group_challengers",
+    "market_hash_name": "Budapest 2025 Challengers Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_bud2025_group_challengers_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_challengers",
+    "item_set_id": "crate_signature_pack_bud2025_group_players_collection_challengers"
+  },
+  {
+    "definition_index": 5232,
+    "name": "crate_signature_pack_bud2025_group_contenders",
+    "market_hash_name": "Budapest 2025 Contenders Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_bud2025_group_contenders_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_contenders",
+    "item_set_id": "crate_signature_pack_bud2025_group_players_collection_contenders"
+  },
+  {
+    "definition_index": 5233,
+    "name": "crate_signature_pack_bud2025_group_champions",
+    "market_hash_name": "Budapest 2025 Champions Autograph Capsule",
+    "item_description": "#CSGO_crate_signature_pack_bud2025_group_champions_desc",
+    "image_inventory": "econ/tournaments/bud2025/crate_sticker_pack_bud2025_group_champions",
+    "item_set_id": "crate_signature_pack_bud2025_group_players_collection_champions"
+  }
+]

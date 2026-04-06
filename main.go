@@ -3,7 +3,6 @@ package main
 import (
 	"context"
 	"fmt"
-	"maps"
 	"os"
 	"time"
 
@@ -82,12 +81,12 @@ func main() {
 	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, translator)
 	paint_kits := parsers.ParsePaintKits(ctx, itemsGame, translator)
 
-	// ExportToJsonFile(paint_kits, "paint_kits")
-	// ExportToJsonFile(weapons, "weapons")
-	// ExportToJsonFile(sticker_capsules, "sticker_capsules")
-	// ExportToJsonFile(custom_stickers, "custom_stickers")
-	// ExportToJsonFile(sticker_kits, "sticker_kits")
-	// ExportToJsonFile(misc_capsules, "misc_capsules")
+	ExportToJsonFile(paint_kits, "paint_kits")
+	ExportToJsonFile(weapons, "weapons")
+	ExportToJsonFile(sticker_capsules, "sticker_capsules")
+	ExportToJsonFile(custom_stickers, "custom_stickers")
+	ExportToJsonFile(sticker_kits, "sticker_kits")
+	ExportToJsonFile(misc_capsules, "misc_capsules")
 
 	// Special parsing for collections
 	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, translator)
@@ -100,37 +99,22 @@ func main() {
 	knife_skin_map := modules.LoadKnifeSkinsMap("./files/knife_skins.json")
 	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map)
 	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets)
-	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits)
+	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map)
 
-	// Im new to Go, so idk
-	paint_kits_list := make(map[int]modules.SchemaWeaponSkinMap, 0)
-	maps.Copy(paint_kits_list, weapon_skins)
-	maps.Copy(paint_kits_list, knife_skins)
-	maps.Copy(paint_kits_list, glove_skins)
-
-	// Final schema
-	itemSchema := ItemSchema{
-		Collections:  collections,
-		Rarities:     modules.MapRarities(&rarities),
-		Stickers:     modules.MapStickerKits(&sticker_kits),
-		Keychains:    modules.MapKeychains(&keychains),
-		Collectibles: modules.MapCollectibles(&collectibles),
-		Containers: modules.MapContainers(
-			&weapon_cases,
-			&souvenir_packages,
-			&sticker_capsules,
-			&misc_capsules,
-		),
-		Agents:         modules.MapAgents(&player_agents),
-		HighlightReels: highlight_reels,
-		CustomStickers: modules.MapCustomStickers(&custom_stickers),
-		MusicKits:      modules.MapMusicKits(&musicKits),
-		Weapons:        paint_kits_list,
-	}
-
-	// Export the final schema to a JSON file
-	ExportToJsonFile(itemSchema, "item_schema")
-
+	// Create the final item schema
+	ExportToJsonFile(knife_skins, "knife_skins")
+	ExportToJsonFile(weapon_skins, "weapon_skins")
+	ExportToJsonFile(glove_skins, "glove_skins")
+	ExportToJsonFile(collections, "collections")
+	ExportToJsonFile(rarities, "rarities")
+	ExportToJsonFile(keychains, "keychains")
+	ExportToJsonFile(player_agents, "agents")
+	ExportToJsonFile(musicKits, "music_kits")
+	ExportToJsonFile(collectibles, "collectibles")
+	ExportToJsonFile(souvenir_packages, "souvenir_packages")
+	ExportToJsonFile(weapon_cases, "weapon_cases")
+	ExportToJsonFile(highlight_reels, "highlight_reels")
+	
 	// keep alive
 	fmt.Println("Press Enter to exit...")
 	fmt.Scanln()

@@ -1,0 +1,240 @@
+[
+  {
+    "definition_index": 1,
+    "name": "Desert Eagle",
+    "classname": "weapon_deagle",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_deagle"
+  },
+  {
+    "definition_index": 2,
+    "name": "Dual Berettas",
+    "classname": "weapon_elite",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_elite"
+  },
+  {
+    "definition_index": 3,
+    "name": "Five-SeveN",
+    "classname": "weapon_fiveseven",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_fiveseven"
+  },
+  {
+    "definition_index": 4,
+    "name": "Glock-18",
+    "classname": "weapon_glock",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_glock"
+  },
+  {
+    "definition_index": 32,
+    "name": "P2000",
+    "classname": "weapon_hkp2000",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_hkp2000"
+  },
+  {
+    "definition_index": 36,
+    "name": "P250",
+    "classname": "weapon_p250",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_p250"
+  },
+  {
+    "definition_index": 63,
+    "name": "CZ75-Auto",
+    "classname": "weapon_cz75a",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_cz75a"
+  },
+  {
+    "definition_index": 30,
+    "name": "Tec-9",
+    "classname": "weapon_tec9",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_tec9"
+  },
+  {
+    "definition_index": 26,
+    "name": "PP-Bizon",
+    "classname": "weapon_bizon",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_bizon"
+  },
+  {
+    "definition_index": 17,
+    "name": "MAC-10",
+    "classname": "weapon_mac10",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_mac10"
+  },
+  {
+    "definition_index": 33,
+    "name": "MP7",
+    "classname": "weapon_mp7",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_mp7"
+  },
+  {
+    "definition_index": 23,
+    "name": "MP5-SD",
+    "classname": "weapon_mp5sd",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_mp5sd"
+  },
+  {
+    "definition_index": 34,
+    "name": "MP9",
+    "classname": "weapon_mp9",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_mp9"
+  },
+  {
+    "definition_index": 19,
+    "name": "P90",
+    "classname": "weapon_p90",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_p90"
+  },
+  {
+    "definition_index": 24,
+    "name": "UMP-45",
+    "classname": "weapon_ump45",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_ump45"
+  },
+  {
+    "definition_index": 7,
+    "name": "AK-47",
+    "classname": "weapon_ak47",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_ak47"
+  },
+  {
+    "definition_index": 8,
+    "name": "AUG",
+    "classname": "weapon_aug",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_aug"
+  },
+  {
+    "definition_index": 10,
+    "name": "FAMAS",
+    "classname": "weapon_famas",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_famas"
+  },
+  {
+    "definition_index": 13,
+    "name": "Galil AR",
+    "classname": "weapon_galilar",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_galilar"
+  },
+  {
+    "definition_index": 16,
+    "name": "M4A4",
+    "classname": "weapon_m4a1",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_m4a1"
+  },
+  {
+    "definition_index": 39,
+    "name": "SG 553",
+    "classname": "weapon_sg556",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_sg556"
+  },
+  {
+    "definition_index": 9,
+    "name": "AWP",
+    "classname": "weapon_awp",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_awp"
+  },
+  {
+    "definition_index": 11,
+    "name": "G3SG1",
+    "classname": "weapon_g3sg1",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_g3sg1"
+  },
+  {
+    "definition_index": 38,
+    "name": "SCAR-20",
+    "classname": "weapon_scar20",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_scar20"
+  },
+  {
+    "definition_index": 40,
+    "name": "SSG 08",
+    "classname": "weapon_ssg08",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_ssg08"
+  },
+  {
+    "definition_index": 27,
+    "name": "MAG-7",
+    "classname": "weapon_mag7",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_mag7"
+  },
+  {
+    "definition_index": 35,
+    "name": "Nova",
+    "classname": "weapon_nova",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_nova"
+  },
+  {
+    "definition_index": 29,
+    "name": "Sawed-Off",
+    "classname": "weapon_sawedoff",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_sawedoff"
+  },
+  {
+    "definition_index": 25,
+    "name": "XM1014",
+    "classname": "weapon_xm1014",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_xm1014"
+  },
+  {
+    "definition_index": 14,
+    "name": "M249",
+    "classname": "weapon_m249",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_m249"
+  },
+  {
+    "definition_index": 28,
+    "name": "Negev",
+    "classname": "weapon_negev",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_negev"
+  },
+  {
+    "definition_index": 60,
+    "name": "M4A1-S",
+    "classname": "weapon_m4a1_silencer",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_m4a1_silencer"
+  },
+  {
+    "definition_index": 61,
+    "name": "USP-S",
+    "classname": "weapon_usp_silencer",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_usp_silencer"
+  },
+  {
+    "definition_index": 64,
+    "name": "R8 Revolver",
+    "classname": "weapon_revolver",
+    "sticker_count": 5,
+    "image_inventory": "econ/weapons/base_weapons/weapon_revolver"
+  }
+]

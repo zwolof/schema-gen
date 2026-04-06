@@ -1,0 +1,226 @@
+[
+  {
+    "definition_index": 4668,
+    "name": "crate_xray_p250",
+    "market_hash_name": "X-Ray P250 Package",
+    "item_description": "#CSGO_crate_xray_p250_desc",
+    "image_inventory": "econ/weapon_cases/crate_xray_p250",
+    "item_set_id": "set_xraymachine"
+  },
+  {
+    "definition_index": 4234,
+    "name": "crate_sprays_community_1",
+    "market_hash_name": "Community Graffiti Box 1",
+    "item_description": "#CSGO_crate_sprays_community_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_pack_community_1",
+    "item_set_id": "crate_sprays_community_1_lootlist"
+  },
+  {
+    "definition_index": 4285,
+    "name": "crate_sprays_vcap1",
+    "market_hash_name": "CS:GO Graffiti Box",
+    "item_description": "#CSGO_crate_sprays_vcap1_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_pack_valve_1",
+    "item_set_id": "crate_sprays_vcap1_lootlist"
+  },
+  {
+    "definition_index": 4287,
+    "name": "crate_musickit_radicals_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Radicals Box",
+    "item_description": "#CSGO_crate_musickit_radicals_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_radicals_capsule",
+    "item_set_id": "crate_musickit_radicals_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 4696,
+    "name": "crate_musickit_masterminds_capsule",
+    "market_hash_name": "Masterminds Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_masterminds_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_capsule",
+    "item_set_id": "crate_musickit_masterminds_capsule_lootlist"
+  },
+  {
+    "definition_index": 4697,
+    "name": "crate_musickit_masterminds_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Masterminds Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_masterminds_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule",
+    "item_set_id": "crate_musickit_masterminds_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 4754,
+    "name": "crate_musickit_tacticians_capsule",
+    "market_hash_name": "Tacticians Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_tacticians_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_capsule",
+    "item_set_id": "crate_musickit_tacticians_capsule_lootlist"
+  },
+  {
+    "definition_index": 4755,
+    "name": "crate_musickit_tacticians_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Tacticians Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_tacticians_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule",
+    "item_set_id": "crate_musickit_tacticians_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 4848,
+    "name": "crate_musickit_initiators_capsule",
+    "market_hash_name": "Initiators Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_initiators_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_capsule",
+    "item_set_id": "crate_musickit_initiators_capsule_lootlist"
+  },
+  {
+    "definition_index": 4849,
+    "name": "crate_musickit_initiators_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Initiators Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_initiators_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule",
+    "item_set_id": "crate_musickit_initiators_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 4914,
+    "name": "crate_musickit_nightmode_capsule",
+    "market_hash_name": "NIGHTMODE Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_nightmode_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_capsule",
+    "item_set_id": "crate_musickit_nightmode_capsule_lootlist"
+  },
+  {
+    "definition_index": 4915,
+    "name": "crate_musickit_nightmode_stattrak_capsule",
+    "market_hash_name": "StatTrak™ NIGHTMODE Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_nightmode_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule",
+    "item_set_id": "crate_musickit_nightmode_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 4286,
+    "name": "crate_sprays_illuminate1",
+    "market_hash_name": "Perfect World Graffiti Box",
+    "item_description": "#CSGO_crate_sprays_illuminate1_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_pack_illuminate_1",
+    "item_set_id": "crate_sprays_illuminate1_lootlist"
+  },
+  {
+    "definition_index": 4621,
+    "name": "selfopeningitem_crate_spray_std2_1",
+    "market_hash_name": "CS:GO Graffiti #2 Collection",
+    "item_description": "#CSGO_crate_spray_std2_1_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_std2",
+    "item_set_id": "csgo_spray_std2_drops_1"
+  },
+  {
+    "definition_index": 4618,
+    "name": "selfopeningitem_crate_spray_std2_2",
+    "market_hash_name": "Trolling Graffiti Collection",
+    "item_description": "#CSGO_crate_spray_std2_2_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_std2",
+    "item_set_id": "csgo_spray_std2_drops_2"
+  },
+  {
+    "definition_index": 4617,
+    "name": "selfopeningitem_crate_spray_std3",
+    "market_hash_name": "CS:GO Graffiti #3 Collection",
+    "item_description": "#CSGO_crate_spray_std3_desc",
+    "image_inventory": "econ/weapon_cases/crate_spray_std3",
+    "item_set_id": "csgo_spray_std3_drops"
+  },
+  {
+    "definition_index": 4610,
+    "name": "crate_patch_pack01",
+    "market_hash_name": "CS:GO Patch Pack",
+    "item_description": "#CSGO_crate_patch_pack01_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack01",
+    "item_set_id": "crate_patch_pack01"
+  },
+  {
+    "definition_index": 4614,
+    "name": "crate_patch_pack02",
+    "market_hash_name": "Metal Skill Group Patch Collection",
+    "item_description": "#CSGO_crate_patch_pack02_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack02",
+    "item_set_id": "crate_patch_pack02"
+  },
+  {
+    "definition_index": 4795,
+    "name": "crate_patch_pack03",
+    "market_hash_name": "Operation Riptide Patch Collection",
+    "item_description": "#CSGO_crate_patch_pack03_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack03",
+    "item_set_id": "crate_patch_pack03"
+  },
+  {
+    "definition_index": 4615,
+    "name": "crate_patch_pack_hlalyx",
+    "market_hash_name": "Half-Life: Alyx Patch Pack",
+    "item_description": "#CSGO_crate_patch_pack_hlalyx_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack_hlalyx",
+    "item_set_id": "crate_patch_pack_hlalyx"
+  },
+  {
+    "definition_index": 4882,
+    "name": "crate_anubis_storepromo",
+    "market_hash_name": "Anubis Collection Package",
+    "item_description": "",
+    "image_inventory": "econ/weapon_cases/crate_anubis_storepromo",
+    "item_set_id": "set_anubis"
+  },
+  {
+    "definition_index": 4806,
+    "name": "crate_patch_pack_stockh2021_legends",
+    "market_hash_name": "Stockholm 2021 Legends Patch Pack",
+    "item_description": "#CSGO_crate_patch_pack_stockh2021_legends_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_legends",
+    "item_set_id": "crate_patch_pack_stockh2021_legends_collection"
+  },
+  {
+    "definition_index": 4807,
+    "name": "crate_patch_pack_stockh2021_challengers",
+    "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
+    "item_description": "#CSGO_crate_patch_pack_stockh2021_challengers_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers",
+    "item_set_id": "crate_patch_pack_stockh2021_challengers_collection"
+  },
+  {
+    "definition_index": 4808,
+    "name": "crate_patch_pack_stockh2021_contenders",
+    "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
+    "item_description": "#CSGO_crate_patch_pack_stockh2021_contenders_desc",
+    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders",
+    "item_set_id": "crate_patch_pack_stockh2021_contenders_collection"
+  },
+  {
+    "definition_index": 4946,
+    "name": "crate_musickit_masterminds2_capsule",
+    "market_hash_name": "Masterminds 2 Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_masterminds2_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_capsule",
+    "item_set_id": "crate_musickit_masterminds2_capsule_lootlist"
+  },
+  {
+    "definition_index": 4947,
+    "name": "crate_musickit_masterminds2_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Masterminds 2 Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_masterminds2_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule",
+    "item_set_id": "crate_musickit_masterminds2_stattrak_capsule_lootlist"
+  },
+  {
+    "definition_index": 7019,
+    "name": "crate_musickit_deluge_capsule",
+    "market_hash_name": "Deluge Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_deluge_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_capsule",
+    "item_set_id": "crate_musickit_deluge_capsule_lootlist"
+  },
+  {
+    "definition_index": 7021,
+    "name": "crate_musickit_deluge_stattrak_capsule",
+    "market_hash_name": "StatTrak™ Deluge Music Kit Box",
+    "item_description": "#CSGO_crate_musickit_deluge_stattrak_capsule_desc",
+    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule",
+    "item_set_id": "crate_musickit_deluge_stattrak_capsule_lootlist"
+  }
+]

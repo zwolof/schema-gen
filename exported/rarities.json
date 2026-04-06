@@ -1,0 +1,65 @@
+[
+  {
+    "key": "default",
+    "loc_rarity": "Default",
+    "loc_weapon": "Stock",
+    "loc_character": "Default",
+    "hex": "#ded6cc"
+  },
+  {
+    "key": "common",
+    "loc_rarity": "Base Grade",
+    "loc_weapon": "Consumer Grade",
+    "loc_character": "",
+    "hex": "#b0c3d9"
+  },
+  {
+    "key": "uncommon",
+    "loc_rarity": "Medium Grade",
+    "loc_weapon": "Industrial Grade",
+    "loc_character": "",
+    "hex": "#5e98d9"
+  },
+  {
+    "key": "rare",
+    "loc_rarity": "High Grade",
+    "loc_weapon": "Mil-Spec Grade",
+    "loc_character": "Distinguished",
+    "hex": "#4b69ff"
+  },
+  {
+    "key": "mythical",
+    "loc_rarity": "Remarkable",
+    "loc_weapon": "Restricted",
+    "loc_character": "Exceptional",
+    "hex": "#8847ff"
+  },
+  {
+    "key": "legendary",
+    "loc_rarity": "Exotic",
+    "loc_weapon": "Classified",
+    "loc_character": "Superior",
+    "hex": "#d32ce6"
+  },
+  {
+    "key": "ancient",
+    "loc_rarity": "Extraordinary",
+    "loc_weapon": "Covert",
+    "loc_character": "Master",
+    "hex": "#eb4b4b"
+  },
+  {
+    "key": "immortal",
+    "loc_rarity": "Contraband",
+    "loc_weapon": "Contraband",
+    "loc_character": "Contraband",
+    "hex": "#e4ae39"
+  },
+  {
+    "key": "unusual",
+    "loc_rarity": "★",
+    "loc_weapon": "",
+    "loc_character": "",
+    "hex": "#ffd700"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "definition_index": 3,
+    "name": "danielsadowski_01",
+    "image_inventory": "econ/music_kits/danielsadowski_01",
+    "market_hash_name": "Music Kit | Daniel Sadowski, Crimson Assault",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 4,
+    "name": "noisia_01",
+    "image_inventory": "econ/music_kits/noisia_01",
+    "market_hash_name": "Music Kit | Noisia, Sharpened",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 5,
+    "name": "robertallaire_01",
+    "image_inventory": "econ/music_kits/robertallaire_01",
+    "market_hash_name": "Music Kit | Robert Allaire, Insurgency",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 6,
+    "name": "seanmurray_01",
+    "image_inventory": "econ/music_kits/seanmurray_01",
+    "market_hash_name": "Music Kit | Sean Murray, A*D*8",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 7,
+    "name": "feedme_01",
+    "image_inventory": "econ/music_kits/feedme_01",
+    "market_hash_name": "Music Kit | Feed Me, High Noon",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 8,
+    "name": "dren_01",
+    "image_inventory": "econ/music_kits/dren_01",
+    "market_hash_name": "Music Kit | Dren, Death's Head Demolition",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 9,
+    "name": "austinwintory_01",
+    "image_inventory": "econ/music_kits/austinwintory_01",
+    "market_hash_name": "Music Kit | Austin Wintory, Desert Fire",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 10,
+    "name": "sasha_01",
+    "image_inventory": "econ/music_kits/sasha_01",
+    "market_hash_name": "Music Kit | Sasha, LNOE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 11,
+    "name": "skog_01",
+    "image_inventory": "econ/music_kits/skog_01",
+    "market_hash_name": "Music Kit | Skog, Metal",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 12,
+    "name": "midnightriders_01",
+    "image_inventory": "econ/music_kits/midnightriders_01",
+    "market_hash_name": "Music Kit | Midnight Riders, All I Want for Christmas",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 13,
+    "name": "mattlange_01",
+    "image_inventory": "econ/music_kits/mattlange_01",
+    "market_hash_name": "Music Kit | Matt Lange, IsoRhythm",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 14,
+    "name": "mateomessina_01",
+    "image_inventory": "econ/music_kits/mateomessina_01",
+    "market_hash_name": "Music Kit | Mateo Messina, For No Mankind",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 15,
+    "name": "hotlinemiami_01",
+    "image_inventory": "econ/music_kits/hotlinemiami_01",
+    "market_hash_name": "Music Kit | Various Artists, Hotline Miami",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 16,
+    "name": "danielsadowski_02",
+    "image_inventory": "econ/music_kits/danielsadowski_02",
+    "market_hash_name": "Music Kit | Daniel Sadowski, Total Domination",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 17,
+    "name": "damjanmravunac_01",
+    "image_inventory": "econ/music_kits/damjanmravunac_01",
+    "market_hash_name": "Music Kit | Damjan Mravunac, The Talos Principle",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 18,
+    "name": "proxy_01",
+    "image_inventory": "econ/music_kits/proxy_01",
+    "market_hash_name": "Music Kit | Proxy, Battlepack",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 19,
+    "name": "kitheory_01",
+    "image_inventory": "econ/music_kits/kitheory_01",
+    "market_hash_name": "Music Kit | Ki:Theory, MOLOTOV",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 20,
+    "name": "troelsfolmann_01",
+    "image_inventory": "econ/music_kits/troelsfolmann_01",
+    "market_hash_name": "Music Kit | Troels Folmann, Uber Blasto Phone",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 21,
+    "name": "kellybailey_01",
+    "image_inventory": "econ/music_kits/kellybailey_01",
+    "market_hash_name": "Music Kit | Kelly Bailey, Hazardous Environments",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 22,
+    "name": "skog_02",
+    "image_inventory": "econ/music_kits/skog_02",
+    "market_hash_name": "Music Kit | Skog, II-Headshot",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 23,
+    "name": "danielsadowski_03",
+    "image_inventory": "econ/music_kits/danielsadowski_03",
+    "market_hash_name": "Music Kit | Daniel Sadowski, The 8-Bit Kit",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 24,
+    "name": "awolnation_01",
+    "image_inventory": "econ/music_kits/awolnation_01",
+    "market_hash_name": "Music Kit | AWOLNATION, I Am",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 25,
+    "name": "mordfustang_01",
+    "image_inventory": "econ/music_kits/mordfustang_01",
+    "market_hash_name": "Music Kit | Mord Fustang, Diamonds",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 26,
+    "name": "michaelbross_01",
+    "image_inventory": "econ/music_kits/michaelbross_01",
+    "market_hash_name": "Music Kit | Michael Bross, Invasion!",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 27,
+    "name": "ianhultquist_01",
+    "image_inventory": "econ/music_kits/ianhultquist_01",
+    "market_hash_name": "Music Kit | Ian Hultquist, Lion's Mouth",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 28,
+    "name": "newbeatfund_01",
+    "image_inventory": "econ/music_kits/newbeatfund_01",
+    "market_hash_name": "Music Kit | New Beat Fund, Sponge Fingerz",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 29,
+    "name": "beartooth_01",
+    "image_inventory": "econ/music_kits/beartooth_01",
+    "market_hash_name": "Music Kit | Beartooth, Disgusting",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 30,
+    "name": "lenniemoore_01",
+    "image_inventory": "econ/music_kits/lenniemoore_01",
+    "market_hash_name": "Music Kit | Lennie Moore, Java Havana Funkaloo",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 31,
+    "name": "darude_01",
+    "image_inventory": "econ/music_kits/darude_01",
+    "market_hash_name": "Music Kit | Darude, Moments CSGO",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 39,
+    "name": "theverkkars_01",
+    "image_inventory": "econ/music_kits/theverkkars_01",
+    "market_hash_name": "Music Kit | The Verkkars, EZ4ENCE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 40,
+    "name": "halo_01",
+    "image_inventory": "econ/music_kits/halo_01",
+    "market_hash_name": "Music Kit | Halo, The Master Chief Collection",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 41,
+    "name": "scarlxrd_01",
+    "image_inventory": "econ/music_kits/scarlxrd_01",
+    "market_hash_name": "Music Kit | Scarlxrd: King, Scar",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 42,
+    "name": "hlalyx_01",
+    "image_inventory": "econ/music_kits/hlalyx_01",
+    "market_hash_name": "Music Kit | Half-Life: Alyx, Anti-Citizen",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 50,
+    "name": "amontobin_01",
+    "image_inventory": "econ/music_kits/amontobin_01",
+    "market_hash_name": "Music Kit | Amon Tobin, All for Dust",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 51,
+    "name": "hades_01",
+    "image_inventory": "econ/music_kits/hades_01",
+    "market_hash_name": "Music Kit | Darren Korb, Hades Music Kit",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 52,
+    "name": "neckdeep_02",
+    "image_inventory": "econ/music_kits/neckdeep_02",
+    "market_hash_name": "Music Kit | Neck Deep, The Lowlife Pack",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 53,
+    "name": "scarlxrd_02",
+    "image_inventory": "econ/music_kits/scarlxrd_02",
+    "market_hash_name": "Music Kit | Scarlxrd, CHAIN$AW.LXADXUT.",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 60,
+    "name": "bbnos_01",
+    "image_inventory": "econ/music_kits/bbnos_01",
+    "market_hash_name": "Music Kit | bbno$, u mad!",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 61,
+    "name": "theverkkars_02",
+    "image_inventory": "econ/music_kits/theverkkars_02",
+    "market_hash_name": "Music Kit | The Verkkars \u0026 n0thing, Flashbang Dance",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 68,
+    "name": "perfectworld_01",
+    "image_inventory": "econ/music_kits/perfectworld_01",
+    "market_hash_name": "Music Kit | Perfect World, 花脸 Hua Lian (Painted Face)",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 69,
+    "name": "denzelcurry_01",
+    "image_inventory": "econ/music_kits/denzelcurry_01",
+    "market_hash_name": "Music Kit | Denzel Curry, ULTIMATE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 32,
+    "name": "beartooth_02",
+    "image_inventory": "econ/music_kits/beartooth_02",
+    "market_hash_name": "Music Kit | Beartooth, Aggressive",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 33,
+    "name": "blitzkids_01",
+    "image_inventory": "econ/music_kits/blitzkids_01",
+    "market_hash_name": "Music Kit | Blitz Kids, The Good Youth",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 34,
+    "name": "hundredth_01",
+    "image_inventory": "econ/music_kits/hundredth_01",
+    "market_hash_name": "Music Kit | Hundredth, FREE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 35,
+    "name": "neckdeep_01",
+    "image_inventory": "econ/music_kits/neckdeep_01",
+    "market_hash_name": "Music Kit | Neck Deep, Life's Not Out To Get You",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 36,
+    "name": "roam_01",
+    "image_inventory": "econ/music_kits/roam_01",
+    "market_hash_name": "Music Kit | Roam, Backbone",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 37,
+    "name": "twinatlantic_01",
+    "image_inventory": "econ/music_kits/twinatlantic_01",
+    "market_hash_name": "Music Kit | Twin Atlantic, GLA",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 38,
+    "name": "skog_03",
+    "image_inventory": "econ/music_kits/skog_03",
+    "market_hash_name": "Music Kit | Skog, III-Arena",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 43,
+    "name": "austinwintory_02",
+    "image_inventory": "econ/music_kits/austinwintory_02",
+    "market_hash_name": "Music Kit | Austin Wintory, Bachram",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 44,
+    "name": "dren_02",
+    "image_inventory": "econ/music_kits/dren_02",
+    "market_hash_name": "Music Kit | Dren, Gunman Taco Truck",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 45,
+    "name": "danielsadowski_04",
+    "image_inventory": "econ/music_kits/danielsadowski_04",
+    "market_hash_name": "Music Kit | Daniel Sadowski, Eye of the Dragon",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 46,
+    "name": "treeadams_benbromfield_01",
+    "image_inventory": "econ/music_kits/treeadams_benbromfield_01",
+    "market_hash_name": "Music Kit | Tree Adams and Ben Bromfield, M.U.D.D. FORCE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 47,
+    "name": "timhuling_01",
+    "image_inventory": "econ/music_kits/timhuling_01",
+    "market_hash_name": "Music Kit | Tim Huling, Neo Noir",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 48,
+    "name": "sammarshall_01",
+    "image_inventory": "econ/music_kits/sammarshall_01",
+    "market_hash_name": "Music Kit | Sam Marshall, Bodacious",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 49,
+    "name": "mattlevine_01",
+    "image_inventory": "econ/music_kits/mattlevine_01",
+    "market_hash_name": "Music Kit | Matt Levine, Drifter",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 54,
+    "name": "austinwintory_03",
+    "image_inventory": "econ/music_kits/austinwintory_03",
+    "market_hash_name": "Music Kit | Austin Wintory, Mocha Petal",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 55,
+    "name": "chipzel_01",
+    "image_inventory": "econ/music_kits/chipzel_01",
+    "market_hash_name": "Music Kit | Chipzel, ~Yellow Magic~",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 56,
+    "name": "freakydna_01",
+    "image_inventory": "econ/music_kits/freakydna_01",
+    "market_hash_name": "Music Kit | Freaky DNA, Vici",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 57,
+    "name": "jesseharlin_01",
+    "image_inventory": "econ/music_kits/jesseharlin_01",
+    "market_hash_name": "Music Kit | Jesse Harlin, Astro Bellum",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 58,
+    "name": "laurashigihara_01",
+    "image_inventory": "econ/music_kits/laurashigihara_01",
+    "market_hash_name": "Music Kit | Laura Shigihara: Work Hard, Play Hard",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 59,
+    "name": "sarahschachner_01",
+    "image_inventory": "econ/music_kits/sarahschachner_01",
+    "market_hash_name": "Music Kit | Sarah Schachner, KOLIBRI",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 62,
+    "name": "3kliksphilip_01",
+    "image_inventory": "econ/music_kits/3kliksphilip_01",
+    "market_hash_name": "Music Kit | 3kliksphilip, Heading for the Source",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 63,
+    "name": "hlb_01",
+    "image_inventory": "econ/music_kits/hlb_01",
+    "market_hash_name": "Music Kit | Humanity's Last Breath, Void",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 64,
+    "name": "juelz_01",
+    "image_inventory": "econ/music_kits/juelz_01",
+    "market_hash_name": "Music Kit | Juelz, Shooters",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 65,
+    "name": "knock2_01",
+    "image_inventory": "econ/music_kits/knock2_01",
+    "market_hash_name": "Music Kit | Knock2, dashstar*",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 66,
+    "name": "meechydarko_01",
+    "image_inventory": "econ/music_kits/meechydarko_01",
+    "market_hash_name": "Music Kit | Meechy Darko, Gothic Luxury",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 67,
+    "name": "sullivanking_01",
+    "image_inventory": "econ/music_kits/sullivanking_01",
+    "market_hash_name": "Music Kit | Sullivan King, Lock Me Up",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 71,
+    "name": "dryden_01",
+    "image_inventory": "econ/music_kits/dryden_01",
+    "market_hash_name": "Music Kit | DRYDEN, Feel The Power",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 72,
+    "name": "isoxo_01",
+    "image_inventory": "econ/music_kits/isoxo_01",
+    "market_hash_name": "Music Kit | ISOxo, inhuman",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 73,
+    "name": "killscript_01",
+    "image_inventory": "econ/music_kits/killscript_01",
+    "market_hash_name": "Music Kit | KILL SCRIPT, All Night",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 74,
+    "name": "knock2_02",
+    "image_inventory": "econ/music_kits/knock2_02",
+    "market_hash_name": "Music Kit | Knock2, Make U SWEAT!",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 75,
+    "name": "radcat_01",
+    "image_inventory": "econ/music_kits/radcat_01",
+    "market_hash_name": "Music Kit | Rad Cat, Reason",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 76,
+    "name": "twerl_01",
+    "image_inventory": "econ/music_kits/twerl_01",
+    "market_hash_name": "Music Kit | TWERL and Ekko \u0026 Sidetrack, Under Bright Lights",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 78,
+    "name": "austinwintory_04",
+    "image_inventory": "econ/music_kits/austinwintory_04",
+    "market_hash_name": "Music Kit | Austin Wintory, The Devil Went Clubbing in Georgia",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 79,
+    "name": "benbromfield_01",
+    "image_inventory": "econ/music_kits/benbromfield_01",
+    "market_hash_name": "Music Kit | Ben Bromfield, Rabbit Hole",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 80,
+    "name": "danielsadowski_05",
+    "image_inventory": "econ/music_kits/danielsadowski_05",
+    "market_hash_name": "Music Kit | Daniel Sadowski, Dead Shot",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 81,
+    "name": "dren_03",
+    "image_inventory": "econ/music_kits/dren_03",
+    "market_hash_name": "Music Kit | Dren McDonald, Coffee! Kofe! Kahveh!",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 82,
+    "name": "mattlevine_02",
+    "image_inventory": "econ/music_kits/mattlevine_02",
+    "market_hash_name": "Music Kit | Matt Levine, Agency",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 83,
+    "name": "sammarshall_02",
+    "image_inventory": "econ/music_kits/sammarshall_02",
+    "market_hash_name": "Music Kit | Sam Marshall, Clutch",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 84,
+    "name": "timhuling_02",
+    "image_inventory": "econ/music_kits/timhuling_02",
+    "market_hash_name": "Music Kit | Tim Huling, Devil's Paintbrush",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 85,
+    "name": "treeadams_01",
+    "image_inventory": "econ/music_kits/treeadams_01",
+    "market_hash_name": "Music Kit | Tree Adams, Seventh Moon",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 86,
+    "name": "perfectworld_02",
+    "image_inventory": "econ/music_kits/perfectworld_02",
+    "market_hash_name": "Music Kit | Perfect World, Ay Hey",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 87,
+    "name": "adambeyer_01",
+    "image_inventory": "econ/music_kits/adambeyer_01",
+    "market_hash_name": "Music Kit | Adam Beyer, Red Room",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 88,
+    "name": "ghost_01",
+    "image_inventory": "econ/music_kits/ghost_01",
+    "market_hash_name": "Music Kit | Ghost, Skeletá",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 89,
+    "name": "health_01",
+    "image_inventory": "econ/music_kits/health_01",
+    "market_hash_name": "Music Kit | HEALTH, RAT WARS",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 90,
+    "name": "jamesandthecoldgun_01",
+    "image_inventory": "econ/music_kits/jamesandthecoldgun_01",
+    "market_hash_name": "Music Kit | James and the Cold Gun, Chewing Glass",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 91,
+    "name": "jonathanyoung_01",
+    "image_inventory": "econ/music_kits/jonathanyoung_01",
+    "market_hash_name": "Music Kit | Jonathan Young, Starship Velociraptor",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 92,
+    "name": "juelz_02",
+    "image_inventory": "econ/music_kits/juelz_02",
+    "market_hash_name": "Music Kit | Juelz, Floorspace",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 93,
+    "name": "killermike_01",
+    "image_inventory": "econ/music_kits/killermike_01",
+    "market_hash_name": "Music Kit | Killer Mike, MICHAEL",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 94,
+    "name": "pvris_01",
+    "image_inventory": "econ/music_kits/pvris_01",
+    "market_hash_name": "Music Kit | PVRIS, Evergreen",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 95,
+    "name": "selectiveresponse_01",
+    "image_inventory": "econ/music_kits/selectiveresponse_01",
+    "market_hash_name": "Music Kit | Selective Response, No Love Only Pleasure",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 96,
+    "name": "tigercub_01",
+    "image_inventory": "econ/music_kits/tigercub_01",
+    "market_hash_name": "Music Kit | Tigercub, The Perfume of Decay",
+    "item_name": "",
+    "display_model": ""
+  }
+]

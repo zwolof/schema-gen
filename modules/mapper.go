@@ -3,7 +3,6 @@ package modules
 import (
 	"fmt"
 	"go-csitems-parser/models"
-	"strings"
 )
 
 type WeaponToPaintKitMap struct {
@@ -154,52 +153,40 @@ type GloveSkinMap struct {
 	PaintKits []models.PaintKit `json:"paint_kits"`
 }
 
-// Because the schema is weird..
-var glovePrefixMap = map[string]string{
-	"studded_brokenfang_gloves": "operation10_",
-	"studded_hydra_gloves":      "bloodhound_hydra_",
-	"leather_handwraps":         "handwrap_",
-	"studded_bloodhound_gloves": "bloodhound_",
-}
-
-func GetGlovePaintKits(gloves *[]models.BaseWeapon, paint_kits *[]models.PaintKit) map[int]SchemaWeaponSkinMap {
+func GetGlovePaintKits(gloves *[]models.BaseWeapon, paint_kits *[]models.PaintKit, glove_map map[string][]string) map[int]SchemaWeaponSkinMap {
 	weapon_skin_map := make(map[int]SchemaWeaponSkinMap, 0)
 
 	for _, glove := range *gloves {
 		// Create a new glove skin map entry
 		current := SchemaWeaponSkinMap{
 			Name:          glove.Name,
-			StickerAmount: 0, // Knives don't have stickers
+			StickerAmount: 0,
 			Type:          "glove",
 			Paints:        make(map[int]models.SchemaWeaponPaintKitMap),
 		}
 
-		for _, paint_kit := range *paint_kits {
-			// We need to remove "_gloves" from the item name
-			var newGlovePrefix string
+		glove_map_value, ok := glove_map[glove.ClassName]
+		if !ok {
+			continue
+		}
 
-			value, ok := glovePrefixMap[glove.ClassName]
-			if !ok {
-				newGlovePrefix = strings.Replace(glove.ClassName, "_gloves", "", -1)
-			} else {
-				newGlovePrefix = value
-			}
+		for _, pk_name := range glove_map_value {
+			for _, paint_kit := range *paint_kits {
+				if paint_kit.Name != pk_name {
+					continue
+				}
 
-			// if the paintkit name starts with the glove name, we can assume it's a paint kit for that glove
-			if !strings.HasPrefix(paint_kit.Name, newGlovePrefix) {
-				continue
-			}
-
-			// Add the paint kit to the current glove skin map
-			current.Paints[paint_kit.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
-				DefinitionIndex: paint_kit.DefinitionIndex,
-				Float:           paint_kit.Wear,
-				Rarity:          paint_kit.Rarity,
-				Image:           fmt.Sprintf("%s_%s", glove.ClassName, paint_kit.Name),
-				Name:            paint_kit.MarketHashName,
-				ItemSetId:       paint_kit.ItemSetId,
-				Souvenir:        false, // Gloves can NOT be Souvenir
-				StatTrak:        false, // Gloves can NOT be StatTrak
+				// Add the paint kit to the current glove skin map
+				current.Paints[paint_kit.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
+					DefinitionIndex: paint_kit.DefinitionIndex,
+					Float:           paint_kit.Wear,
+					Rarity:          paint_kit.Rarity,
+					Image:           fmt.Sprintf("%s_%s", glove.ClassName, paint_kit.Name),
+					Name:            paint_kit.MarketHashName,
+					ItemSetId:       paint_kit.ItemSetId,
+					Souvenir:        false, // Gloves can NOT be Souvenir
+					StatTrak:        false, // Gloves can NOT be StatTrak
+				}
 			}
 		}
 
