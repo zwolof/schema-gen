@@ -135,13 +135,23 @@ func LoadLanguage(vdf *vdf.KeyValue) (*Translator, string) {
 	return translator, lang_name
 }
 
+// keyAliases maps known broken items_game key names to their correct translation keys.
+// These exist where Valve's items_game.txt references a translation token that doesn't
+// match the actual key present in the language files.
+var keyAliases = map[string]string{
+	"stickerkit_dhw2014_dignitas_gold": "stickerkit_dhw2014_teamdignitas_gold",
+}
+
 func (t *Translator) GetValueByKey(key string) (string, error) {
-	// Remove the '#' character from the key if it exists
 	key = strings.Replace(key, "#", "", 1)
 	key = strings.ToLower(key)
 
 	if t == nil {
 		return key, errors.New("translator is nil")
+	}
+
+	if alias, ok := keyAliases[key]; ok {
+		key = alias
 	}
 
 	value, ok := (*t.Tokens)[key]
