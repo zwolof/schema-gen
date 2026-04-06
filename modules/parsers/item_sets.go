@@ -13,6 +13,8 @@ import (
 	"github.com/rs/zerolog"
 )
 
+var itemSetKeyRegexp = regexp.MustCompile(`^\[(.+?)\](.+)$`)
+
 func ParseItemSets(
 	ctx context.Context,
 	ig *models.ItemsGame,
@@ -23,7 +25,6 @@ func ParseItemSets(
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing item sets...")
 
 	item_sets, err := ig.Get("item_sets")
 
@@ -81,7 +82,6 @@ func ParseItemSets(
 		sets = append(sets, current)
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' item sets in %s", len(sets), duration)
 
@@ -101,11 +101,8 @@ func GetItemSetAgents(kv *vdf.KeyValue) []string {
 func GetItemSetPaintKits(kv *vdf.KeyValue) []models.ItemSetItem {
 	skins := make([]models.ItemSetItem, 0)
 
-	// we have "[cu_tec9_asiimov]weapon_tec9" and we need to split it into "cu_tec9_asiimov" and "weapon_tec9"
-	r := regexp.MustCompile(`^\[(.+?)\](.+)$`)
-
 	for _, skin := range kv.GetChilds() {
-		res := r.FindStringSubmatch(skin.Key)
+		res := itemSetKeyRegexp.FindStringSubmatch(skin.Key)
 
 		if len(res) < 3 {
 			continue // skip if we can't match the pattern

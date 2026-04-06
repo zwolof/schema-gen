@@ -40,5 +40,5 @@ const (
 	ItemSetTypeUnknown   ItemSetType = -1
 	ItemSetTypePaintKits ItemSetType = 0
 	ItemSetTypeAgents    ItemSetType = 1
-	ItemSetTypeStickers  ItemSetType = 1
+	ItemSetTypeStickers  ItemSetType = 2
 )

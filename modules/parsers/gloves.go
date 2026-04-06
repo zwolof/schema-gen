@@ -29,7 +29,6 @@ func ParseGloves(ctx context.Context, ig *models.ItemsGame, t *modules.Translato
 		prefab, _ := w.GetString("prefab")
 
 		if prefab != "hands_paintable" {
-			// Skip non-glove items
 			continue
 		}
 
@@ -37,21 +36,16 @@ func ParseGloves(ctx context.Context, ig *models.ItemsGame, t *modules.Translato
 
 		classname, _ := w.GetString("name")
 		item_name, _ := w.GetString("item_name")
-		// item_description, _ := w.GetString("item_description")
 
 		current := models.BaseWeapon{
 			DefinitionIndex: definition_index,
 			ClassName:       classname,
 			Name:            modules.GenerateMarketHashName(t, item_name, nil, "glove"),
-			// ItemName:        item_name,
-			// ItemDescription: item_description,
-			// Prefab:          prefab,
 		}
 
 		gloves = append(gloves, current)
 	}
 
-	// Save gloves to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' gloves in %s", len(gloves), duration)
 

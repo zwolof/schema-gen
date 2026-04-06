@@ -23,7 +23,7 @@ func ParsePaintKits(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 		return nil
 	}
 
-	raritymap := GetPaintKitRarityStringMap(ig)
+	raritymap := GetPaintKitRarityStringMap(ctx, ig)
 
 	if raritymap == nil {
 		logger.Error().Msg("Failed to get paint_kits_rarity from items_game.txt")
@@ -44,10 +44,6 @@ func ParsePaintKits(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 		wear_remap_max, _ := r.GetFloat32("wear_remap_max")
 		description_tag, _ := r.GetString("description_tag")
 
-		// use_legacy_model, _ := r.GetBool("use_legacy_model")
-		// description_string, _ := r.GetString("description_string")
-		// style, _ := r.GetInt("style")
-
 		float_ranges := models.PaintKitWearRange{
 			Min: wear_remap_min,
 			Max: wear_remap_max,
@@ -60,7 +56,6 @@ func ParsePaintKits(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 			MarketHashName:  modules.GenerateMarketHashName(t, description_tag, &name, "paint_kit"),
 		}
 
-		// Get the skin rarity from the paint_kits_rarity map
 		val, exists := raritymap[current.Name]
 		if !exists {
 			logger.Warn().Msgf("No rarity found for paint kit '%s' (definition index: %d)", current.Name, current.DefinitionIndex)
@@ -71,16 +66,15 @@ func ParsePaintKits(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 		items = append(items, current)
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' paintkits in %s", len(items), duration)
 
 	return items
 }
 
-func GetPaintKitRarityStringMap(ig *models.ItemsGame) map[string]string {
+func GetPaintKitRarityStringMap(ctx context.Context, ig *models.ItemsGame) map[string]string {
 	paint_kits_rarity, err := ig.Get("paint_kits_rarity")
-	logger := modules.GetLogger()
+	logger := zerolog.Ctx(ctx)
 
 	if err != nil {
 		logger.Error().Err(err).Msg("Failed to get paint_kits_rarity from items_game.txt")

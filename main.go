@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"os"
+	"sync"
 	"time"
 
 	"go-csitems-parser/models"
@@ -35,87 +36,111 @@ func main() {
 		Timestamp().
 		Logger()
 
-	// Set the global logger to use the console writer
 	itemsGame := modules.LoadItemsGame("./files/items_game.txt")
-
 	if itemsGame == nil {
 		logger.Error().Msg("Failed to load items_game.txt, please check the file path and format.")
 		panic("items_game.txt is nil, exiting...")
-	} else {
-		logger.Info().Msgf("Successfully loaded items_game.txt")
 	}
+	logger.Info().Msg("Successfully loaded items_game.txt")
 
-	// Attach the Logger to the context.Context
-	ctx := context.Background()
-	ctx = logger.WithContext(ctx)
+	ctx := logger.WithContext(context.Background())
 
 	factory := modules.LoadAllTranslations(ctx, "./files/translations")
-
 	if factory == nil {
 		logger.Error().Msg("Failed to load translations")
 		return
 	}
 
-	translator := factory.GetTranslator("English")
+	t := factory.GetTranslator("English")
 	start := time.Now()
 
-	player_agents := parsers.ParseAgents(ctx, itemsGame, translator)
-	souvenir_packages := parsers.ParseSouvenirPackages(ctx, itemsGame, translator)
-	musicKits := parsers.ParseMusicKits(ctx, itemsGame, translator)
-	collectibles := parsers.ParseCollectibles(ctx, itemsGame, translator)
-	weapon_cases := parsers.ParseWeaponCases(ctx, itemsGame, translator)
-	rarities := parsers.ParseRarities(ctx, itemsGame, translator)
-	keychains := parsers.ParseKeychains(ctx, itemsGame, translator)
-	weapons := parsers.ParseWeapons(ctx, itemsGame, translator)
-	gloves := parsers.ParseGloves(ctx, itemsGame, translator)
-	knives := parsers.ParseKnives(ctx, itemsGame, translator)
-	highlight_reels := parsers.ParseHighlightReels(ctx, itemsGame, translator)
+	// --- Phase 1: independent parsers run concurrently ---
+	var (
+		player_agents     []models.PlayerAgent
+		souvenir_packages []models.SouvenirPackage
+		musicKits         []models.MusicKit
+		collectibles      []models.Collectible
+		weapon_cases      []models.WeaponCase
+		rarities          []models.Rarity
+		keychains         []models.Keychain
+		weapons           []models.BaseWeapon
+		gloves            []models.BaseWeapon
+		knives            []models.BaseWeapon
+		highlight_reels   []models.HighlightReel
+		sticker_capsules  []models.StickerCapsule
+		misc_capsules     []models.StickerCapsule
+		sticker_kits      []models.StickerKit
+		paint_kits        []models.PaintKit
+	)
 
-	sticker_capsules := parsers.ParseStickerCapsules(ctx, itemsGame, translator)
+	var wg sync.WaitGroup
+	wg.Add(14)
+	go func() { defer wg.Done(); player_agents = parsers.ParseAgents(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); souvenir_packages = parsers.ParseSouvenirPackages(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); musicKits = parsers.ParseMusicKits(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); collectibles = parsers.ParseCollectibles(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); weapon_cases = parsers.ParseWeaponCases(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); rarities = parsers.ParseRarities(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); keychains = parsers.ParseKeychains(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); weapons = parsers.ParseWeapons(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); gloves = parsers.ParseGloves(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); knives = parsers.ParseKnives(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); highlight_reels = parsers.ParseHighlightReels(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); sticker_capsules = parsers.ParseStickerCapsules(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); misc_capsules = parsers.ParseSelfOpeningCrates(ctx, itemsGame, t) }()
+	go func() { defer wg.Done(); paint_kits = parsers.ParsePaintKits(ctx, itemsGame, t) }()
+	wg.Wait()
 
-	misc_capsules := parsers.ParseSelfOpeningCrates(ctx, itemsGame, translator)
-	sticker_kits := parsers.ParseStickerKits(ctx, itemsGame, translator)
-	custom_stickers := parsers.ParseCustomStickers(ctx, itemsGame, sticker_kits, translator)
+	// sticker_kits must finish before custom_stickers
+	sticker_kits = parsers.ParseStickerKits(ctx, itemsGame, t)
+	custom_stickers := parsers.ParseCustomStickers(ctx, itemsGame, sticker_kits, t)
 
-	// Paint kits are tricky
-	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, translator)
-	paint_kits := parsers.ParsePaintKits(ctx, itemsGame, translator)
+	// item_sets depends on souvenir_packages and weapon_cases
+	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, t)
 
-	ExportToJsonFile(paint_kits, "paint_kits")
-	ExportToJsonFile(weapons, "weapons")
-	ExportToJsonFile(sticker_capsules, "sticker_capsules")
-	ExportToJsonFile(custom_stickers, "custom_stickers")
-	ExportToJsonFile(sticker_kits, "sticker_kits")
-	ExportToJsonFile(misc_capsules, "misc_capsules")
+	logger.Debug().Msgf("[go-items] Parsed all items in %s", time.Since(start))
 
-	// Special parsing for collections
-	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, translator)
-	// Now we need to map whether or not an item has a souvenir variant or not, same for stattrak
-
-	duration := time.Since(start)
-	logger.Debug().Msgf("[go-items] Parsed all items in %s", duration)
-
-	// Some knife stuff
+	// --- Phase 2: mapping (depends on parsed results) ---
 	knife_skin_map := modules.LoadKnifeSkinsMap("./files/knife_skins.json")
 	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map)
 	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets)
 	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map)
 
-	// Create the final item schema
-	ExportToJsonFile(knife_skins, "knife_skins")
-	ExportToJsonFile(weapon_skins, "weapon_skins")
-	ExportToJsonFile(glove_skins, "glove_skins")
-	ExportToJsonFile(collections, "collections")
-	ExportToJsonFile(rarities, "rarities")
-	ExportToJsonFile(keychains, "keychains")
-	ExportToJsonFile(player_agents, "agents")
-	ExportToJsonFile(musicKits, "music_kits")
-	ExportToJsonFile(collectibles, "collectibles")
-	ExportToJsonFile(souvenir_packages, "souvenir_packages")
-	ExportToJsonFile(weapon_cases, "weapon_cases")
-	ExportToJsonFile(highlight_reels, "highlight_reels")
-	
-	// keep alive
+	// Paint kits need to be exported after item_sets are resolved
+	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, t)
+
+	// --- Phase 3: export concurrently ---
+	exports := []struct {
+		v    any
+		name string
+	}{
+		{paint_kits, "paint_kits"},
+		{weapons, "weapons"},
+		{sticker_capsules, "sticker_capsules"},
+		{custom_stickers, "custom_stickers"},
+		{sticker_kits, "sticker_kits"},
+		{misc_capsules, "misc_capsules"},
+		{knife_skins, "knife_skins"},
+		{weapon_skins, "weapon_skins"},
+		{glove_skins, "glove_skins"},
+		{collections, "collections"},
+		{rarities, "rarities"},
+		{keychains, "keychains"},
+		{player_agents, "agents"},
+		{musicKits, "music_kits"},
+		{collectibles, "collectibles"},
+		{souvenir_packages, "souvenir_packages"},
+		{weapon_cases, "weapon_cases"},
+		{highlight_reels, "highlight_reels"},
+	}
+	var exportWg sync.WaitGroup
+	exportWg.Add(len(exports))
+	for _, e := range exports {
+		e := e
+		go func() { defer exportWg.Done(); ExportToJsonFile(e.v, e.name) }()
+	}
+	exportWg.Wait()
+
 	fmt.Println("Press Enter to exit...")
 	fmt.Scanln()
 }

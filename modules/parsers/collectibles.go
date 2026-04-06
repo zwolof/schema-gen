@@ -9,13 +9,14 @@ import (
 
 	"go-csitems-parser/models"
 	"go-csitems-parser/modules"
+
+	"github.com/rs/zerolog"
 )
 
 func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.Collectible {
-	logger := modules.GetLogger()
+	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing collectibles...")
 
 	items, err := ig.Get("items")
 
@@ -26,7 +27,6 @@ func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Tra
 
 	var collectibles []models.Collectible
 
-	// Iterate through all items in the "items" section
 	for _, item := range items.GetChilds() {
 		item_name, _ := item.GetString("item_name")
 
@@ -43,34 +43,14 @@ func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Tra
 			continue // Skip if no rarity is defined
 		}
 
-		// tournament_event_id, _ := modules.GetTournamentEventId(item)
-		// collectible_type := GetCollectibleType(image_inventory, prefab, item_name, tournament_event_id)
-
-		// item_description, _ := item.GetString("item_description")
-		// attributes := modules.GetSubKey(item, "attributes")
-
-		// Get subkeys for attributes
-		// pedestal_display_model, _ := attributes.GetString("pedestal display model")
-
-		// Get the pedestal display model from attributes
-		// Determine the type of collectible
-
 		collectibles = append(collectibles, models.Collectible{
 			DefinitionIndex: definition_index,
 			MarketHashName:  modules.GenerateMarketHashName(t, item_name, nil, "collectible"),
 			ImageInventory:  image_inventory,
 			Rarity:          rarity,
-			// Type:              collectible_type,
-			// TournamentEventId: tournament_event_id,
-
-			// Prefab:            prefab,
-			// Name:              item_name,
-			// Description:       item_description,
-			// Model:             pedestal_display_model,
 		})
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' collectibles in %s", len(collectibles), duration)
 

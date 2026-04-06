@@ -23,13 +23,16 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing music kits...")
 
 	prefabs, err := ig.Get("prefabs")
-	game_info, err := ig.Get("game_info")
-
 	if err != nil {
 		logger.Error().Err(err).Msg("Failed to get prefabs")
+		return nil
+	}
+
+	game_info, err := ig.Get("game_info")
+	if err != nil {
+		logger.Error().Err(err).Msg("Failed to get game_info")
 		return nil
 	}
 
@@ -38,7 +41,6 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 	for _, w := range prefabs.GetChilds() {
 
 		if !strings.HasPrefix(w.Key, "weapon_") || !strings.HasSuffix(w.Key, "_prefab") {
-			// Skip non-weapon prefabs
 			continue
 		}
 
@@ -50,9 +52,7 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 			continue
 		}
 		_, err := w.Get("paint_data")
-
 		if err != nil {
-			// Skip if no paint data is available
 			continue
 		}
 
@@ -71,13 +71,12 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 			Name:            translated_name,
 			ClassName:       item_class,
 			ImageInventory:  image_inventory,
-			NumStickers:     max_num_stickers, // Default to 0, will be updated later
+			NumStickers:     max_num_stickers,
 		}
 
 		weapons = append(weapons, current)
 	}
 
-	// Save weapons to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' weapons in %s", len(weapons), duration)
 
@@ -86,9 +85,8 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 
 func GetBaseWeaponDefinitionIndex(class string, ig *models.ItemsGame) int {
 	items, err := ig.Get("items")
-
 	if err != nil {
-		return -1 // Error retrieving prefabs
+		return -1
 	}
 
 	for _, w := range items.GetChilds() {

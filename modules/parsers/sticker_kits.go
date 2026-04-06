@@ -8,13 +8,14 @@ import (
 
 	"go-csitems-parser/models"
 	"go-csitems-parser/modules"
+
+	"github.com/rs/zerolog"
 )
 
 func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.StickerKit {
-	logger := modules.GetLogger()
+	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing sticker kits...")
 
 	sticker_kits, err := ig.Get("sticker_kits")
 
@@ -25,7 +26,6 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 
 	var items []models.StickerKit
 
-	// Iterate through all items in the "items" section
 	for _, item := range sticker_kits.GetChilds() {
 		definition_index, _ := strconv.Atoi(item.Key)
 		item_name, _ := item.GetString("item_name")
@@ -44,7 +44,6 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 			continue // Skip non-sticker kit items
 		}
 
-		// description_string, _ := item.GetString("description_string")
 		sticker_material, _ := item.GetString("sticker_material")
 
 		item_rarity, _ := item.GetString("item_rarity")
@@ -52,7 +51,6 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 		tournament_team_id, _ := item.GetInt("tournament_team_id")
 		tournament_player_id, _ := item.GetInt("tournament_player_id")
 
-		// Get sticker effect, dunno how accurate this is, but it works for now
 		sticker_effect := GetStickerEffect(sticker_material)
 		sticker_type := GetStickerType(
 			tournament_player_id,
@@ -74,7 +72,6 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 		})
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' sticker kits in %s", len(items), duration)
 

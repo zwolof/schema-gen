@@ -1424,7 +1424,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_inferno_2",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5121,
@@ -1432,7 +1435,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_mirage_2021",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5122,
@@ -1440,7 +1446,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_anubis",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5123,
@@ -1448,7 +1457,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_dust_2_2021",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5124,
@@ -1456,7 +1468,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_op10_ancient",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5125,
@@ -1464,7 +1479,10 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_nuke_2",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   },
   {
     "definition_index": 5126,
@@ -1472,6 +1490,9 @@
     "image_inventory": "econ/tournaments/aus2025/crate_aus2025_promo_de_train",
     "keychain_set_id": "kc_aus2025",
     "item_set_id": "set_train_2025",
-    "tournament": null
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
   }
 ]

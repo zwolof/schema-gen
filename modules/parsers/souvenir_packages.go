@@ -22,7 +22,6 @@ func ParseSouvenirPackages(ctx context.Context, ig *models.ItemsGame, t *modules
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing music kits...")
 
 	items, err := ig.Get("items")
 
@@ -37,7 +36,6 @@ func ParseSouvenirPackages(ctx context.Context, ig *models.ItemsGame, t *modules
 		prefab, _ := c.GetString("prefab")
 
 		if !slices.Contains(valid_prefabs, prefab) {
-			// Skip non-souvenir packages
 			continue
 		}
 
@@ -49,10 +47,6 @@ func ParseSouvenirPackages(ctx context.Context, ig *models.ItemsGame, t *modules
 		tournament_event_id, _ := modules.GetTournamentEventId(c)
 
 		name, _ := c.GetString("name")
-		// Add if you want those for cs2wiki
-		// name, _ := c.GetString("name")
-		// ItemName:          item_name,
-		// Name:              name,
 
 		current := models.SouvenirPackage{
 			DefinitionIndex: definition_index,
@@ -66,7 +60,6 @@ func ParseSouvenirPackages(ctx context.Context, ig *models.ItemsGame, t *modules
 		souvenir_packages = append(souvenir_packages, current)
 	}
 
-	// Save knives to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' souvenir packages in %s", len(souvenir_packages), duration)
 
@@ -77,8 +70,6 @@ func GetKeychainSetId(ig *vdf.KeyValue, name string) *string {
 	var kc_capsule_id string
 
 	for _, item := range ig.GetChilds() {
-
-		// Skip any other keys that are not souvenir packages
 		if item.Key != name {
 			continue
 		}

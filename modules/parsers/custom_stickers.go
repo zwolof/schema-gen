@@ -4,13 +4,12 @@ import (
 	"context"
 	"fmt"
 	"slices"
-	"strings"
 	"time"
 
 	"go-csitems-parser/models"
 	"go-csitems-parser/modules"
 
-	"github.com/baldurstod/vdf"
+	"github.com/rs/zerolog"
 )
 
 type StickerTypeParams struct {
@@ -41,7 +40,7 @@ var group_id_to_sub_id = map[int]string{
 }
 
 func ParseCustomStickers(ctx context.Context, ig *models.ItemsGame, sticker_kits []models.StickerKit, t *modules.Translator) []models.CustomStickers {
-	logger := modules.GetLogger()
+	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
 
@@ -70,8 +69,8 @@ func ParseCustomStickers(ctx context.Context, ig *models.ItemsGame, sticker_kits
 			}
 
 			// We need to get the sticker type, and based on that, we can process it
-			current_type := modules.GetStickerType(0, tournament_id, 0)
-			current_effect := modules.GetStickerEffect(sticker_kit.StickerMaterial)
+			current_type := GetStickerType(0, tournament_id, 0)
+			current_effect := GetStickerEffect(sticker_kit.StickerMaterial)
 
 			// Get the count of stickers for this event and type
 			count := GetStickerCountByTournamentId(&sticker_kits, tournament_id, current_effect, false)
@@ -108,8 +107,8 @@ func ParseCustomStickers(ctx context.Context, ig *models.ItemsGame, sticker_kits
 			}
 
 			// We need to get the sticker type, and based on that, we can process it
-			current_type := modules.GetStickerType(0, 0, team_id)
-			current_effect := modules.GetStickerEffect(sticker_kit.StickerMaterial)
+			current_type := GetStickerType(0, 0, team_id)
+			current_effect := GetStickerEffect(sticker_kit.StickerMaterial)
 
 			// Get the count of stickers for this event and type
 			count := GetStickerCountByTeamId(&sticker_kits, team_id, current_effect, false)
@@ -146,8 +145,8 @@ func ParseCustomStickers(ctx context.Context, ig *models.ItemsGame, sticker_kits
 			}
 
 			// We need to get the sticker type, and based on that, we can process it
-			current_type := modules.GetStickerType(player_id, 0, 0)
-			current_effect := modules.GetStickerEffect(sticker_kit.StickerMaterial)
+			current_type := GetStickerType(player_id, 0, 0)
+			current_effect := GetStickerEffect(sticker_kit.StickerMaterial)
 
 			// Get the count of stickers for this event and type
 			count := GetStickerCountByPlayerId(&sticker_kits, player_id, current_effect, false)
@@ -288,171 +287,50 @@ var sticker_type_id_suffix = map[string]string{
 }
 
 func GenerateCustomStickerId(team_id int, _type string, effect *string, sticker_type *string) string {
-	// Fallback if effect or type is nil
 	if effect == nil || sticker_type == nil {
 		return fmt.Sprintf("C%dA%s", team_id, _type)
 	}
-
-	// Default format for custom sticker ID
 	return fmt.Sprintf("C%d%s%s%s", team_id, sticker_effect_id_suffix[*effect], sticker_type_id_suffix[*sticker_type], _type)
-}
-
-func GetStickerKitsBySubId(sticker_kits *vdf.KeyValue, sub_key string, sub_id int) []*vdf.KeyValue {
-	var items = make([]*vdf.KeyValue, 0)
-
-	for _, cs := range sticker_kits.GetChilds() {
-		subkey_value, _ := cs.GetInt(sub_key)
-		sticker_material, _ := cs.GetString("sticker_material")
-		name, _ := cs.GetString("name")
-
-		if strings.Contains(name, "_graffiti") || strings.Contains(sticker_material, "patch_") {
-			continue // Skip graffitis and patches
-		}
-
-		if strings.Contains(sticker_material, "_graffiti") || strings.Contains(sticker_material, "patch_") {
-			continue // Skip graffiti and patches
-		}
-
-		// Skip if the subkey value does not match
-		if subkey_value != sub_id {
-			continue
-		}
-
-		items = append(items, cs)
-	}
-
-	return items
-}
-
-func GetStickerKitsByPlayerId(sticker_kits *vdf.KeyValue, player_id int) []*vdf.KeyValue {
-	var items = make([]*vdf.KeyValue, 0)
-
-	for _, cs := range sticker_kits.GetChilds() {
-		tournament_player_id, _ := cs.GetInt("tournament_player_id")
-		sticker_material, _ := cs.GetString("sticker_material")
-
-		if strings.Contains(sticker_material, "_graffiti") || strings.Contains(sticker_material, "patch_") {
-			continue // Skip graffiti and patches
-		}
-
-		// Skip if the player ID does not match
-		if tournament_player_id != player_id {
-			continue
-		}
-
-		items = append(items, cs)
-	}
-
-	return items
 }
 
 func GetStickerCountByPlayerId(sticker_kits *[]models.StickerKit, player_id int, sticker_effect string, ignore_effect bool) int {
 	var count int
-
 	for _, cs := range *sticker_kits {
 		if cs.Player == nil {
-			continue // Skip if the sticker kit does not have a player
+			continue
 		}
-
-		// Get the tournament player ID
-		if cs.Player.Id != player_id || cs.Effect != sticker_effect && !ignore_effect {
-			continue // Skip if the player ID does not match
+		if cs.Player.Id != player_id || (!ignore_effect && cs.Effect != sticker_effect) {
+			continue
 		}
 		count++
 	}
-
 	return count
 }
 
 func GetStickerCountByTeamId(sticker_kits *[]models.StickerKit, team_id int, sticker_effect string, ignore_effect bool) int {
 	var count int
-
 	for _, cs := range *sticker_kits {
 		if cs.Team == nil {
-			continue // Skip if the sticker kit does not have a team
+			continue
 		}
-
-		// Get the tournament team ID
-		if cs.Team.Id != team_id || cs.Effect != sticker_effect && !ignore_effect {
-			continue // Skip if the team ID does not match
+		if cs.Team.Id != team_id || (!ignore_effect && cs.Effect != sticker_effect) {
+			continue
 		}
 		count++
 	}
-
 	return count
 }
 
 func GetStickerCountByTournamentId(sticker_kits *[]models.StickerKit, tournament_id int, sticker_effect string, ignore_effect bool) int {
 	var count int
-
 	for _, cs := range *sticker_kits {
 		if cs.Tournament == nil {
-			continue // Skip if the sticker kit does not have a tournament
+			continue
 		}
-
-		// Get the tournament ID
-		if cs.Tournament.Id != tournament_id || cs.Effect != sticker_effect && !ignore_effect {
-			continue // Skip if the tournament ID does not match
+		if cs.Tournament.Id != tournament_id || (!ignore_effect && cs.Effect != sticker_effect) {
+			continue
 		}
 		count++
 	}
-
 	return count
-}
-
-func GetCountByParameters(sticker_kits *[]models.StickerKit, subkey string, custom_id int, sticker_effect string) (int, int) {
-	var count int
-	var total int
-
-	for _, cs := range *sticker_kits {
-		switch subkey {
-		case "team":
-			if cs.Team == nil {
-				continue // Skip if the sticker kit does not have a team
-			}
-			tournament_team_id := cs.Team.Id
-
-			if cs.Player != nil {
-				continue // Skip if tournament_player_id is present, we only want team stickers
-			}
-
-			if tournament_team_id == custom_id && sticker_effect != "" && cs.Effect == sticker_effect {
-				count++
-			}
-			if tournament_team_id == custom_id {
-				total++
-			}
-		case "player":
-			if cs.Player == nil {
-				continue // Skip if the sticker kit does not have a player
-			}
-			tournament_player_id := cs.Player.Id
-
-			if tournament_player_id == custom_id && sticker_effect != "" && cs.Effect == sticker_effect {
-				count++
-			}
-			if tournament_player_id == custom_id {
-				total++
-			}
-		case "event":
-			if cs.Tournament == nil {
-				continue // Skip if the sticker kit does not have a tournament
-			}
-			tournament_event_id := cs.Tournament.Id
-
-			if tournament_event_id == custom_id && sticker_effect != "" && cs.Effect == sticker_effect {
-				count++
-			}
-
-			if tournament_event_id == custom_id {
-				total++
-			}
-		default:
-			fmt.Printf("Unknown subkey: %s\n", subkey)
-			// Handle unknown subkeys gracefully
-			return 0, 0 // Return zero counts for unknown subkeys
-		}
-	}
-
-	return count, total
 }

@@ -138,12 +138,16 @@ func LoadLanguage(vdf *vdf.KeyValue) (*Translator, string) {
 func (t *Translator) GetValueByKey(key string) (string, error) {
 	// Remove the '#' character from the key if it exists
 	key = strings.Replace(key, "#", "", 1)
-	key = strings.ToLower(key) // Ensure the key is in lowercase
+	key = strings.ToLower(key)
 
 	if t == nil {
-		fmt.Println("Translator is nil")
-		return key, errors.New("key not found")
+		return key, errors.New("translator is nil")
 	}
 
-	return (*t.Tokens)[key], nil
+	value, ok := (*t.Tokens)[key]
+	if !ok || value == "" {
+		return key, fmt.Errorf("key not found: %s", key)
+	}
+
+	return value, nil
 }

@@ -271,9 +271,3 @@ type SchemaWeaponPaintKitMap struct {
 	StatTrak        bool              `json:"stattrak"`
 }
 
-type SchemaWeaponMap struct {
-	MarketHashName string                          `json:"market_hash_name"`
-	NumStickers    int                             `json:"sticker_count"`
-	Type           string                          `json:"type"`
-	Paints         map[int]SchemaWeaponPaintKitMap `json:"paints"`
-}

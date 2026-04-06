@@ -1,37 +1,13 @@
 package modules
 
 import (
-	"context"
 	"fmt"
 	"go-csitems-parser/models"
 	"strconv"
 	"strings"
 
 	"github.com/baldurstod/vdf"
-	"github.com/rs/zerolog"
 )
-
-func GetLogger() *zerolog.Logger {
-	logger := zerolog.Ctx(context.Background())
-
-	return logger
-}
-
-func GetStringMapKeySlice(m map[string]string) []string {
-	keys := make([]string, 0, len(m))
-	for k := range m {
-		keys = append(keys, k)
-	}
-	return keys
-}
-
-func GetStringMapValueSlice(m map[string]string) []string {
-	values := make([]string, 0, len(m))
-	for _, v := range m {
-		values = append(values, v)
-	}
-	return values
-}
 
 func GetTournamentEventId(item *vdf.KeyValue) (int, error) {
 	attributes, err := item.Get("attributes")
@@ -348,35 +324,4 @@ func GenerateMarketHashName(t *Translator, name string, extra *string, item_type
 	}
 
 	return value
-}
-
-// Performance might be bad, but it is a one-time operation once every few months so its fine
-func AddPaintKitMappings(
-	item_sets *[]models.ItemSet,
-	paint_kits *[]models.PaintKit,
-) []models.PaintKit {
-	// create a clone of paint_kits to avoid modifying the original slice
-	paint_kits_clone := make([]models.PaintKit, len(*paint_kits))
-	copy(paint_kits_clone, *paint_kits)
-
-	for _, set := range *item_sets {
-
-		// If the item set has a crate, we assume it can be StatTrak
-		items_can_be_stattrak := set.HasCrate
-
-		// If the item set has a souvenir, we assume it can be Souvenir
-		items_can_be_souvenir := set.HasSouvenir
-
-		for _, item := range set.Items {
-			for _, paint_kit := range paint_kits_clone {
-				if paint_kit.Name == item.PaintKitName {
-
-					paint_kit.StatTrak = items_can_be_stattrak
-					paint_kit.Souvenir = items_can_be_souvenir
-				}
-			}
-		}
-	}
-
-	return paint_kits_clone
 }

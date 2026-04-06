@@ -14,6 +14,8 @@ import (
 	"github.com/rs/zerolog"
 )
 
+var lootListItemRegexp = regexp.MustCompile(`^\[(.+?)\](.+)$`)
+
 // NOTE: UNFINISHED
 func ParseClientLootLists(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.ClientLootList {
 	logger := zerolog.Ctx(ctx)
@@ -85,7 +87,6 @@ func ParseClientLootLists(ctx context.Context, ig *models.ItemsGame, t *modules.
 		buffer = append(buffer, current)
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' loot lists in %s", len(buffer), duration)
 
@@ -143,19 +144,13 @@ func GetLootListRarity(name string) string {
 func GetLootListItems(kv *vdf.KeyValue, loot_list string) []models.LootListItem {
 	items := make([]models.LootListItem, 0)
 
-	// we have "[cu_tec9_asiimov]weapon_tec9" and we need to split it into "cu_tec9_asiimov" and "weapon_tec9"
-	r := regexp.MustCompile(`^\[(.+?)\](.+)$`)
 	list, err := kv.Get(loot_list)
-
 	if err != nil {
-		// fmt.Println("Error getting loot list items:", err)
 		return items
 	}
 
 	for _, v := range list.GetChilds() {
-		// fmt.Println("Processing loot list item:", v.Key)
-
-		res := r.FindStringSubmatch(v.Key)
+		res := lootListItemRegexp.FindStringSubmatch(v.Key)
 
 		if len(res) < 3 {
 			continue

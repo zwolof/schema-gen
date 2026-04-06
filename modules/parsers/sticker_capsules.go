@@ -21,7 +21,6 @@ func ParseStickerCapsules(ctx context.Context, ig *models.ItemsGame, t *modules.
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing weapon cases...")
 
 	items, err := ig.Get("items")
 
@@ -32,29 +31,23 @@ func ParseStickerCapsules(ctx context.Context, ig *models.ItemsGame, t *modules.
 
 	var sticker_capsules []models.StickerCapsule
 
-	// Iterate through all items in the "items" section
 	for _, item := range items.GetChilds() {
-		// prefab, _ := item.GetString("prefab")
-
 		definition_index, _ := strconv.Atoi(item.Key)
 		item_name, _ := item.GetString("item_name")
 		name, _ := item.GetString("name")
 		image_inventory, _ := item.GetString("image_inventory")
 		item_description, _ := item.GetString("item_description")
 
-		// So for whatever reason, we have to use the name to validate the sticker capsule
 		if !IsValidStickerCapsule(name) {
 			continue
 		}
 
-		// Get the item set ID from the item tags
 		item_set := modules.GetSupplyCrateSeries(item, ig)
 
 		if item_set == nil {
 			continue
 		}
 
-		// Create the sticker capsule model
 		var current = models.StickerCapsule{
 			DefinitionIndex: definition_index,
 			Name:            name,
@@ -67,7 +60,6 @@ func ParseStickerCapsules(ctx context.Context, ig *models.ItemsGame, t *modules.
 		sticker_capsules = append(sticker_capsules, current)
 	}
 
-	// Save music kits to the database
 	duration := time.Since(start)
 	logger.Info().Msgf("Parsed '%d' sticker capsules in %s", len(sticker_capsules), duration)
 

@@ -10,14 +10,14 @@
     "key": "common",
     "loc_rarity": "Base Grade",
     "loc_weapon": "Consumer Grade",
-    "loc_character": "",
+    "loc_character": "rarity_common_character",
     "hex": "#b0c3d9"
   },
   {
     "key": "uncommon",
     "loc_rarity": "Medium Grade",
     "loc_weapon": "Industrial Grade",
-    "loc_character": "",
+    "loc_character": "rarity_uncommon_character",
     "hex": "#5e98d9"
   },
   {
@@ -58,8 +58,8 @@
   {
     "key": "unusual",
     "loc_rarity": "★",
-    "loc_weapon": "",
-    "loc_character": "",
+    "loc_weapon": "rarity_unusual",
+    "loc_character": "rarity_unusual",
     "hex": "#ffd700"
   }
 ]
