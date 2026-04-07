@@ -115,5 +115,9 @@ func GetStickerEffect(sticker_material string) string {
 		return "lenticular"
 	}
 
+	if strings.HasSuffix(sticker_material, "_embroidered") {
+		return "embroidered"
+	}
+
 	return "normal"
 }
