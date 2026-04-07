@@ -9,6 +9,14 @@ import (
 	"github.com/baldurstod/vdf"
 )
 
+func GetInventoryImageUrl(base_path string, image_inventory string) string {
+	if image_inventory == "" {
+		return ""
+	}
+
+	return fmt.Sprintf("https://cs2cdn.com/econ/%s/%s.png", base_path, image_inventory)
+}
+
 func GetTournamentEventId(item *vdf.KeyValue) (int, error) {
 	attributes, err := item.Get("attributes")
 	if err != nil {
