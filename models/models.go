@@ -107,6 +107,14 @@ type ItemSet struct {
 	HasSouvenir bool          `json:"has_souvenir"`
 }
 
+type OperationPointsRedeemableItem struct {
+	Points         int    `json:"points"`
+	Name            string `json:"name"`
+	ItemSetId      string `json:"item_set_id"`
+	UIImageThumbnail  string `json:"ui_image_thumbnail"`
+	UIOrder        int `json:"order"`
+}
+
 type Rarity struct {
 	Key          string `json:"key"`
 	LocRarity    string `json:"loc_rarity"`

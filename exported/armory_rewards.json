@@ -1,0 +1,86 @@
+[
+  {
+    "points": 4,
+    "name": "Train 2025 Collection",
+    "item_set_id": "set_train_2025",
+    "ui_image_thumbnail": "backgrounds/xpshop/set_train_2025_thumbnail",
+    "order": 2
+  },
+  {
+    "points": 4,
+    "name": "Overpass 2024",
+    "item_set_id": "set_overpass_2024",
+    "ui_image_thumbnail": "backgrounds/xpshop/set_overpass_2024_thumbnail",
+    "order": 2
+  },
+  {
+    "points": 4,
+    "name": "Sport \u0026 Field Collection",
+    "item_set_id": "set_realism_camo",
+    "ui_image_thumbnail": "backgrounds/xpshop/set_realism_camo_thumbnail",
+    "order": 2
+  },
+  {
+    "points": 2,
+    "name": "Fever Case",
+    "item_set_id": "crate_community_35",
+    "ui_image_thumbnail": "backgrounds/xpshop/crate_community_35_thumbnail",
+    "order": 3
+  },
+  {
+    "points": 125,
+    "name": "Limited Edition Item",
+    "item_set_id": "set_xpshop_wpn_04",
+    "ui_image_thumbnail": "backgrounds/xpshop/set_xpshop_wpn_01_thumbnail",
+    "order": 1
+  },
+  {
+    "points": 3,
+    "name": "Dr Boom Charms",
+    "item_set_id": "keychain_pack_kc_drboom_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/kc_drboom_thumbnail",
+    "order": 1
+  },
+  {
+    "points": 3,
+    "name": "Missing Link Community Charms",
+    "item_set_id": "keychain_pack_kc_ml_community_01_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/kc_ml_community_01_thumbnail",
+    "order": 1
+  },
+  {
+    "points": 3,
+    "name": "Missing Link Charms",
+    "item_set_id": "keychain_pack_kc_missinglink_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/kc_missinglink_thumbnail",
+    "order": 1
+  },
+  {
+    "points": 3,
+    "name": "Small Arms Charms",
+    "item_set_id": "keychain_pack_kc_weapon_01_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/kc_weapon_01_thumbnail",
+    "order": 1
+  },
+  {
+    "points": 1,
+    "name": "2025 Community Stickers",
+    "item_set_id": "sticker_pack_community_2025_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/community_2025_thumbnail",
+    "order": 3
+  },
+  {
+    "points": 1,
+    "name": "Sugarface 2 Stickers",
+    "item_set_id": "sticker_pack_sugarface2_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/sugarface2_thumbnail",
+    "order": 3
+  },
+  {
+    "points": 1,
+    "name": "Elemental Craft Stickers",
+    "item_set_id": "sticker_pack_stkr_craft_01_lootlist",
+    "ui_image_thumbnail": "backgrounds/xpshop/stkr_craft_01_thumbnail",
+    "order": 3
+  }
+]

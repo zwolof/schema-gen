@@ -4,7 +4,6 @@ import (
 	"context"
 	"fmt"
 	"os"
-	"sync"
 	"time"
 
 	"go-csitems-parser/models"
@@ -54,92 +53,52 @@ func main() {
 	t := factory.GetTranslator("English")
 	start := time.Now()
 
-	// --- Phase 1: independent parsers run concurrently ---
-	var (
-		player_agents     []models.PlayerAgent
-		souvenir_packages []models.SouvenirPackage
-		musicKits         []models.MusicKit
-		collectibles      []models.Collectible
-		weapon_cases      []models.WeaponCase
-		rarities          []models.Rarity
-		keychains         []models.Keychain
-		weapons           []models.BaseWeapon
-		gloves            []models.BaseWeapon
-		knives            []models.BaseWeapon
-		highlight_reels   []models.HighlightReel
-		sticker_capsules  []models.StickerCapsule
-		misc_capsules     []models.StickerCapsule
-		sticker_kits      []models.StickerKit
-		paint_kits        []models.PaintKit
-	)
-
-	var wg sync.WaitGroup
-	wg.Add(14)
-	go func() { defer wg.Done(); player_agents = parsers.ParseAgents(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); souvenir_packages = parsers.ParseSouvenirPackages(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); musicKits = parsers.ParseMusicKits(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); collectibles = parsers.ParseCollectibles(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); weapon_cases = parsers.ParseWeaponCases(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); rarities = parsers.ParseRarities(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); keychains = parsers.ParseKeychains(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); weapons = parsers.ParseWeapons(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); gloves = parsers.ParseGloves(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); knives = parsers.ParseKnives(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); highlight_reels = parsers.ParseHighlightReels(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); sticker_capsules = parsers.ParseStickerCapsules(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); misc_capsules = parsers.ParseSelfOpeningCrates(ctx, itemsGame, t) }()
-	go func() { defer wg.Done(); paint_kits = parsers.ParsePaintKits(ctx, itemsGame, t) }()
-	wg.Wait()
-
-	// sticker_kits must finish before custom_stickers
-	sticker_kits = parsers.ParseStickerKits(ctx, itemsGame, t)
+	player_agents := parsers.ParseAgents(ctx, itemsGame, t)
+	souvenir_packages := parsers.ParseSouvenirPackages(ctx, itemsGame, t)
+	musicKits := parsers.ParseMusicKits(ctx, itemsGame, t)
+	collectibles := parsers.ParseCollectibles(ctx, itemsGame, t)
+	weapon_cases := parsers.ParseWeaponCases(ctx, itemsGame, t)
+	rarities := parsers.ParseRarities(ctx, itemsGame, t)
+	keychains := parsers.ParseKeychains(ctx, itemsGame, t)
+	weapons := parsers.ParseWeapons(ctx, itemsGame, t)
+	gloves := parsers.ParseGloves(ctx, itemsGame, t)
+	knives := parsers.ParseKnives(ctx, itemsGame, t)
+	highlight_reels := parsers.ParseHighlightReels(ctx, itemsGame, t)
+	sticker_capsules := parsers.ParseStickerCapsules(ctx, itemsGame, t)
+	misc_capsules := parsers.ParseSelfOpeningCrates(ctx, itemsGame, t)
+	paint_kits := parsers.ParsePaintKits(ctx, itemsGame, t)
+	sticker_kits := parsers.ParseStickerKits(ctx, itemsGame, t)
 	custom_stickers := parsers.ParseCustomStickers(ctx, itemsGame, sticker_kits, t)
-
-	// item_sets depends on souvenir_packages and weapon_cases
 	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, t)
+	armory_rewards := parsers.ParseArmoryRewards(ctx, itemsGame, &item_sets, t)
+	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, t)
 
 	logger.Debug().Msgf("[go-items] Parsed all items in %s", time.Since(start))
 
-	// --- Phase 2: mapping (depends on parsed results) ---
 	knife_skin_map := modules.LoadKnifeSkinsMap("./files/knife_skins.json")
 	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map)
 	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets)
 	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map)
 
-	// Paint kits need to be exported after item_sets are resolved
-	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, t)
-
-	// --- Phase 3: export concurrently ---
-	exports := []struct {
-		v    any
-		name string
-	}{
-		{paint_kits, "paint_kits"},
-		{weapons, "weapons"},
-		{sticker_capsules, "sticker_capsules"},
-		{custom_stickers, "custom_stickers"},
-		{sticker_kits, "sticker_kits"},
-		{misc_capsules, "misc_capsules"},
-		{knife_skins, "knife_skins"},
-		{weapon_skins, "weapon_skins"},
-		{glove_skins, "glove_skins"},
-		{collections, "collections"},
-		{rarities, "rarities"},
-		{keychains, "keychains"},
-		{player_agents, "agents"},
-		{musicKits, "music_kits"},
-		{collectibles, "collectibles"},
-		{souvenir_packages, "souvenir_packages"},
-		{weapon_cases, "weapon_cases"},
-		{highlight_reels, "highlight_reels"},
-	}
-	var exportWg sync.WaitGroup
-	exportWg.Add(len(exports))
-	for _, e := range exports {
-		e := e
-		go func() { defer exportWg.Done(); ExportToJsonFile(e.v, e.name) }()
-	}
-	exportWg.Wait()
+	ExportToJsonFile(player_agents, "agents")
+	ExportToJsonFile(souvenir_packages, "souvenir_packages")
+	ExportToJsonFile(musicKits, "music_kits")
+	ExportToJsonFile(collectibles, "collectibles")
+	ExportToJsonFile(weapon_cases, "weapon_cases")
+	ExportToJsonFile(rarities, "rarities")
+	ExportToJsonFile(keychains, "keychains")
+	ExportToJsonFile(weapons, "weapons")
+	ExportToJsonFile(highlight_reels, "highlight_reels")
+	ExportToJsonFile(sticker_capsules, "sticker_capsules")
+	ExportToJsonFile(misc_capsules, "misc_capsules")
+	ExportToJsonFile(paint_kits, "paint_kits")
+	ExportToJsonFile(sticker_kits, "sticker_kits")
+	ExportToJsonFile(custom_stickers, "custom_stickers")
+	ExportToJsonFile(armory_rewards, "armory_rewards")
+	ExportToJsonFile(collections, "collections")
+	ExportToJsonFile(knife_skins, "knife_skins")
+	ExportToJsonFile(weapon_skins, "weapon_skins")
+	ExportToJsonFile(glove_skins, "glove_skins")
 
 	fmt.Println("Press Enter to exit...")
 	fmt.Scanln()
