@@ -10,11 +10,10 @@ import (
 	"github.com/rs/zerolog"
 )
 
-func ParseRarities(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.Rarity {
+func ParseRarities(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) map[string]models.Rarity {
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
-	// logger.Info().Msg("Parsing skin rarities...")
 
 	rarities, err := ig.Get("rarities")
 
@@ -37,7 +36,7 @@ func ParseRarities(ctx context.Context, ig *models.ItemsGame, t *modules.Transla
 		}
 	}
 
-	var items []models.Rarity
+	items := make(map[string]models.Rarity)
 	for _, r := range rarities.GetChilds() {
 		loc_key, _ := r.GetString("loc_key")
 		loc_key_weapon, _ := r.GetString("loc_key_weapon")
@@ -53,7 +52,6 @@ func ParseRarities(ctx context.Context, ig *models.ItemsGame, t *modules.Transla
 		translated_character, _ := t.GetValueByKey(loc_key_character)
 
 		current := models.Rarity{
-			Key:          r.Key,
 			LocRarity:    translated_rarity,
 			LocWeapon:    translated_weapon,
 			LocCharacter: translated_character,
@@ -71,7 +69,7 @@ func ParseRarities(ctx context.Context, ig *models.ItemsGame, t *modules.Transla
 			}
 		}
 
-		items = append(items, current)
+		items[r.Key] = current
 	}
 
 	duration := time.Since(start)

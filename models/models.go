@@ -116,7 +116,6 @@ type OperationPointsRedeemableItem struct {
 }
 
 type Rarity struct {
-	Key          string `json:"key"`
 	LocRarity    string `json:"loc_rarity"`
 	LocWeapon    string `json:"loc_weapon"`
 	LocCharacter string `json:"loc_character"`
@@ -254,12 +253,6 @@ type SchemaGenericeMap struct {
 	MarketHashName string `json:"market_hash_name"`
 	Rarity         string `json:"rarity"`
 	Image          string `json:"image"`
-}
-
-type SchemaRarity struct {
-	Key  string `json:"key"`
-	Name string `json:"name"`
-	Hex  string `json:"hex"`
 }
 
 type SchemaCustomSticker struct {

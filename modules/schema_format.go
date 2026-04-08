@@ -2,21 +2,6 @@ package modules
 
 import "go-csitems-parser/models"
 
-func MapRarities(rarities *[]models.Rarity) []models.SchemaRarity {
-	rarity_map := make([]models.SchemaRarity, 0)
-
-	for _, rarity := range *rarities {
-		// Add to the map
-		rarity_map = append(rarity_map, models.SchemaRarity{
-			Key:  rarity.Key,
-			Name: rarity.LocWeapon,
-			Hex:  rarity.Hex,
-		})
-	}
-
-	return rarity_map
-}
-
 func MapCustomStickers(custom_stickers *[]models.CustomStickers) map[string]models.SchemaCustomSticker {
 	rarity_map := make(map[string]models.SchemaCustomSticker, 0)
 

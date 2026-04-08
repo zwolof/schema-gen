@@ -15,7 +15,7 @@ import (
 
 type ItemSchema struct {
 	Collections    []models.Collection                   `json:"collections"`
-	Rarities       []models.SchemaRarity                 `json:"rarities"`
+	Rarities       map[string]models.Rarity              `json:"rarities"`
 	Stickers       map[int]modules.SchemaItemWithImage   `json:"stickers"`
 	Keychains      map[int]modules.SchemaItemWithImage   `json:"keychains"`
 	Collectibles   map[int]models.SchemaGenericeMap      `json:"collectibles"`
