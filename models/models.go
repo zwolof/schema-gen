@@ -134,14 +134,17 @@ type MusicKit struct {
 
 type Keychain struct {
 	DefinitionIndex int    `json:"definition_index"`
-	MarketHashName  string `json:"market_hash_name"`
-	Rarity          string `json:"rarity"`
-	ImageInventory  string `json:"image_inventory"`
 	Name            string `json:"name"`
-	LocName         string `json:"loc_name"`
+	MarketHashName  string `json:"market_hash_name"`
 	LocDescription  string `json:"loc_description"`
+
+	Rarity          string `json:"rarity"`
 	Quality         string `json:"quality"`
+	ImageInventory  string `json:"image_inventory"`
 	Model           string `json:"display_model"`
+	IsCommodity       bool   `json:"is_commodity"`
+	IsSpecialCharm	bool   `json:"is_special_charm"`
+
 	LootListId      string `json:"loot_list_id"`
 }
 
