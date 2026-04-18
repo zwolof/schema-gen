@@ -156,6 +156,7 @@ type HighlightReelTeams struct {
 type HighlightReel struct {
 	Id             string             `json:"id"`
 	MarketHashName string             `json:"market_hash_name"`
+	ReelTitle	   string             `json:"reel_title"`
 	ReelDescription string             `json:"reel_description"`
 	Map            string             `json:"map"`
 	Teams          HighlightReelTeams `json:"teams"`
