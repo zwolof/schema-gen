@@ -48,6 +48,8 @@ func ParseKeychains(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 
 		if tags_err == nil && has_tags != nil {
 			current.IsSpecialCharm = true
+
+			current.MarketHashName = modules.GenerateMarketHashName(t, loc_name, nil, "kc_sticker_display_case")
 		}
 
 		keychains = append(keychains, current)

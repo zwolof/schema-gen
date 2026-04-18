@@ -316,6 +316,10 @@ func GenerateMarketHashName(t *Translator, name string, extra *string, item_type
 		value = "Vanilla"
 	}
 
+	if name == "kc_sticker_display_case" {
+		return value
+	}
+
 	// If the item type is a doppler, we need to add the phase to the name
 	if extra != nil && *extra != "" {
 		if phase, ok := dopplerPhaseMap[*extra]; ok {

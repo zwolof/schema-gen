@@ -1016,7 +1016,7 @@
   {
     "definition_index": 37,
     "name": "kc_sticker_display_case",
-    "market_hash_name": "Charm | Sticker Slab",
+    "market_hash_name": "Sticker Slab",
     "loc_description": "",
     "rarity": "common",
     "quality": "",
@@ -1029,7 +1029,7 @@
   {
     "definition_index": 36,
     "name": "kc_aus2025",
-    "market_hash_name": "Charm | Austin 2025 Highlight",
+    "market_hash_name": "Austin 2025 Highlight",
     "loc_description": "",
     "rarity": "rare",
     "quality": "",
@@ -1042,7 +1042,7 @@
   {
     "definition_index": 83,
     "name": "kc_bud2025",
-    "market_hash_name": "Charm | Budapest 2025 Highlight",
+    "market_hash_name": "Budapest 2025 Highlight",
     "loc_description": "",
     "rarity": "rare",
     "quality": "",
