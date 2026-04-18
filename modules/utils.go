@@ -337,3 +337,16 @@ func GenerateMarketHashName(t *Translator, name string, extra *string, item_type
 
 	return value
 }
+
+func GetSpecialCharmImage(name string) string {
+	switch name {
+	case "kc_aus2025":
+		return "econ/keychains/aus2025/kc_aus2025.png"
+	case "kc_bud2025":
+		return "econ/keychains/bud2025/kc_bud2025.png"
+	case "kc_sticker_display_case":
+		return "econ/keychains/sticker_display_case/kc_sticker_display_case.png"
+	default:
+		return ""
+	}
+}
