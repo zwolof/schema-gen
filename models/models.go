@@ -161,6 +161,7 @@ type HighlightReel struct {
 	Teams          HighlightReelTeams `json:"teams"`
 	Tournament     *TournamentData    `json:"tournament"`
 	Stage          *TournamentData    `json:"stage"`
+	VideoUrl	   string             `json:"video_url"`
 }
 
 type PlayerAgent struct {

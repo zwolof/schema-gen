@@ -40,6 +40,9 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 		tournament_event_team1, _ := r.GetString("tournament event team1 id")
 
 		// convert to int
+		team0_id, _ := strconv.Atoi(tournament_event_team0)
+		team1_id, _ := strconv.Atoi(tournament_event_team1)
+
 		team0, _ := t.GetValueByKey("CSGO_TeamID_" + tournament_event_team0)
 		team1, _ := t.GetValueByKey("CSGO_TeamID_" + tournament_event_team1)
 
@@ -53,13 +56,14 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 		tournament := modules.GetTournamentData(t, tournament_event_id_int)
 		stage := modules.GetTournamentStageData(t, tournament_event_stage_id_int)
 		current := models.HighlightReel{
-			Id:             id,
-			Tournament:     tournament,
-			Stage:          stage,
-			Map:            map_name,
-			MarketHashName: modules.GenerateHighlightReelMarketHashName(t, id, tournament_event_id_int),
+			Id:              id,
+			Tournament:      tournament,
+			Stage:           stage,
+			Map:             map_name,
+			MarketHashName:  modules.GenerateHighlightReelMarketHashName(t, id, tournament_event_id_int),
 			ReelDescription: reel_description,
-			Teams:          teams,
+			Teams:           teams,
+			VideoUrl:        modules.GenerateHighlightReelVideoURL(id, map_name, tournament_event_id_int, tournament_event_stage_id_int, team0_id, team1_id, "ww"),
 		}
 
 		items = append(items, current)

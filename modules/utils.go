@@ -338,6 +338,27 @@ func GenerateMarketHashName(t *Translator, name string, extra *string, item_type
 	return value
 }
 
+const highlightReelCDNBase = "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels"
+
+// GenerateHighlightReelVideoURL builds the Steam CDN video URL for a highlight reel.
+//
+// URL format:
+//
+//	{base}/{eventId}/{team0Id}v{team1Id}_{stageId}/{eventId}_{team0Id}v{team1Id}_{stageId}_{mapName}_{highlightId}_{region}_1080p.webm
+//
+// All IDs are zero-padded to 3 digits. Region is "ww" or "cn".
+func GenerateHighlightReelVideoURL(highlightId string, mapName string, eventId, stageId, team0Id, team1Id int, region string) string {
+	event := fmt.Sprintf("%03d", eventId)
+	stage := fmt.Sprintf("%03d", stageId)
+	t0 := fmt.Sprintf("%03d", team0Id)
+	t1 := fmt.Sprintf("%03d", team1Id)
+
+	matchDir := fmt.Sprintf("%sv%s_%s", t0, t1, stage)
+	filename := fmt.Sprintf("%s_%sv%s_%s_%s_%s_%s_1080p.webm", event, t0, t1, stage, mapName, highlightId, region)
+
+	return fmt.Sprintf("%s/%s/%s/%s", highlightReelCDNBase, event, matchDir, filename)
+}
+
 func GetSpecialCharmImage(name string) string {
 	switch name {
 	case "kc_aus2025":
