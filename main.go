@@ -79,6 +79,7 @@ func main() {
 	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map)
 	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets)
 	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map)
+	sticker_slabs := parsers.ParseStickerSlabs(ctx, sticker_kits)
 
 	ExportToJsonFile(player_agents, "agents")
 	ExportToJsonFile(souvenir_packages, "souvenir_packages")
@@ -96,6 +97,7 @@ func main() {
 	ExportToJsonFile(custom_stickers, "custom_stickers")
 	ExportToJsonFile(armory_rewards, "armory_rewards")
 	ExportToJsonFile(collections, "collections")
+	ExportToJsonFile(sticker_slabs, "sticker_slabs")
 	ExportToJsonFile(knife_skins, "knife_skins")
 	ExportToJsonFile(weapon_skins, "weapon_skins")
 	ExportToJsonFile(glove_skins, "glove_skins")
