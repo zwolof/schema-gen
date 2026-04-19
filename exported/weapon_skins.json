@@ -14744,6 +14744,20 @@
       }
     }
   },
+  "42": {
+    "name": "Knife",
+    "image": "econ/default_generated/weapon_knife_light",
+    "sticker_count": 5,
+    "type": "weapon",
+    "paints": {}
+  },
+  "59": {
+    "name": "Knife",
+    "image": "econ/default_generated/weapon_knife_t_light",
+    "sticker_count": 5,
+    "type": "weapon",
+    "paints": {}
+  },
   "60": {
     "name": "M4A1-S",
     "image": "econ/default_generated/weapon_m4a1_silencer_light",

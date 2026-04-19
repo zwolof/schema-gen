@@ -19,6 +19,11 @@ var invalid_weapon_prefabs = []string{
 	"weapon_hegrenade_prefab",
 }
 
+var special_cases = []string{
+	"weapon_knife_t",
+	"weapon_knife",
+}
+
 func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.BaseWeapon {
 	logger := zerolog.Ctx(ctx)
 
@@ -36,10 +41,45 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 		return nil
 	}
 
+	items, err := ig.Get("items")
+	if err != nil {
+		logger.Error().Err(err).Msg("Failed to get items")
+		return nil
+	}
+
+	max_num_stickers, _ := game_info.GetInt("max_num_stickers")
+
+	buildWeapon := func(className string, kv interface {
+		GetString(string) (string, error)
+	}, defIdx int) models.BaseWeapon {
+		item_name, _ := kv.GetString("item_name")
+		item_description, _ := kv.GetString("item_description")
+		image_inventory, _ := kv.GetString("image_inventory")
+
+		translated_name, err := t.GetValueByKey(item_name)
+		if err != nil {
+			logger.Error().Err(err).Msgf("Failed to translate item name for weapon %s", item_name)
+			translated_name = item_name
+		}
+		translated_description, err := t.GetValueByKey(item_description)
+		if err != nil {
+			logger.Error().Err(err).Msgf("Failed to translate item description for weapon %s", item_description)
+			translated_description = item_description
+		}
+
+		return models.BaseWeapon{
+			DefinitionIndex: defIdx,
+			Name:            translated_name,
+			Description:     translated_description,
+			ClassName:       className,
+			ImageInventory:  image_inventory,
+			NumStickers:     max_num_stickers,
+		}
+	}
+
 	var weapons []models.BaseWeapon
 
 	for _, w := range prefabs.GetChilds() {
-
 		if !strings.HasPrefix(w.Key, "weapon_") || !strings.HasSuffix(w.Key, "_prefab") {
 			continue
 		}
@@ -56,33 +96,23 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 			continue
 		}
 
-		item_name, _ := w.GetString("item_name")
-		item_description, _ := w.GetString("item_description")
-		image_inventory, _ := w.GetString("image_inventory")
-		max_num_stickers, _ := game_info.GetInt("max_num_stickers")
+		weapons = append(weapons, buildWeapon(item_class, w, def_idx))
+	}
 
-		translated_name, err := t.GetValueByKey(item_name)
-		if err != nil {
-			logger.Error().Err(err).Msgf("Failed to translate item name for weapon %s", item_name)
-			translated_name = item_name // Fallback to original if translation fails
+	// Valve did not give these items a dedicated _prefab entry — they live directly
+	// in the "items" section and are found by their "name" key.
+	specialSet := make(map[string]struct{}, len(special_cases))
+	for _, sc := range special_cases {
+		specialSet[sc] = struct{}{}
+	}
+
+	for _, item := range items.GetChilds() {
+		name, _ := item.GetString("name")
+		if _, ok := specialSet[name]; !ok {
+			continue
 		}
-
-		translated_description, err := t.GetValueByKey(item_description)
-		if err != nil {
-			logger.Error().Err(err).Msgf("Failed to translate item description for weapon %s", item_description)
-			translated_description = item_description // Fallback to original if translation fails
-		}
-
-		current := models.BaseWeapon{
-			DefinitionIndex: def_idx,
-			Name:            translated_name,
-			Description:     translated_description,
-			ClassName:       item_class,
-			ImageInventory:  image_inventory,
-			NumStickers:     max_num_stickers,
-		}
-
-		weapons = append(weapons, current)
+		definition_index, _ := strconv.Atoi(item.Key)
+		weapons = append(weapons, buildWeapon(name, item, definition_index))
 	}
 
 	duration := time.Since(start)
