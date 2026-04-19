@@ -147,22 +147,25 @@ func GetKnifePaintKits(
 			if !ok {
 				continue
 			}
-
-			rarity := pk.Rarity
-			if r, ok := skinRarityMap["["+pk.Name+"]"+knife.ClassName]; ok {
-				rarity = r
+			weaponImage := fmt.Sprintf("econ/default_generated/%s_%s_light", knife.ClassName, pk.Name)
+			if pk.Name == "default" {
+				weaponImage = fmt.Sprintf("econ/weapons/base_weapons/%s", knife.ClassName)
 			}
 
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
-				Rarity:          rarity,
-				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", knife.ClassName, pk.Name),
+				Rarity:          "ancient",
+				Image:           weaponImage,
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
 				Souvenir:        false,
 				StatTrak:        true,
 			}
+
+			// if the painkit is "default", we set the image to be just the knife without paintkit, 
+			// as the default paintkit doesn't have a unique image 
+			// and is just the default weapon texture
 		}
 
 		weapon_skin_map[knife.DefinitionIndex] = current
@@ -199,15 +202,10 @@ func GetGlovePaintKits(
 				continue
 			}
 
-			rarity := pk.Rarity
-			if r, ok := skinRarityMap["["+pk.Name+"]"+glove.ClassName]; ok {
-				rarity = r
-			}
-
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
-				Rarity:          rarity,
+				Rarity:          "ancient",
 				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", glove.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
