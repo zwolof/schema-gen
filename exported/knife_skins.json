@@ -26,7 +26,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -39,7 +39,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -52,7 +52,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -78,7 +78,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -273,7 +273,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -429,7 +429,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -442,7 +442,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -455,7 +455,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -489,7 +489,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -502,7 +502,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -515,7 +515,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -580,7 +580,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -606,7 +606,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -619,7 +619,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -632,7 +632,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -666,7 +666,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -679,7 +679,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -692,7 +692,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -718,7 +718,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -913,7 +913,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1069,7 +1069,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1082,7 +1082,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1095,7 +1095,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1129,7 +1129,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1142,7 +1142,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1155,7 +1155,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1181,7 +1181,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1376,7 +1376,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1532,7 +1532,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1545,7 +1545,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1558,7 +1558,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1592,7 +1592,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1605,7 +1605,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1618,7 +1618,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1644,7 +1644,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1839,7 +1839,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1995,7 +1995,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2008,7 +2008,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2021,7 +2021,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2055,7 +2055,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2068,7 +2068,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2081,7 +2081,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2107,7 +2107,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2302,7 +2302,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2458,7 +2458,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2471,7 +2471,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2484,7 +2484,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2557,7 +2557,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2570,7 +2570,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2583,7 +2583,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2609,7 +2609,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2804,7 +2804,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2934,7 +2934,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2947,7 +2947,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3020,7 +3020,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3033,7 +3033,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3046,7 +3046,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3072,7 +3072,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3267,7 +3267,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3397,7 +3397,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3410,7 +3410,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3483,7 +3483,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3496,7 +3496,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3509,7 +3509,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3535,7 +3535,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3730,7 +3730,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3847,7 +3847,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3860,7 +3860,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3873,7 +3873,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3946,7 +3946,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3959,7 +3959,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3972,7 +3972,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3998,7 +3998,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4154,7 +4154,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4310,7 +4310,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4323,7 +4323,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4336,7 +4336,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4409,7 +4409,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4422,7 +4422,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4435,7 +4435,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4461,7 +4461,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4617,7 +4617,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4773,7 +4773,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4786,7 +4786,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4799,7 +4799,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4833,7 +4833,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4846,7 +4846,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4859,7 +4859,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5067,7 +5067,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5106,7 +5106,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5119,7 +5119,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5132,7 +5132,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5166,7 +5166,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5179,7 +5179,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5192,7 +5192,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5400,7 +5400,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5426,7 +5426,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5439,7 +5439,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5452,7 +5452,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5465,7 +5465,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5499,7 +5499,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5512,7 +5512,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5525,7 +5525,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5720,7 +5720,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5746,7 +5746,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5759,7 +5759,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5772,7 +5772,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5798,7 +5798,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5832,7 +5832,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5845,7 +5845,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -5858,7 +5858,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6053,7 +6053,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6079,7 +6079,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6092,7 +6092,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6105,7 +6105,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6131,7 +6131,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6165,7 +6165,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6178,7 +6178,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6191,7 +6191,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6399,7 +6399,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6425,7 +6425,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6438,7 +6438,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6451,7 +6451,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6464,7 +6464,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6498,7 +6498,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6511,7 +6511,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6524,7 +6524,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6719,7 +6719,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6745,7 +6745,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6758,7 +6758,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6771,7 +6771,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6797,7 +6797,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6831,7 +6831,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6844,7 +6844,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6857,7 +6857,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6987,7 +6987,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7013,7 +7013,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7026,7 +7026,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7039,7 +7039,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7130,7 +7130,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7164,7 +7164,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7177,7 +7177,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7190,7 +7190,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7398,7 +7398,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7424,7 +7424,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7437,7 +7437,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7450,7 +7450,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7463,7 +7463,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7497,7 +7497,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7510,7 +7510,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7523,7 +7523,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7588,7 +7588,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7614,7 +7614,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7627,7 +7627,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -7640,7 +7640,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true

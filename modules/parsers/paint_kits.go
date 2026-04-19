@@ -43,16 +43,24 @@ func ParsePaintKits(ctx context.Context, ig *models.ItemsGame, t *modules.Transl
 		wear_remap_min, _ := r.GetFloat32("wear_remap_min")
 		wear_remap_max, _ := r.GetFloat32("wear_remap_max")
 		description_tag, _ := r.GetString("description_tag")
+		description_string, _ := r.GetString("description_string")
 
 		float_ranges := models.PaintKitWearRange{
 			Min: wear_remap_min,
 			Max: wear_remap_max,
 		}
 
+		if float_ranges.Max == 0.0 {
+			float_ranges.Max = 1.0
+		}
+
+		translated_description, _ := t.GetValueByKey(description_string)
+
 		current := models.PaintKit{
 			DefinitionIndex: definition_index,
 			Name:            name,
 			Wear:            float_ranges,
+			Description:     translated_description,
 			MarketHashName:  modules.GenerateMarketHashName(t, description_tag, &name, "paint_kit"),
 		}
 
