@@ -2,7 +2,7 @@
   {
     "definition_index": 5105,
     "market_hash_name": "Ground Rebel  | Elite Crew",
-    "image_inventory": "econ/characters/customplayer_tm_leet_variantg",
+    "image": "econ/characters/customplayer_tm_leet_variantg",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -10,7 +10,7 @@
   {
     "definition_index": 5106,
     "market_hash_name": "Osiris | Elite Crew",
-    "image_inventory": "econ/characters/customplayer_tm_leet_varianth",
+    "image": "econ/characters/customplayer_tm_leet_varianth",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -18,7 +18,7 @@
   {
     "definition_index": 5107,
     "market_hash_name": "Prof. Shahmat | Elite Crew",
-    "image_inventory": "econ/characters/customplayer_tm_leet_varianti",
+    "image": "econ/characters/customplayer_tm_leet_varianti",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -26,7 +26,7 @@
   {
     "definition_index": 5108,
     "market_hash_name": "The Elite Mr. Muhlik | Elite Crew",
-    "image_inventory": "econ/characters/customplayer_tm_leet_variantf",
+    "image": "econ/characters/customplayer_tm_leet_variantf",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -34,7 +34,7 @@
   {
     "definition_index": 5109,
     "market_hash_name": "Jungle Rebel | Elite Crew",
-    "image_inventory": "econ/characters/customplayer_tm_leet_variantj",
+    "image": "econ/characters/customplayer_tm_leet_variantj",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -42,7 +42,7 @@
   {
     "definition_index": 5205,
     "market_hash_name": "Soldier | Phoenix",
-    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianth",
+    "image": "econ/characters/customplayer_tm_phoenix_varianth",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -50,7 +50,7 @@
   {
     "definition_index": 5206,
     "market_hash_name": "Enforcer | Phoenix",
-    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantf",
+    "image": "econ/characters/customplayer_tm_phoenix_variantf",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -58,7 +58,7 @@
   {
     "definition_index": 5207,
     "market_hash_name": "Slingshot | Phoenix",
-    "image_inventory": "econ/characters/customplayer_tm_phoenix_variantg",
+    "image": "econ/characters/customplayer_tm_phoenix_variantg",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -66,7 +66,7 @@
   {
     "definition_index": 5208,
     "market_hash_name": "Street Soldier | Phoenix",
-    "image_inventory": "econ/characters/customplayer_tm_phoenix_varianti",
+    "image": "econ/characters/customplayer_tm_phoenix_varianti",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -74,7 +74,7 @@
   {
     "definition_index": 5305,
     "market_hash_name": "Operator | FBI SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantf",
+    "image": "econ/characters/customplayer_ctm_fbi_variantf",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -82,7 +82,7 @@
   {
     "definition_index": 5306,
     "market_hash_name": "Markus Delrow | FBI HRT",
-    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantg",
+    "image": "econ/characters/customplayer_ctm_fbi_variantg",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -90,7 +90,7 @@
   {
     "definition_index": 5307,
     "market_hash_name": "Michael Syfers  | FBI Sniper",
-    "image_inventory": "econ/characters/customplayer_ctm_fbi_varianth",
+    "image": "econ/characters/customplayer_ctm_fbi_varianth",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -98,7 +98,7 @@
   {
     "definition_index": 5308,
     "market_hash_name": "Special Agent Ava | FBI",
-    "image_inventory": "econ/characters/customplayer_ctm_fbi_variantb",
+    "image": "econ/characters/customplayer_ctm_fbi_variantb",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -106,7 +106,7 @@
   {
     "definition_index": 5400,
     "market_hash_name": "3rd Commando Company | KSK",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantk",
+    "image": "econ/characters/customplayer_ctm_st6_variantk",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -114,7 +114,7 @@
   {
     "definition_index": 5401,
     "market_hash_name": "Seal Team 6 Soldier | NSWC SEAL",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variante",
+    "image": "econ/characters/customplayer_ctm_st6_variante",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -122,7 +122,7 @@
   {
     "definition_index": 5402,
     "market_hash_name": "Buckshot | NSWC SEAL",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantg",
+    "image": "econ/characters/customplayer_ctm_st6_variantg",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -130,7 +130,7 @@
   {
     "definition_index": 5403,
     "market_hash_name": "'Two Times' McCoy | USAF TACP",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantm",
+    "image": "econ/characters/customplayer_ctm_st6_variantm",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -138,7 +138,7 @@
   {
     "definition_index": 5404,
     "market_hash_name": "Lt. Commander Ricksaw | NSWC SEAL",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_varianti",
+    "image": "econ/characters/customplayer_ctm_st6_varianti",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -146,7 +146,7 @@
   {
     "definition_index": 4619,
     "market_hash_name": "'Blueberries' Buckshot | NSWC SEAL",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantj",
+    "image": "econ/characters/customplayer_ctm_st6_variantj",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -154,7 +154,7 @@
   {
     "definition_index": 4680,
     "market_hash_name": "'Two Times' McCoy | TACP Cavalry",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantl",
+    "image": "econ/characters/customplayer_ctm_st6_variantl",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -162,7 +162,7 @@
   {
     "definition_index": 5405,
     "market_hash_name": "Primeiro Tenente | Brazilian 1st Battalion",
-    "image_inventory": "econ/characters/customplayer_ctm_st6_variantn",
+    "image": "econ/characters/customplayer_ctm_st6_variantn",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -170,7 +170,7 @@
   {
     "definition_index": 5500,
     "market_hash_name": "Dragomir | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_variantf",
+    "image": "econ/characters/customplayer_tm_balkan_variantf",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -178,7 +178,7 @@
   {
     "definition_index": 5501,
     "market_hash_name": "Maximus | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_varianti",
+    "image": "econ/characters/customplayer_tm_balkan_varianti",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -186,7 +186,7 @@
   {
     "definition_index": 5502,
     "market_hash_name": "Rezan The Ready | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_variantg",
+    "image": "econ/characters/customplayer_tm_balkan_variantg",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -194,7 +194,7 @@
   {
     "definition_index": 5503,
     "market_hash_name": "Blackwolf | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_variantj",
+    "image": "econ/characters/customplayer_tm_balkan_variantj",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -202,7 +202,7 @@
   {
     "definition_index": 5504,
     "market_hash_name": "'The Doctor' Romanov | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_varianth",
+    "image": "econ/characters/customplayer_tm_balkan_varianth",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -210,7 +210,7 @@
   {
     "definition_index": 4718,
     "market_hash_name": "Rezan the Redshirt | Sabre",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_variantk",
+    "image": "econ/characters/customplayer_tm_balkan_variantk",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -218,7 +218,7 @@
   {
     "definition_index": 5505,
     "market_hash_name": "Dragomir | Sabre Footsoldier",
-    "image_inventory": "econ/characters/customplayer_tm_balkan_variantl",
+    "image": "econ/characters/customplayer_tm_balkan_variantl",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -226,7 +226,7 @@
   {
     "definition_index": 5601,
     "market_hash_name": "B Squadron Officer | SAS",
-    "image_inventory": "econ/characters/customplayer_ctm_sas_variantf",
+    "image": "econ/characters/customplayer_ctm_sas_variantf",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -234,7 +234,7 @@
   {
     "definition_index": 5602,
     "market_hash_name": "D Squadron Officer | NZSAS",
-    "image_inventory": "econ/characters/customplayer_ctm_sas_variantg",
+    "image": "econ/characters/customplayer_ctm_sas_variantg",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -242,7 +242,7 @@
   {
     "definition_index": 4711,
     "market_hash_name": "Cmdr. Mae 'Dead Cold' Jamison | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_variante",
+    "image": "econ/characters/customplayer_ctm_swat_variante",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -250,7 +250,7 @@
   {
     "definition_index": 4712,
     "market_hash_name": "1st Lieutenant Farlow | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_variantf",
+    "image": "econ/characters/customplayer_ctm_swat_variantf",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -258,7 +258,7 @@
   {
     "definition_index": 4713,
     "market_hash_name": "John 'Van Healen' Kask | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_variantg",
+    "image": "econ/characters/customplayer_ctm_swat_variantg",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -266,7 +266,7 @@
   {
     "definition_index": 4714,
     "market_hash_name": "Bio-Haz Specialist | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_varianth",
+    "image": "econ/characters/customplayer_ctm_swat_varianth",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -274,7 +274,7 @@
   {
     "definition_index": 4715,
     "market_hash_name": "Sergeant Bombson | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_varianti",
+    "image": "econ/characters/customplayer_ctm_swat_varianti",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -282,7 +282,7 @@
   {
     "definition_index": 4716,
     "market_hash_name": "Chem-Haz Specialist | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_variantj",
+    "image": "econ/characters/customplayer_ctm_swat_variantj",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -290,7 +290,7 @@
   {
     "definition_index": 4756,
     "market_hash_name": "Lieutenant 'Tree Hugger' Farlow | SWAT",
-    "image_inventory": "econ/characters/customplayer_ctm_swat_variantk",
+    "image": "econ/characters/customplayer_ctm_swat_variantk",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -298,7 +298,7 @@
   {
     "definition_index": 4726,
     "market_hash_name": "Sir Bloody Miami Darryl | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf",
+    "image": "econ/characters/customplayer_tm_professional_varf",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -306,7 +306,7 @@
   {
     "definition_index": 4733,
     "market_hash_name": "Sir Bloody Silent Darryl | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf1",
+    "image": "econ/characters/customplayer_tm_professional_varf1",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -314,7 +314,7 @@
   {
     "definition_index": 4734,
     "market_hash_name": "Sir Bloody Skullhead Darryl | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf2",
+    "image": "econ/characters/customplayer_tm_professional_varf2",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -322,7 +322,7 @@
   {
     "definition_index": 4735,
     "market_hash_name": "Sir Bloody Darryl Royale | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf3",
+    "image": "econ/characters/customplayer_tm_professional_varf3",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -330,7 +330,7 @@
   {
     "definition_index": 4736,
     "market_hash_name": "Sir Bloody Loudmouth Darryl | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf4",
+    "image": "econ/characters/customplayer_tm_professional_varf4",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -338,7 +338,7 @@
   {
     "definition_index": 4727,
     "market_hash_name": "Safecracker Voltzmann | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varg",
+    "image": "econ/characters/customplayer_tm_professional_varg",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -346,7 +346,7 @@
   {
     "definition_index": 4728,
     "market_hash_name": "Little Kev | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varh",
+    "image": "econ/characters/customplayer_tm_professional_varh",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -354,7 +354,7 @@
   {
     "definition_index": 4732,
     "market_hash_name": "Number K | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_vari",
+    "image": "econ/characters/customplayer_tm_professional_vari",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -362,7 +362,7 @@
   {
     "definition_index": 4730,
     "market_hash_name": "Getaway Sally | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varj",
+    "image": "econ/characters/customplayer_tm_professional_varj",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -370,7 +370,7 @@
   {
     "definition_index": 4613,
     "market_hash_name": "Bloody Darryl The Strapped | The Professionals",
-    "image_inventory": "econ/characters/customplayer_tm_professional_varf5",
+    "image": "econ/characters/customplayer_tm_professional_varf5",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -378,7 +378,7 @@
   {
     "definition_index": 4749,
     "market_hash_name": "Sous-Lieutenant Medic | Gendarmerie Nationale",
-    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_varianta",
+    "image": "econ/characters/customplayer_ctm_gendarmerie_varianta",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -386,7 +386,7 @@
   {
     "definition_index": 4750,
     "market_hash_name": "Chem-Haz Capitaine | Gendarmerie Nationale",
-    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantb",
+    "image": "econ/characters/customplayer_ctm_gendarmerie_variantb",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -394,7 +394,7 @@
   {
     "definition_index": 4751,
     "market_hash_name": "Chef d'Escadron Rouchard | Gendarmerie Nationale",
-    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantc",
+    "image": "econ/characters/customplayer_ctm_gendarmerie_variantc",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -402,7 +402,7 @@
   {
     "definition_index": 4752,
     "market_hash_name": "Aspirant | Gendarmerie Nationale",
-    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variantd",
+    "image": "econ/characters/customplayer_ctm_gendarmerie_variantd",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -410,7 +410,7 @@
   {
     "definition_index": 4753,
     "market_hash_name": "Officer Jacques Beltram | Gendarmerie Nationale",
-    "image_inventory": "econ/characters/customplayer_ctm_gendarmerie_variante",
+    "image": "econ/characters/customplayer_ctm_gendarmerie_variante",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -418,7 +418,7 @@
   {
     "definition_index": 4757,
     "market_hash_name": "Cmdr. Davida 'Goggles' Fernandez | SEAL Frogman",
-    "image_inventory": "econ/characters/customplayer_ctm_diver_varianta",
+    "image": "econ/characters/customplayer_ctm_diver_varianta",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -426,7 +426,7 @@
   {
     "definition_index": 4771,
     "market_hash_name": "Cmdr. Frank 'Wet Sox' Baroud | SEAL Frogman",
-    "image_inventory": "econ/characters/customplayer_ctm_diver_variantb",
+    "image": "econ/characters/customplayer_ctm_diver_variantb",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -434,7 +434,7 @@
   {
     "definition_index": 4772,
     "market_hash_name": "Lieutenant Rex Krikey | SEAL Frogman",
-    "image_inventory": "econ/characters/customplayer_ctm_diver_variantc",
+    "image": "econ/characters/customplayer_ctm_diver_variantc",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -442,7 +442,7 @@
   {
     "definition_index": 4773,
     "market_hash_name": "Elite Trapper Solman | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_varianta",
+    "image": "econ/characters/customplayer_tm_jungle_raider_varianta",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -450,7 +450,7 @@
   {
     "definition_index": 4774,
     "market_hash_name": "Crasswater The Forgotten | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantb",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -458,7 +458,7 @@
   {
     "definition_index": 4775,
     "market_hash_name": "Arno The Overgrown | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantc",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantc",
     "name": "",
     "description": "",
     "rarity": "legendary"
@@ -466,7 +466,7 @@
   {
     "definition_index": 4776,
     "market_hash_name": "Col. Mangos Dabisi | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantd",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantd",
     "name": "",
     "description": "",
     "rarity": "mythical"
@@ -474,7 +474,7 @@
   {
     "definition_index": 4777,
     "market_hash_name": "Vypa Sista of the Revolution | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variante",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variante",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -482,7 +482,7 @@
   {
     "definition_index": 4778,
     "market_hash_name": "Trapper Aggressor | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantf",
     "name": "",
     "description": "",
     "rarity": "rare"
@@ -490,7 +490,7 @@
   {
     "definition_index": 4780,
     "market_hash_name": "'Medium Rare' Crasswater | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantb2",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantb2",
     "name": "",
     "description": "",
     "rarity": "ancient"
@@ -498,7 +498,7 @@
   {
     "definition_index": 4781,
     "market_hash_name": "Trapper | Guerrilla Warfare",
-    "image_inventory": "econ/characters/customplayer_tm_jungle_raider_variantf2",
+    "image": "econ/characters/customplayer_tm_jungle_raider_variantf2",
     "name": "",
     "description": "",
     "rarity": "mythical"

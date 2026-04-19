@@ -7,7 +7,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_guardian_2",
+    "image": "econ/status_icons/collectible_pin_guardian_2",
     "tournament_event_id": 0,
     "market_hash_name": "Guardian 2 Pin"
   },
@@ -19,7 +19,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_bravo",
+    "image": "econ/status_icons/collectible_pin_bravo",
     "tournament_event_id": 0,
     "market_hash_name": "Bravo Pin"
   },
@@ -31,7 +31,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_baggage",
+    "image": "econ/status_icons/collectible_pin_baggage",
     "tournament_event_id": 0,
     "market_hash_name": "Baggage Pin"
   },
@@ -43,7 +43,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_phoenix",
+    "image": "econ/status_icons/collectible_pin_phoenix",
     "tournament_event_id": 0,
     "market_hash_name": "Phoenix Pin"
   },
@@ -55,7 +55,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_office",
+    "image": "econ/status_icons/collectible_pin_office",
     "tournament_event_id": 0,
     "market_hash_name": "Office Pin"
   },
@@ -67,7 +67,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_cobblestone",
+    "image": "econ/status_icons/collectible_pin_cobblestone",
     "tournament_event_id": 0,
     "market_hash_name": "Cobblestone Pin"
   },
@@ -79,7 +79,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_overpass",
+    "image": "econ/status_icons/collectible_pin_overpass",
     "tournament_event_id": 0,
     "market_hash_name": "Overpass Pin"
   },
@@ -91,7 +91,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_bloodhound",
+    "image": "econ/status_icons/collectible_pin_bloodhound",
     "tournament_event_id": 0,
     "market_hash_name": "Bloodhound Pin"
   },
@@ -103,7 +103,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_cache",
+    "image": "econ/status_icons/collectible_pin_cache",
     "tournament_event_id": 0,
     "market_hash_name": "Cache Pin"
   },
@@ -115,7 +115,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_valeria",
+    "image": "econ/status_icons/collectible_pin_valeria",
     "tournament_event_id": 0,
     "market_hash_name": "Valeria Phoenix Pin"
   },
@@ -127,7 +127,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_chroma",
+    "image": "econ/status_icons/collectible_pin_chroma",
     "tournament_event_id": 0,
     "market_hash_name": "Chroma Pin"
   },
@@ -139,7 +139,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_guardian_3",
+    "image": "econ/status_icons/collectible_pin_guardian_3",
     "tournament_event_id": 0,
     "market_hash_name": "Guardian 3 Pin"
   },
@@ -151,7 +151,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_canals",
+    "image": "econ/status_icons/collectible_pin_canals",
     "tournament_event_id": 0,
     "market_hash_name": "Canals Pin"
   },
@@ -163,7 +163,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_welcome_to_the_clutch",
+    "image": "econ/status_icons/collectible_pin_welcome_to_the_clutch",
     "tournament_event_id": 0,
     "market_hash_name": "Welcome to the Clutch Pin"
   },
@@ -175,7 +175,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_death_sentence",
+    "image": "econ/status_icons/collectible_pin_death_sentence",
     "tournament_event_id": 0,
     "market_hash_name": "Death Sentence Pin"
   },
@@ -187,7 +187,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_inferno_2",
+    "image": "econ/status_icons/collectible_pin_inferno_2",
     "tournament_event_id": 0,
     "market_hash_name": "Inferno 2 Pin"
   },
@@ -199,7 +199,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_wildfire",
+    "image": "econ/status_icons/collectible_pin_wildfire",
     "tournament_event_id": 0,
     "market_hash_name": "Wildfire Pin"
   },
@@ -211,7 +211,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_easy_peasy",
+    "image": "econ/status_icons/collectible_pin_easy_peasy",
     "tournament_event_id": 0,
     "market_hash_name": "Easy Peasy Pin"
   },
@@ -223,7 +223,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_aces_high",
+    "image": "econ/status_icons/collectible_pin_aces_high",
     "tournament_event_id": 0,
     "market_hash_name": "Aces High Pin"
   },
@@ -235,7 +235,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_hydra",
+    "image": "econ/status_icons/collectible_pin_hydra",
     "tournament_event_id": 0,
     "market_hash_name": "Hydra Pin"
   },
@@ -247,7 +247,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_howl",
+    "image": "econ/status_icons/collectible_pin_howl",
     "tournament_event_id": 0,
     "market_hash_name": "Howl Pin"
   },
@@ -259,7 +259,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_brigadier_general",
+    "image": "econ/status_icons/collectible_pin_brigadier_general",
     "tournament_event_id": 0,
     "market_hash_name": "Brigadier General Pin"
   },
@@ -271,7 +271,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_10",
+    "image": "econ/status_icons/collectible_pin_alyx_10",
     "tournament_event_id": 0,
     "market_hash_name": "Alyx Pin"
   },
@@ -283,7 +283,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_dust2",
+    "image": "econ/status_icons/collectible_pin_dust2",
     "tournament_event_id": 0,
     "market_hash_name": "Dust II Pin"
   },
@@ -295,7 +295,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_guardianelite",
+    "image": "econ/status_icons/collectible_pin_guardianelite",
     "tournament_event_id": 0,
     "market_hash_name": "Guardian Elite Pin"
   },
@@ -307,7 +307,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_mirage",
+    "image": "econ/status_icons/collectible_pin_mirage",
     "tournament_event_id": 0,
     "market_hash_name": "Mirage Pin"
   },
@@ -319,7 +319,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_inferno",
+    "image": "econ/status_icons/collectible_pin_inferno",
     "tournament_event_id": 0,
     "market_hash_name": "Inferno Pin"
   },
@@ -331,7 +331,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_italy",
+    "image": "econ/status_icons/collectible_pin_italy",
     "tournament_event_id": 0,
     "market_hash_name": "Italy Pin"
   },
@@ -343,7 +343,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_victory",
+    "image": "econ/status_icons/collectible_pin_victory",
     "tournament_event_id": 0,
     "market_hash_name": "Victory Pin"
   },
@@ -355,7 +355,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_militia",
+    "image": "econ/status_icons/collectible_pin_militia",
     "tournament_event_id": 0,
     "market_hash_name": "Militia Pin"
   },
@@ -367,7 +367,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_nuke",
+    "image": "econ/status_icons/collectible_pin_nuke",
     "tournament_event_id": 0,
     "market_hash_name": "Nuke Pin"
   },
@@ -379,7 +379,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_train",
+    "image": "econ/status_icons/collectible_pin_train",
     "tournament_event_id": 0,
     "market_hash_name": "Train Pin"
   },
@@ -391,7 +391,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_guardian",
+    "image": "econ/status_icons/collectible_pin_guardian",
     "tournament_event_id": 0,
     "market_hash_name": "Guardian Pin"
   },
@@ -403,7 +403,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_tactics",
+    "image": "econ/status_icons/collectible_pin_tactics",
     "tournament_event_id": 0,
     "market_hash_name": "Tactics Pin"
   },
@@ -415,7 +415,7 @@
     "prefab": "",
     "description": "",
     "rarity": "ancient",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_04",
+    "image": "econ/status_icons/collectible_pin_alyx_04",
     "tournament_event_id": 0,
     "market_hash_name": "Civil Protection Pin"
   },
@@ -427,7 +427,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_07",
+    "image": "econ/status_icons/collectible_pin_alyx_07",
     "tournament_event_id": 0,
     "market_hash_name": "Sustenance! Pin"
   },
@@ -439,7 +439,7 @@
     "prefab": "",
     "description": "",
     "rarity": "legendary",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_09",
+    "image": "econ/status_icons/collectible_pin_alyx_09",
     "tournament_event_id": 0,
     "market_hash_name": "Vortigaunt Pin"
   },
@@ -451,7 +451,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_05",
+    "image": "econ/status_icons/collectible_pin_alyx_05",
     "tournament_event_id": 0,
     "market_hash_name": "Headcrab Glyph Pin"
   },
@@ -463,7 +463,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_12",
+    "image": "econ/status_icons/collectible_pin_alyx_12",
     "tournament_event_id": 0,
     "market_hash_name": "Health Pin"
   },
@@ -475,7 +475,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_01",
+    "image": "econ/status_icons/collectible_pin_alyx_01",
     "tournament_event_id": 0,
     "market_hash_name": "Lambda Pin"
   },
@@ -487,7 +487,7 @@
     "prefab": "",
     "description": "",
     "rarity": "mythical",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_02",
+    "image": "econ/status_icons/collectible_pin_alyx_02",
     "tournament_event_id": 0,
     "market_hash_name": "Copper Lambda Pin"
   },
@@ -499,7 +499,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_03",
+    "image": "econ/status_icons/collectible_pin_alyx_03",
     "tournament_event_id": 0,
     "market_hash_name": "CMB Pin"
   },
@@ -511,7 +511,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_06",
+    "image": "econ/status_icons/collectible_pin_alyx_06",
     "tournament_event_id": 0,
     "market_hash_name": "Black Mesa Pin"
   },
@@ -523,7 +523,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_08",
+    "image": "econ/status_icons/collectible_pin_alyx_08",
     "tournament_event_id": 0,
     "market_hash_name": "Combine Helmet Pin"
   },
@@ -535,7 +535,7 @@
     "prefab": "",
     "description": "",
     "rarity": "rare",
-    "image_inventory": "econ/status_icons/collectible_pin_alyx_11",
+    "image": "econ/status_icons/collectible_pin_alyx_11",
     "tournament_event_id": 0,
     "market_hash_name": "City 17 Pin"
   }

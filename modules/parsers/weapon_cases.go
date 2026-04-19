@@ -39,33 +39,34 @@ func ParseWeaponCases(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 		definition_index, _ := strconv.Atoi(item.Key)
 		item_name, _ := item.GetString("item_name")
 		image_inventory, _ := item.GetString("image_inventory")
-		// item_description, _ := item.GetString("item_description")
-		// model_player, _ := item.GetString("model_player")
-		// first_sale_date, _ := item.GetString("first_sale_date")
+		item_description, _ := item.GetString("item_description")
+		first_sale_date, _ := item.GetString("first_sale_date")
 
 		// Get child key called "attributes"
-		// associated_items, _ := item.Get("associated_items")
+		associated_items, _ := item.Get("associated_items")
 
-		// case_key_def_idx := -1 // Default to -1 if not found
-		// if associated_items != nil {
-		// 	value := associated_items.GetChilds()[0].Key
+		case_key_def_idx := -1 // Default to -1 if not found
+		if associated_items != nil {
+			value := associated_items.GetChilds()[0].Key
 
-		// 	if value != "" {
-		// 		case_key_def_idx, _ = strconv.Atoi(value)
-		// 	}
-		// }
+			if value != "" {
+				case_key_def_idx, _ = strconv.Atoi(value)
+			}
+		}
 
 		// If case_key_def_idx is still -1, we cannot find the key for this case
-		// case_key := GetWeaponCaseKeyByDefIndex(ig, case_key_def_idx)
+		case_key := GetWeaponCaseKeyByDefIndex(ig, case_key_def_idx)
 		item_set := modules.GetContainerItemSet(item, t, "ItemSet")
 
 		// Create the weapon case model
 		var current = models.WeaponCase{
 			DefinitionIndex: definition_index,
 			ImageInventory:  image_inventory,
-			// Key:            case_key,
+			Key:            case_key,
 			ItemSetId:      item_set,
 			MarketHashName: modules.GenerateMarketHashName(t, item_name, nil, "weapon_case"),
+			FirstSaleDate:  first_sale_date,
+			Description:    item_description,
 		}
 
 		weapon_cases = append(weapon_cases, current)

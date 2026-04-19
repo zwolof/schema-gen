@@ -2,239 +2,273 @@
   {
     "definition_index": 1,
     "name": "Desert Eagle",
+    "description": "As expensive as it is powerful, the Desert Eagle is an iconic pistol that is difficult to master but surprisingly accurate at long range.",
     "classname": "weapon_deagle",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_deagle"
+    "image": "econ/weapons/base_weapons/weapon_deagle"
   },
   {
     "definition_index": 2,
     "name": "Dual Berettas",
+    "description": "Firing two large-mag Berettas at once will lower accuracy and increase load times. On the bright side, you'll get to fire two large-mag Berettas at once.",
     "classname": "weapon_elite",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_elite"
+    "image": "econ/weapons/base_weapons/weapon_elite"
   },
   {
     "definition_index": 3,
     "name": "Five-SeveN",
+    "description": "Highly accurate and armor-piercing, the pricy Five-Seven is a slow-loader that compensates with a generous 20-round magazine and forgiving recoil.",
     "classname": "weapon_fiveseven",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_fiveseven"
+    "image": "econ/weapons/base_weapons/weapon_fiveseven"
   },
   {
     "definition_index": 4,
     "name": "Glock-18",
+    "description": "The Glock 18 is a serviceable first-round pistol that works best against unarmored opponents and is capable of firing three-round bursts.",
     "classname": "weapon_glock",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_glock"
+    "image": "econ/weapons/base_weapons/weapon_glock"
   },
   {
     "definition_index": 32,
     "name": "P2000",
+    "description": "Accurate and controllable, the German-made P2000 is a serviceable first-round pistol that works best against unarmored opponents.",
     "classname": "weapon_hkp2000",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_hkp2000"
+    "image": "econ/weapons/base_weapons/weapon_hkp2000"
   },
   {
     "definition_index": 36,
     "name": "P250",
+    "description": "A low-recoil firearm with a high rate of fire, the P250 is a relatively inexpensive choice against armored opponents.",
     "classname": "weapon_p250",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_p250"
+    "image": "econ/weapons/base_weapons/weapon_p250"
   },
   {
     "definition_index": 63,
     "name": "CZ75-Auto",
+    "description": "A fully automatic variant of the CZ75, the CZ75-Auto is the ideal short-term choice for turning the tables and gaining your opponents weapon. But with very little ammo in the magazine, strong trigger discipline is required.",
     "classname": "weapon_cz75a",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_cz75a"
+    "image": "econ/weapons/base_weapons/weapon_cz75a"
   },
   {
     "definition_index": 30,
     "name": "Tec-9",
+    "description": "An ideal pistol for the Terrorist on the move, the Tec-9 is lethal in close quarters and features a high magazine capacity.",
     "classname": "weapon_tec9",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_tec9"
+    "image": "econ/weapons/base_weapons/weapon_tec9"
   },
   {
     "definition_index": 26,
     "name": "PP-Bizon",
+    "description": "The Bizon SMG is low-damage, but offers a uniquely designed high-capacity drum magazine that reloads quickly.",
     "classname": "weapon_bizon",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_bizon"
+    "image": "econ/weapons/base_weapons/weapon_bizon"
   },
   {
     "definition_index": 17,
     "name": "MAC-10",
+    "description": "Essentially a box that bullets come out of, the MAC-10 SMG boasts a high rate of fire, with poor spread accuracy and high recoil as trade-offs.",
     "classname": "weapon_mac10",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_mac10"
+    "image": "econ/weapons/base_weapons/weapon_mac10"
   },
   {
     "definition_index": 33,
     "name": "MP7",
+    "description": "Versatile but expensive, the German-made MP7 SMG is the perfect choice for high-impact close-range combat.",
     "classname": "weapon_mp7",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_mp7"
+    "image": "econ/weapons/base_weapons/weapon_mp7"
   },
   {
     "definition_index": 23,
     "name": "MP5-SD",
+    "description": "Often imitated but never equaled, the iconic MP5 is perhaps the most versatile and popular SMG in the world. This SD variant features an integrated silencer, making an already formidable weapon whisper-quiet.",
     "classname": "weapon_mp5sd",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_mp5sd"
+    "image": "econ/weapons/base_weapons/weapon_mp5sd"
   },
   {
     "definition_index": 34,
     "name": "MP9",
+    "description": "Manufactured in Switzerland, the cutting-edge MP9 SMG is an ergonomic polymer weapon favored by private security firms.",
     "classname": "weapon_mp9",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_mp9"
+    "image": "econ/weapons/base_weapons/weapon_mp9"
   },
   {
     "definition_index": 19,
     "name": "P90",
+    "description": "Easily recognizable for its unique bullpup design, the P90 is a great weapon to shoot on the move due to its high-capacity magazine and low recoil.",
     "classname": "weapon_p90",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_p90"
+    "image": "econ/weapons/base_weapons/weapon_p90"
   },
   {
     "definition_index": 24,
     "name": "UMP-45",
+    "description": "The misunderstood middle child of the SMG family, the UMP45's small magazine is the only drawback to an otherwise versatile close-quarters automatic.",
     "classname": "weapon_ump45",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_ump45"
+    "image": "econ/weapons/base_weapons/weapon_ump45"
   },
   {
     "definition_index": 7,
     "name": "AK-47",
+    "description": "Powerful and reliable, the AK-47 is one of the most popular assault rifles in the world. It is most deadly in short, controlled bursts of fire.",
     "classname": "weapon_ak47",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_ak47"
+    "image": "econ/weapons/base_weapons/weapon_ak47"
   },
   {
     "definition_index": 8,
     "name": "AUG",
+    "description": "Powerful and accurate, the AUG scoped assault rifle compensates for its long reload times with low spread and a high rate of fire.",
     "classname": "weapon_aug",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_aug"
+    "image": "econ/weapons/base_weapons/weapon_aug"
   },
   {
     "definition_index": 10,
     "name": "FAMAS",
+    "description": "A cheap option for cash-strapped players, the FAMAS effectively fills the niche between more expensive rifles and the less-effective SMGs.",
     "classname": "weapon_famas",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_famas"
+    "image": "econ/weapons/base_weapons/weapon_famas"
   },
   {
     "definition_index": 13,
     "name": "Galil AR",
+    "description": "A less expensive option among the terrorist-exclusive assault rifles, the Galil AR is a serviceable weapon in medium to long-range combat.",
     "classname": "weapon_galilar",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_galilar"
+    "image": "econ/weapons/base_weapons/weapon_galilar"
   },
   {
     "definition_index": 16,
     "name": "M4A4",
+    "description": "More accurate but less damaging than its AK-47 counterpart, the M4A4 is the full-auto assault rifle of choice for CTs.",
     "classname": "weapon_m4a1",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_m4a1"
+    "image": "econ/weapons/base_weapons/weapon_m4a1"
   },
   {
     "definition_index": 39,
     "name": "SG 553",
+    "description": "The terrorist-exclusive SG553 is a premium scoped alternative to the AK47 for effective long-range engagement.",
     "classname": "weapon_sg556",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_sg556"
+    "image": "econ/weapons/base_weapons/weapon_sg556"
   },
   {
     "definition_index": 9,
     "name": "AWP",
+    "description": "High risk and high reward, the infamous AWP is recognizable by its signature report and one-shot, one-kill policy.",
     "classname": "weapon_awp",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_awp"
+    "image": "econ/weapons/base_weapons/weapon_awp"
   },
   {
     "definition_index": 11,
     "name": "G3SG1",
+    "description": "The pricy G3SG1 lowers movement speed considerably but compensates with a higher rate of fire than other sniper rifles.",
     "classname": "weapon_g3sg1",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_g3sg1"
+    "image": "econ/weapons/base_weapons/weapon_g3sg1"
   },
   {
     "definition_index": 38,
     "name": "SCAR-20",
+    "description": "The SCAR-20 is a semi-automatic sniper rifle that trades a high rate of fire and powerful long-distance damage for sluggish movement speed and big price tag.",
     "classname": "weapon_scar20",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_scar20"
+    "image": "econ/weapons/base_weapons/weapon_scar20"
   },
   {
     "definition_index": 40,
     "name": "SSG 08",
+    "description": "The SSG08 bolt-action is a low-damage but very cost-effective sniper rifle, making it a smart choice for early-round long-range marksmanship.",
     "classname": "weapon_ssg08",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_ssg08"
+    "image": "econ/weapons/base_weapons/weapon_ssg08"
   },
   {
     "definition_index": 27,
     "name": "MAG-7",
+    "description": "The CT-exclusive Mag-7 delivers a devastating amount of damage at close range. Its rapid magazine-style reloads make it a great tactical choice.",
     "classname": "weapon_mag7",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_mag7"
+    "image": "econ/weapons/base_weapons/weapon_mag7"
   },
   {
     "definition_index": 35,
     "name": "Nova",
+    "description": "The Nova's rock-bottom price tag makes it a great ambush weapon for a cash-strapped team.",
     "classname": "weapon_nova",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_nova"
+    "image": "econ/weapons/base_weapons/weapon_nova"
   },
   {
     "definition_index": 29,
     "name": "Sawed-Off",
+    "description": "The classic Sawed-Off deals very heavy close-range damage, but with its low accuracy, high spread and slow rate of fire, you'd better kill what you hit.",
     "classname": "weapon_sawedoff",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_sawedoff"
+    "image": "econ/weapons/base_weapons/weapon_sawedoff"
   },
   {
     "definition_index": 25,
     "name": "XM1014",
+    "description": "The XM1014 is a powerful fully automatic shotgun that justifies its heftier price tag with the ability to paint a room with lead fast.",
     "classname": "weapon_xm1014",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_xm1014"
+    "image": "econ/weapons/base_weapons/weapon_xm1014"
   },
   {
     "definition_index": 14,
     "name": "M249",
+    "description": "A strong open-area LMG, the M249 is the perfect choice for players willing to trade a slow fire rate for increased accuracy and a high ammo capacity.",
     "classname": "weapon_m249",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_m249"
+    "image": "econ/weapons/base_weapons/weapon_m249"
   },
   {
     "definition_index": 28,
     "name": "Negev",
+    "description": "The Negev is a beast that can keep the enemy at bay with its pin-point supressive fire, provided you have the luxury of time to gain control over it.",
     "classname": "weapon_negev",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_negev"
+    "image": "econ/weapons/base_weapons/weapon_negev"
   },
   {
     "definition_index": 60,
     "name": "M4A1-S",
+    "description": "With a smaller magazine than its unmuffled counterpart, the silenced M4A1 provides quieter shots with less recoil and better accuracy.",
     "classname": "weapon_m4a1_silencer",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_m4a1_silencer"
+    "image": "econ/weapons/base_weapons/weapon_m4a1_silencer"
   },
   {
     "definition_index": 61,
     "name": "USP-S",
+    "description": "A fan favorite from Counter-Strike Source, the Silenced USP Pistol has a detachable silencer that gives shots less recoil while suppressing attention-getting noise.",
     "classname": "weapon_usp_silencer",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_usp_silencer"
+    "image": "econ/weapons/base_weapons/weapon_usp_silencer"
   },
   {
     "definition_index": 64,
     "name": "R8 Revolver",
+    "description": "The R8 Revolver delivers a highly accurate and powerful round at the expense of a lengthy trigger-pull. Firing rapidly by fanning the hammer may be the best option when point-blank stopping power is required.",
     "classname": "weapon_revolver",
     "sticker_count": 5,
-    "image_inventory": "econ/weapons/base_weapons/weapon_revolver"
+    "image": "econ/weapons/base_weapons/weapon_revolver"
   }
 ]

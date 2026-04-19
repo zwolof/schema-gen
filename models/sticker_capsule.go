@@ -5,6 +5,6 @@ type StickerCapsule struct {
 	Name            string  `json:"name"`
 	MarketHashName  string  `json:"market_hash_name"`
 	ItemDescription string  `json:"item_description"`
-	ImageInventory  string  `json:"image_inventory"`
+	ImageInventory  string  `json:"image"`
 	ItemSetId       *string `json:"item_set_id"`
 }

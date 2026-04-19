@@ -57,6 +57,7 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 		}
 
 		item_name, _ := w.GetString("item_name")
+		item_description, _ := w.GetString("item_description")
 		image_inventory, _ := w.GetString("image_inventory")
 		max_num_stickers, _ := game_info.GetInt("max_num_stickers")
 
@@ -66,9 +67,16 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 			translated_name = item_name // Fallback to original if translation fails
 		}
 
+		translated_description, err := t.GetValueByKey(item_description)
+		if err != nil {
+			logger.Error().Err(err).Msgf("Failed to translate item description for weapon %s", item_description)
+			translated_description = item_description // Fallback to original if translation fails
+		}
+
 		current := models.BaseWeapon{
 			DefinitionIndex: def_idx,
 			Name:            translated_name,
+			Description:     translated_description,
 			ClassName:       item_class,
 			ImageInventory:  image_inventory,
 			NumStickers:     max_num_stickers,

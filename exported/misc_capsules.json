@@ -4,7 +4,7 @@
     "name": "crate_xray_p250",
     "market_hash_name": "X-Ray P250 Package",
     "item_description": "#CSGO_crate_xray_p250_desc",
-    "image_inventory": "econ/weapon_cases/crate_xray_p250",
+    "image": "econ/weapon_cases/crate_xray_p250",
     "item_set_id": "set_xraymachine"
   },
   {
@@ -12,7 +12,7 @@
     "name": "crate_sprays_community_1",
     "market_hash_name": "Community Graffiti Box 1",
     "item_description": "#CSGO_crate_sprays_community_1_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_pack_community_1",
+    "image": "econ/weapon_cases/crate_spray_pack_community_1",
     "item_set_id": "crate_sprays_community_1_lootlist"
   },
   {
@@ -20,7 +20,7 @@
     "name": "crate_sprays_vcap1",
     "market_hash_name": "CS:GO Graffiti Box",
     "item_description": "#CSGO_crate_sprays_vcap1_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_pack_valve_1",
+    "image": "econ/weapon_cases/crate_spray_pack_valve_1",
     "item_set_id": "crate_sprays_vcap1_lootlist"
   },
   {
@@ -28,7 +28,7 @@
     "name": "crate_musickit_radicals_stattrak_capsule",
     "market_hash_name": "StatTrak™ Radicals Box",
     "item_description": "#CSGO_crate_musickit_radicals_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_radicals_capsule",
+    "image": "econ/weapon_cases/crate_musickit_radicals_capsule",
     "item_set_id": "crate_musickit_radicals_stattrak_capsule_lootlist"
   },
   {
@@ -36,7 +36,7 @@
     "name": "crate_musickit_masterminds_capsule",
     "market_hash_name": "Masterminds Music Kit Box",
     "item_description": "#CSGO_crate_musickit_masterminds_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_capsule",
+    "image": "econ/weapon_cases/crate_musickit_masterminds_capsule",
     "item_set_id": "crate_musickit_masterminds_capsule_lootlist"
   },
   {
@@ -44,7 +44,7 @@
     "name": "crate_musickit_masterminds_stattrak_capsule",
     "market_hash_name": "StatTrak™ Masterminds Music Kit Box",
     "item_description": "#CSGO_crate_musickit_masterminds_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_masterminds_stattrak_capsule",
     "item_set_id": "crate_musickit_masterminds_stattrak_capsule_lootlist"
   },
   {
@@ -52,7 +52,7 @@
     "name": "crate_musickit_tacticians_capsule",
     "market_hash_name": "Tacticians Music Kit Box",
     "item_description": "#CSGO_crate_musickit_tacticians_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_capsule",
+    "image": "econ/weapon_cases/crate_musickit_tacticians_capsule",
     "item_set_id": "crate_musickit_tacticians_capsule_lootlist"
   },
   {
@@ -60,7 +60,7 @@
     "name": "crate_musickit_tacticians_stattrak_capsule",
     "market_hash_name": "StatTrak™ Tacticians Music Kit Box",
     "item_description": "#CSGO_crate_musickit_tacticians_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_tacticians_stattrak_capsule",
     "item_set_id": "crate_musickit_tacticians_stattrak_capsule_lootlist"
   },
   {
@@ -68,7 +68,7 @@
     "name": "crate_musickit_initiators_capsule",
     "market_hash_name": "Initiators Music Kit Box",
     "item_description": "#CSGO_crate_musickit_initiators_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_capsule",
+    "image": "econ/weapon_cases/crate_musickit_initiators_capsule",
     "item_set_id": "crate_musickit_initiators_capsule_lootlist"
   },
   {
@@ -76,7 +76,7 @@
     "name": "crate_musickit_initiators_stattrak_capsule",
     "market_hash_name": "StatTrak™ Initiators Music Kit Box",
     "item_description": "#CSGO_crate_musickit_initiators_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_initiators_stattrak_capsule",
     "item_set_id": "crate_musickit_initiators_stattrak_capsule_lootlist"
   },
   {
@@ -84,7 +84,7 @@
     "name": "crate_musickit_nightmode_capsule",
     "market_hash_name": "NIGHTMODE Music Kit Box",
     "item_description": "#CSGO_crate_musickit_nightmode_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_capsule",
+    "image": "econ/weapon_cases/crate_musickit_nightmode_capsule",
     "item_set_id": "crate_musickit_nightmode_capsule_lootlist"
   },
   {
@@ -92,7 +92,7 @@
     "name": "crate_musickit_nightmode_stattrak_capsule",
     "market_hash_name": "StatTrak™ NIGHTMODE Music Kit Box",
     "item_description": "#CSGO_crate_musickit_nightmode_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_nightmode_stattrak_capsule",
     "item_set_id": "crate_musickit_nightmode_stattrak_capsule_lootlist"
   },
   {
@@ -100,7 +100,7 @@
     "name": "crate_sprays_illuminate1",
     "market_hash_name": "Perfect World Graffiti Box",
     "item_description": "#CSGO_crate_sprays_illuminate1_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_pack_illuminate_1",
+    "image": "econ/weapon_cases/crate_spray_pack_illuminate_1",
     "item_set_id": "crate_sprays_illuminate1_lootlist"
   },
   {
@@ -108,7 +108,7 @@
     "name": "selfopeningitem_crate_spray_std2_1",
     "market_hash_name": "CS:GO Graffiti #2 Collection",
     "item_description": "#CSGO_crate_spray_std2_1_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_std2",
+    "image": "econ/weapon_cases/crate_spray_std2",
     "item_set_id": "csgo_spray_std2_drops_1"
   },
   {
@@ -116,7 +116,7 @@
     "name": "selfopeningitem_crate_spray_std2_2",
     "market_hash_name": "Trolling Graffiti Collection",
     "item_description": "#CSGO_crate_spray_std2_2_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_std2",
+    "image": "econ/weapon_cases/crate_spray_std2",
     "item_set_id": "csgo_spray_std2_drops_2"
   },
   {
@@ -124,7 +124,7 @@
     "name": "selfopeningitem_crate_spray_std3",
     "market_hash_name": "CS:GO Graffiti #3 Collection",
     "item_description": "#CSGO_crate_spray_std3_desc",
-    "image_inventory": "econ/weapon_cases/crate_spray_std3",
+    "image": "econ/weapon_cases/crate_spray_std3",
     "item_set_id": "csgo_spray_std3_drops"
   },
   {
@@ -132,7 +132,7 @@
     "name": "crate_patch_pack01",
     "market_hash_name": "CS:GO Patch Pack",
     "item_description": "#CSGO_crate_patch_pack01_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack01",
+    "image": "econ/weapon_cases/crate_patch_pack01",
     "item_set_id": "crate_patch_pack01"
   },
   {
@@ -140,7 +140,7 @@
     "name": "crate_patch_pack02",
     "market_hash_name": "Metal Skill Group Patch Collection",
     "item_description": "#CSGO_crate_patch_pack02_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack02",
+    "image": "econ/weapon_cases/crate_patch_pack02",
     "item_set_id": "crate_patch_pack02"
   },
   {
@@ -148,7 +148,7 @@
     "name": "crate_patch_pack03",
     "market_hash_name": "Operation Riptide Patch Collection",
     "item_description": "#CSGO_crate_patch_pack03_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack03",
+    "image": "econ/weapon_cases/crate_patch_pack03",
     "item_set_id": "crate_patch_pack03"
   },
   {
@@ -156,7 +156,7 @@
     "name": "crate_patch_pack_hlalyx",
     "market_hash_name": "Half-Life: Alyx Patch Pack",
     "item_description": "#CSGO_crate_patch_pack_hlalyx_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack_hlalyx",
+    "image": "econ/weapon_cases/crate_patch_pack_hlalyx",
     "item_set_id": "crate_patch_pack_hlalyx"
   },
   {
@@ -164,7 +164,7 @@
     "name": "crate_anubis_storepromo",
     "market_hash_name": "Anubis Collection Package",
     "item_description": "",
-    "image_inventory": "econ/weapon_cases/crate_anubis_storepromo",
+    "image": "econ/weapon_cases/crate_anubis_storepromo",
     "item_set_id": "set_anubis"
   },
   {
@@ -172,7 +172,7 @@
     "name": "crate_patch_pack_stockh2021_legends",
     "market_hash_name": "Stockholm 2021 Legends Patch Pack",
     "item_description": "#CSGO_crate_patch_pack_stockh2021_legends_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_legends",
+    "image": "econ/weapon_cases/crate_patch_pack_stockh2021_legends",
     "item_set_id": "crate_patch_pack_stockh2021_legends_collection"
   },
   {
@@ -180,7 +180,7 @@
     "name": "crate_patch_pack_stockh2021_challengers",
     "market_hash_name": "Stockholm 2021 Challengers Patch Pack",
     "item_description": "#CSGO_crate_patch_pack_stockh2021_challengers_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers",
+    "image": "econ/weapon_cases/crate_patch_pack_stockh2021_challengers",
     "item_set_id": "crate_patch_pack_stockh2021_challengers_collection"
   },
   {
@@ -188,7 +188,7 @@
     "name": "crate_patch_pack_stockh2021_contenders",
     "market_hash_name": "Stockholm 2021 Contenders Patch Pack",
     "item_description": "#CSGO_crate_patch_pack_stockh2021_contenders_desc",
-    "image_inventory": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders",
+    "image": "econ/weapon_cases/crate_patch_pack_stockh2021_contenders",
     "item_set_id": "crate_patch_pack_stockh2021_contenders_collection"
   },
   {
@@ -196,7 +196,7 @@
     "name": "crate_musickit_masterminds2_capsule",
     "market_hash_name": "Masterminds 2 Music Kit Box",
     "item_description": "#CSGO_crate_musickit_masterminds2_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_capsule",
+    "image": "econ/weapon_cases/crate_musickit_masterminds2_capsule",
     "item_set_id": "crate_musickit_masterminds2_capsule_lootlist"
   },
   {
@@ -204,7 +204,7 @@
     "name": "crate_musickit_masterminds2_stattrak_capsule",
     "market_hash_name": "StatTrak™ Masterminds 2 Music Kit Box",
     "item_description": "#CSGO_crate_musickit_masterminds2_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_masterminds2_stattrak_capsule",
     "item_set_id": "crate_musickit_masterminds2_stattrak_capsule_lootlist"
   },
   {
@@ -212,7 +212,7 @@
     "name": "crate_musickit_deluge_capsule",
     "market_hash_name": "Deluge Music Kit Box",
     "item_description": "#CSGO_crate_musickit_deluge_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_capsule",
+    "image": "econ/weapon_cases/crate_musickit_deluge_capsule",
     "item_set_id": "crate_musickit_deluge_capsule_lootlist"
   },
   {
@@ -220,7 +220,7 @@
     "name": "crate_musickit_deluge_stattrak_capsule",
     "market_hash_name": "StatTrak™ Deluge Music Kit Box",
     "item_description": "#CSGO_crate_musickit_deluge_stattrak_capsule_desc",
-    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule",
+    "image": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule",
     "item_set_id": "crate_musickit_deluge_stattrak_capsule_lootlist"
   }
 ]

@@ -14,9 +14,10 @@ type Localization struct {
 type BaseWeapon struct {
 	DefinitionIndex int    `json:"definition_index"`
 	Name            string `json:"name"`
+	Description	 string `json:"description"`
 	ClassName       string `json:"classname"`
 	NumStickers     int    `json:"sticker_count"`
-	ImageInventory  string `json:"image_inventory"`
+	ImageInventory  string `json:"image"`
 
 	// ItemName        string `json:"item_name"`
 	// ItemDescription string `json:"item_description"`
@@ -125,7 +126,7 @@ type Rarity struct {
 type MusicKit struct {
 	DefinitionIndex int    `json:"definition_index"`
 	Name            string `json:"name"`
-	ImageInventory  string `json:"image_inventory"`
+	ImageInventory  string `json:"image"`
 	MarketHashName  string `json:"market_hash_name"`
 
 	ItemName string `json:"item_name"`
@@ -140,7 +141,7 @@ type Keychain struct {
 
 	Rarity          string `json:"rarity"`
 	Quality         string `json:"quality"`
-	ImageInventory  string `json:"image_inventory"`
+	ImageInventory  string `json:"image"`
 	Model           string `json:"display_model"`
 	IsCommodity       bool   `json:"is_commodity"`
 	IsSpecialCharm	bool   `json:"is_special_charm"`
@@ -168,7 +169,7 @@ type HighlightReel struct {
 type PlayerAgent struct {
 	DefinitionIndex int    `json:"definition_index"`
 	MarketHashName  string `json:"market_hash_name"`
-	ImageInventory  string `json:"image_inventory"`
+	ImageInventory  string `json:"image"`
 	Name            string `json:"name"`
 	Description     string `json:"description"`
 	Rarity          string `json:"rarity"`
@@ -186,14 +187,14 @@ type WeaponCaseKey struct {
 	ItemDescription string `json:"item_description"`
 	FirstSaleDate   string `json:"first_sale_date"`
 	Prefab          string `json:"prefab"`
-	ImageInventory  string `json:"image_inventory"`
+	ImageInventory  string `json:"image"`
 }
 
 type WeaponCase struct {
 	DefinitionIndex int            `json:"definition_index"`
 	Name            string         `json:"name"`
 	MarketHashName  string         `json:"market_hash_name"`
-	ImageInventory  string         `json:"image_inventory"`
+	ImageInventory  string         `json:"image"`
 	ItemSetId       *string        `json:"item_set_id"`
 	Key             *WeaponCaseKey `json:"key"`
 
@@ -206,7 +207,7 @@ type WeaponCase struct {
 type SouvenirPackage struct {
 	DefinitionIndex int             `json:"definition_index"`
 	MarketHashName  string          `json:"market_hash_name"`
-	ImageInventory  string          `json:"image_inventory"`
+	ImageInventory  string          `json:"image"`
 	KeychainSetId   *string         `json:"keychain_set_id"`
 	ItemSetId       *string         `json:"item_set_id"`
 	Tournament      *TournamentData `json:"tournament"`
@@ -229,7 +230,7 @@ type Collectible struct {
 	Prefab            string `json:"prefab"`
 	Description       string `json:"description"`
 	Rarity            string `json:"rarity"`
-	ImageInventory    string `json:"image_inventory"`
+	ImageInventory    string `json:"image"`
 	TournamentEventId int    `json:"tournament_event_id"`
 	MarketHashName    string `json:"market_hash_name"`
 }
@@ -239,6 +240,7 @@ type Collection struct {
 	Name        string `json:"name"`
 	HasCrate    bool   `json:"has_crate"`
 	HasSouvenir bool   `json:"has_souvenir"`
+	Image       string `json:"image"`
 }
 
 type ItemSetCollectionMap struct {

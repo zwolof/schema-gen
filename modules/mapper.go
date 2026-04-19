@@ -103,7 +103,7 @@ func GetWeaponPaintKits(
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
 				Rarity:          pk.Rarity,
-				Image:           fmt.Sprintf("%s_%s", weapon.ClassName, pk.Name),
+				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", weapon.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
 				Souvenir:        pk.Souvenir,

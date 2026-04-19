@@ -2,6 +2,7 @@ package parsers
 
 import (
 	"context"
+	"fmt"
 	"strings"
 	"time"
 
@@ -41,6 +42,7 @@ func ParseCollections(
 		current := models.Collection{
 			Key:  s.Key,
 			Name: modules.GenerateMarketHashName(t, name, nil, "collection"),
+			Image: fmt.Sprintf("econ/set_icons/%s", s.Key),
 		}
 
 		// Check if any weapon case matches this item set
