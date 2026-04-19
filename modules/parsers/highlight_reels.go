@@ -51,6 +51,7 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 			TeamOne:  team1, // This is the opposing team
 		}
 
+		reel_title, _ := t.GetValueByKey("HighlightReel_" + id)
 		reel_description, _ := t.GetValueByKey("HighlightDesc_" + id)
 
 		tournament := modules.GetTournamentData(t, tournament_event_id_int)
@@ -62,6 +63,7 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 			Map:             map_name,
 			MarketHashName:  modules.GenerateHighlightReelMarketHashName(t, id, tournament_event_id_int),
 			ReelDescription: reel_description,
+			ReelTitle:       reel_title,
 			Teams:           teams,
 			VideoUrl:        modules.GenerateHighlightReelVideoURL(id, map_name, tournament_event_id_int, tournament_event_stage_id_int, team0_id, team1_id, "ww"),
 		}
