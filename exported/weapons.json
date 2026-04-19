@@ -270,5 +270,13 @@
     "classname": "weapon_revolver",
     "sticker_count": 5,
     "image": "econ/weapons/base_weapons/weapon_revolver"
+  },
+  {
+    "definition_index": 31,
+    "name": "Zeus x27",
+    "description": "Perfect for close-range ambushes and enclosed area encounters, the rechargeable x27 Zeus is capable of incapacitating an enemy in a single hit.",
+    "classname": "weapon_taser",
+    "sticker_count": 5,
+    "image": "econ/weapons/base_weapons/weapon_taser"
   }
 ]

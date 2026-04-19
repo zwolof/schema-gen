@@ -1518,7 +1518,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_museum",
     "tournament_event_id": 0,
     "market_hash_name": "Museum Map Coin"
@@ -1530,7 +1530,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_downtown",
     "tournament_event_id": 0,
     "market_hash_name": "Downtown Map Coin"
@@ -1542,7 +1542,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_thunder",
     "tournament_event_id": 0,
     "market_hash_name": "Thunder Map Coin"
@@ -1554,7 +1554,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_favela",
     "tournament_event_id": 0,
     "market_hash_name": "Favela Map Coin"
@@ -1566,7 +1566,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_motel",
     "tournament_event_id": 0,
     "market_hash_name": "Motel Map Coin"
@@ -1578,7 +1578,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_seaside",
     "tournament_event_id": 0,
     "market_hash_name": "Seaside Map Coin"
@@ -1590,7 +1590,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_library",
     "tournament_event_id": 0,
     "market_hash_name": "Library Map Coin"
@@ -1638,7 +1638,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_agency",
     "tournament_event_id": 0,
     "market_hash_name": "Agency Map Coin"
@@ -1650,7 +1650,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_ali",
     "tournament_event_id": 0,
     "market_hash_name": "Ali Map Coin"
@@ -1662,7 +1662,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_cache",
     "tournament_event_id": 0,
     "market_hash_name": "Cache Map Coin"
@@ -1674,7 +1674,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_chinatown",
     "tournament_event_id": 0,
     "market_hash_name": "Chinatown Map Coin"
@@ -1686,7 +1686,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_gwalior",
     "tournament_event_id": 0,
     "market_hash_name": "Gwalior Map Coin"
@@ -1698,7 +1698,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_ruins",
     "tournament_event_id": 0,
     "market_hash_name": "Ruins Map Coin"
@@ -1710,7 +1710,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_siege",
     "tournament_event_id": 0,
     "market_hash_name": "Siege Map Coin"
@@ -1794,7 +1794,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_castle",
     "tournament_event_id": 0,
     "market_hash_name": "Castle Map Coin"
@@ -1806,7 +1806,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_blackgold",
     "tournament_event_id": 0,
     "market_hash_name": "Black Gold Map Coin"
@@ -1818,7 +1818,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_rush",
     "tournament_event_id": 0,
     "market_hash_name": "Rush Map Coin"
@@ -1830,7 +1830,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_mist",
     "tournament_event_id": 0,
     "market_hash_name": "Mist Map Coin"
@@ -1842,7 +1842,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_insertion",
     "tournament_event_id": 0,
     "market_hash_name": "Insertion Map Coin"
@@ -1854,7 +1854,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_overgrown",
     "tournament_event_id": 0,
     "market_hash_name": "Overgrown Map Coin"
@@ -1866,7 +1866,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_marquis",
     "tournament_event_id": 0,
     "market_hash_name": "Marquis Map Coin"
@@ -1878,7 +1878,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_workout",
     "tournament_event_id": 0,
     "market_hash_name": "Workout Map Coin"
@@ -1890,7 +1890,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_backalley",
     "tournament_event_id": 0,
     "market_hash_name": "Backalley Map Coin"
@@ -1902,7 +1902,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_season",
     "tournament_event_id": 0,
     "market_hash_name": "Season Map Coin"
@@ -1914,7 +1914,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_bazaar",
     "tournament_event_id": 0,
     "market_hash_name": "Bazaar Map Coin"
@@ -1926,7 +1926,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_facade",
     "tournament_event_id": 0,
     "market_hash_name": "Facade Map Coin"
@@ -1938,7 +1938,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_log",
     "tournament_event_id": 0,
     "market_hash_name": "Log Map Coin"
@@ -1950,7 +1950,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_rails",
     "tournament_event_id": 0,
     "market_hash_name": "Rails Map Coin"
@@ -1962,7 +1962,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_resort",
     "tournament_event_id": 0,
     "market_hash_name": "Resort Map Coin"
@@ -1974,7 +1974,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_zoo",
     "tournament_event_id": 0,
     "market_hash_name": "Zoo Map Coin"
@@ -1986,7 +1986,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_santorini",
     "tournament_event_id": 0,
     "market_hash_name": "Santorini Map Coin"
@@ -1998,7 +1998,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_coast",
     "tournament_event_id": 0,
     "market_hash_name": "Coast Map Coin"
@@ -2010,7 +2010,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_mikla",
     "tournament_event_id": 0,
     "market_hash_name": "Mikla Map Coin"
@@ -2022,7 +2022,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_royal",
     "tournament_event_id": 0,
     "market_hash_name": "Royal Map Coin"
@@ -2034,7 +2034,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_empire",
     "tournament_event_id": 0,
     "market_hash_name": "Empire Map Coin"
@@ -2046,7 +2046,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_tulip",
     "tournament_event_id": 0,
     "market_hash_name": "Tulip Map Coin"
@@ -2058,7 +2058,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_cruise",
     "tournament_event_id": 0,
     "market_hash_name": "Cruise Map Coin"
@@ -2070,7 +2070,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_subzero",
     "tournament_event_id": 0,
     "market_hash_name": "Subzero Map Coin"
@@ -2082,7 +2082,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_biome",
     "tournament_event_id": 0,
     "market_hash_name": "Biome Map Coin"
@@ -2094,7 +2094,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_abbey",
     "tournament_event_id": 0,
     "market_hash_name": "Abbey Map Coin"
@@ -2106,7 +2106,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_ruby",
     "tournament_event_id": 0,
     "market_hash_name": "Ruby Map Coin"
@@ -2118,7 +2118,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_breach",
     "tournament_event_id": 0,
     "market_hash_name": "Breach Map Coin"
@@ -2130,7 +2130,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_studio",
     "tournament_event_id": 0,
     "market_hash_name": "Studio Map Coin"
@@ -2142,7 +2142,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_jungle",
     "tournament_event_id": 0,
     "market_hash_name": "Jungle Map Coin"
@@ -2154,7 +2154,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_anubis",
     "tournament_event_id": 0,
     "market_hash_name": "Anubis Map Coin"
@@ -2166,7 +2166,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_chlorine",
     "tournament_event_id": 0,
     "market_hash_name": "Chlorine Map Coin"
@@ -2178,7 +2178,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_mutiny",
     "tournament_event_id": 0,
     "market_hash_name": "Mutiny Map Coin"
@@ -2190,7 +2190,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_swamp",
     "tournament_event_id": 0,
     "market_hash_name": "Swamp Map Coin"
@@ -2202,7 +2202,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_frostbite",
     "tournament_event_id": 0,
     "market_hash_name": "Frostbite Map Coin"
@@ -2214,7 +2214,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_engage",
     "tournament_event_id": 0,
     "market_hash_name": "Engage Map Coin"
@@ -2226,7 +2226,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_apollo",
     "tournament_event_id": 0,
     "market_hash_name": "Apollo Map Coin"
@@ -2238,7 +2238,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_guard",
     "tournament_event_id": 0,
     "market_hash_name": "Guard Map Coin"
@@ -2250,7 +2250,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_elysion",
     "tournament_event_id": 0,
     "market_hash_name": "Elysion Map Coin"
@@ -2262,7 +2262,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_grind",
     "tournament_event_id": 0,
     "market_hash_name": "Grind Map Coin"
@@ -2274,7 +2274,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_mocha",
     "tournament_event_id": 0,
     "market_hash_name": "Mocha Map Coin"
@@ -2286,7 +2286,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_calavera",
     "tournament_event_id": 0,
     "market_hash_name": "Calavera Map Coin"
@@ -2298,7 +2298,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_pitstop",
     "tournament_event_id": 0,
     "market_hash_name": "Pitstop Map Coin"
@@ -2310,7 +2310,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_basalt",
     "tournament_event_id": 0,
     "market_hash_name": "Basalt Map Coin"
@@ -2322,7 +2322,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_insertion2",
     "tournament_event_id": 0,
     "market_hash_name": "Insertion II Map Coin"
@@ -2334,7 +2334,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_ravine",
     "tournament_event_id": 0,
     "market_hash_name": "Ravine Map Coin"
@@ -2346,7 +2346,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_extraction",
     "tournament_event_id": 0,
     "market_hash_name": "Extraction Map Coin"
@@ -2358,7 +2358,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_county",
     "tournament_event_id": 0,
     "market_hash_name": "County Map Coin"
@@ -2370,7 +2370,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_iris",
     "tournament_event_id": 0,
     "market_hash_name": "Iris Map Coin"
@@ -2382,7 +2382,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_climb",
     "tournament_event_id": 0,
     "market_hash_name": "Climb Map Coin"
@@ -2394,7 +2394,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_crete",
     "tournament_event_id": 0,
     "market_hash_name": "Crete Map Coin"
@@ -2406,7 +2406,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_hive",
     "tournament_event_id": 0,
     "market_hash_name": "Hive Map Coin"
@@ -2418,7 +2418,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_vineyard",
     "tournament_event_id": 0,
     "market_hash_name": "Vineyard Map Coin"
@@ -2430,7 +2430,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_ember",
     "tournament_event_id": 0,
     "market_hash_name": "Ember Map Coin"
@@ -2442,7 +2442,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_tuscan",
     "tournament_event_id": 0,
     "market_hash_name": "Tuscan Map Coin"
@@ -2454,7 +2454,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_prime",
     "tournament_event_id": 0,
     "market_hash_name": "Cascade Map Coin"
@@ -2466,7 +2466,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_blagai",
     "tournament_event_id": 0,
     "market_hash_name": "Blagai Map Coin"
@@ -2478,7 +2478,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_boyard",
     "tournament_event_id": 0,
     "market_hash_name": "Boyard Map Coin"
@@ -2490,7 +2490,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_chalice",
     "tournament_event_id": 0,
     "market_hash_name": "Chalice Map Coin"
@@ -2502,7 +2502,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_thera",
     "tournament_event_id": 0,
     "market_hash_name": "Thera Map Coin"
@@ -2514,7 +2514,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_mills",
     "tournament_event_id": 0,
     "market_hash_name": "Mills Map Coin"
@@ -2526,7 +2526,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_assembly",
     "tournament_event_id": 0,
     "market_hash_name": "Assembly Map Coin"
@@ -2538,7 +2538,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_memento",
     "tournament_event_id": 0,
     "market_hash_name": "Memento Map Coin"
@@ -2550,7 +2550,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_poolday",
     "tournament_event_id": 0,
     "market_hash_name": "Pool Day Map Coin"
@@ -2562,7 +2562,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_whistle",
     "tournament_event_id": 0,
     "market_hash_name": "Whistle Map Coin"
@@ -2574,7 +2574,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_palais",
     "tournament_event_id": 0,
     "market_hash_name": "Palais Map Coin"
@@ -2586,7 +2586,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_edin",
     "tournament_event_id": 0,
     "market_hash_name": "Edin Map Coin"
@@ -2598,7 +2598,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_basaltcs2",
     "tournament_event_id": 0,
     "market_hash_name": "Basalt Map Coin"
@@ -2610,7 +2610,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_agencycs2",
     "tournament_event_id": 0,
     "market_hash_name": "Agency Map Coin"
@@ -2622,7 +2622,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_jura",
     "tournament_event_id": 0,
     "market_hash_name": "Jura Map Coin"
@@ -2634,7 +2634,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_grail",
     "tournament_event_id": 0,
     "market_hash_name": "Grail Map Coin"
@@ -2646,7 +2646,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_dogtown",
     "tournament_event_id": 0,
     "market_hash_name": "Dogtown Map Coin"
@@ -2658,7 +2658,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_brewery",
     "tournament_event_id": 0,
     "market_hash_name": "Brewery Map Coin"
@@ -4458,7 +4458,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_golden",
     "tournament_event_id": 0,
     "market_hash_name": "Golden Map Coin"
@@ -4470,7 +4470,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_rooftop",
     "tournament_event_id": 0,
     "market_hash_name": "Rooftop Map Coin"
@@ -4482,7 +4482,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_palacio",
     "tournament_event_id": 0,
     "market_hash_name": "Palacio Map Coin"
@@ -4494,7 +4494,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_transit",
     "tournament_event_id": 0,
     "market_hash_name": "(Redacted) Map Coin"
@@ -5010,7 +5010,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_warden",
     "tournament_event_id": 0,
     "market_hash_name": "Warden Map Coin"
@@ -5022,7 +5022,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_stronghold",
     "tournament_event_id": 0,
     "market_hash_name": "Stronghold Map Coin"
@@ -5034,7 +5034,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_alpine",
     "tournament_event_id": 0,
     "market_hash_name": "Alpine Map Coin"
@@ -5046,7 +5046,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_poseidon",
     "tournament_event_id": 0,
     "market_hash_name": "Poseidon Map Coin"
@@ -5058,7 +5058,7 @@
     "display_model": "",
     "prefab": "",
     "description": "",
-    "rarity": "",
+    "rarity": "ancient",
     "image": "econ/status_icons/maptoken_sanctum",
     "tournament_event_id": 0,
     "market_hash_name": "Sanctum Map Coin"

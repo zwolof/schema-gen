@@ -52,6 +52,11 @@ func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Tra
 		definition_index, _ := strconv.Atoi(item.Key)
 		image_inventory, _ := item.GetString("image_inventory")
 		rarity, _ := item.GetString("item_rarity")
+		prefab, _ := item.GetString("prefab")
+
+		if prefab == "map_token" {
+			rarity = "ancient"
+		}
 
 		_, hasGenuine := attendancePins[item_name]
 

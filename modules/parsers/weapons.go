@@ -52,7 +52,7 @@ func ParseWeapons(ctx context.Context, ig *models.ItemsGame, t *modules.Translat
 			continue
 		}
 		_, err := w.Get("paint_data")
-		if err != nil {
+		if err != nil && item_class != "weapon_taser" {
 			continue
 		}
 
