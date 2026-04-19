@@ -28,7 +28,7 @@ func ParseStickerSlabs(ctx context.Context, kits []models.StickerKit) map[int]st
 		if kit.StickerMaterial == "" {
 			continue
 		}
-		slabs[kit.DefinitionIndex] = fmt.Sprintf("econ/stickers/%s_1355_37.png", kit.StickerMaterial)
+		slabs[kit.DefinitionIndex] = fmt.Sprintf("econ/stickers/%s_1355_37", kit.StickerMaterial)
 	}
 
 	logger.Info().Msgf("Built '%d' sticker slab URLs in %s", len(slabs), time.Since(start))

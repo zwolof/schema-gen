@@ -2,6 +2,7 @@ package parsers
 
 import (
 	"context"
+	"fmt"
 	"strconv"
 	"time"
 
@@ -42,7 +43,7 @@ func ParseKnives(ctx context.Context, ig *models.ItemsGame, t *modules.Translato
 			DefinitionIndex: definition_index,
 			ClassName:       classname,
 			Name:            modules.GenerateMarketHashName(t, item_name, nil, "knife"),
-			ImageInventory:  image_inventory,
+			ImageInventory:  fmt.Sprintf("econ/default_generated/%s_light", image_inventory),
 		}
 
 		knives = append(knives, current)

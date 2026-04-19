@@ -2,6 +2,7 @@ package parsers
 
 import (
 	"context"
+	"fmt"
 	"strconv"
 	"strings"
 	"time"
@@ -63,6 +64,7 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 			Name:            name,
 			MarketHashName:  modules.GenerateMarketHashName(t, item_name, nil, "sticker_kit"),
 			StickerMaterial: sticker_material,
+			Image:		   fmt.Sprintf("econ/stickers/%s", sticker_material),
 			Rarity:          item_rarity,
 			Effect:          sticker_effect,
 			Type:            sticker_type,

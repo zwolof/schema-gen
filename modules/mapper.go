@@ -19,6 +19,7 @@ type WeaponSkinMap struct {
 
 type SchemaWeaponSkinMap struct {
 	Name          string                                 `json:"name"`
+	Image 	   string                                 `json:"image"`
 	StickerAmount int                                    `json:"sticker_count"`
 	Type          string                                 `json:"type"`
 	Paints        map[int]models.SchemaWeaponPaintKitMap `json:"paints"`
@@ -83,6 +84,7 @@ func GetWeaponPaintKits(
 		current := SchemaWeaponSkinMap{
 			Name:          weapon.Name,
 			StickerAmount: weapon.NumStickers,
+			Image: fmt.Sprintf("econ/default_generated/%s_light", weapon.ClassName),
 			Type:          "weapon",
 			Paints:        make(map[int]models.SchemaWeaponPaintKitMap),
 		}
@@ -186,7 +188,7 @@ func GetGlovePaintKits(
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
 				Rarity:          pk.Rarity,
-				Image:           fmt.Sprintf("%s_%s", glove.ClassName, pk.Name),
+				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", glove.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
 				Souvenir:        false,

@@ -1,6 +1,7 @@
 {
   "1": {
     "name": "Desert Eagle",
+    "image": "econ/default_generated/weapon_deagle_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -580,6 +581,7 @@
   },
   "10": {
     "name": "FAMAS",
+    "image": "econ/default_generated/weapon_famas_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -1133,6 +1135,7 @@
   },
   "11": {
     "name": "G3SG1",
+    "image": "econ/default_generated/weapon_g3sg1_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -1530,6 +1533,7 @@
   },
   "13": {
     "name": "Galil AR",
+    "image": "econ/default_generated/weapon_galilar_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -2109,6 +2113,7 @@
   },
   "14": {
     "name": "M249",
+    "image": "econ/default_generated/weapon_m249_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -2454,6 +2459,7 @@
   },
   "16": {
     "name": "M4A4",
+    "image": "econ/default_generated/weapon_m4a1_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -3098,6 +3104,7 @@
   },
   "17": {
     "name": "MAC-10",
+    "image": "econ/default_generated/weapon_mac10_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -3820,6 +3827,7 @@
   },
   "19": {
     "name": "P90",
+    "image": "econ/default_generated/weapon_p90_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -4503,6 +4511,7 @@
   },
   "2": {
     "name": "Dual Berettas",
+    "image": "econ/default_generated/weapon_elite_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -5056,6 +5065,7 @@
   },
   "23": {
     "name": "MP5-SD",
+    "image": "econ/default_generated/weapon_mp5sd_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -5375,6 +5385,7 @@
   },
   "24": {
     "name": "UMP-45",
+    "image": "econ/default_generated/weapon_ump45_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -5967,6 +5978,7 @@
   },
   "25": {
     "name": "XM1014",
+    "image": "econ/default_generated/weapon_xm1014_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -6546,6 +6558,7 @@
   },
   "26": {
     "name": "PP-Bizon",
+    "image": "econ/default_generated/weapon_bizon_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -7047,6 +7060,7 @@
   },
   "27": {
     "name": "MAG-7",
+    "image": "econ/default_generated/weapon_mag7_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -7535,6 +7549,7 @@
   },
   "28": {
     "name": "Negev",
+    "image": "econ/default_generated/weapon_negev_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -7867,6 +7882,7 @@
   },
   "29": {
     "name": "Sawed-Off",
+    "image": "econ/default_generated/weapon_sawedoff_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -8329,6 +8345,7 @@
   },
   "3": {
     "name": "Five-SeveN",
+    "image": "econ/default_generated/weapon_fiveseven_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -8869,6 +8886,7 @@
   },
   "30": {
     "name": "Tec-9",
+    "image": "econ/default_generated/weapon_tec9_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -9474,6 +9492,7 @@
   },
   "32": {
     "name": "P2000",
+    "image": "econ/default_generated/weapon_hkp2000_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -9949,6 +9968,7 @@
   },
   "33": {
     "name": "MP7",
+    "image": "econ/default_generated/weapon_mp7_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -10463,6 +10483,7 @@
   },
   "34": {
     "name": "MP9",
+    "image": "econ/default_generated/weapon_mp9_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -11055,6 +11076,7 @@
   },
   "35": {
     "name": "Nova",
+    "image": "econ/default_generated/weapon_nova_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -11647,6 +11669,7 @@
   },
   "36": {
     "name": "P250",
+    "image": "econ/default_generated/weapon_p250_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -12395,6 +12418,7 @@
   },
   "38": {
     "name": "SCAR-20",
+    "image": "econ/default_generated/weapon_scar20_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -12805,6 +12829,7 @@
   },
   "39": {
     "name": "SG 553",
+    "image": "econ/default_generated/weapon_sg556_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -13306,6 +13331,7 @@
   },
   "4": {
     "name": "Glock-18",
+    "image": "econ/default_generated/weapon_glock_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -14054,6 +14080,7 @@
   },
   "40": {
     "name": "SSG 08",
+    "image": "econ/default_generated/weapon_ssg08_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -14620,6 +14647,7 @@
   },
   "60": {
     "name": "M4A1-S",
+    "image": "econ/default_generated/weapon_m4a1_silencer_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -15212,6 +15240,7 @@
   },
   "61": {
     "name": "USP-S",
+    "image": "econ/default_generated/weapon_usp_silencer_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -15791,6 +15820,7 @@
   },
   "63": {
     "name": "CZ75-Auto",
+    "image": "econ/default_generated/weapon_cz75a_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -16266,6 +16296,7 @@
   },
   "64": {
     "name": "R8 Revolver",
+    "image": "econ/default_generated/weapon_revolver_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -16611,6 +16642,7 @@
   },
   "7": {
     "name": "AK-47",
+    "image": "econ/default_generated/weapon_ak47_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -17385,6 +17417,7 @@
   },
   "8": {
     "name": "AUG",
+    "image": "econ/default_generated/weapon_aug_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {
@@ -17964,6 +17997,7 @@
   },
   "9": {
     "name": "AWP",
+    "image": "econ/default_generated/weapon_awp_light",
     "sticker_count": 5,
     "type": "weapon",
     "paints": {

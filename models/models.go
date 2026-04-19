@@ -43,6 +43,7 @@ type StickerKit struct {
 	MarketHashName  string          `json:"market_hash_name"`
 	Name            string          `json:"name"`
 	StickerMaterial string          `json:"sticker_material"`
+	Image 		 string          `json:"image"`
 	Rarity          string          `json:"rarity"`
 	Effect          string          `json:"effect"`
 	Type            string          `json:"type"`
