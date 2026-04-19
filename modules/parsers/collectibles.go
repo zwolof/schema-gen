@@ -27,6 +27,21 @@ func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Tra
 
 	var collectibles []models.Collectible
 
+	// First pass: collect every item_name that has an "attendance_pin" prefab.
+	// These are pins that were physically distributed at live events and therefore
+	// exist with the Genuine quality in-game.  The commodity_pin counterpart is
+	// the regular (non-Genuine) purchasable version of the same pin.
+	attendancePins := make(map[string]struct{})
+	for _, item := range items.GetChilds() {
+		prefab, _ := item.GetString("prefab")
+		if prefab != "attendance_pin" {
+			continue
+		}
+		if name, _ := item.GetString("item_name"); name != "" {
+			attendancePins[name] = struct{}{}
+		}
+	}
+
 	for _, item := range items.GetChilds() {
 		item_name, _ := item.GetString("item_name")
 
@@ -35,19 +50,17 @@ func ParseCollectibles(ctx context.Context, ig *models.ItemsGame, t *modules.Tra
 		}
 
 		definition_index, _ := strconv.Atoi(item.Key)
-		prefab, _ := item.GetString("prefab")
 		image_inventory, _ := item.GetString("image_inventory")
 		rarity, _ := item.GetString("item_rarity")
 
-		if prefab != "commodity_pin" {
-			continue // Skip if no rarity is defined
-		}
+		_, hasGenuine := attendancePins[item_name]
 
 		collectibles = append(collectibles, models.Collectible{
 			DefinitionIndex: definition_index,
 			MarketHashName:  modules.GenerateMarketHashName(t, item_name, nil, "collectible"),
 			ImageInventory:  image_inventory,
 			Rarity:          rarity,
+			Genuine:         hasGenuine,
 		})
 	}
 
@@ -126,5 +139,9 @@ func IsItemCollectible(item_name string) bool {
 		return true
 	}
 
+	return false
+}
+
+func CanCollectibleBeGenuine(prefab string) bool {
 	return false
 }

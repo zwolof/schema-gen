@@ -236,6 +236,10 @@ type Collectible struct {
 	ImageInventory    string `json:"image"`
 	TournamentEventId int    `json:"tournament_event_id"`
 	MarketHashName    string `json:"market_hash_name"`
+	// Genuine is true when this pin also exists as an "attendance_pin" —
+	// meaning it was physically distributed at an event and can appear
+	// with the Genuine quality in-game.
+	Genuine           bool   `json:"genuine,omitempty"`
 }
 
 type Collection struct {
