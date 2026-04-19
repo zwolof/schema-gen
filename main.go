@@ -53,6 +53,9 @@ func main() {
 	t := factory.GetTranslator("English")
 	start := time.Now()
 
+	weaponSkinRarityMap := parsers.GetSkinWeaponRarityMap(ctx, itemsGame)
+	stickerItemSetMap := parsers.GetStickerItemSetMap(ctx, itemsGame)
+
 	player_agents := parsers.ParseAgents(ctx, itemsGame, t)
 	souvenir_packages := parsers.ParseSouvenirPackages(ctx, itemsGame, t)
 	musicKits := parsers.ParseMusicKits(ctx, itemsGame, t)
@@ -67,7 +70,7 @@ func main() {
 	sticker_capsules := parsers.ParseStickerCapsules(ctx, itemsGame, t)
 	misc_capsules := parsers.ParseSelfOpeningCrates(ctx, itemsGame, t)
 	paint_kits := parsers.ParsePaintKits(ctx, itemsGame, t)
-	sticker_kits := parsers.ParseStickerKits(ctx, itemsGame, t)
+	sticker_kits := parsers.ParseStickerKits(ctx, itemsGame, t, stickerItemSetMap)
 	custom_stickers := parsers.ParseCustomStickers(ctx, itemsGame, sticker_kits, t)
 	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, t)
 	armory_rewards := parsers.ParseArmoryRewards(ctx, itemsGame, &item_sets, t)
@@ -76,9 +79,9 @@ func main() {
 	logger.Debug().Msgf("[go-items] Parsed all items in %s", time.Since(start))
 
 	knife_skin_map := modules.LoadKnifeSkinsMap("./files/knife_skins.json")
-	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map)
-	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets)
-	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map)
+	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map, weaponSkinRarityMap)
+	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets, weaponSkinRarityMap)
+	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map, weaponSkinRarityMap)
 	sticker_slabs := parsers.ParseStickerSlabs(ctx, sticker_kits)
 
 	ExportToJsonFile(player_agents, "agents")

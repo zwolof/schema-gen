@@ -9,7 +9,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_bayonet_default",
+        "image": "econ/default_generated/weapon_bayonet_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -22,7 +22,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_bayonet_hy_webs",
+        "image": "econ/default_generated/weapon_bayonet_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -35,7 +35,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_bayonet_sp_tape_urban",
+        "image": "econ/default_generated/weapon_bayonet_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -48,7 +48,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_bayonet_sp_dapple",
+        "image": "econ/default_generated/weapon_bayonet_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -61,7 +61,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_bayonet_aa_fade",
+        "image": "econ/default_generated/weapon_bayonet_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -74,7 +74,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_bayonet_so_night",
+        "image": "econ/default_generated/weapon_bayonet_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -87,7 +87,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_bayonet_an_tiger_orange",
+        "image": "econ/default_generated/weapon_bayonet_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -100,7 +100,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_bayonet_aq_damascus",
+        "image": "econ/default_generated/weapon_bayonet_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -113,7 +113,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_marble_fade",
+        "image": "econ/default_generated/weapon_bayonet_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -126,7 +126,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_bayonet_aq_steel_knife",
+        "image": "econ/default_generated/weapon_bayonet_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -139,7 +139,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_bayonet_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -152,7 +152,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_bayonet_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -165,7 +165,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_bayonet_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -178,7 +178,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_bayonet_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -191,7 +191,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_bayonet_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -204,7 +204,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_bayonet_aq_blued",
+        "image": "econ/default_generated/weapon_bayonet_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -217,7 +217,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_bayonet_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -230,7 +230,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_bayonet_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -243,7 +243,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_bayonet_aq_forced",
+        "image": "econ/default_generated/weapon_bayonet_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -256,7 +256,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_bayonet_aq_oiled",
+        "image": "econ/default_generated/weapon_bayonet_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -269,7 +269,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_bayonet_hy_ddpat",
+        "image": "econ/default_generated/weapon_bayonet_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -282,7 +282,7 @@
         "definition_index": 558,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_bayonet_cu_bayonet_lore",
+        "image": "econ/default_generated/weapon_bayonet_cu_bayonet_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -295,7 +295,7 @@
         "definition_index": 563,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_bayonet_cu_bayonet_stonewash",
+        "image": "econ/default_generated/weapon_bayonet_cu_bayonet_stonewash_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -308,7 +308,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_bayonet_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -321,7 +321,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -334,7 +334,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -347,7 +347,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -360,7 +360,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -373,7 +373,7 @@
         "definition_index": 573,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_bayonet_gs_bayonet_autotronic",
+        "image": "econ/default_generated/weapon_bayonet_gs_bayonet_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -386,7 +386,7 @@
         "definition_index": 578,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_bayonet_hy_ocean_knife",
+        "image": "econ/default_generated/weapon_bayonet_hy_ocean_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -399,7 +399,7 @@
         "definition_index": 580,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_marked_up",
+        "image": "econ/default_generated/weapon_bayonet_am_marked_up_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -412,7 +412,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_bayonet_am_zebra",
+        "image": "econ/default_generated/weapon_bayonet_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -425,7 +425,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_bayonet_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_bayonet_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -438,7 +438,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_bayonet_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_bayonet_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -451,7 +451,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_bayonet_so_purple",
+        "image": "econ/default_generated/weapon_bayonet_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -472,7 +472,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_css_default",
+        "image": "econ/default_generated/weapon_knife_css_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -485,7 +485,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_css_hy_webs",
+        "image": "econ/default_generated/weapon_knife_css_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -498,7 +498,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_css_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_css_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -511,7 +511,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_css_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_css_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -524,7 +524,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_css_aa_fade",
+        "image": "econ/default_generated/weapon_knife_css_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -537,7 +537,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_css_aq_blued",
+        "image": "econ/default_generated/weapon_knife_css_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -550,7 +550,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_css_aq_forced",
+        "image": "econ/default_generated/weapon_knife_css_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -563,7 +563,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_css_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_css_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -576,7 +576,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_css_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_css_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -589,7 +589,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_css_am_zebra",
+        "image": "econ/default_generated/weapon_knife_css_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -602,7 +602,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_css_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_css_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -615,7 +615,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_css_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_css_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -628,7 +628,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_css_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_css_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -649,7 +649,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_flip_default",
+        "image": "econ/default_generated/weapon_knife_flip_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -662,7 +662,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_flip_hy_webs",
+        "image": "econ/default_generated/weapon_knife_flip_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -675,7 +675,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_flip_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_flip_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -688,7 +688,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_flip_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_flip_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -701,7 +701,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aa_fade",
+        "image": "econ/default_generated/weapon_knife_flip_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -714,7 +714,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_flip_so_night",
+        "image": "econ/default_generated/weapon_knife_flip_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -727,7 +727,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_flip_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_flip_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -740,7 +740,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_flip_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -753,7 +753,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_flip_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -766,7 +766,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_flip_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -779,7 +779,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_flip_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -792,7 +792,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_flip_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -805,7 +805,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_flip_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -818,7 +818,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -831,7 +831,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -844,7 +844,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aq_blued",
+        "image": "econ/default_generated/weapon_knife_flip_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -857,7 +857,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -870,7 +870,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -883,7 +883,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aq_forced",
+        "image": "econ/default_generated/weapon_knife_flip_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -896,7 +896,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_flip_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_flip_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -909,7 +909,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_flip_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_flip_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -922,7 +922,7 @@
         "definition_index": 559,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_flip_cu_flip_lore",
+        "image": "econ/default_generated/weapon_knife_flip_cu_flip_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -935,7 +935,7 @@
         "definition_index": 564,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_flip_cu_flip_stonewash",
+        "image": "econ/default_generated/weapon_knife_flip_cu_flip_stonewash_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -948,7 +948,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_flip_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -961,7 +961,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -974,7 +974,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -987,7 +987,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1000,7 +1000,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1013,7 +1013,7 @@
         "definition_index": 574,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_flip_gs_flip_autotronic",
+        "image": "econ/default_generated/weapon_knife_flip_gs_flip_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1026,7 +1026,7 @@
         "definition_index": 578,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_flip_hy_ocean_knife",
+        "image": "econ/default_generated/weapon_knife_flip_hy_ocean_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1039,7 +1039,7 @@
         "definition_index": 580,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_marked_up",
+        "image": "econ/default_generated/weapon_knife_flip_am_marked_up_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1052,7 +1052,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_flip_am_zebra",
+        "image": "econ/default_generated/weapon_knife_flip_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -1065,7 +1065,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_flip_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_flip_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1078,7 +1078,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_flip_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_flip_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1091,7 +1091,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_flip_so_purple",
+        "image": "econ/default_generated/weapon_knife_flip_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1112,7 +1112,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_gut_default",
+        "image": "econ/default_generated/weapon_knife_gut_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -1125,7 +1125,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_gut_hy_webs",
+        "image": "econ/default_generated/weapon_knife_gut_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1138,7 +1138,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_gut_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_gut_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1151,7 +1151,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_gut_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_gut_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1164,7 +1164,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aa_fade",
+        "image": "econ/default_generated/weapon_knife_gut_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1177,7 +1177,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_gut_so_night",
+        "image": "econ/default_generated/weapon_knife_gut_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1190,7 +1190,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_gut_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_gut_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1203,7 +1203,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_gut_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1216,7 +1216,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_gut_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1229,7 +1229,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_gut_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -1242,7 +1242,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_gut_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1255,7 +1255,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_gut_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1268,7 +1268,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_gut_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -1281,7 +1281,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1294,7 +1294,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1307,7 +1307,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aq_blued",
+        "image": "econ/default_generated/weapon_knife_gut_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -1320,7 +1320,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1333,7 +1333,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1346,7 +1346,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aq_forced",
+        "image": "econ/default_generated/weapon_knife_gut_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -1359,7 +1359,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_gut_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_gut_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1372,7 +1372,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_gut_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_gut_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1385,7 +1385,7 @@
         "definition_index": 560,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_gut_cu_gut_lore",
+        "image": "econ/default_generated/weapon_knife_gut_cu_gut_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1398,7 +1398,7 @@
         "definition_index": 565,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_gut_cu_gut_stonewash",
+        "image": "econ/default_generated/weapon_knife_gut_cu_gut_stonewash_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1411,7 +1411,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_gut_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1424,7 +1424,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1437,7 +1437,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1450,7 +1450,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1463,7 +1463,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1476,7 +1476,7 @@
         "definition_index": 575,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_gut_gs_gut_autotronic",
+        "image": "econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1489,7 +1489,7 @@
         "definition_index": 578,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_gut_hy_ocean_knife",
+        "image": "econ/default_generated/weapon_knife_gut_hy_ocean_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1502,7 +1502,7 @@
         "definition_index": 580,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_marked_up",
+        "image": "econ/default_generated/weapon_knife_gut_am_marked_up_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1515,7 +1515,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_gut_am_zebra",
+        "image": "econ/default_generated/weapon_knife_gut_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -1528,7 +1528,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_gut_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_gut_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1541,7 +1541,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_gut_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_gut_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1554,7 +1554,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_gut_so_purple",
+        "image": "econ/default_generated/weapon_knife_gut_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1575,7 +1575,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_default",
+        "image": "econ/default_generated/weapon_knife_karambit_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -1588,7 +1588,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_hy_webs",
+        "image": "econ/default_generated/weapon_knife_karambit_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1601,7 +1601,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_karambit_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1614,7 +1614,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_karambit_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1627,7 +1627,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aa_fade",
+        "image": "econ/default_generated/weapon_knife_karambit_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1640,7 +1640,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_so_night",
+        "image": "econ/default_generated/weapon_knife_karambit_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1653,7 +1653,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_karambit_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1666,7 +1666,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_karambit_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1679,7 +1679,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_karambit_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1692,7 +1692,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_karambit_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -1705,7 +1705,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_karambit_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1718,7 +1718,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_karambit_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1731,7 +1731,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -1744,7 +1744,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1757,7 +1757,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1770,7 +1770,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aq_blued",
+        "image": "econ/default_generated/weapon_knife_karambit_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -1783,7 +1783,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1796,7 +1796,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1809,7 +1809,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aq_forced",
+        "image": "econ/default_generated/weapon_knife_karambit_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -1822,7 +1822,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_karambit_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1835,7 +1835,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_karambit_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -1848,7 +1848,7 @@
         "definition_index": 561,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_cu_karam_lore",
+        "image": "econ/default_generated/weapon_knife_karambit_cu_karam_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1861,7 +1861,7 @@
         "definition_index": 566,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_cu_karam_stonewash",
+        "image": "econ/default_generated/weapon_knife_karambit_cu_karam_stonewash_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1874,7 +1874,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -1887,7 +1887,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1900,7 +1900,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1913,7 +1913,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1926,7 +1926,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1939,7 +1939,7 @@
         "definition_index": 576,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_gs_karam_autotronic",
+        "image": "econ/default_generated/weapon_knife_karambit_gs_karam_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -1952,7 +1952,7 @@
         "definition_index": 578,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_hy_ocean_knife",
+        "image": "econ/default_generated/weapon_knife_karambit_hy_ocean_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1965,7 +1965,7 @@
         "definition_index": 582,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_marked_up_fine",
+        "image": "econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -1978,7 +1978,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_am_zebra",
+        "image": "econ/default_generated/weapon_knife_karambit_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -1991,7 +1991,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_karambit_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2004,7 +2004,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_karambit_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2017,7 +2017,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_karambit_so_purple",
+        "image": "econ/default_generated/weapon_knife_karambit_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2038,7 +2038,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_default",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -2051,7 +2051,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_hy_webs",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2064,7 +2064,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2077,7 +2077,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2090,7 +2090,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aa_fade",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2103,7 +2103,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_so_night",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2116,7 +2116,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2129,7 +2129,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2142,7 +2142,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2155,7 +2155,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -2168,7 +2168,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2181,7 +2181,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2194,7 +2194,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -2207,7 +2207,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2220,7 +2220,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2233,7 +2233,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aq_blued",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -2246,7 +2246,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2259,7 +2259,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2272,7 +2272,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aq_forced",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -2285,7 +2285,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2298,7 +2298,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2311,7 +2311,7 @@
         "definition_index": 562,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_cu_m9_bay_lore",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2324,7 +2324,7 @@
         "definition_index": 567,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_cu_m9_bay_stonewash",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_stonewash_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2337,7 +2337,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2350,7 +2350,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2363,7 +2363,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2376,7 +2376,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2389,7 +2389,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2402,7 +2402,7 @@
         "definition_index": 577,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_gs_m9_bay_autotronic",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2415,7 +2415,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2428,7 +2428,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2441,7 +2441,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_am_zebra",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -2454,7 +2454,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2467,7 +2467,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2480,7 +2480,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_m9_bayonet_so_purple",
+        "image": "econ/default_generated/weapon_knife_m9_bayonet_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2501,7 +2501,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_default",
+        "image": "econ/default_generated/weapon_knife_tactical_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -2514,7 +2514,7 @@
         "definition_index": 1107,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_cu_huntsman_lore",
+        "image": "econ/default_generated/weapon_knife_tactical_cu_huntsman_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2527,7 +2527,7 @@
         "definition_index": 1112,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_gs_huntsman_black_laminate",
+        "image": "econ/default_generated/weapon_knife_tactical_gs_huntsman_black_laminate_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2540,7 +2540,7 @@
         "definition_index": 1117,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_gs_huntsman_autotronic",
+        "image": "econ/default_generated/weapon_knife_tactical_gs_huntsman_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2553,7 +2553,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_hy_webs",
+        "image": "econ/default_generated/weapon_knife_tactical_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2566,7 +2566,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_tactical_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2579,7 +2579,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_tactical_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2592,7 +2592,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aa_fade",
+        "image": "econ/default_generated/weapon_knife_tactical_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2605,7 +2605,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_so_night",
+        "image": "econ/default_generated/weapon_knife_tactical_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2618,7 +2618,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_tactical_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2631,7 +2631,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_tactical_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2644,7 +2644,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_tactical_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2657,7 +2657,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_tactical_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -2670,7 +2670,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_tactical_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2683,7 +2683,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_tactical_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2696,7 +2696,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_tactical_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -2709,7 +2709,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2722,7 +2722,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2735,7 +2735,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aq_blued",
+        "image": "econ/default_generated/weapon_knife_tactical_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -2748,7 +2748,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2761,7 +2761,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2774,7 +2774,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aq_forced",
+        "image": "econ/default_generated/weapon_knife_tactical_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -2787,7 +2787,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_tactical_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2800,7 +2800,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_tactical_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2813,7 +2813,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_tactical_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2826,7 +2826,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2839,7 +2839,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2852,7 +2852,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2865,7 +2865,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -2878,7 +2878,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_tactical_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2891,7 +2891,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_tactical_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -2904,7 +2904,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_am_zebra",
+        "image": "econ/default_generated/weapon_knife_tactical_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -2917,7 +2917,7 @@
         "definition_index": 620,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_cu_purple_huntsman",
+        "image": "econ/default_generated/weapon_knife_tactical_cu_purple_huntsman_light",
         "rarity": "rare",
         "float": {
           "min": 0.06,
@@ -2930,7 +2930,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_tactical_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2943,7 +2943,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_tactical_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_tactical_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -2964,7 +2964,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_default",
+        "image": "econ/default_generated/weapon_knife_falchion_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -2977,7 +2977,7 @@
         "definition_index": 1106,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_cu_falchion_lore",
+        "image": "econ/default_generated/weapon_knife_falchion_cu_falchion_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -2990,7 +2990,7 @@
         "definition_index": 1111,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_gs_falchion_black_laminate",
+        "image": "econ/default_generated/weapon_knife_falchion_gs_falchion_black_laminate_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3003,7 +3003,7 @@
         "definition_index": 1116,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_gs_falchion_autotronic",
+        "image": "econ/default_generated/weapon_knife_falchion_gs_falchion_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3016,7 +3016,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_hy_webs",
+        "image": "econ/default_generated/weapon_knife_falchion_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3029,7 +3029,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_falchion_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3042,7 +3042,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_falchion_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3055,7 +3055,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aa_fade",
+        "image": "econ/default_generated/weapon_knife_falchion_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3068,7 +3068,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_so_night",
+        "image": "econ/default_generated/weapon_knife_falchion_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3081,7 +3081,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_falchion_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3094,7 +3094,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_falchion_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3107,7 +3107,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_falchion_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3120,7 +3120,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_falchion_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -3133,7 +3133,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_falchion_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3146,7 +3146,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_falchion_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3159,7 +3159,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_falchion_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -3172,7 +3172,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3185,7 +3185,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3198,7 +3198,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aq_blued",
+        "image": "econ/default_generated/weapon_knife_falchion_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -3211,7 +3211,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3224,7 +3224,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3237,7 +3237,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aq_forced",
+        "image": "econ/default_generated/weapon_knife_falchion_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -3250,7 +3250,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_falchion_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3263,7 +3263,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_falchion_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3276,7 +3276,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_falchion_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3289,7 +3289,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3302,7 +3302,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3315,7 +3315,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3328,7 +3328,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3341,7 +3341,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_falchion_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3354,7 +3354,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_falchion_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3367,7 +3367,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_am_zebra",
+        "image": "econ/default_generated/weapon_knife_falchion_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -3380,7 +3380,7 @@
         "definition_index": 621,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_so_purple_falchion",
+        "image": "econ/default_generated/weapon_knife_falchion_so_purple_falchion_light",
         "rarity": "rare",
         "float": {
           "min": 0.06,
@@ -3393,7 +3393,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_falchion_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3406,7 +3406,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_falchion_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_falchion_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3427,7 +3427,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_default",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -3440,7 +3440,7 @@
         "definition_index": 1104,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_cu_bowie_lore",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_cu_bowie_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3453,7 +3453,7 @@
         "definition_index": 1109,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_gs_bowie_black_laminate",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_gs_bowie_black_laminate_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3466,7 +3466,7 @@
         "definition_index": 1114,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_gs_bowie_autotronic",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_gs_bowie_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3479,7 +3479,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_hy_webs",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3492,7 +3492,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3505,7 +3505,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3518,7 +3518,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aa_fade",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3531,7 +3531,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_so_night",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3544,7 +3544,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3557,7 +3557,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3570,7 +3570,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3583,7 +3583,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -3596,7 +3596,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3609,7 +3609,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3622,7 +3622,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -3635,7 +3635,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3648,7 +3648,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3661,7 +3661,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aq_blued",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -3674,7 +3674,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3687,7 +3687,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3700,7 +3700,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aq_forced",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -3713,7 +3713,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3726,7 +3726,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3739,7 +3739,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3752,7 +3752,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3765,7 +3765,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3778,7 +3778,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3791,7 +3791,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3804,7 +3804,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3817,7 +3817,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3830,7 +3830,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_am_zebra",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -3843,7 +3843,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3856,7 +3856,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3869,7 +3869,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_survival_bowie_so_purple",
+        "image": "econ/default_generated/weapon_knife_survival_bowie_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3890,7 +3890,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_default",
+        "image": "econ/default_generated/weapon_knife_butterfly_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -3903,7 +3903,7 @@
         "definition_index": 1105,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_cu_butterfly_lore",
+        "image": "econ/default_generated/weapon_knife_butterfly_cu_butterfly_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -3916,7 +3916,7 @@
         "definition_index": 1110,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_gs_butterfly_black_laminate",
+        "image": "econ/default_generated/weapon_knife_butterfly_gs_butterfly_black_laminate_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3929,7 +3929,7 @@
         "definition_index": 1115,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_gs_butterfly_autotronic",
+        "image": "econ/default_generated/weapon_knife_butterfly_gs_butterfly_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -3942,7 +3942,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_hy_webs",
+        "image": "econ/default_generated/weapon_knife_butterfly_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3955,7 +3955,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_butterfly_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3968,7 +3968,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_butterfly_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -3981,7 +3981,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aa_fade",
+        "image": "econ/default_generated/weapon_knife_butterfly_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -3994,7 +3994,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_so_night",
+        "image": "econ/default_generated/weapon_knife_butterfly_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4007,7 +4007,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_butterfly_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4020,7 +4020,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_butterfly_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4033,7 +4033,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4046,7 +4046,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_butterfly_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -4059,7 +4059,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4072,7 +4072,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4085,7 +4085,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aq_blued",
+        "image": "econ/default_generated/weapon_knife_butterfly_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -4098,7 +4098,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4111,7 +4111,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4124,7 +4124,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aq_forced",
+        "image": "econ/default_generated/weapon_knife_butterfly_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -4137,7 +4137,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_butterfly_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4150,7 +4150,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_butterfly_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4163,7 +4163,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4176,7 +4176,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4189,7 +4189,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4202,7 +4202,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4215,7 +4215,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4228,7 +4228,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_butterfly_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4241,7 +4241,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4254,7 +4254,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_zebra",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -4267,7 +4267,7 @@
         "definition_index": 617,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_blackpearl_marbleized_b",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_blackpearl_marbleized_b_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -4280,7 +4280,7 @@
         "definition_index": 618,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_doppler_phase2_b",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase2_b_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4293,7 +4293,7 @@
         "definition_index": 619,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_am_sapphire_marbleized_b",
+        "image": "econ/default_generated/weapon_knife_butterfly_am_sapphire_marbleized_b_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4306,7 +4306,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_butterfly_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4319,7 +4319,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_butterfly_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4332,7 +4332,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_butterfly_so_purple",
+        "image": "econ/default_generated/weapon_knife_butterfly_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4353,7 +4353,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_push_default",
+        "image": "econ/default_generated/weapon_knife_push_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -4366,7 +4366,7 @@
         "definition_index": 1108,
         "name": "Lore",
         "item_set_id": "",
-        "image": "weapon_knife_push_cu_push_lore",
+        "image": "econ/default_generated/weapon_knife_push_cu_push_lore_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4379,7 +4379,7 @@
         "definition_index": 1113,
         "name": "Black Laminate",
         "item_set_id": "",
-        "image": "weapon_knife_push_gs_push_black_laminate",
+        "image": "econ/default_generated/weapon_knife_push_gs_push_black_laminate_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4392,7 +4392,7 @@
         "definition_index": 1118,
         "name": "Autotronic",
         "item_set_id": "",
-        "image": "weapon_knife_push_gs_push_autotronic",
+        "image": "econ/default_generated/weapon_knife_push_gs_push_autotronic_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4405,7 +4405,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_push_hy_webs",
+        "image": "econ/default_generated/weapon_knife_push_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4418,7 +4418,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_push_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_push_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4431,7 +4431,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_push_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_push_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4444,7 +4444,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_push_aa_fade",
+        "image": "econ/default_generated/weapon_knife_push_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4457,7 +4457,7 @@
         "definition_index": 40,
         "name": "Night",
         "item_set_id": "",
-        "image": "weapon_knife_push_so_night",
+        "image": "econ/default_generated/weapon_knife_push_so_night_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4470,7 +4470,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_push_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_push_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4483,7 +4483,7 @@
         "definition_index": 411,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_push_aq_damascus_90",
+        "image": "econ/default_generated/weapon_knife_push_aq_damascus_90_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4496,7 +4496,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_push_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4509,7 +4509,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_push_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_push_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -4522,7 +4522,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_push_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4535,7 +4535,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_push_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4548,7 +4548,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_push_aq_blued",
+        "image": "econ/default_generated/weapon_knife_push_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -4561,7 +4561,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_push_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4574,7 +4574,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_push_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4587,7 +4587,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_push_aq_forced",
+        "image": "econ/default_generated/weapon_knife_push_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -4600,7 +4600,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_push_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_push_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4613,7 +4613,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_push_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_push_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4626,7 +4626,7 @@
         "definition_index": 568,
         "name": "Gamma Doppler (Emerald)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_emerald_marbleized",
+        "image": "econ/default_generated/weapon_knife_push_am_emerald_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4639,7 +4639,7 @@
         "definition_index": 569,
         "name": "Gamma Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_gamma_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4652,7 +4652,7 @@
         "definition_index": 570,
         "name": "Gamma Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_gamma_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4665,7 +4665,7 @@
         "definition_index": 571,
         "name": "Gamma Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_gamma_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4678,7 +4678,7 @@
         "definition_index": 572,
         "name": "Gamma Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_gamma_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4691,7 +4691,7 @@
         "definition_index": 579,
         "name": "Bright Water",
         "item_set_id": "",
-        "image": "weapon_knife_push_hy_ocean_knife_90",
+        "image": "econ/default_generated/weapon_knife_push_hy_ocean_knife_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4704,7 +4704,7 @@
         "definition_index": 581,
         "name": "Freehand",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_marked_up_90",
+        "image": "econ/default_generated/weapon_knife_push_am_marked_up_90_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4717,7 +4717,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_zebra",
+        "image": "econ/default_generated/weapon_knife_push_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -4730,7 +4730,7 @@
         "definition_index": 617,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_blackpearl_marbleized_b",
+        "image": "econ/default_generated/weapon_knife_push_am_blackpearl_marbleized_b_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -4743,7 +4743,7 @@
         "definition_index": 618,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_doppler_phase2_b",
+        "image": "econ/default_generated/weapon_knife_push_am_doppler_phase2_b_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4756,7 +4756,7 @@
         "definition_index": 619,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_push_am_sapphire_marbleized_b",
+        "image": "econ/default_generated/weapon_knife_push_am_sapphire_marbleized_b_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4769,7 +4769,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_push_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_push_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4782,7 +4782,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_push_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_push_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4795,7 +4795,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_push_so_purple",
+        "image": "econ/default_generated/weapon_knife_push_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4816,7 +4816,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_cord_default",
+        "image": "econ/default_generated/weapon_knife_cord_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -4829,7 +4829,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_cord_hy_webs",
+        "image": "econ/default_generated/weapon_knife_cord_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4842,7 +4842,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_cord_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_cord_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4855,7 +4855,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_cord_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_cord_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -4868,7 +4868,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aa_fade",
+        "image": "econ/default_generated/weapon_knife_cord_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -4881,7 +4881,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_cord_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_cord_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4894,7 +4894,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_cord_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4907,7 +4907,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_cord_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4920,7 +4920,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_cord_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -4933,7 +4933,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_cord_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4946,7 +4946,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_cord_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -4959,7 +4959,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_cord_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -4972,7 +4972,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4985,7 +4985,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -4998,7 +4998,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aq_blued",
+        "image": "econ/default_generated/weapon_knife_cord_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5011,7 +5011,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5024,7 +5024,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5037,7 +5037,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aq_forced",
+        "image": "econ/default_generated/weapon_knife_cord_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5050,7 +5050,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_cord_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_cord_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5063,7 +5063,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_cord_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_cord_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5076,7 +5076,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_cord_am_zebra",
+        "image": "econ/default_generated/weapon_knife_cord_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -5089,7 +5089,7 @@
         "definition_index": 621,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_cord_so_purple_falchion",
+        "image": "econ/default_generated/weapon_knife_cord_so_purple_falchion_light",
         "rarity": "rare",
         "float": {
           "min": 0.06,
@@ -5102,7 +5102,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_cord_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_cord_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5115,7 +5115,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_cord_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_cord_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5128,7 +5128,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_cord_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_cord_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5149,7 +5149,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_canis_default",
+        "image": "econ/default_generated/weapon_knife_canis_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -5162,7 +5162,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_canis_hy_webs",
+        "image": "econ/default_generated/weapon_knife_canis_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5175,7 +5175,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_canis_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_canis_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5188,7 +5188,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_canis_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_canis_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5201,7 +5201,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aa_fade",
+        "image": "econ/default_generated/weapon_knife_canis_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5214,7 +5214,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_canis_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_canis_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5227,7 +5227,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_canis_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5240,7 +5240,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_canis_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5253,7 +5253,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_canis_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -5266,7 +5266,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_canis_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5279,7 +5279,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_canis_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5292,7 +5292,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_canis_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -5305,7 +5305,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5318,7 +5318,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5331,7 +5331,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aq_blued",
+        "image": "econ/default_generated/weapon_knife_canis_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5344,7 +5344,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5357,7 +5357,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5370,7 +5370,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aq_forced",
+        "image": "econ/default_generated/weapon_knife_canis_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5383,7 +5383,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_canis_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_canis_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5396,7 +5396,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_canis_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_canis_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5409,7 +5409,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_canis_am_zebra",
+        "image": "econ/default_generated/weapon_knife_canis_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -5422,7 +5422,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_canis_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_canis_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5435,7 +5435,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_canis_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_canis_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5448,7 +5448,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_canis_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_canis_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5461,7 +5461,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_canis_so_purple",
+        "image": "econ/default_generated/weapon_knife_canis_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5482,7 +5482,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_default",
+        "image": "econ/default_generated/weapon_knife_ursus_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -5495,7 +5495,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_hy_webs",
+        "image": "econ/default_generated/weapon_knife_ursus_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5508,7 +5508,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_ursus_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5521,7 +5521,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_ursus_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5534,7 +5534,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aa_fade",
+        "image": "econ/default_generated/weapon_knife_ursus_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5547,7 +5547,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_ursus_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5560,7 +5560,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_ursus_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5573,7 +5573,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -5586,7 +5586,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_ursus_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5599,7 +5599,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_ursus_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5612,7 +5612,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_ursus_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -5625,7 +5625,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5638,7 +5638,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5651,7 +5651,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aq_blued",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5664,7 +5664,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5677,7 +5677,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5690,7 +5690,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aq_forced",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5703,7 +5703,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5716,7 +5716,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_ursus_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5729,7 +5729,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_am_zebra",
+        "image": "econ/default_generated/weapon_knife_ursus_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -5742,7 +5742,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_ursus_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5755,7 +5755,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_ursus_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5768,7 +5768,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_ursus_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5781,7 +5781,7 @@
         "definition_index": 857,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_aq_damascus_prisma",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_damascus_prisma_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5794,7 +5794,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_ursus_so_purple",
+        "image": "econ/default_generated/weapon_knife_ursus_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5815,7 +5815,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_default",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -5828,7 +5828,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_hy_webs",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5841,7 +5841,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5854,7 +5854,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -5867,7 +5867,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aa_fade",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -5880,7 +5880,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5893,7 +5893,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5906,7 +5906,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -5919,7 +5919,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5932,7 +5932,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -5945,7 +5945,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -5958,7 +5958,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5971,7 +5971,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -5984,7 +5984,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aq_blued",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -5997,7 +5997,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6010,7 +6010,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6023,7 +6023,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aq_forced",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6036,7 +6036,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6049,7 +6049,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6062,7 +6062,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_am_zebra",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -6075,7 +6075,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6088,7 +6088,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6101,7 +6101,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6114,7 +6114,7 @@
         "definition_index": 857,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_aq_damascus_prisma",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_damascus_prisma_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6127,7 +6127,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_gypsy_jackknife_so_purple",
+        "image": "econ/default_generated/weapon_knife_gypsy_jackknife_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6148,7 +6148,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_default",
+        "image": "econ/default_generated/weapon_knife_outdoor_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -6161,7 +6161,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_hy_webs",
+        "image": "econ/default_generated/weapon_knife_outdoor_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6174,7 +6174,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_outdoor_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6187,7 +6187,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_outdoor_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6200,7 +6200,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aa_fade",
+        "image": "econ/default_generated/weapon_knife_outdoor_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6213,7 +6213,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_outdoor_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6226,7 +6226,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_outdoor_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6239,7 +6239,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6252,7 +6252,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_outdoor_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -6265,7 +6265,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6278,7 +6278,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6291,7 +6291,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -6304,7 +6304,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6317,7 +6317,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6330,7 +6330,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aq_blued",
+        "image": "econ/default_generated/weapon_knife_outdoor_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6343,7 +6343,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6356,7 +6356,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6369,7 +6369,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aq_forced",
+        "image": "econ/default_generated/weapon_knife_outdoor_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6382,7 +6382,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_outdoor_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6395,7 +6395,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_outdoor_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6408,7 +6408,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_am_zebra",
+        "image": "econ/default_generated/weapon_knife_outdoor_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -6421,7 +6421,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_outdoor_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6434,7 +6434,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_outdoor_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6447,7 +6447,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_outdoor_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6460,7 +6460,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_outdoor_so_purple",
+        "image": "econ/default_generated/weapon_knife_outdoor_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6481,7 +6481,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_default",
+        "image": "econ/default_generated/weapon_knife_stiletto_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -6494,7 +6494,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_hy_webs",
+        "image": "econ/default_generated/weapon_knife_stiletto_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6507,7 +6507,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_stiletto_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6520,7 +6520,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_stiletto_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6533,7 +6533,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aa_fade",
+        "image": "econ/default_generated/weapon_knife_stiletto_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6546,7 +6546,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_stiletto_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6559,7 +6559,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6572,7 +6572,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_stiletto_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -6585,7 +6585,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6598,7 +6598,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6611,7 +6611,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -6624,7 +6624,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6637,7 +6637,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6650,7 +6650,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aq_blued",
+        "image": "econ/default_generated/weapon_knife_stiletto_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6663,7 +6663,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6676,7 +6676,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6689,7 +6689,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aq_forced",
+        "image": "econ/default_generated/weapon_knife_stiletto_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6702,7 +6702,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_stiletto_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6715,7 +6715,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_stiletto_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6728,7 +6728,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_am_zebra",
+        "image": "econ/default_generated/weapon_knife_stiletto_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -6741,7 +6741,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_stiletto_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6754,7 +6754,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_stiletto_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6767,7 +6767,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_stiletto_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6780,7 +6780,7 @@
         "definition_index": 857,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_aq_damascus_prisma",
+        "image": "econ/default_generated/weapon_knife_stiletto_aq_damascus_prisma_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6793,7 +6793,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_stiletto_so_purple",
+        "image": "econ/default_generated/weapon_knife_stiletto_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6814,7 +6814,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_default",
+        "image": "econ/default_generated/weapon_knife_widowmaker_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -6827,7 +6827,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_hy_webs",
+        "image": "econ/default_generated/weapon_knife_widowmaker_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6840,7 +6840,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_widowmaker_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6853,7 +6853,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_widowmaker_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6866,7 +6866,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aa_fade",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -6879,7 +6879,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_widowmaker_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6892,7 +6892,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -6905,7 +6905,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6918,7 +6918,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -6931,7 +6931,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -6944,7 +6944,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aq_blued",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6957,7 +6957,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aq_forced",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -6970,7 +6970,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -6983,7 +6983,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_widowmaker_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -6996,7 +6996,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_zebra",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -7009,7 +7009,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_widowmaker_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7022,7 +7022,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_widowmaker_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7035,7 +7035,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_widowmaker_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7048,7 +7048,7 @@
         "definition_index": 852,
         "name": "Doppler",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_doppler_phase1_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase1_widow_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7061,7 +7061,7 @@
         "definition_index": 853,
         "name": "Doppler",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_doppler_phase2_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase2_widow_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7074,7 +7074,7 @@
         "definition_index": 854,
         "name": "Doppler",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_doppler_phase3_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase3_widow_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7087,7 +7087,7 @@
         "definition_index": 855,
         "name": "Doppler",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_doppler_phase4_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase4_widow_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7100,7 +7100,7 @@
         "definition_index": 856,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_am_marble_fade_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_am_marble_fade_widow_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -7113,7 +7113,7 @@
         "definition_index": 858,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_aq_damascus_widow",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_damascus_widow_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7126,7 +7126,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_widowmaker_so_purple",
+        "image": "econ/default_generated/weapon_knife_widowmaker_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7147,7 +7147,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_default",
+        "image": "econ/default_generated/weapon_knife_skeleton_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -7160,7 +7160,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_hy_webs",
+        "image": "econ/default_generated/weapon_knife_skeleton_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7173,7 +7173,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_skeleton_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7186,7 +7186,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_skeleton_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7199,7 +7199,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aa_fade",
+        "image": "econ/default_generated/weapon_knife_skeleton_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7212,7 +7212,7 @@
         "definition_index": 409,
         "name": "Tiger Tooth",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_an_tiger_orange",
+        "image": "econ/default_generated/weapon_knife_skeleton_an_tiger_orange_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -7225,7 +7225,7 @@
         "definition_index": 410,
         "name": "Damascus Steel",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aq_damascus",
+        "image": "econ/default_generated/weapon_knife_skeleton_aq_damascus_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7238,7 +7238,7 @@
         "definition_index": 413,
         "name": "Marble Fade",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_marble_fade",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_marble_fade_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -7251,7 +7251,7 @@
         "definition_index": 414,
         "name": "Rust Coat",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aq_steel_knife",
+        "image": "econ/default_generated/weapon_knife_skeleton_aq_steel_knife_light",
         "rarity": "rare",
         "float": {
           "min": 0.4,
@@ -7264,7 +7264,7 @@
         "definition_index": 415,
         "name": "Doppler (Ruby)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_ruby_marbleized",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_ruby_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -7277,7 +7277,7 @@
         "definition_index": 416,
         "name": "Doppler (Sapphire)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_sapphire_marbleized",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_sapphire_marbleized_light",
         "rarity": "legendary",
         "float": {
           "min": 0,
@@ -7290,7 +7290,7 @@
         "definition_index": 417,
         "name": "Doppler (Black Pearl)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_blackpearl_marbleized",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -7303,7 +7303,7 @@
         "definition_index": 418,
         "name": "Doppler (Phase 1)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_doppler_phase1",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase1_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7316,7 +7316,7 @@
         "definition_index": 419,
         "name": "Doppler (Phase 2)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_doppler_phase2",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase2_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7329,7 +7329,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aq_blued",
+        "image": "econ/default_generated/weapon_knife_skeleton_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -7342,7 +7342,7 @@
         "definition_index": 420,
         "name": "Doppler (Phase 3)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_doppler_phase3",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase3_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7355,7 +7355,7 @@
         "definition_index": 421,
         "name": "Doppler (Phase 4)",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_doppler_phase4",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase4_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7368,7 +7368,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aq_forced",
+        "image": "econ/default_generated/weapon_knife_skeleton_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -7381,7 +7381,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_skeleton_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7394,7 +7394,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_skeleton_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7407,7 +7407,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_am_zebra",
+        "image": "econ/default_generated/weapon_knife_skeleton_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -7420,7 +7420,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_skeleton_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7433,7 +7433,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_skeleton_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7446,7 +7446,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_skeleton_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7459,7 +7459,7 @@
         "definition_index": 98,
         "name": "Ultraviolet",
         "item_set_id": "",
-        "image": "weapon_knife_skeleton_so_purple",
+        "image": "econ/default_generated/weapon_knife_skeleton_so_purple_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7480,7 +7480,7 @@
         "definition_index": 0,
         "name": "Vanilla",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_default",
+        "image": "econ/default_generated/weapon_knife_kukri_default_light",
         "rarity": "",
         "float": {
           "min": 0.06,
@@ -7493,7 +7493,7 @@
         "definition_index": 12,
         "name": "Crimson Web",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_hy_webs",
+        "image": "econ/default_generated/weapon_knife_kukri_hy_webs_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7506,7 +7506,7 @@
         "definition_index": 143,
         "name": "Urban Masked",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_sp_tape_urban",
+        "image": "econ/default_generated/weapon_knife_kukri_sp_tape_urban_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7519,7 +7519,7 @@
         "definition_index": 175,
         "name": "Scorched",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_sp_dapple",
+        "image": "econ/default_generated/weapon_knife_kukri_sp_dapple_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7532,7 +7532,7 @@
         "definition_index": 38,
         "name": "Fade",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_aa_fade",
+        "image": "econ/default_generated/weapon_knife_kukri_aa_fade_light",
         "rarity": "rare",
         "float": {
           "min": 0,
@@ -7545,7 +7545,7 @@
         "definition_index": 42,
         "name": "Blue Steel",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_aq_blued",
+        "image": "econ/default_generated/weapon_knife_kukri_aq_blued_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -7558,7 +7558,7 @@
         "definition_index": 43,
         "name": "Stained",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_aq_forced",
+        "image": "econ/default_generated/weapon_knife_kukri_aq_forced_light",
         "rarity": "uncommon",
         "float": {
           "min": 0,
@@ -7571,7 +7571,7 @@
         "definition_index": 44,
         "name": "Case Hardened",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_aq_oiled",
+        "image": "econ/default_generated/weapon_knife_kukri_aq_oiled_light",
         "rarity": "mythical",
         "float": {
           "min": 0,
@@ -7584,7 +7584,7 @@
         "definition_index": 5,
         "name": "Forest DDPAT",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_hy_ddpat",
+        "image": "econ/default_generated/weapon_knife_kukri_hy_ddpat_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7597,7 +7597,7 @@
         "definition_index": 59,
         "name": "Slaughter",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_am_zebra",
+        "image": "econ/default_generated/weapon_knife_kukri_am_zebra_light",
         "rarity": "rare",
         "float": {
           "min": 0.01,
@@ -7610,7 +7610,7 @@
         "definition_index": 72,
         "name": "Safari Mesh",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_sp_mesh_tan",
+        "image": "econ/default_generated/weapon_knife_kukri_sp_mesh_tan_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7623,7 +7623,7 @@
         "definition_index": 735,
         "name": "Night Stripe",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_sp_nightstripe",
+        "image": "econ/default_generated/weapon_knife_kukri_sp_nightstripe_light",
         "rarity": "common",
         "float": {
           "min": 0,
@@ -7636,7 +7636,7 @@
         "definition_index": 77,
         "name": "Boreal Forest",
         "item_set_id": "",
-        "image": "weapon_knife_kukri_hy_forest_boreal",
+        "image": "econ/default_generated/weapon_knife_kukri_hy_forest_boreal_light",
         "rarity": "common",
         "float": {
           "min": 0,

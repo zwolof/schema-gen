@@ -13,7 +13,7 @@ import (
 	"github.com/rs/zerolog"
 )
 
-func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Translator) []models.StickerKit {
+func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Translator, stickerItemSetMap map[string]string) []models.StickerKit {
 	logger := zerolog.Ctx(ctx)
 
 	start := time.Now()
@@ -59,6 +59,8 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 			tournament_event_id,
 		)
 
+		itemSetId := stickerItemSetMap[name]
+
 		items = append(items, models.StickerKit{
 			DefinitionIndex: definition_index,
 			Name:            name,
@@ -68,6 +70,7 @@ func ParseStickerKits(ctx context.Context, ig *models.ItemsGame, t *modules.Tran
 			Rarity:          item_rarity,
 			Effect:          sticker_effect,
 			Type:            sticker_type,
+			ItemSetId:       itemSetId,
 			Tournament:      modules.GetTournamentData(t, tournament_event_id),
 			Team:            modules.GetTournamentTeamData(t, tournament_team_id),
 			Player:          modules.GetPlayerByAccountId(ig, tournament_player_id),

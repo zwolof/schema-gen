@@ -25,6 +25,8 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 
 	var items []models.HighlightReel
 	for _, r := range highlight_reels.GetChilds() {
+		definition_index, _ := strconv.Atoi(r.Key)
+
 		id, _ := r.GetString("id")
 		tournament_event, _ := r.GetString("tournament event id")
 		tournament_event_stage_, _ := r.GetString("tournament event stage id")
@@ -57,6 +59,7 @@ func ParseHighlightReels(ctx context.Context, ig *models.ItemsGame, t *modules.T
 		tournament := modules.GetTournamentData(t, tournament_event_id_int)
 		stage := modules.GetTournamentStageData(t, tournament_event_stage_id_int)
 		current := models.HighlightReel{
+			DefinitionIndex: definition_index,
 			Id:              id,
 			Tournament:      tournament,
 			Stage:           stage,

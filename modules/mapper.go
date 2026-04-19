@@ -74,6 +74,7 @@ func GetWeaponPaintKits(
 	weapons *[]models.BaseWeapon,
 	paint_kits *[]models.PaintKit,
 	item_sets *[]models.ItemSet,
+	skinRarityMap map[string]string,
 ) map[int]SchemaWeaponSkinMap {
 	pkIdx := buildPaintKitIndex(paint_kits)
 	isIdx := buildItemSetIndex(item_sets)
@@ -84,7 +85,7 @@ func GetWeaponPaintKits(
 		current := SchemaWeaponSkinMap{
 			Name:          weapon.Name,
 			StickerAmount: weapon.NumStickers,
-			Image: fmt.Sprintf("econ/default_generated/%s_light", weapon.ClassName),
+			Image:         fmt.Sprintf("econ/default_generated/%s_light", weapon.ClassName),
 			Type:          "weapon",
 			Paints:        make(map[int]models.SchemaWeaponPaintKitMap),
 		}
@@ -101,10 +102,15 @@ func GetWeaponPaintKits(
 				pk.ItemSetId = data.ItemSetId
 			}
 
+			rarity := pk.Rarity
+			if r, ok := skinRarityMap["["+pk.Name+"]"+weapon.ClassName]; ok {
+				rarity = r
+			}
+
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
-				Rarity:          pk.Rarity,
+				Rarity:          rarity,
 				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", weapon.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
@@ -123,6 +129,7 @@ func GetKnifePaintKits(
 	knives *[]models.BaseWeapon,
 	paint_kits *[]models.PaintKit,
 	knife_map map[string][]string,
+	skinRarityMap map[string]string,
 ) map[int]SchemaWeaponSkinMap {
 	pkIdx := buildPaintKitIndex(paint_kits)
 	weapon_skin_map := make(map[int]SchemaWeaponSkinMap, len(*knives))
@@ -140,11 +147,17 @@ func GetKnifePaintKits(
 			if !ok {
 				continue
 			}
+
+			rarity := pk.Rarity
+			if r, ok := skinRarityMap["["+pk.Name+"]"+knife.ClassName]; ok {
+				rarity = r
+			}
+
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
-				Rarity:          pk.Rarity,
-				Image:           fmt.Sprintf("%s_%s", knife.ClassName, pk.Name),
+				Rarity:          rarity,
+				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", knife.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,
 				Souvenir:        false,
@@ -167,6 +180,7 @@ func GetGlovePaintKits(
 	gloves *[]models.BaseWeapon,
 	paint_kits *[]models.PaintKit,
 	glove_map map[string][]string,
+	skinRarityMap map[string]string,
 ) map[int]SchemaWeaponSkinMap {
 	pkIdx := buildPaintKitIndex(paint_kits)
 	weapon_skin_map := make(map[int]SchemaWeaponSkinMap, len(*gloves))
@@ -184,10 +198,16 @@ func GetGlovePaintKits(
 			if !ok {
 				continue
 			}
+
+			rarity := pk.Rarity
+			if r, ok := skinRarityMap["["+pk.Name+"]"+glove.ClassName]; ok {
+				rarity = r
+			}
+
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
-				Rarity:          pk.Rarity,
+				Rarity:          rarity,
 				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", glove.ClassName, pk.Name),
 				Name:            pk.MarketHashName,
 				ItemSetId:       pk.ItemSetId,

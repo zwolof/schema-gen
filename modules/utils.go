@@ -362,11 +362,11 @@ func GenerateHighlightReelVideoURL(highlightId string, mapName string, eventId, 
 func GetSpecialCharmImage(name string) string {
 	switch name {
 	case "kc_aus2025":
-		return "econ/keychains/aus2025/kc_aus2025.png"
+		return "econ/keychains/aus2025/kc_aus2025"
 	case "kc_bud2025":
-		return "econ/keychains/bud2025/kc_bud2025.png"
+		return "econ/keychains/bud2025/kc_bud2025"
 	case "kc_sticker_display_case":
-		return "econ/keychains/sticker_display_case/kc_sticker_display_case.png"
+		return "econ/keychains/sticker_display_case/kc_sticker_display_case"
 	default:
 		return ""
 	}

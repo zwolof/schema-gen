@@ -43,10 +43,11 @@ type StickerKit struct {
 	MarketHashName  string          `json:"market_hash_name"`
 	Name            string          `json:"name"`
 	StickerMaterial string          `json:"sticker_material"`
-	Image 		 string          `json:"image"`
+	Image           string          `json:"image"`
 	Rarity          string          `json:"rarity"`
 	Effect          string          `json:"effect"`
 	Type            string          `json:"type"`
+	ItemSetId       string          `json:"item_set_id,omitempty"`
 	Tournament      *TournamentData `json:"tournament"`
 	Team            *TournamentData `json:"team"`
 	Player          *TournamentData `json:"player"`
@@ -157,6 +158,7 @@ type HighlightReelTeams struct {
 
 type HighlightReel struct {
 	Id             string             `json:"id"`
+	DefinitionIndex int                `json:"definition_index"`
 	MarketHashName string             `json:"market_hash_name"`
 	ReelTitle	   string             `json:"reel_title"`
 	ReelDescription string             `json:"reel_description"`
