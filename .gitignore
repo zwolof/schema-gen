@@ -28,6 +28,7 @@ csfloat_schema.json
 
 i_hate_valve/
 i_hate_valve/*
+web/*
 
 # Go workspace file
 go.work
