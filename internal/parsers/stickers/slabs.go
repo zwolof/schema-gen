@@ -2,7 +2,6 @@ package stickers
 
 import (
 	"context"
-	"fmt"
 	"time"
 
 	"go-csitems-parser/internal/parsers/base"
@@ -26,7 +25,7 @@ func (s *Slabs) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 		if kit.StickerMaterial == "" {
 			continue
 		}
-		out[kit.DefinitionIndex] = fmt.Sprintf("econ/stickers/%s_1355_37", kit.StickerMaterial)
+		out[kit.DefinitionIndex] = "econ/stickers/" + kit.StickerMaterial + "_1355_37"
 	}
 
 	logger.Info().Msgf("Built '%d' sticker slab URLs in %s", len(out), time.Since(start))

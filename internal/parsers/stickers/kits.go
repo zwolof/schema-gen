@@ -4,7 +4,6 @@ package stickers
 
 import (
 	"context"
-	"fmt"
 	"strconv"
 	"strings"
 
@@ -60,7 +59,7 @@ func (k *Kits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 			Name:            name,
 			MarketHashName:  marketname.GenerateMarketHashName(in.T, item_name, nil, "sticker_kit"),
 			StickerMaterial: sticker_material,
-			Image:           fmt.Sprintf("econ/stickers/%s", sticker_material),
+			Image:           "econ/stickers/" + sticker_material,
 			Rarity:          item_rarity,
 			Effect:          StickerEffect(sticker_material),
 			Type:            StickerType(tournament_player_id, tournament_team_id, tournament_event_id),

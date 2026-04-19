@@ -5,6 +5,7 @@ import (
 	"context"
 	"fmt"
 	"os"
+	"path/filepath"
 	"strings"
 	"time"
 
@@ -19,8 +20,7 @@ func Load(ctx context.Context, folderPath, lang string) (*Factory, error) {
 	logger := zerolog.Ctx(ctx)
 	start := time.Now()
 
-	fileName := fmt.Sprintf("csgo_%s.txt", strings.ToLower(lang))
-	path := fmt.Sprintf("%s/%s", folderPath, fileName)
+	path := filepath.Join(folderPath, "csgo_"+strings.ToLower(lang)+".txt")
 
 	fileData, err := os.ReadFile(path)
 	if err != nil {
@@ -33,9 +33,9 @@ func Load(ctx context.Context, folderPath, lang string) (*Factory, error) {
 		return nil, fmt.Errorf("parse %s: empty VDF", path)
 	}
 
-	t, langName := loadLanguage(&kv)
-	if t == nil {
-		return nil, fmt.Errorf("load language from %s", path)
+	t, langName, err := loadLanguage(&kv)
+	if err != nil {
+		return nil, fmt.Errorf("load language from %s: %w", path, err)
 	}
 
 	logger.Info().Msgf("Loaded language '%s' in %s", langName, time.Since(start))
@@ -73,7 +73,7 @@ func LoadAll(ctx context.Context, folderPath string) (*Factory, error) {
 			continue
 		}
 
-		path := fmt.Sprintf("%s/%s", folderPath, fileName)
+		path := filepath.Join(folderPath, fileName)
 		fileData, err := os.ReadFile(path)
 		if err != nil {
 			logger.Error().Msgf("Error reading file %s: %v", path, err)
@@ -86,9 +86,9 @@ func LoadAll(ctx context.Context, folderPath string) (*Factory, error) {
 			continue
 		}
 
-		t, langName := loadLanguage(&kv)
-		if t == nil {
-			logger.Error().Msgf("Error loading language from file %s", path)
+		t, langName, err := loadLanguage(&kv)
+		if err != nil {
+			logger.Error().Err(err).Msgf("loading language from %s", path)
 			continue
 		}
 		langMap[langName] = t
@@ -98,22 +98,25 @@ func LoadAll(ctx context.Context, folderPath string) (*Factory, error) {
 	return &Factory{Translators: langMap}, nil
 }
 
-func loadLanguage(kv *vdf.KeyValue) (*FileTranslator, string) {
+func loadLanguage(kv *vdf.KeyValue) (*FileTranslator, string, error) {
 	if kv == nil {
-		panic("vdf is nil")
+		return nil, "", fmt.Errorf("vdf is nil")
 	}
 
 	inner, _ := kv.Get("lang")
+	if inner == nil {
+		return nil, "", fmt.Errorf("missing 'lang' section")
+	}
 	langName, _ := inner.GetString("Language")
 
 	tokens, _ := inner.Get("Tokens")
-	if inner == nil || tokens == nil {
-		panic("translation file does not contain 'lang.Tokens' section")
+	if tokens == nil {
+		return nil, "", fmt.Errorf("missing 'lang.Tokens' section")
 	}
 
 	tokenMap, err := tokens.ToStringMap()
 	if err != nil {
-		panic(fmt.Sprintf("Error parsing tokens: %v", err))
+		return nil, "", fmt.Errorf("parse tokens: %w", err)
 	}
 
 	// Case-fold all keys for consistent lookup.
@@ -125,7 +128,7 @@ func loadLanguage(kv *vdf.KeyValue) (*FileTranslator, string) {
 		}
 	}
 
-	return &FileTranslator{Language: langName, Tokens: *tokenMap}, langName
+	return &FileTranslator{Language: langName, Tokens: *tokenMap}, langName, nil
 }
 
 func removeBOM(b []byte) []byte {

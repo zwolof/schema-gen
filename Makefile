@@ -39,10 +39,16 @@ tidy: ## Tidy go.mod
 race: ## Run with -race detector
 	go run -race .
 
+profile: ## Run with CPU + heap profiling; writes cpu.prof and mem.prof
+	go run . -cpuprofile cpu.prof -memprofile mem.prof
+	@echo
+	@echo "  Inspect: go tool pprof -http=:8080 cpu.prof"
+	@echo "           go tool pprof -http=:8081 mem.prof"
+
 check: fmt-check vet ## Format-check + vet (pre-commit sanity)
 
 clean: ## Remove build artefacts and generated output
-	rm -rf $(BIN_DIR)/ exported/
+	rm -rf $(BIN_DIR)/ exported/ cpu.prof mem.prof
 
 install-tools: ## Install optional formatting tools
 	go install golang.org/x/tools/cmd/goimports@latest

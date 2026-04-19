@@ -4,8 +4,6 @@
 package skinmap
 
 import (
-	"fmt"
-
 	"go-csitems-parser/internal/models"
 )
 
@@ -34,6 +32,12 @@ type PaintKitBuilder struct{}
 // Default is the package-level Builder singleton used by the pipeline.
 var Default Builder = PaintKitBuilder{}
 
+const (
+	econDefaultGenerated = "econ/default_generated/"
+	econWeaponsBase      = "econ/weapons/base_weapons/"
+	lightSuffix          = "_light"
+)
+
 // ---- Builder interface methods ----
 
 func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.PaintKit, itemSets []models.ItemSet, rarityMap map[string]string) map[int]SchemaWeaponSkinMap {
@@ -45,7 +49,7 @@ func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.P
 		current := SchemaWeaponSkinMap{
 			Name:          weapon.Name,
 			StickerAmount: weapon.NumStickers,
-			Image:         fmt.Sprintf("econ/default_generated/%s_light", weapon.ClassName),
+			Image:         econDefaultGenerated + weapon.ClassName + lightSuffix,
 			Type:          "weapon",
 			Paints:        make(map[int]models.SchemaWeaponPaintKitMap),
 		}
@@ -76,7 +80,7 @@ func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.P
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
 				Rarity:          rarity,
-				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", weapon.ClassName, pk.Name),
+				Image:           econDefaultGenerated + weapon.ClassName + "_" + pk.Name + lightSuffix,
 				Name:            pk.MarketHashName,
 				ItemSetId:       itemSetID,
 				Souvenir:        souvenir,
@@ -105,9 +109,11 @@ func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.Pai
 				continue
 			}
 
-			image := fmt.Sprintf("econ/default_generated/%s_%s_light", knife.ClassName, pk.Name)
+			var image string
 			if pk.Name == "default" {
-				image = fmt.Sprintf("econ/weapons/base_weapons/%s", knife.ClassName)
+				image = econWeaponsBase + knife.ClassName
+			} else {
+				image = econDefaultGenerated + knife.ClassName + "_" + pk.Name + lightSuffix
 			}
 
 			current.Paints[pk.DefinitionIndex] = models.SchemaWeaponPaintKitMap{
@@ -151,7 +157,7 @@ func (PaintKitBuilder) Gloves(gloves []models.BaseWeapon, paintKits []models.Pai
 				DefinitionIndex: pk.DefinitionIndex,
 				Float:           pk.Wear,
 				Rarity:          "ancient",
-				Image:           fmt.Sprintf("econ/default_generated/%s_%s_light", glove.ClassName, pk.Name),
+				Image:           econDefaultGenerated + glove.ClassName + "_" + pk.Name + lightSuffix,
 				Name:            pk.MarketHashName,
 				// Gloves never carry an item-set id — see Knives above.
 				ItemSetId: "",

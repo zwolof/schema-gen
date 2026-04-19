@@ -2,7 +2,8 @@ package stickers
 
 import (
 	"context"
-	"fmt"
+	"strconv"
+	"strings"
 
 	"go-csitems-parser/internal/i18n"
 	"go-csitems-parser/internal/itemsgame"
@@ -243,9 +244,21 @@ func buildTotal(ig *models.ItemsGame, t i18n.Translator, idx *kitIndex, groupID,
 
 // GenerateCustomStickerId is exported so external callers can reconstruct the
 // canonical id format. Nil effect + stickerType produce the "A" aggregate form.
+// Called once per custom sticker emitted — strings.Builder avoids the fmt.Sprintf
+// reflection hit on the hot path.
 func GenerateCustomStickerId(teamID int, kind string, effect, stickerType *string) string {
+	var b strings.Builder
+	// Worst case: 'C' + 10-digit int + 2 suffix chars + kind.
+	b.Grow(13 + len(kind))
+	b.WriteByte('C')
+	b.WriteString(strconv.Itoa(teamID))
+
 	if effect == nil || stickerType == nil {
-		return fmt.Sprintf("C%dA%s", teamID, kind)
+		b.WriteByte('A')
+	} else {
+		b.WriteString(stickerEffectSuffix[*effect])
+		b.WriteString(stickerTypeSuffix[*stickerType])
 	}
-	return fmt.Sprintf("C%d%s%s%s", teamID, stickerEffectSuffix[*effect], stickerTypeSuffix[*stickerType], kind)
+	b.WriteString(kind)
+	return b.String()
 }

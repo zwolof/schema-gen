@@ -5,6 +5,7 @@ package marketname
 
 import (
 	"fmt"
+	"strconv"
 	"strings"
 
 	"go-csitems-parser/internal/i18n"
@@ -80,12 +81,12 @@ func GenerateMarketHashName(t i18n.Translator, name string, extra *string, itemT
 
 	if extra != nil && *extra != "" {
 		if phase, ok := dopplerPhaseMap[*extra]; ok {
-			value = fmt.Sprintf("%s (%s)", value, phase)
+			value = value + " (" + phase + ")"
 		}
 	}
 
 	if itemType == "knife" || itemType == "glove" {
-		value = fmt.Sprintf("★ %s", value)
+		value = "★ " + value
 	}
 	if prefix, ok := hashNamePrefixes[itemType]; ok {
 		value = prefix + value
@@ -96,28 +97,28 @@ func GenerateMarketHashName(t i18n.Translator, name string, extra *string, itemT
 
 // GenerateCustomStickerMarketHashName_Team builds the per-team sticker name.
 func GenerateCustomStickerMarketHashName_Team(t i18n.Translator, teamID int, effect *string) string {
-	teamName, _ := t.GetValueByKey(fmt.Sprintf("CSGO_TeamID_%d", teamID))
+	teamName, _ := t.GetValueByKey("CSGO_TeamID_" + strconv.Itoa(teamID))
 	if effect == nil {
-		return fmt.Sprintf("Sticker | %s", teamName)
+		return "Sticker | " + teamName
 	}
-	return fmt.Sprintf("Sticker | %s%s", teamName, stickerEffectNames[*effect])
+	return "Sticker | " + teamName + stickerEffectNames[*effect]
 }
 
 // GenerateCustomStickerMarketHashName_Player builds the per-player sticker name.
 func GenerateCustomStickerMarketHashName_Player(_ i18n.Translator, player *models.TournamentData, effect *string) string {
 	if effect == nil {
-		return fmt.Sprintf("Sticker | %s", player.Name)
+		return "Sticker | " + player.Name
 	}
-	return fmt.Sprintf("Sticker | %s%s", player.Name, stickerEffectNames[*effect])
+	return "Sticker | " + player.Name + stickerEffectNames[*effect]
 }
 
 // GenerateCustomStickerMarketHashName_Event builds the per-event sticker name.
 func GenerateCustomStickerMarketHashName_Event(t i18n.Translator, eventID int, effect *string) string {
-	translated, _ := t.GetValueByKey(fmt.Sprintf("CSGO_Tournament_Event_Location_%d", eventID))
+	translated, _ := t.GetValueByKey("CSGO_Tournament_Event_Location_" + strconv.Itoa(eventID))
 	if effect == nil {
-		return fmt.Sprintf("Sticker | %s", translated)
+		return "Sticker | " + translated
 	}
-	return fmt.Sprintf("Sticker | %s%s", translated, stickerEffectNames[*effect])
+	return "Sticker | " + translated + stickerEffectNames[*effect]
 }
 
 // GenerateHighlightReelMarketHashName builds the hash name for a highlight-
@@ -131,9 +132,10 @@ func GenerateHighlightReelMarketHashName(t i18n.Translator, name string, _ int) 
 
 	tournamentID := ""
 	if len(name) > 0 {
-		parts := strings.Split(name, "_")
-		if len(parts) > 0 {
-			tournamentID = parts[0]
+		if idx := strings.IndexByte(name, '_'); idx > 0 {
+			tournamentID = name[:idx]
+		} else {
+			tournamentID = name
 		}
 	}
 
@@ -143,37 +145,69 @@ func GenerateHighlightReelMarketHashName(t i18n.Translator, name string, _ int) 
 		capsule = "Unknown Capsule"
 	}
 
-	return fmt.Sprintf("Souvenir Charm | %s | %s", capsule, value)
+	return "Souvenir Charm | " + capsule + " | " + value
 }
 
 const highlightReelCDNBase = "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels"
 
 // GenerateHighlightReelVideoURL builds the Steam CDN video URL for a
 // highlight reel. All IDs are zero-padded to 3 digits. Region is "ww" or "cn".
+//
+// URL format:
+//
+//	{base}/{event}/{t0}v{t1}_{stage}/{event}_{t0}v{t1}_{stage}_{map}_{hl}_{region}_1080p.webm
+//
+// Uses strings.Builder because the format touches 7+ segments per call and
+// the total length is known up-front.
 func GenerateHighlightReelVideoURL(highlightID, mapName string, eventID, stageID, team0ID, team1ID int, region string) string {
-	event := fmt.Sprintf("%03d", eventID)
-	stage := fmt.Sprintf("%03d", stageID)
-	t0 := fmt.Sprintf("%03d", team0ID)
-	t1 := fmt.Sprintf("%03d", team1ID)
+	event := pad3(eventID)
+	stage := pad3(stageID)
+	t0 := pad3(team0ID)
+	t1 := pad3(team1ID)
 
-	matchDir := fmt.Sprintf("%sv%s_%s", t0, t1, stage)
-	filename := fmt.Sprintf("%s_%sv%s_%s_%s_%s_%s_1080p.webm", event, t0, t1, stage, mapName, highlightID, region)
+	// Pre-size: base + "/" + 3 + "/" + 3 + "v" + 3 + "_" + 3 + "/" + 3 + "_" +
+	// 3 + "v" + 3 + "_" + 3 + "_" + len(map) + "_" + len(hl) + "_" + len(region) + "_1080p.webm"
+	var b strings.Builder
+	b.Grow(len(highlightReelCDNBase) + 50 + len(mapName) + len(highlightID) + len(region))
 
-	return fmt.Sprintf("%s/%s/%s/%s", highlightReelCDNBase, event, matchDir, filename)
+	b.WriteString(highlightReelCDNBase)
+	b.WriteByte('/')
+	b.WriteString(event)
+	b.WriteByte('/')
+	b.WriteString(t0)
+	b.WriteByte('v')
+	b.WriteString(t1)
+	b.WriteByte('_')
+	b.WriteString(stage)
+	b.WriteByte('/')
+	b.WriteString(event)
+	b.WriteByte('_')
+	b.WriteString(t0)
+	b.WriteByte('v')
+	b.WriteString(t1)
+	b.WriteByte('_')
+	b.WriteString(stage)
+	b.WriteByte('_')
+	b.WriteString(mapName)
+	b.WriteByte('_')
+	b.WriteString(highlightID)
+	b.WriteByte('_')
+	b.WriteString(region)
+	b.WriteString("_1080p.webm")
+
+	return b.String()
 }
 
-// GetSpecialCharmImage returns the CDN path for the hand-curated special
-// charm images, or "" if the name doesn't match one.
-func GetSpecialCharmImage(name string) string {
-	switch name {
-	case "kc_aus2025":
-		return "econ/keychains/aus2025/kc_aus2025"
-	case "kc_bud2025":
-		return "econ/keychains/bud2025/kc_bud2025"
-	case "kc_sticker_display_case":
-		return "econ/keychains/sticker_display_case/kc_sticker_display_case"
+// pad3 zero-pads a non-negative int to exactly 3 digits. Cheaper than
+// fmt.Sprintf("%03d", n) in the hot path.
+func pad3(n int) string {
+	switch {
+	case n < 10:
+		return "00" + strconv.Itoa(n)
+	case n < 100:
+		return "0" + strconv.Itoa(n)
 	default:
-		return ""
+		return strconv.Itoa(n)
 	}
 }
 
@@ -182,7 +216,7 @@ func GetInventoryImageUrl(basePath, imageInventory string) string {
 	if imageInventory == "" {
 		return ""
 	}
-	return fmt.Sprintf("https://cs2cdn.com/econ/%s/%s.png", basePath, imageInventory)
+	return "https://cs2cdn.com/econ/" + basePath + "/" + imageInventory + ".png"
 }
 
 // ItemWear describes a CS2 float wear bracket.

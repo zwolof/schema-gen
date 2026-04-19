@@ -52,7 +52,9 @@ func (p *Keychains) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 
 		if tagsErr == nil && tags != nil {
 			current.IsSpecialCharm = true
-			current.ImageInventory = marketname.GetSpecialCharmImage(name)
+			// image_inventory is already read from items_game above; it's
+			// already the canonical path (e.g. "econ/keychains/aus2025/kc_aus2025"),
+			// no override needed.
 			current.MarketHashName = marketname.GenerateMarketHashName(in.T, loc_name, nil, "kc_sticker_display_case")
 		}
 

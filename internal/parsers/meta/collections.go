@@ -2,7 +2,6 @@ package meta
 
 import (
 	"context"
-	"fmt"
 	"strings"
 
 	"go-csitems-parser/internal/marketname"
@@ -40,7 +39,7 @@ func (c *Collections) Parse(ctx context.Context, in *pipeline.Inputs) (any, erro
 		current := models.Collection{
 			Key:   s.Key,
 			Name:  marketname.GenerateMarketHashName(in.T, name, nil, "collection"),
-			Image: fmt.Sprintf("econ/set_icons/%s", s.Key),
+			Image: "econ/set_icons/" + s.Key,
 		}
 
 		for _, wpncase := range in.WeaponCases {

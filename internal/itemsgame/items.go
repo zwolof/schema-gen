@@ -19,10 +19,10 @@ import (
 )
 
 // Load reads items_game.txt at path, merging root-level duplicate sections.
-func Load(path string) *models.ItemsGame {
+func Load(path string) (*models.ItemsGame, error) {
 	fileData, err := os.ReadFile(path)
 	if err != nil {
-		panic(err)
+		return nil, fmt.Errorf("read %s: %w", path, err)
 	}
 	fileData = bytes.Trim(fileData, "\xef\xbb\xbf")
 
@@ -31,38 +31,42 @@ func Load(path string) *models.ItemsGame {
 
 	kv, _ := parsed.Get("items_game")
 	if kv == nil {
-		panic("items_game.txt does not contain 'items_game' section")
+		return nil, fmt.Errorf("parse %s: missing 'items_game' section", path)
 	}
 
-	mergeKeysAtRootLevel(kv)
+	if err := mergeKeysAtRootLevel(kv); err != nil {
+		return nil, fmt.Errorf("merge %s: %w", path, err)
+	}
 
-	return &models.ItemsGame{KeyValue: kv}
+	return &models.ItemsGame{KeyValue: kv}, nil
 }
 
 // LoadKnifeSkinsMap reads the knife/glove paint-kit overrides from
 // knife_skins.json at path.
-func LoadKnifeSkinsMap(path string) map[string][]string {
+func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
 	fileData, err := os.ReadFile(path)
 	if err != nil {
-		panic(fmt.Sprintf("Error reading file %s: %v", path, err))
+		return nil, fmt.Errorf("read %s: %w", path, err)
 	}
 	if len(fileData) == 0 {
-		panic(fmt.Sprintf("File %s is empty", path))
+		return nil, fmt.Errorf("%s is empty", path)
 	}
 
 	result := make(map[string][]string)
-	json.Unmarshal(fileData, &result)
-	return result
+	if err := json.Unmarshal(fileData, &result); err != nil {
+		return nil, fmt.Errorf("parse %s: %w", path, err)
+	}
+	return result, nil
 }
 
 // mergeKeysAtRootLevel flattens duplicate top-level sections (items_game can
 // contain multiple "prefabs" blocks etc.) into a single merged tree.
-func mergeKeysAtRootLevel(root *vdf.KeyValue) {
+func mergeKeysAtRootLevel(root *vdf.KeyValue) error {
 	if root == nil {
-		panic("root KeyValue is nil")
+		return fmt.Errorf("root KeyValue is nil")
 	}
 	if len(root.GetChilds()) == 0 {
-		panic("root KeyValue has no child keys")
+		return fmt.Errorf("root KeyValue has no child keys")
 	}
 
 	cached := make(map[string][]*vdf.KeyValue)
@@ -85,6 +89,7 @@ func mergeKeysAtRootLevel(root *vdf.KeyValue) {
 		})
 	}
 	root.Value = newRoot.Value
+	return nil
 }
 
 // --- VDF helpers that read from an items_game tree ---

@@ -2,9 +2,11 @@ package main
 
 import (
 	"bufio"
-	"encoding/json"
 	"fmt"
 	"os"
+	"path/filepath"
+
+	json "github.com/goccy/go-json"
 )
 
 // ExportToJsonFile streams the JSON encoding of v directly to disk. Uses
@@ -16,7 +18,7 @@ func ExportToJsonFile(v any, fname string) {
 		fname = "music_kits"
 	}
 
-	path := fmt.Sprintf("exported/%s.json", fname)
+	path := filepath.Join("exported", fname+".json")
 
 	f, err := os.Create(path)
 	if err != nil {

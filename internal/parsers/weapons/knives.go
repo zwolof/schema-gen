@@ -2,7 +2,6 @@ package weapons
 
 import (
 	"context"
-	"fmt"
 	"strconv"
 
 	"go-csitems-parser/internal/marketname"
@@ -46,7 +45,7 @@ func (k *Knives) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 			DefinitionIndex: definition_index,
 			ClassName:       classname,
 			Name:            marketname.GenerateMarketHashName(in.T, item_name, nil, "knife"),
-			ImageInventory:  fmt.Sprintf("econ/default_generated/%s_light", image_inventory),
+			ImageInventory:  "econ/default_generated/" + image_inventory + "_light",
 		})
 	}
 
