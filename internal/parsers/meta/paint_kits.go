@@ -47,10 +47,20 @@ func (p *PaintKits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 		wearMin, _ := r.GetFloat32("wear_remap_min")
 		wearMax, _ := r.GetFloat32("wear_remap_max")
 		descriptionTag, _ := r.GetString("description_tag")
+		descriptionString, _ := r.GetString("description_string")
+
+		// Fallback: some kits ship with max=0, which makes the JSON wear range
+		// useless. Treat that as "full 0-1 range".
+		if wearMax == 0.0 {
+			wearMax = 1.0
+		}
+
+		translatedDescription, _ := in.T.GetValueByKey(descriptionString)
 
 		current := models.PaintKit{
 			DefinitionIndex: definitionIndex,
 			Name:            name,
+			Description:     translatedDescription,
 			Wear:            models.PaintKitWearRange{Min: wearMin, Max: wearMax},
 			MarketHashName:  marketname.GenerateMarketHashName(in.T, descriptionTag, &name, "paint_kit"),
 		}

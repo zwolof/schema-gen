@@ -21,6 +21,7 @@ type PaintKitWearRange struct {
 type PaintKit struct {
 	DefinitionIndex   int               `json:"definition_index"`
 	Name              string            `json:"name"`
+	Description       string            `json:"description"`
 	MarketHashName    string            `json:"market_hash_name"`
 	Wear              PaintKitWearRange `json:"float"`
 	Rarity            string            `json:"rarity"`

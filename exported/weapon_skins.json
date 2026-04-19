@@ -169,7 +169,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -208,7 +208,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -325,7 +325,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -520,7 +520,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -788,7 +788,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -814,7 +814,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -918,7 +918,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1113,7 +1113,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1212,7 +1212,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1225,7 +1225,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -1303,7 +1303,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1368,7 +1368,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1433,7 +1433,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -1459,7 +1459,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -1472,7 +1472,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -1545,7 +1545,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1649,7 +1649,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -1740,7 +1740,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2013,7 +2013,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2052,7 +2052,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -2216,7 +2216,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2229,7 +2229,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2242,7 +2242,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2255,7 +2255,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -2372,7 +2372,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2471,7 +2471,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -2705,7 +2705,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2718,7 +2718,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -2731,7 +2731,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -2744,7 +2744,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -2757,7 +2757,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3004,7 +3004,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -3129,7 +3129,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -3389,7 +3389,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -3402,7 +3402,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -3415,7 +3415,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3818,7 +3818,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -3839,7 +3839,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -3904,7 +3904,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -3969,7 +3969,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -4112,7 +4112,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -4125,7 +4125,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -4151,7 +4151,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4705,7 +4705,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -4874,7 +4874,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -4887,7 +4887,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -5246,7 +5246,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -5579,7 +5579,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -5592,7 +5592,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -5605,7 +5605,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -5618,7 +5618,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -5930,7 +5930,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -5956,7 +5956,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6159,7 +6159,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -6198,7 +6198,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6211,7 +6211,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -6224,7 +6224,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6510,7 +6510,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6523,7 +6523,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6609,7 +6609,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6674,7 +6674,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6687,7 +6687,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -6713,7 +6713,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -6726,7 +6726,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -6778,7 +6778,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -7072,7 +7072,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -7189,7 +7189,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -7215,7 +7215,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -7293,7 +7293,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -7540,7 +7540,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -7652,7 +7652,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -7946,7 +7946,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -7998,7 +7998,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -8011,7 +8011,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -8063,7 +8063,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -8076,7 +8076,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -8167,7 +8167,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -8297,7 +8297,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -8474,7 +8474,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -8500,7 +8500,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -8552,7 +8552,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -8669,7 +8669,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -8799,7 +8799,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -9054,7 +9054,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -9067,7 +9067,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -9080,7 +9080,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -9093,7 +9093,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -9490,6 +9490,105 @@
       }
     }
   },
+  "31": {
+    "name": "Zeus x27",
+    "image": "econ/default_generated/weapon_taser_light",
+    "sticker_count": 5,
+    "type": "weapon",
+    "paints": {
+      "1172": {
+        "definition_index": 1172,
+        "name": "Olympus",
+        "item_set_id": "set_community_33",
+        "image": "econ/default_generated/weapon_taser_zeus_thunder_god_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0,
+          "max": 0.67
+        },
+        "souvenir": false,
+        "stattrak": true
+      },
+      "1183": {
+        "definition_index": 1183,
+        "name": "Tosai",
+        "item_set_id": "set_community_35",
+        "image": "econ/default_generated/weapon_taser_zeus_tosai_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0,
+          "max": 0.7
+        },
+        "souvenir": false,
+        "stattrak": true
+      },
+      "1205": {
+        "definition_index": 1205,
+        "name": "Charged Up",
+        "item_set_id": "set_train_2025",
+        "image": "econ/default_generated/weapon_taser_zeus_standard_issue_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": true,
+        "stattrak": false
+      },
+      "1268": {
+        "definition_index": 1268,
+        "name": "Electric Blue",
+        "item_set_id": "set_timed_drops_cool",
+        "image": "econ/default_generated/weapon_taser_soe_electric_blue_light",
+        "rarity": "common",
+        "float": {
+          "min": 0,
+          "max": 0.75
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1297": {
+        "definition_index": 1297,
+        "name": "Swamp DDPAT",
+        "item_set_id": "set_timed_drops_neutral",
+        "image": "econ/default_generated/weapon_taser_hy_digicam_forest_light",
+        "rarity": "common",
+        "float": {
+          "min": 0,
+          "max": 0.6
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1382": {
+        "definition_index": 1382,
+        "name": "Earth Mandala",
+        "item_set_id": "set_timed_drops_exuberant",
+        "image": "econ/default_generated/weapon_taser_hye_earth_mandala_lc_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0,
+          "max": 0.66
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "292": {
+        "definition_index": 292,
+        "name": "Dragon Snore",
+        "item_set_id": "set_overpass_2024",
+        "image": "econ/default_generated/weapon_taser_cu_overpass_dragon_zeus_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0,
+          "max": 0.8
+        },
+        "souvenir": false,
+        "stattrak": false
+      }
+    }
+  },
   "32": {
     "name": "P2000",
     "image": "econ/default_generated/weapon_hkp2000_light",
@@ -9517,7 +9616,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -9647,7 +9746,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -9920,7 +10019,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -9993,7 +10092,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10123,7 +10222,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -10149,7 +10248,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -10162,7 +10261,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10175,7 +10274,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10201,7 +10300,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10305,7 +10404,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10495,7 +10594,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -10690,7 +10789,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10716,7 +10815,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -10729,7 +10828,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -10846,7 +10945,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11101,7 +11200,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -11244,7 +11343,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -11257,7 +11356,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11270,7 +11369,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11283,7 +11382,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -11348,7 +11447,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11439,7 +11538,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11530,7 +11629,7 @@
         "rarity": "legendary",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -11660,7 +11759,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11681,7 +11780,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11902,7 +12001,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -11928,7 +12027,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -11941,7 +12040,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -11954,7 +12053,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12006,7 +12105,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -12253,7 +12352,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12292,7 +12391,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12409,7 +12508,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -12430,7 +12529,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -12469,7 +12568,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -12547,7 +12646,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12573,7 +12672,7 @@
         "rarity": "legendary",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12599,7 +12698,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -12664,7 +12763,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12841,7 +12940,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12945,7 +13044,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -12971,7 +13070,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -13075,7 +13174,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -13322,7 +13421,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -13655,7 +13754,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -13668,7 +13767,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -13798,7 +13897,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -14019,7 +14118,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -14261,7 +14360,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -14274,7 +14373,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -14300,7 +14399,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -14326,7 +14425,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -14586,7 +14685,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -14625,7 +14724,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -14644,6 +14743,20 @@
         "stattrak": false
       }
     }
+  },
+  "42": {
+    "name": "Knife",
+    "image": "econ/default_generated/weapon_knife_light",
+    "sticker_count": 5,
+    "type": "weapon",
+    "paints": {}
+  },
+  "59": {
+    "name": "Knife",
+    "image": "econ/default_generated/weapon_knife_t_light",
+    "sticker_count": 5,
+    "type": "weapon",
+    "paints": {}
   },
   "60": {
     "name": "M4A1-S",
@@ -14932,7 +15045,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -15179,7 +15292,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -15291,7 +15404,7 @@
         "rarity": "legendary",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -15460,7 +15573,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -15512,7 +15625,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -15884,7 +15997,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -15923,7 +16036,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -16347,7 +16460,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -16451,7 +16564,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -16477,7 +16590,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -16568,7 +16681,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -16810,7 +16923,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -16927,7 +17040,7 @@
         "rarity": "legendary",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -16966,7 +17079,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -16979,7 +17092,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -17278,7 +17391,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -17442,7 +17555,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -17481,7 +17594,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -17702,7 +17815,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -17715,7 +17828,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
@@ -17936,7 +18049,7 @@
         "rarity": "legendary",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -18321,7 +18434,7 @@
         "rarity": "rare",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -18503,7 +18616,7 @@
         "rarity": "common",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": false,
         "stattrak": false
@@ -18594,7 +18707,7 @@
         "rarity": "mythical",
         "float": {
           "min": 0,
-          "max": 0
+          "max": 1
         },
         "souvenir": true,
         "stattrak": false
