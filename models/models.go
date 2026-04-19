@@ -287,4 +287,3 @@ type SchemaWeaponPaintKitMap struct {
 	Souvenir        bool              `json:"souvenir"`
 	StatTrak        bool              `json:"stattrak"`
 }
-
