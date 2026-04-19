@@ -1,9 +1,8 @@
 module go-csitems-parser
 
-go 1.24.4
+go 1.25.0
 
 require github.com/baldurstod/vdf v0.0.8 // indirect
-
 
 require (
 	github.com/asaskevich/govalidator v0.0.0-20230301143203-a9d515a09cc2 // indirect
@@ -18,6 +17,7 @@ require (
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	go.mongodb.org/mongo-driver v1.14.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
 	golang.org/x/sys v0.30.0 // indirect
 )
 

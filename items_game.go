@@ -17,6 +17,6 @@ func GetFormattedItemName(title string, count int, length int) string {
 		numbuf += " "
 	}
 	buf += fmt.Sprintf("%s entries", numbuf)
-	
+
 	return buf
 }

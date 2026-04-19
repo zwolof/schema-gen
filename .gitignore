@@ -30,6 +30,9 @@ i_hate_valve/
 i_hate_valve/*
 web/*
 
+# Build artefacts
+bin/
+
 # Go workspace file
 go.work
 go.work.sum
