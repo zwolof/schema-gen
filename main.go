@@ -2,109 +2,129 @@ package main
 
 import (
 	"context"
+	"flag"
 	"fmt"
 	"os"
+	"runtime"
+	"runtime/pprof"
+	"sync"
 	"time"
 
-	"go-csitems-parser/models"
-	"go-csitems-parser/modules"
-	"go-csitems-parser/modules/parsers"
+	"go-csitems-parser/internal/i18n"
+	"go-csitems-parser/internal/itemsgame"
+	"go-csitems-parser/internal/parsers"
+	"go-csitems-parser/internal/parsers/meta"
 
 	"github.com/rs/zerolog"
 )
 
-type ItemSchema struct {
-	Collections    []models.Collection                   `json:"collections"`
-	Rarities       map[string]models.Rarity              `json:"rarities"`
-	Stickers       map[int]modules.SchemaItemWithImage   `json:"stickers"`
-	Keychains      map[int]modules.SchemaItemWithImage   `json:"keychains"`
-	Collectibles   map[int]models.SchemaGenericeMap      `json:"collectibles"`
-	Containers     map[int]string                        `json:"containers"`
-	Agents         map[int]models.SchemaGenericeMap      `json:"agents"`
-	CustomStickers map[string]models.SchemaCustomSticker `json:"custom_stickers"`
-	MusicKits      map[int]models.SchemaGenericeMap      `json:"music_kits"`
-	Weapons        map[int]modules.SchemaWeaponSkinMap   `json:"weapons"`
-
-	HighlightReels []models.HighlightReel `json:"highlight_reels"`
-}
+var (
+	cpuProfile = flag.String("cpuprofile", "", "write CPU profile to file (analyse with: go tool pprof -http=:8080 <file>)")
+	memProfile = flag.String("memprofile", "", "write heap profile to file (analyse with: go tool pprof -http=:8080 <file>)")
+)
 
 func main() {
+	flag.Parse()
+
 	logger := zerolog.New(zerolog.ConsoleWriter{Out: os.Stderr, TimeFormat: time.RFC3339Nano}).
 		Level(zerolog.TraceLevel).
 		With().
 		Timestamp().
 		Logger()
 
-	itemsGame := modules.LoadItemsGame("./files/items_game.txt")
-	if itemsGame == nil {
-		logger.Error().Msg("Failed to load items_game.txt, please check the file path and format.")
-		panic("items_game.txt is nil, exiting...")
+	if err := execute(&logger); err != nil {
+		logger.Error().Err(err).Msg("schema-gen failed")
+		os.Exit(1)
+	}
+}
+
+// execute wires pprof profiling around the pipeline when the relevant flags
+// are set. CPU profiling covers exactly the run() call; the heap profile is
+// captured after run() finishes (post-GC) so it reflects the final resident
+// set rather than mid-pipeline transients.
+func execute(logger *zerolog.Logger) error {
+	if *cpuProfile != "" {
+		f, err := os.Create(*cpuProfile)
+		if err != nil {
+			return fmt.Errorf("create cpu profile: %w", err)
+		}
+		defer f.Close()
+		if err := pprof.StartCPUProfile(f); err != nil {
+			return fmt.Errorf("start cpu profile: %w", err)
+		}
+		logger.Info().Str("file", *cpuProfile).Msg("CPU profiling started")
+	}
+
+	runErr := run(logger)
+
+	if *cpuProfile != "" {
+		pprof.StopCPUProfile()
+		logger.Info().Str("file", *cpuProfile).Msg("CPU profile written")
+	}
+
+	if runErr != nil {
+		return runErr
+	}
+
+	if *memProfile != "" {
+		f, err := os.Create(*memProfile)
+		if err != nil {
+			return fmt.Errorf("create mem profile: %w", err)
+		}
+		defer f.Close()
+		runtime.GC()
+		if err := pprof.WriteHeapProfile(f); err != nil {
+			return fmt.Errorf("write mem profile: %w", err)
+		}
+		logger.Info().Str("file", *memProfile).Msg("heap profile written")
+	}
+
+	return nil
+}
+
+func run(logger *zerolog.Logger) error {
+	itemsGame, err := itemsgame.Load("./files/items_game.txt")
+	if err != nil {
+		return err
 	}
 	logger.Info().Msg("Successfully loaded items_game.txt")
 
 	ctx := logger.WithContext(context.Background())
 
-	factory := modules.LoadAllTranslations(ctx, "./files/translations")
-	if factory == nil {
-		logger.Error().Msg("Failed to load translations")
-		return
+	factory, err := i18n.Load(ctx, "./files/translations", "english")
+	if err != nil {
+		return err
 	}
 
-	t := factory.GetTranslator("English")
+	knifeSkinMap, err := itemsgame.LoadKnifeSkinsMap("./files/knife_skins.json")
+	if err != nil {
+		return err
+	}
+
+	in := &parsers.Inputs{
+		IG:                itemsGame,
+		T:                 factory.Get("English"),
+		KnifeSkinMap:      knifeSkinMap,
+		SkinRarityMap:     meta.SkinWeaponRarityMap(ctx, itemsGame),
+		StickerItemSetMap: meta.StickerItemSetMap(ctx, itemsGame),
+	}
+
 	start := time.Now()
-
-	weaponSkinRarityMap := parsers.GetSkinWeaponRarityMap(ctx, itemsGame)
-	stickerItemSetMap := parsers.GetStickerItemSetMap(ctx, itemsGame)
-
-	player_agents := parsers.ParseAgents(ctx, itemsGame, t)
-	souvenir_packages := parsers.ParseSouvenirPackages(ctx, itemsGame, t)
-	musicKits := parsers.ParseMusicKits(ctx, itemsGame, t)
-	collectibles := parsers.ParseCollectibles(ctx, itemsGame, t)
-	weapon_cases := parsers.ParseWeaponCases(ctx, itemsGame, t)
-	rarities := parsers.ParseRarities(ctx, itemsGame, t)
-	keychains := parsers.ParseKeychains(ctx, itemsGame, t)
-	weapons := parsers.ParseWeapons(ctx, itemsGame, t)
-	gloves := parsers.ParseGloves(ctx, itemsGame, t)
-	knives := parsers.ParseKnives(ctx, itemsGame, t)
-	highlight_reels := parsers.ParseHighlightReels(ctx, itemsGame, t)
-	sticker_capsules := parsers.ParseStickerCapsules(ctx, itemsGame, t)
-	misc_capsules := parsers.ParseSelfOpeningCrates(ctx, itemsGame, t)
-	paint_kits := parsers.ParsePaintKits(ctx, itemsGame, t)
-	sticker_kits := parsers.ParseStickerKits(ctx, itemsGame, t, stickerItemSetMap)
-	custom_stickers := parsers.ParseCustomStickers(ctx, itemsGame, sticker_kits, t)
-	item_sets := parsers.ParseItemSets(ctx, itemsGame, souvenir_packages, weapon_cases, t)
-	armory_rewards := parsers.ParseArmoryRewards(ctx, itemsGame, &item_sets, t)
-	collections := parsers.ParseCollections(ctx, itemsGame, souvenir_packages, weapon_cases, t)
-
+	results, err := parsers.Default.Run(ctx, in, runtime.NumCPU())
+	if err != nil {
+		return err
+	}
 	logger.Debug().Msgf("[go-items] Parsed all items in %s", time.Since(start))
 
-	knife_skin_map := modules.LoadKnifeSkinsMap("./files/knife_skins.json")
-	knife_skins := modules.GetKnifePaintKits(&knives, &paint_kits, knife_skin_map, weaponSkinRarityMap)
-	weapon_skins := modules.GetWeaponPaintKits(&weapons, &paint_kits, &item_sets, weaponSkinRarityMap)
-	glove_skins := modules.GetGlovePaintKits(&gloves, &paint_kits, knife_skin_map, weaponSkinRarityMap)
-	sticker_slabs := parsers.ParseStickerSlabs(ctx, sticker_kits)
+	exportStart := time.Now()
+	var wg sync.WaitGroup
+	for _, e := range parsers.Default.Exports(results) {
+		wg.Go(func() {
+			ExportToJsonFile(e.Value, e.Name)
+		})
+	}
+	wg.Wait()
+	logger.Debug().Msgf("[go-items] Exported all files in %s", time.Since(exportStart))
 
-	ExportToJsonFile(player_agents, "agents")
-	ExportToJsonFile(souvenir_packages, "souvenir_packages")
-	ExportToJsonFile(musicKits, "music_kits")
-	ExportToJsonFile(collectibles, "collectibles")
-	ExportToJsonFile(weapon_cases, "weapon_cases")
-	ExportToJsonFile(rarities, "rarities")
-	ExportToJsonFile(keychains, "keychains")
-	ExportToJsonFile(weapons, "weapons")
-	ExportToJsonFile(highlight_reels, "highlight_reels")
-	ExportToJsonFile(sticker_capsules, "sticker_capsules")
-	ExportToJsonFile(misc_capsules, "misc_capsules")
-	ExportToJsonFile(paint_kits, "paint_kits")
-	ExportToJsonFile(sticker_kits, "sticker_kits")
-	ExportToJsonFile(custom_stickers, "custom_stickers")
-	ExportToJsonFile(armory_rewards, "armory_rewards")
-	ExportToJsonFile(collections, "collections")
-	ExportToJsonFile(sticker_slabs, "sticker_slabs")
-	ExportToJsonFile(knife_skins, "knife_skins")
-	ExportToJsonFile(weapon_skins, "weapon_skins")
-	ExportToJsonFile(glove_skins, "glove_skins")
-
-	fmt.Println("Press Enter to exit...")
-	fmt.Scanln()
+	return nil
 }
