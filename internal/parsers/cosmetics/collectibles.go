@@ -14,8 +14,9 @@ import (
 )
 
 // Collectibles extracts CS2 collectible items (pins, medals, map tokens).
-// Also flags items as Genuine when a matching "attendance_pin" exists — the
-// non-commodity variant physically handed out at live events.
+// Items whose prefab is "attendance_pin" were physically distributed at live
+// events and exist with the Genuine quality in-game; "commodity_pin" items
+// are the regular purchasable counterparts and are never Genuine.
 type Collectibles struct{ base.Parser }
 
 func NewCollectibles() *Collectibles { return &Collectibles{Parser: base.New("collectibles")} }
@@ -29,23 +30,23 @@ func (p *Collectibles) Parse(ctx context.Context, in *pipeline.Inputs) (any, err
 		return nil, nil
 	}
 
-	var out []models.Collectible
-	defer p.LogCount(ctx, "collectibles", func() int { return len(out) })()
+	prefabs, err := in.IG.Get("prefabs")
+	if err != nil {
+		logger.Error().Err(err).Msg("Failed to get prefabs from items_game.txt")
+		return nil, nil
+	}
 
-	// First pass: collect every item_name that has an "attendance_pin" prefab.
-	// These pins were physically distributed at live events and therefore
-	// exist with the Genuine quality in-game. The commodity_pin counterpart
-	// is the regular (non-Genuine) purchasable version of the same pin.
-	attendancePins := make(map[string]struct{})
-	for _, item := range items.GetChilds() {
-		prefab, _ := item.GetString("prefab")
-		if prefab != "attendance_pin" {
-			continue
-		}
-		if name, _ := item.GetString("item_name"); name != "" {
-			attendancePins[name] = struct{}{}
+	// Build prefab name → item_quality map so we can resolve any prefab,
+	// not just hard-coded "attendance_pin".
+	prefabQuality := make(map[string]string)
+	for _, pf := range prefabs.GetChilds() {
+		if q, _ := pf.GetString("item_quality"); q != "" {
+			prefabQuality[pf.Key] = q
 		}
 	}
+
+	var out []models.Collectible
+	defer p.LogCount(ctx, "collectibles", func() int { return len(out) })()
 
 	for _, item := range items.GetChilds() {
 		item_name, _ := item.GetString("item_name")
@@ -62,14 +63,12 @@ func (p *Collectibles) Parse(ctx context.Context, in *pipeline.Inputs) (any, err
 			rarity = "ancient"
 		}
 
-		_, hasGenuine := attendancePins[item_name]
-
 		out = append(out, models.Collectible{
 			DefinitionIndex: definition_index,
 			MarketHashName:  marketname.GenerateMarketHashName(in.T, item_name, nil, "collectible"),
 			ImageInventory:  image_inventory,
 			Rarity:          rarity,
-			Genuine:         hasGenuine,
+			Genuine:         prefabQuality[prefab] == "genuine",
 		})
 	}
 

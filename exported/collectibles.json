@@ -5229,8 +5229,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_guardian_2",
     "tournament_event_id": 0,
-    "market_hash_name": "Guardian 2 Pin",
-    "genuine": true
+    "market_hash_name": "Guardian 2 Pin"
   },
   {
     "definition_index": 6013,
@@ -5255,8 +5254,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_bravo",
     "tournament_event_id": 0,
-    "market_hash_name": "Bravo Pin",
-    "genuine": true
+    "market_hash_name": "Bravo Pin"
   },
   {
     "definition_index": 6014,
@@ -5281,8 +5279,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_baggage",
     "tournament_event_id": 0,
-    "market_hash_name": "Baggage Pin",
-    "genuine": true
+    "market_hash_name": "Baggage Pin"
   },
   {
     "definition_index": 6015,
@@ -5307,8 +5304,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_phoenix",
     "tournament_event_id": 0,
-    "market_hash_name": "Phoenix Pin",
-    "genuine": true
+    "market_hash_name": "Phoenix Pin"
   },
   {
     "definition_index": 6016,
@@ -5333,8 +5329,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_office",
     "tournament_event_id": 0,
-    "market_hash_name": "Office Pin",
-    "genuine": true
+    "market_hash_name": "Office Pin"
   },
   {
     "definition_index": 6017,
@@ -5359,8 +5354,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_cobblestone",
     "tournament_event_id": 0,
-    "market_hash_name": "Cobblestone Pin",
-    "genuine": true
+    "market_hash_name": "Cobblestone Pin"
   },
   {
     "definition_index": 6018,
@@ -5385,8 +5379,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_overpass",
     "tournament_event_id": 0,
-    "market_hash_name": "Overpass Pin",
-    "genuine": true
+    "market_hash_name": "Overpass Pin"
   },
   {
     "definition_index": 6019,
@@ -5411,8 +5404,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_bloodhound",
     "tournament_event_id": 0,
-    "market_hash_name": "Bloodhound Pin",
-    "genuine": true
+    "market_hash_name": "Bloodhound Pin"
   },
   {
     "definition_index": 6020,
@@ -5437,8 +5429,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_cache",
     "tournament_event_id": 0,
-    "market_hash_name": "Cache Pin",
-    "genuine": true
+    "market_hash_name": "Cache Pin"
   },
   {
     "definition_index": 6021,
@@ -5463,8 +5454,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_valeria",
     "tournament_event_id": 0,
-    "market_hash_name": "Valeria Phoenix Pin",
-    "genuine": true
+    "market_hash_name": "Valeria Phoenix Pin"
   },
   {
     "definition_index": 6022,
@@ -5489,8 +5479,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_chroma",
     "tournament_event_id": 0,
-    "market_hash_name": "Chroma Pin",
-    "genuine": true
+    "market_hash_name": "Chroma Pin"
   },
   {
     "definition_index": 6023,
@@ -5515,8 +5504,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_guardian_3",
     "tournament_event_id": 0,
-    "market_hash_name": "Guardian 3 Pin",
-    "genuine": true
+    "market_hash_name": "Guardian 3 Pin"
   },
   {
     "definition_index": 6024,
@@ -5541,8 +5529,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_canals",
     "tournament_event_id": 0,
-    "market_hash_name": "Canals Pin",
-    "genuine": true
+    "market_hash_name": "Canals Pin"
   },
   {
     "definition_index": 6025,
@@ -5567,8 +5554,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_welcome_to_the_clutch",
     "tournament_event_id": 0,
-    "market_hash_name": "Welcome to the Clutch Pin",
-    "genuine": true
+    "market_hash_name": "Welcome to the Clutch Pin"
   },
   {
     "definition_index": 6026,
@@ -5593,8 +5579,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_death_sentence",
     "tournament_event_id": 0,
-    "market_hash_name": "Death Sentence Pin",
-    "genuine": true
+    "market_hash_name": "Death Sentence Pin"
   },
   {
     "definition_index": 6027,
@@ -5619,8 +5604,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_inferno_2",
     "tournament_event_id": 0,
-    "market_hash_name": "Inferno 2 Pin",
-    "genuine": true
+    "market_hash_name": "Inferno 2 Pin"
   },
   {
     "definition_index": 6028,
@@ -5645,8 +5629,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_wildfire",
     "tournament_event_id": 0,
-    "market_hash_name": "Wildfire Pin",
-    "genuine": true
+    "market_hash_name": "Wildfire Pin"
   },
   {
     "definition_index": 6029,
@@ -5671,8 +5654,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_easy_peasy",
     "tournament_event_id": 0,
-    "market_hash_name": "Easy Peasy Pin",
-    "genuine": true
+    "market_hash_name": "Easy Peasy Pin"
   },
   {
     "definition_index": 6030,
@@ -5697,8 +5679,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_aces_high",
     "tournament_event_id": 0,
-    "market_hash_name": "Aces High Pin",
-    "genuine": true
+    "market_hash_name": "Aces High Pin"
   },
   {
     "definition_index": 6031,
@@ -5723,8 +5704,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_hydra",
     "tournament_event_id": 0,
-    "market_hash_name": "Hydra Pin",
-    "genuine": true
+    "market_hash_name": "Hydra Pin"
   },
   {
     "definition_index": 6032,
@@ -5749,8 +5729,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_howl",
     "tournament_event_id": 0,
-    "market_hash_name": "Howl Pin",
-    "genuine": true
+    "market_hash_name": "Howl Pin"
   },
   {
     "definition_index": 6033,
@@ -5775,8 +5754,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_brigadier_general",
     "tournament_event_id": 0,
-    "market_hash_name": "Brigadier General Pin",
-    "genuine": true
+    "market_hash_name": "Brigadier General Pin"
   },
   {
     "definition_index": 6034,
@@ -5801,8 +5779,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_alyx_10",
     "tournament_event_id": 0,
-    "market_hash_name": "Alyx Pin",
-    "genuine": true
+    "market_hash_name": "Alyx Pin"
   },
   {
     "definition_index": 6101,
@@ -5814,8 +5791,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_dust2",
     "tournament_event_id": 0,
-    "market_hash_name": "Dust II Pin",
-    "genuine": true
+    "market_hash_name": "Dust II Pin"
   },
   {
     "definition_index": 6102,
@@ -5827,8 +5803,7 @@
     "rarity": "ancient",
     "image": "econ/status_icons/collectible_pin_guardianelite",
     "tournament_event_id": 0,
-    "market_hash_name": "Guardian Elite Pin",
-    "genuine": true
+    "market_hash_name": "Guardian Elite Pin"
   },
   {
     "definition_index": 6103,
@@ -5840,8 +5815,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_mirage",
     "tournament_event_id": 0,
-    "market_hash_name": "Mirage Pin",
-    "genuine": true
+    "market_hash_name": "Mirage Pin"
   },
   {
     "definition_index": 6104,
@@ -5853,8 +5827,7 @@
     "rarity": "legendary",
     "image": "econ/status_icons/collectible_pin_inferno",
     "tournament_event_id": 0,
-    "market_hash_name": "Inferno Pin",
-    "genuine": true
+    "market_hash_name": "Inferno Pin"
   },
   {
     "definition_index": 6105,
@@ -5866,8 +5839,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_italy",
     "tournament_event_id": 0,
-    "market_hash_name": "Italy Pin",
-    "genuine": true
+    "market_hash_name": "Italy Pin"
   },
   {
     "definition_index": 6106,
@@ -5879,8 +5851,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_victory",
     "tournament_event_id": 0,
-    "market_hash_name": "Victory Pin",
-    "genuine": true
+    "market_hash_name": "Victory Pin"
   },
   {
     "definition_index": 6107,
@@ -5892,8 +5863,7 @@
     "rarity": "mythical",
     "image": "econ/status_icons/collectible_pin_militia",
     "tournament_event_id": 0,
-    "market_hash_name": "Militia Pin",
-    "genuine": true
+    "market_hash_name": "Militia Pin"
   },
   {
     "definition_index": 6108,
@@ -5905,8 +5875,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_nuke",
     "tournament_event_id": 0,
-    "market_hash_name": "Nuke Pin",
-    "genuine": true
+    "market_hash_name": "Nuke Pin"
   },
   {
     "definition_index": 6109,
@@ -5918,8 +5887,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_train",
     "tournament_event_id": 0,
-    "market_hash_name": "Train Pin",
-    "genuine": true
+    "market_hash_name": "Train Pin"
   },
   {
     "definition_index": 6110,
@@ -5931,8 +5899,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_guardian",
     "tournament_event_id": 0,
-    "market_hash_name": "Guardian Pin",
-    "genuine": true
+    "market_hash_name": "Guardian Pin"
   },
   {
     "definition_index": 6111,
@@ -5944,8 +5911,7 @@
     "rarity": "rare",
     "image": "econ/status_icons/collectible_pin_tactics",
     "tournament_event_id": 0,
-    "market_hash_name": "Tactics Pin",
-    "genuine": true
+    "market_hash_name": "Tactics Pin"
   },
   {
     "definition_index": 4682,
