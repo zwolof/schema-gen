@@ -71,6 +71,14 @@ func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.P
 				itemSetID = data.ItemSetId
 			}
 
+			// The M4A4 | Howl was removed from circulation and lives in
+			// client_loot_lists["removed_items"] rather than a normal item set,
+			// so it has no crate and no souvenir package — but a StatTrak™
+			// variant was sold before the skin was pulled. Hard-code it.
+			if pk.Name == "cu_m4a1_howling" {
+				statTrak = true
+			}
+
 			rarity := pk.Rarity
 			if r, ok := rarityMap["["+pk.Name+"]"+weapon.ClassName]; ok {
 				rarity = r

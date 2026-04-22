@@ -2801,6 +2801,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "309": {
+        "definition_index": 309,
+        "name": "Howl",
+        "item_set_id": "removed_items",
+        "image": "econ/default_generated/weapon_m4a1_cu_m4a1_howling_light",
+        "rarity": "immortal",
+        "float": {
+          "min": 0,
+          "max": 0.4
+        },
+        "souvenir": false,
+        "stattrak": true
+      },
       "336": {
         "definition_index": 336,
         "name": "Desert-Strike",

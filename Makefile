@@ -2,7 +2,7 @@ BINARY  := schema-gen
 BIN_DIR := bin
 GO_FILES := $(shell find . -name '*.go' -not -path './$(BIN_DIR)/*' -not -path './exported*')
 
-.PHONY: help run build fmt fmt-check vet tidy race check clean install-tools
+.PHONY: help run build fmt fmt-check vet tidy race check clean install-tools dev
 
 .DEFAULT_GOAL := help
 
@@ -11,6 +11,9 @@ help: ## Show this help
 
 run: ## Regenerate schemas into ./exported
 	go run .
+
+dev: ## Start the web dev server (web/)
+	cd web && bun run dev
 
 build: $(BIN_DIR)/$(BINARY) ## Build binary to ./bin/
 

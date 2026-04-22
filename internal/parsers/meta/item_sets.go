@@ -76,12 +76,61 @@ func (is *ItemSets) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 		out = append(out, current)
 	}
 
+	// Synthesize a pseudo item-set for skins removed from circulation.
+	// Valve stores these in client_loot_lists["removed_items"] rather than in
+	// item_sets, so they are invisible to the normal item-set pass above.
+	// Example: the M4A4 | Howl (cu_m4a1_howling / weapon_m4a1).
+	if removedSet := parseRemovedItemsSet(ctx, in.IG); removedSet != nil {
+		out = append(out, *removedSet)
+		logger.Info().Msgf("Synthesized removed_items item set with %d skin(s)", len(removedSet.Items))
+	}
+
 	return out, nil
 }
 
 func (is *ItemSets) Commit(in *pipeline.Inputs, result any) {
 	if r, ok := result.([]models.ItemSet); ok {
 		in.ItemSets = r
+	}
+}
+
+// parseRemovedItemsSet reads client_loot_lists["removed_items"] and builds a
+// synthetic ItemSet so that removed skins (e.g. M4A4 | Howl) flow through the
+// normal Tier-2 weapon-skin builder unchanged.
+func parseRemovedItemsSet(ctx context.Context, ig *models.ItemsGame) *models.ItemSet {
+	logger := zerolog.Ctx(ctx)
+
+	clientLootLists, err := ig.Get("client_loot_lists")
+	if err != nil {
+		logger.Warn().Err(err).Msg("parseRemovedItemsSet: client_loot_lists not found")
+		return nil
+	}
+
+	var removedKV *vdf.KeyValue
+	for _, sub := range clientLootLists.GetChilds() {
+		if sub.Key == "removed_items" {
+			removedKV = sub
+			break
+		}
+	}
+	if removedKV == nil {
+		return nil
+	}
+
+	// Reuse itemSetPaintKits — it iterates children and matches [paintkit]weaponclass.
+	// Non-matching keys (e.g. "public_list_contents") are silently skipped.
+	items := itemSetPaintKits(removedKV)
+	if len(items) == 0 {
+		return nil
+	}
+
+	return &models.ItemSet{
+		Key:         "removed_items",
+		Name:        "Removed Items",
+		Type:        models.ItemSetTypePaintKits,
+		Items:       items,
+		HasCrate:    false,
+		HasSouvenir: false,
 	}
 }
 

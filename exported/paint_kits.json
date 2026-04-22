@@ -4166,6 +4166,7 @@
     "rarity": "immortal",
     "souvenir": false,
     "stattrak": false,
+    "item_set_id": "removed_items",
     "use_legacy_model": false,
     "description_string": "",
     "description_tag": "",
