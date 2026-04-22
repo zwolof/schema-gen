@@ -29,6 +29,7 @@ csfloat_schema.json
 i_hate_valve/
 i_hate_valve/*
 web/*
+web/
 
 # Build artefacts
 bin/
