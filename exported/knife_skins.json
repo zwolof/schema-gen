@@ -4877,123 +4877,6 @@
         "souvenir": false,
         "stattrak": true
       },
-      "409": {
-        "definition_index": 409,
-        "name": "Tiger Tooth",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_an_tiger_orange_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "410": {
-        "definition_index": 410,
-        "name": "Damascus Steel",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_aq_damascus_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.5
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "413": {
-        "definition_index": 413,
-        "name": "Marble Fade",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_marble_fade_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "414": {
-        "definition_index": 414,
-        "name": "Rust Coat",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_aq_steel_knife_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.4,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "415": {
-        "definition_index": 415,
-        "name": "Doppler (Ruby)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_ruby_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "416": {
-        "definition_index": 416,
-        "name": "Doppler (Sapphire)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_sapphire_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "417": {
-        "definition_index": 417,
-        "name": "Doppler (Black Pearl)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_blackpearl_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "418": {
-        "definition_index": 418,
-        "name": "Doppler (Phase 1)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase1_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "419": {
-        "definition_index": 419,
-        "name": "Doppler (Phase 2)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase2_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
       "42": {
         "definition_index": 42,
         "name": "Blue Steel",
@@ -5003,32 +4886,6 @@
         "float": {
           "min": 0,
           "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "420": {
-        "definition_index": 420,
-        "name": "Doppler (Phase 3)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase3_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "421": {
-        "definition_index": 421,
-        "name": "Doppler (Phase 4)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase4_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
         },
         "souvenir": false,
         "stattrak": true
@@ -5081,19 +4938,6 @@
         "float": {
           "min": 0.01,
           "max": 0.26
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "621": {
-        "definition_index": 621,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_cord_so_purple_falchion_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.06,
-          "max": 0.8
         },
         "souvenir": false,
         "stattrak": true
@@ -5210,123 +5054,6 @@
         "souvenir": false,
         "stattrak": true
       },
-      "409": {
-        "definition_index": 409,
-        "name": "Tiger Tooth",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_an_tiger_orange_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "410": {
-        "definition_index": 410,
-        "name": "Damascus Steel",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_aq_damascus_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.5
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "413": {
-        "definition_index": 413,
-        "name": "Marble Fade",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_marble_fade_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "414": {
-        "definition_index": 414,
-        "name": "Rust Coat",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_aq_steel_knife_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.4,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "415": {
-        "definition_index": 415,
-        "name": "Doppler (Ruby)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_ruby_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "416": {
-        "definition_index": 416,
-        "name": "Doppler (Sapphire)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_sapphire_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "417": {
-        "definition_index": 417,
-        "name": "Doppler (Black Pearl)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_blackpearl_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "418": {
-        "definition_index": 418,
-        "name": "Doppler (Phase 1)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase1_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "419": {
-        "definition_index": 419,
-        "name": "Doppler (Phase 2)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase2_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
       "42": {
         "definition_index": 42,
         "name": "Blue Steel",
@@ -5336,32 +5063,6 @@
         "float": {
           "min": 0,
           "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "420": {
-        "definition_index": 420,
-        "name": "Doppler (Phase 3)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase3_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "421": {
-        "definition_index": 421,
-        "name": "Doppler (Phase 4)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase4_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
         },
         "souvenir": false,
         "stattrak": true
@@ -5456,19 +5157,6 @@
         },
         "souvenir": false,
         "stattrak": true
-      },
-      "98": {
-        "definition_index": 98,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_canis_so_purple_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
       }
     }
   },
@@ -5552,6 +5240,19 @@
         "float": {
           "min": 0,
           "max": 0.08
+        },
+        "souvenir": false,
+        "stattrak": true
+      },
+      "410": {
+        "definition_index": 410,
+        "name": "Damascus Steel",
+        "item_set_id": "",
+        "image": "econ/default_generated/weapon_knife_ursus_aq_damascus_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 0.5
         },
         "souvenir": false,
         "stattrak": true
@@ -5786,19 +5487,6 @@
         "float": {
           "min": 0,
           "max": 0.5
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "98": {
-        "definition_index": 98,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_ursus_so_purple_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
         },
         "souvenir": false,
         "stattrak": true
@@ -6209,123 +5897,6 @@
         "souvenir": false,
         "stattrak": true
       },
-      "409": {
-        "definition_index": 409,
-        "name": "Tiger Tooth",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_an_tiger_orange_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "410": {
-        "definition_index": 410,
-        "name": "Damascus Steel",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_aq_damascus_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.5
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "413": {
-        "definition_index": 413,
-        "name": "Marble Fade",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_marble_fade_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "414": {
-        "definition_index": 414,
-        "name": "Rust Coat",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_aq_steel_knife_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.4,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "415": {
-        "definition_index": 415,
-        "name": "Doppler (Ruby)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_ruby_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "416": {
-        "definition_index": 416,
-        "name": "Doppler (Sapphire)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_sapphire_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "417": {
-        "definition_index": 417,
-        "name": "Doppler (Black Pearl)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_blackpearl_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "418": {
-        "definition_index": 418,
-        "name": "Doppler (Phase 1)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase1_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "419": {
-        "definition_index": 419,
-        "name": "Doppler (Phase 2)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase2_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
       "42": {
         "definition_index": 42,
         "name": "Blue Steel",
@@ -6335,32 +5906,6 @@
         "float": {
           "min": 0,
           "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "420": {
-        "definition_index": 420,
-        "name": "Doppler (Phase 3)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase3_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "421": {
-        "definition_index": 421,
-        "name": "Doppler (Phase 4)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase4_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
         },
         "souvenir": false,
         "stattrak": true
@@ -6448,19 +5993,6 @@
         "name": "Boreal Forest",
         "item_set_id": "",
         "image": "econ/default_generated/weapon_knife_outdoor_hy_forest_boreal_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "98": {
-        "definition_index": 98,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_outdoor_so_purple_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -6888,6 +6420,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "410": {
+        "definition_index": 410,
+        "name": "Damascus Steel",
+        "item_set_id": "",
+        "image": "econ/default_generated/weapon_knife_widowmaker_aq_damascus_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 0.5
+        },
+        "souvenir": false,
+        "stattrak": true
+      },
       "414": {
         "definition_index": 414,
         "name": "Rust Coat",
@@ -7121,19 +6666,6 @@
         },
         "souvenir": false,
         "stattrak": true
-      },
-      "98": {
-        "definition_index": 98,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_widowmaker_so_purple_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
       }
     }
   },
@@ -7208,123 +6740,6 @@
         "souvenir": false,
         "stattrak": true
       },
-      "409": {
-        "definition_index": 409,
-        "name": "Tiger Tooth",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_an_tiger_orange_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "410": {
-        "definition_index": 410,
-        "name": "Damascus Steel",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_aq_damascus_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.5
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "413": {
-        "definition_index": 413,
-        "name": "Marble Fade",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_marble_fade_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "414": {
-        "definition_index": 414,
-        "name": "Rust Coat",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_aq_steel_knife_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.4,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "415": {
-        "definition_index": 415,
-        "name": "Doppler (Ruby)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_ruby_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "416": {
-        "definition_index": 416,
-        "name": "Doppler (Sapphire)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_sapphire_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "417": {
-        "definition_index": 417,
-        "name": "Doppler (Black Pearl)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_blackpearl_marbleized_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "418": {
-        "definition_index": 418,
-        "name": "Doppler (Phase 1)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase1_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "419": {
-        "definition_index": 419,
-        "name": "Doppler (Phase 2)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase2_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
       "42": {
         "definition_index": 42,
         "name": "Blue Steel",
@@ -7334,32 +6749,6 @@
         "float": {
           "min": 0,
           "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "420": {
-        "definition_index": 420,
-        "name": "Doppler (Phase 3)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase3_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "421": {
-        "definition_index": 421,
-        "name": "Doppler (Phase 4)",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase4_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
         },
         "souvenir": false,
         "stattrak": true
@@ -7454,19 +6843,6 @@
         },
         "souvenir": false,
         "stattrak": true
-      },
-      "98": {
-        "definition_index": 98,
-        "name": "Ultraviolet",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_skeleton_so_purple_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
       }
     }
   },
@@ -7475,176 +6851,6 @@
     "image": "",
     "sticker_count": 0,
     "type": "knife",
-    "paints": {
-      "0": {
-        "definition_index": 0,
-        "name": "Vanilla",
-        "item_set_id": "",
-        "image": "econ/weapons/base_weapons/weapon_knife_kukri",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.06,
-          "max": 0.8
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "12": {
-        "definition_index": 12,
-        "name": "Crimson Web",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_hy_webs_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "143": {
-        "definition_index": 143,
-        "name": "Urban Masked",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_sp_tape_urban_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "175": {
-        "definition_index": 175,
-        "name": "Scorched",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_sp_dapple_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "38": {
-        "definition_index": 38,
-        "name": "Fade",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_aa_fade_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 0.08
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "42": {
-        "definition_index": 42,
-        "name": "Blue Steel",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_aq_blued_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "43": {
-        "definition_index": 43,
-        "name": "Stained",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_aq_forced_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "44": {
-        "definition_index": 44,
-        "name": "Case Hardened",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_aq_oiled_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "5": {
-        "definition_index": 5,
-        "name": "Forest DDPAT",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_hy_ddpat_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "59": {
-        "definition_index": 59,
-        "name": "Slaughter",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_am_zebra_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0.01,
-          "max": 0.26
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "72": {
-        "definition_index": 72,
-        "name": "Safari Mesh",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_sp_mesh_tan_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "735": {
-        "definition_index": 735,
-        "name": "Night Stripe",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_sp_nightstripe_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      },
-      "77": {
-        "definition_index": 77,
-        "name": "Boreal Forest",
-        "item_set_id": "",
-        "image": "econ/default_generated/weapon_knife_kukri_hy_forest_boreal_light",
-        "rarity": "ancient",
-        "float": {
-          "min": 0,
-          "max": 1
-        },
-        "souvenir": false,
-        "stattrak": true
-      }
-    }
+    "paints": {}
   }
 }

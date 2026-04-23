@@ -7,10 +7,10 @@ package itemsgame
 
 import (
 	"bytes"
-	"encoding/json"
 	"fmt"
 	"os"
 	"strconv"
+	"strings"
 	"sync"
 
 	"go-csitems-parser/internal/models"
@@ -41,8 +41,11 @@ func Load(path string) (*models.ItemsGame, error) {
 	return &models.ItemsGame{KeyValue: kv}, nil
 }
 
-// LoadKnifeSkinsMap reads the knife/glove paint-kit overrides from
-// knife_skins.json at path.
+// LoadKnifeSkinsMap reads the paint-kit overrides for knives and gloves from
+// a VDF file (unusual_loot_lists.txt). The file contains multiple top-level
+// KV blocks; each child entry is "[paint_kit]weapon_class" "1". All blocks
+// are merged into a single map[weapon_class][]paint_kit_name, deduplicating
+// entries that appear in more than one loot list.
 func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
 	fileData, err := os.ReadFile(path)
 	if err != nil {
@@ -52,9 +55,49 @@ func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
 		return nil, fmt.Errorf("%s is empty", path)
 	}
 
-	result := make(map[string][]string)
-	if err := json.Unmarshal(fileData, &result); err != nil {
-		return nil, fmt.Errorf("parse %s: %w", path, err)
+	// The file has multiple top-level blocks with no shared root key, so wrap
+	// it in a synthetic root before handing it to the VDF parser.
+	wrapped := append([]byte("\"unusual_loot_lists\"\n{\n"), fileData...)
+	wrapped = append(wrapped, '\n', '}')
+
+	parser := vdf.VDF{}
+	parsed := parser.Parse(wrapped)
+	root, _ := parsed.Get("unusual_loot_lists")
+	if root == nil {
+		return nil, fmt.Errorf("parse %s: failed to read root", path)
+	}
+
+	seen := make(map[string]map[string]struct{}) // weapon_class → set of paint kits
+	for _, list := range root.GetChilds() {
+		for _, entry := range list.GetChilds() {
+			// entry.Key is "[paint_kit]weapon_class"
+			key := entry.Key
+			if !strings.HasPrefix(key, "[") {
+				continue
+			}
+			closeIdx := strings.Index(key, "]")
+			if closeIdx < 0 {
+				continue
+			}
+			paintKit := key[1:closeIdx]
+			weaponClass := key[closeIdx+1:]
+			if paintKit == "" || weaponClass == "" {
+				continue
+			}
+			if seen[weaponClass] == nil {
+				seen[weaponClass] = make(map[string]struct{})
+			}
+			seen[weaponClass][paintKit] = struct{}{}
+		}
+	}
+
+	result := make(map[string][]string, len(seen))
+	for weaponClass, kits := range seen {
+		list := make([]string, 0, len(kits))
+		for pk := range kits {
+			list = append(list, pk)
+		}
+		result[weaponClass] = list
 	}
 	return result, nil
 }

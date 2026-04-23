@@ -96,7 +96,7 @@ func run(logger *zerolog.Logger) error {
 		return err
 	}
 
-	knifeSkinMap, err := itemsgame.LoadKnifeSkinsMap("./files/knife_skins.json")
+	knifeSkinMap, err := itemsgame.LoadKnifeSkinsMap("./files/unusual_loot_lists.txt")
 	if err != nil {
 		return err
 	}
