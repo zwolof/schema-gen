@@ -280,6 +280,97 @@
         },
         "souvenir": false,
         "stattrak": false
+      },
+      "1405": {
+        "definition_index": 1405,
+        "name": "Violet Beadwork",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1406": {
+        "definition_index": 1406,
+        "name": "Frosty",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_camo_winter_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1407": {
+        "definition_index": 1407,
+        "name": "Blaze",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_flames_orange_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1408": {
+        "definition_index": 1408,
+        "name": "Creme Pinstripe",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1409": {
+        "definition_index": 1409,
+        "name": "Red Racer",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_racer_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1410": {
+        "definition_index": 1410,
+        "name": "Ultra Violent",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1417": {
+        "definition_index": 1417,
+        "name": "Occult",
+        "item_set_id": "",
+        "image": "econ/default_generated/sporty_gloves_glove_sport_velvet_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
       }
     }
   },
@@ -437,6 +528,110 @@
         "name": "Black Tie",
         "item_set_id": "",
         "image": "econ/default_generated/slick_gloves_slick_stitched_black_white_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1398": {
+        "definition_index": 1398,
+        "name": "Wave Chaser",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1399": {
+        "definition_index": 1399,
+        "name": "Brocade Crane",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1400": {
+        "definition_index": 1400,
+        "name": "Brocade Flowers",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1401": {
+        "definition_index": 1401,
+        "name": "Dragon Fists",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1402": {
+        "definition_index": 1402,
+        "name": "Garden",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1404": {
+        "definition_index": 1404,
+        "name": "Seigaiha",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1412": {
+        "definition_index": 1412,
+        "name": "Plum Quill",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1439": {
+        "definition_index": 1439,
+        "name": "Hand Sweaters",
+        "item_set_id": "",
+        "image": "econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
@@ -929,6 +1124,97 @@
         "name": "Field Agent",
         "item_set_id": "",
         "image": "econ/default_generated/specialist_gloves_specialist_fbi_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1413": {
+        "definition_index": 1413,
+        "name": "Lime Polycam",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1414": {
+        "definition_index": 1414,
+        "name": "Blackbook",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1415": {
+        "definition_index": 1415,
+        "name": "Chocolate Chesterfield",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1416": {
+        "definition_index": 1416,
+        "name": "Sunburst",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1437": {
+        "definition_index": 1437,
+        "name": "Big Swell",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1438": {
+        "definition_index": 1438,
+        "name": "Pillow Punchers",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0,
+          "max": 1
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1440": {
+        "definition_index": 1440,
+        "name": "Cloud Chaser",
+        "item_set_id": "",
+        "image": "econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light",
         "rarity": "ancient",
         "float": {
           "min": 0,
