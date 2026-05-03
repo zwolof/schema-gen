@@ -44,9 +44,11 @@ func Load(path string) (*models.ItemsGame, error) {
 // LoadKnifeSkinsMap reads the paint-kit overrides for knives and gloves from
 // a VDF file (unusual_loot_lists.txt). The file contains multiple top-level
 // KV blocks; each child entry is "[paint_kit]weapon_class" "1". All blocks
-// are merged into a single map[weapon_class][]paint_kit_name, deduplicating
-// entries that appear in more than one loot list.
-func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
+// are merged into a single map[weapon_class]map[paint_kit_name]loot_list_key,
+// where loot_list_key is the block name with the "_unusual" suffix stripped
+// (e.g. "community_case_6_unusual" → "community_case_6"). If a paint kit
+// appears in multiple loot lists the first occurrence wins.
+func LoadKnifeSkinsMap(path string) (map[string]map[string]string, error) {
 	fileData, err := os.ReadFile(path)
 	if err != nil {
 		return nil, fmt.Errorf("read %s: %w", path, err)
@@ -67,8 +69,10 @@ func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
 		return nil, fmt.Errorf("parse %s: failed to read root", path)
 	}
 
-	seen := make(map[string]map[string]struct{}) // weapon_class → set of paint kits
+	// result: weapon_class → paint_kit_name → loot_list_key
+	result := make(map[string]map[string]string)
 	for _, list := range root.GetChilds() {
+		lootListKey := strings.TrimSuffix(list.Key, "_unusual")
 		for _, entry := range list.GetChilds() {
 			// entry.Key is "[paint_kit]weapon_class"
 			key := entry.Key
@@ -84,20 +88,14 @@ func LoadKnifeSkinsMap(path string) (map[string][]string, error) {
 			if paintKit == "" || weaponClass == "" {
 				continue
 			}
-			if seen[weaponClass] == nil {
-				seen[weaponClass] = make(map[string]struct{})
+			if result[weaponClass] == nil {
+				result[weaponClass] = make(map[string]string)
 			}
-			seen[weaponClass][paintKit] = struct{}{}
+			// First occurrence wins — preserves the primary loot list.
+			if _, exists := result[weaponClass][paintKit]; !exists {
+				result[weaponClass][paintKit] = lootListKey
+			}
 		}
-	}
-
-	result := make(map[string][]string, len(seen))
-	for weaponClass, kits := range seen {
-		list := make([]string, 0, len(kits))
-		for pk := range kits {
-			list = append(list, pk)
-		}
-		result[weaponClass] = list
 	}
 	return result, nil
 }

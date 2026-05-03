@@ -12,8 +12,8 @@ import (
 // Souvenir/StatTrak/ItemSetId on each paint kit.
 type Builder interface {
 	Weapons(weapons []models.BaseWeapon, paintKits []models.PaintKit, itemSets []models.ItemSet, rarityMap map[string]string) map[int]SchemaWeaponSkinMap
-	Knives(knives []models.BaseWeapon, paintKits []models.PaintKit, knifeSkinMap map[string][]string, rarityMap map[string]string) map[int]SchemaWeaponSkinMap
-	Gloves(gloves []models.BaseWeapon, paintKits []models.PaintKit, gloveSkinMap map[string][]string, rarityMap map[string]string) map[int]SchemaWeaponSkinMap
+	Knives(knives []models.BaseWeapon, paintKits []models.PaintKit, knifeSkinMap map[string]map[string]string, rarityMap map[string]string) map[int]SchemaWeaponSkinMap
+	Gloves(gloves []models.BaseWeapon, paintKits []models.PaintKit, gloveSkinMap map[string]map[string]string, rarityMap map[string]string) map[int]SchemaWeaponSkinMap
 	EnrichPaintKits(paintKits []models.PaintKit, itemSets []models.ItemSet, weapons []models.BaseWeapon)
 }
 
@@ -100,7 +100,7 @@ func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.P
 	return out
 }
 
-func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.PaintKit, knifeSkinMap map[string][]string, _ map[string]string) map[int]SchemaWeaponSkinMap {
+func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.PaintKit, knifeSkinMap map[string]map[string]string, _ map[string]string) map[int]SchemaWeaponSkinMap {
 	pkIdx := buildPaintKitIndex(paintKits)
 	out := make(map[int]SchemaWeaponSkinMap, len(knives))
 
@@ -111,7 +111,7 @@ func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.Pai
 			Paints: make(map[int]models.SchemaWeaponPaintKitMap),
 		}
 
-		for _, pkName := range knifeSkinMap[knife.ClassName] {
+		for pkName, lootList := range knifeSkinMap[knife.ClassName] {
 			pk, ok := pkIdx[pkName]
 			if !ok {
 				continue
@@ -130,11 +130,9 @@ func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.Pai
 				Rarity:          "ancient",
 				Image:           image,
 				Name:            pk.MarketHashName,
-				// Legacy: knives ran before the enrichment pass, so ItemSetId
-				// was always "" — preserved for downstream byte-exactness.
-				ItemSetId: "",
-				Souvenir:  false,
-				StatTrak:  true,
+				ItemSetId:       lootList,
+				Souvenir:        false,
+				StatTrak:        true,
 			}
 		}
 
@@ -144,7 +142,7 @@ func (PaintKitBuilder) Knives(knives []models.BaseWeapon, paintKits []models.Pai
 	return out
 }
 
-func (PaintKitBuilder) Gloves(gloves []models.BaseWeapon, paintKits []models.PaintKit, gloveSkinMap map[string][]string, _ map[string]string) map[int]SchemaWeaponSkinMap {
+func (PaintKitBuilder) Gloves(gloves []models.BaseWeapon, paintKits []models.PaintKit, gloveSkinMap map[string]map[string]string, _ map[string]string) map[int]SchemaWeaponSkinMap {
 	pkIdx := buildPaintKitIndex(paintKits)
 	out := make(map[int]SchemaWeaponSkinMap, len(gloves))
 
@@ -155,7 +153,7 @@ func (PaintKitBuilder) Gloves(gloves []models.BaseWeapon, paintKits []models.Pai
 			Paints: make(map[int]models.SchemaWeaponPaintKitMap),
 		}
 
-		for _, pkName := range gloveSkinMap[glove.ClassName] {
+		for pkName, lootList := range gloveSkinMap[glove.ClassName] {
 			pk, ok := pkIdx[pkName]
 			if !ok {
 				continue
@@ -167,10 +165,9 @@ func (PaintKitBuilder) Gloves(gloves []models.BaseWeapon, paintKits []models.Pai
 				Rarity:          "ancient",
 				Image:           econDefaultGenerated + glove.ClassName + "_" + pk.Name + lightSuffix,
 				Name:            pk.MarketHashName,
-				// Gloves never carry an item-set id — see Knives above.
-				ItemSetId: "",
-				Souvenir:  false,
-				StatTrak:  false,
+				ItemSetId:       lootList,
+				Souvenir:        false,
+				StatTrak:        false,
 			}
 		}
 

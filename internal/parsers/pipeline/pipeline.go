@@ -24,7 +24,7 @@ import (
 type Inputs struct {
 	IG           *models.ItemsGame
 	T            i18n.Translator
-	KnifeSkinMap map[string][]string
+	KnifeSkinMap map[string]map[string]string
 
 	SkinRarityMap     map[string]string
 	StickerItemSetMap map[string]string

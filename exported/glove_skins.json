@@ -8,7 +8,7 @@
       "10085": {
         "definition_index": 10085,
         "name": "Jade",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_metalic_green_light",
         "rarity": "ancient",
         "float": {
@@ -21,7 +21,7 @@
       "10086": {
         "definition_index": 10086,
         "name": "Yellow-banded",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_poison_frog_black_yellow_light",
         "rarity": "ancient",
         "float": {
@@ -34,7 +34,7 @@
       "10087": {
         "definition_index": 10087,
         "name": "Needle Point",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_floral_light",
         "rarity": "ancient",
         "float": {
@@ -47,7 +47,7 @@
       "10088": {
         "definition_index": 10088,
         "name": "Unhinged",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_snakeskin_black_light",
         "rarity": "ancient",
         "float": {
@@ -68,7 +68,7 @@
       "10006": {
         "definition_index": 10006,
         "name": "Charred",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light",
         "rarity": "ancient",
         "float": {
@@ -81,7 +81,7 @@
       "10007": {
         "definition_index": 10007,
         "name": "Snakebite",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_snakeskin_brass_light",
         "rarity": "ancient",
         "float": {
@@ -94,7 +94,7 @@
       "10008": {
         "definition_index": 10008,
         "name": "Bronzed",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_metallic_light",
         "rarity": "ancient",
         "float": {
@@ -107,7 +107,7 @@
       "10039": {
         "definition_index": 10039,
         "name": "Guerrilla",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_guerrilla_light",
         "rarity": "ancient",
         "float": {
@@ -128,7 +128,7 @@
       "10018": {
         "definition_index": 10018,
         "name": "Superconductor",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/sporty_gloves_sporty_light_blue_light",
         "rarity": "ancient",
         "float": {
@@ -141,7 +141,7 @@
       "10019": {
         "definition_index": 10019,
         "name": "Arid",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/sporty_gloves_sporty_military_light",
         "rarity": "ancient",
         "float": {
@@ -154,7 +154,7 @@
       "10037": {
         "definition_index": 10037,
         "name": "Pandora's Box",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/sporty_gloves_sporty_purple_light",
         "rarity": "ancient",
         "float": {
@@ -167,7 +167,7 @@
       "10038": {
         "definition_index": 10038,
         "name": "Hedge Maze",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/sporty_gloves_sporty_green_light",
         "rarity": "ancient",
         "float": {
@@ -180,7 +180,7 @@
       "10045": {
         "definition_index": 10045,
         "name": "Amphibious",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/sporty_gloves_sporty_poison_frog_blue_white_light",
         "rarity": "ancient",
         "float": {
@@ -193,7 +193,7 @@
       "10046": {
         "definition_index": 10046,
         "name": "Bronze Morph",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light",
         "rarity": "ancient",
         "float": {
@@ -206,7 +206,7 @@
       "10047": {
         "definition_index": 10047,
         "name": "Omega",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/sporty_gloves_sporty_black_webbing_yellow_light",
         "rarity": "ancient",
         "float": {
@@ -219,7 +219,7 @@
       "10048": {
         "definition_index": 10048,
         "name": "Vice",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/sporty_gloves_sporty_blue_pink_light",
         "rarity": "ancient",
         "float": {
@@ -232,7 +232,7 @@
       "10073": {
         "definition_index": 10073,
         "name": "Slingshot",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/sporty_gloves_sporty_slingshot_light",
         "rarity": "ancient",
         "float": {
@@ -245,7 +245,7 @@
       "10074": {
         "definition_index": 10074,
         "name": "Big Game",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/sporty_gloves_sporty_hunter_light",
         "rarity": "ancient",
         "float": {
@@ -258,7 +258,7 @@
       "10075": {
         "definition_index": 10075,
         "name": "Scarlet Shamagh",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/sporty_gloves_sporty_houndstooth_red_light",
         "rarity": "ancient",
         "float": {
@@ -271,7 +271,7 @@
       "10076": {
         "definition_index": 10076,
         "name": "Nocts",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/sporty_gloves_sporty_jaguar_light",
         "rarity": "ancient",
         "float": {
@@ -284,7 +284,7 @@
       "1405": {
         "definition_index": 1405,
         "name": "Violet Beadwork",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light",
         "rarity": "ancient",
         "float": {
@@ -297,7 +297,7 @@
       "1406": {
         "definition_index": 1406,
         "name": "Frosty",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_camo_winter_light",
         "rarity": "ancient",
         "float": {
@@ -310,7 +310,7 @@
       "1407": {
         "definition_index": 1407,
         "name": "Blaze",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_flames_orange_light",
         "rarity": "ancient",
         "float": {
@@ -323,7 +323,7 @@
       "1408": {
         "definition_index": 1408,
         "name": "Creme Pinstripe",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light",
         "rarity": "ancient",
         "float": {
@@ -336,7 +336,7 @@
       "1409": {
         "definition_index": 1409,
         "name": "Red Racer",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_racer_red_light",
         "rarity": "ancient",
         "float": {
@@ -349,7 +349,7 @@
       "1410": {
         "definition_index": 1410,
         "name": "Ultra Violent",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light",
         "rarity": "ancient",
         "float": {
@@ -362,7 +362,7 @@
       "1417": {
         "definition_index": 1417,
         "name": "Occult",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/sporty_gloves_glove_sport_velvet_red_light",
         "rarity": "ancient",
         "float": {
@@ -383,7 +383,7 @@
       "10013": {
         "definition_index": 10013,
         "name": "Lunar Weave",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/slick_gloves_slick_black_light",
         "rarity": "ancient",
         "float": {
@@ -396,7 +396,7 @@
       "10015": {
         "definition_index": 10015,
         "name": "Convoy",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/slick_gloves_slick_military_light",
         "rarity": "ancient",
         "float": {
@@ -409,7 +409,7 @@
       "10016": {
         "definition_index": 10016,
         "name": "Crimson Weave",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/slick_gloves_slick_red_light",
         "rarity": "ancient",
         "float": {
@@ -422,7 +422,7 @@
       "10040": {
         "definition_index": 10040,
         "name": "Diamondback",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/slick_gloves_slick_snakeskin_yellow_light",
         "rarity": "ancient",
         "float": {
@@ -435,7 +435,7 @@
       "10041": {
         "definition_index": 10041,
         "name": "King Snake",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/slick_gloves_slick_snakeskin_white_light",
         "rarity": "ancient",
         "float": {
@@ -448,7 +448,7 @@
       "10042": {
         "definition_index": 10042,
         "name": "Imperial Plaid",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/slick_gloves_slick_plaid_purple_light",
         "rarity": "ancient",
         "float": {
@@ -461,7 +461,7 @@
       "10043": {
         "definition_index": 10043,
         "name": "Overtake",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/slick_gloves_slick_stitched_black_orange_light",
         "rarity": "ancient",
         "float": {
@@ -474,7 +474,7 @@
       "10044": {
         "definition_index": 10044,
         "name": "Racing Green",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/slick_gloves_slick_stitched_green_grey_light",
         "rarity": "ancient",
         "float": {
@@ -487,7 +487,7 @@
       "10069": {
         "definition_index": 10069,
         "name": "Rezan the Red",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/slick_gloves_slick_rezan_light",
         "rarity": "ancient",
         "float": {
@@ -500,7 +500,7 @@
       "10070": {
         "definition_index": 10070,
         "name": "Snow Leopard",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/slick_gloves_slick_jaguar_white_light",
         "rarity": "ancient",
         "float": {
@@ -513,7 +513,7 @@
       "10071": {
         "definition_index": 10071,
         "name": "Queen Jaguar",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/slick_gloves_slick_jaguar_yellow_light",
         "rarity": "ancient",
         "float": {
@@ -526,7 +526,7 @@
       "10072": {
         "definition_index": 10072,
         "name": "Black Tie",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/slick_gloves_slick_stitched_black_white_light",
         "rarity": "ancient",
         "float": {
@@ -539,7 +539,7 @@
       "1398": {
         "definition_index": 1398,
         "name": "Wave Chaser",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light",
         "rarity": "ancient",
         "float": {
@@ -552,7 +552,7 @@
       "1399": {
         "definition_index": 1399,
         "name": "Brocade Crane",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light",
         "rarity": "ancient",
         "float": {
@@ -565,7 +565,7 @@
       "1400": {
         "definition_index": 1400,
         "name": "Brocade Flowers",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light",
         "rarity": "ancient",
         "float": {
@@ -578,7 +578,7 @@
       "1401": {
         "definition_index": 1401,
         "name": "Dragon Fists",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light",
         "rarity": "ancient",
         "float": {
@@ -591,7 +591,7 @@
       "1402": {
         "definition_index": 1402,
         "name": "Garden",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light",
         "rarity": "ancient",
         "float": {
@@ -604,7 +604,7 @@
       "1404": {
         "definition_index": 1404,
         "name": "Seigaiha",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light",
         "rarity": "ancient",
         "float": {
@@ -617,7 +617,7 @@
       "1412": {
         "definition_index": 1412,
         "name": "Plum Quill",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light",
         "rarity": "ancient",
         "float": {
@@ -630,7 +630,7 @@
       "1439": {
         "definition_index": 1439,
         "name": "Hand Sweaters",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light",
         "rarity": "ancient",
         "float": {
@@ -651,7 +651,7 @@
       "10009": {
         "definition_index": 10009,
         "name": "Leather",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_light",
         "rarity": "ancient",
         "float": {
@@ -664,7 +664,7 @@
       "10010": {
         "definition_index": 10010,
         "name": "Spruce DDPAT",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light",
         "rarity": "ancient",
         "float": {
@@ -677,7 +677,7 @@
       "10021": {
         "definition_index": 10021,
         "name": "Slaughter",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/leather_handwraps_handwrap_red_slaughter_light",
         "rarity": "ancient",
         "float": {
@@ -690,7 +690,7 @@
       "10036": {
         "definition_index": 10036,
         "name": "Badlands",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light",
         "rarity": "ancient",
         "float": {
@@ -703,7 +703,7 @@
       "10053": {
         "definition_index": 10053,
         "name": "Cobalt Skulls",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light",
         "rarity": "ancient",
         "float": {
@@ -716,7 +716,7 @@
       "10054": {
         "definition_index": 10054,
         "name": "Overprint",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_geometric_blue_light",
         "rarity": "ancient",
         "float": {
@@ -729,7 +729,7 @@
       "10055": {
         "definition_index": 10055,
         "name": "Duct Tape",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light",
         "rarity": "ancient",
         "float": {
@@ -742,7 +742,7 @@
       "10056": {
         "definition_index": 10056,
         "name": "Arboreal",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_green_camo_light",
         "rarity": "ancient",
         "float": {
@@ -755,7 +755,7 @@
       "10081": {
         "definition_index": 10081,
         "name": "Desert Shamagh",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light",
         "rarity": "ancient",
         "float": {
@@ -768,7 +768,7 @@
       "10082": {
         "definition_index": 10082,
         "name": "Giraffe",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_giraffe_light",
         "rarity": "ancient",
         "float": {
@@ -781,7 +781,7 @@
       "10083": {
         "definition_index": 10083,
         "name": "Constrictor",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_snakeskin_orange_light",
         "rarity": "ancient",
         "float": {
@@ -794,7 +794,7 @@
       "10084": {
         "definition_index": 10084,
         "name": "CAUTION!",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_light",
         "rarity": "ancient",
         "float": {
@@ -815,7 +815,7 @@
       "10024": {
         "definition_index": 10024,
         "name": "Eclipse",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light",
         "rarity": "ancient",
         "float": {
@@ -828,7 +828,7 @@
       "10026": {
         "definition_index": 10026,
         "name": "Spearmint",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_mint_triangle_light",
         "rarity": "ancient",
         "float": {
@@ -841,7 +841,7 @@
       "10027": {
         "definition_index": 10027,
         "name": "Boom!",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_mono_boom_light",
         "rarity": "ancient",
         "float": {
@@ -854,7 +854,7 @@
       "10028": {
         "definition_index": 10028,
         "name": "Cool Mint",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light",
         "rarity": "ancient",
         "float": {
@@ -867,7 +867,7 @@
       "10049": {
         "definition_index": 10049,
         "name": "POW!",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light",
         "rarity": "ancient",
         "float": {
@@ -880,7 +880,7 @@
       "10050": {
         "definition_index": 10050,
         "name": "Turtle",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_basic_green_orange_light",
         "rarity": "ancient",
         "float": {
@@ -893,7 +893,7 @@
       "10051": {
         "definition_index": 10051,
         "name": "Transport",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_yellow_camo_light",
         "rarity": "ancient",
         "float": {
@@ -906,7 +906,7 @@
       "10052": {
         "definition_index": 10052,
         "name": "Polygon",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_trigrid_blue_light",
         "rarity": "ancient",
         "float": {
@@ -919,7 +919,7 @@
       "10077": {
         "definition_index": 10077,
         "name": "Finish Line",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_checker_flag_blue_green_light",
         "rarity": "ancient",
         "float": {
@@ -932,7 +932,7 @@
       "10078": {
         "definition_index": 10078,
         "name": "Smoke Out",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_smoke_light",
         "rarity": "ancient",
         "float": {
@@ -945,7 +945,7 @@
       "10079": {
         "definition_index": 10079,
         "name": "Blood Pressure",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_carbonfiber_red_light",
         "rarity": "ancient",
         "float": {
@@ -958,7 +958,7 @@
       "10080": {
         "definition_index": 10080,
         "name": "3rd Commando Company",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_commando_ksk_light",
         "rarity": "ancient",
         "float": {
@@ -979,7 +979,7 @@
       "10030": {
         "definition_index": 10030,
         "name": "Forest DDPAT",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/specialist_gloves_specialist_ddpat_green_camo_light",
         "rarity": "ancient",
         "float": {
@@ -992,7 +992,7 @@
       "10033": {
         "definition_index": 10033,
         "name": "Crimson Kimono",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/specialist_gloves_specialist_kimono_diamonds_red_light",
         "rarity": "ancient",
         "float": {
@@ -1005,7 +1005,7 @@
       "10034": {
         "definition_index": 10034,
         "name": "Emerald Web",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/specialist_gloves_specialist_emerald_web_light",
         "rarity": "ancient",
         "float": {
@@ -1018,7 +1018,7 @@
       "10035": {
         "definition_index": 10035,
         "name": "Foundation",
-        "item_set_id": "",
+        "item_set_id": "community_case_15",
         "image": "econ/default_generated/specialist_gloves_specialist_orange_white_light",
         "rarity": "ancient",
         "float": {
@@ -1031,7 +1031,7 @@
       "10061": {
         "definition_index": 10061,
         "name": "Crimson Web",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/specialist_gloves_specialist_webs_red_light",
         "rarity": "ancient",
         "float": {
@@ -1044,7 +1044,7 @@
       "10062": {
         "definition_index": 10062,
         "name": "Buckshot",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/specialist_gloves_specialist_forest_brown_light",
         "rarity": "ancient",
         "float": {
@@ -1057,7 +1057,7 @@
       "10063": {
         "definition_index": 10063,
         "name": "Fade",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/specialist_gloves_specialist_fade_light",
         "rarity": "ancient",
         "float": {
@@ -1070,7 +1070,7 @@
       "10064": {
         "definition_index": 10064,
         "name": "Mogul",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/specialist_gloves_specialist_winterhex_light",
         "rarity": "ancient",
         "float": {
@@ -1083,7 +1083,7 @@
       "10065": {
         "definition_index": 10065,
         "name": "Marble Fade",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/specialist_gloves_specialist_marble_fade_light",
         "rarity": "ancient",
         "float": {
@@ -1096,7 +1096,7 @@
       "10066": {
         "definition_index": 10066,
         "name": "Lt. Commander",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/specialist_gloves_specialist_ricksaw_camo_light",
         "rarity": "ancient",
         "float": {
@@ -1109,7 +1109,7 @@
       "10067": {
         "definition_index": 10067,
         "name": "Tiger Strike",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/specialist_gloves_specialist_tiger_orange_light",
         "rarity": "ancient",
         "float": {
@@ -1122,7 +1122,7 @@
       "10068": {
         "definition_index": 10068,
         "name": "Field Agent",
-        "item_set_id": "",
+        "item_set_id": "set_glove_3",
         "image": "econ/default_generated/specialist_gloves_specialist_fbi_light",
         "rarity": "ancient",
         "float": {
@@ -1135,7 +1135,7 @@
       "1413": {
         "definition_index": 1413,
         "name": "Lime Polycam",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light",
         "rarity": "ancient",
         "float": {
@@ -1148,7 +1148,7 @@
       "1414": {
         "definition_index": 1414,
         "name": "Blackbook",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light",
         "rarity": "ancient",
         "float": {
@@ -1161,7 +1161,7 @@
       "1415": {
         "definition_index": 1415,
         "name": "Chocolate Chesterfield",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light",
         "rarity": "ancient",
         "float": {
@@ -1174,7 +1174,7 @@
       "1416": {
         "definition_index": 1416,
         "name": "Sunburst",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light",
         "rarity": "ancient",
         "float": {
@@ -1187,7 +1187,7 @@
       "1437": {
         "definition_index": 1437,
         "name": "Big Swell",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light",
         "rarity": "ancient",
         "float": {
@@ -1200,7 +1200,7 @@
       "1438": {
         "definition_index": 1438,
         "name": "Pillow Punchers",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light",
         "rarity": "ancient",
         "float": {
@@ -1213,7 +1213,7 @@
       "1440": {
         "definition_index": 1440,
         "name": "Cloud Chaser",
-        "item_set_id": "",
+        "item_set_id": "set_community_37",
         "image": "econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light",
         "rarity": "ancient",
         "float": {
@@ -1234,7 +1234,7 @@
       "10057": {
         "definition_index": 10057,
         "name": "Emerald",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_black_green_light",
         "rarity": "ancient",
         "float": {
@@ -1247,7 +1247,7 @@
       "10058": {
         "definition_index": 10058,
         "name": "Mangrove",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_green_leather_mesh_brass_light",
         "rarity": "ancient",
         "float": {
@@ -1260,7 +1260,7 @@
       "10059": {
         "definition_index": 10059,
         "name": "Rattler",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_snakeskin_brass_light",
         "rarity": "ancient",
         "float": {
@@ -1273,7 +1273,7 @@
       "10060": {
         "definition_index": 10060,
         "name": "Case Hardened",
-        "item_set_id": "",
+        "item_set_id": "set_community_19",
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light",
         "rarity": "ancient",
         "float": {
