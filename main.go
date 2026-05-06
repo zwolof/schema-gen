@@ -101,12 +101,14 @@ func run(logger *zerolog.Logger) error {
 		return err
 	}
 
+	rarityKeys := meta.RarityKeys(ctx, itemsGame)
+
 	in := &parsers.Inputs{
 		IG:                itemsGame,
 		T:                 factory.Get("English"),
 		KnifeSkinMap:      knifeSkinMap,
-		SkinRarityMap:     meta.SkinWeaponRarityMap(ctx, itemsGame),
-		StickerItemSetMap: meta.StickerItemSetMap(ctx, itemsGame),
+		SkinRarityMap:     meta.SkinWeaponRarityMap(ctx, itemsGame, rarityKeys),
+		StickerItemSetMap: meta.StickerItemSetMap(ctx, itemsGame, rarityKeys),
 	}
 
 	start := time.Now()

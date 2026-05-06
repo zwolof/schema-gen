@@ -74,3 +74,18 @@ func (r *Rarities) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) 
 
 	return out, nil
 }
+
+// RarityKeys parses the rarities block from items_game.txt and returns the set
+// of valid rarity token strings (e.g. "common", "uncommon", "rare" …).
+// Used to drive loot-list rarity detection without hard-coding rarity names.
+func RarityKeys(ctx context.Context, ig *models.ItemsGame) map[string]bool {
+	rarities, err := ig.Get("rarities")
+	if err != nil {
+		return nil
+	}
+	keys := make(map[string]bool, len(rarities.GetChilds()))
+	for _, entry := range rarities.GetChilds() {
+		keys[entry.Key] = true
+	}
+	return keys
+}

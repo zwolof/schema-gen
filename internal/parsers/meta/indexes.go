@@ -11,7 +11,7 @@ import (
 
 // SkinWeaponRarityMap parses client_loot_lists and returns a map of
 // "[paintkit]weaponclass" → rarity string. First writer wins.
-func SkinWeaponRarityMap(ctx context.Context, ig *models.ItemsGame) map[string]string {
+func SkinWeaponRarityMap(ctx context.Context, ig *models.ItemsGame, rarityKeys map[string]bool) map[string]string {
 	logger := zerolog.Ctx(ctx)
 
 	clientLootLists, err := ig.Get("client_loot_lists")
@@ -22,7 +22,7 @@ func SkinWeaponRarityMap(ctx context.Context, ig *models.ItemsGame) map[string]s
 
 	result := make(map[string]string)
 	for _, subList := range clientLootLists.GetChilds() {
-		rarity := lootListRarity(subList.Key)
+		rarity := lootListRarity(subList.Key, rarityKeys)
 		if rarity == "default" {
 			continue
 		}
@@ -44,7 +44,7 @@ func SkinWeaponRarityMap(ctx context.Context, ig *models.ItemsGame) map[string]s
 
 // StickerItemSetMap parses client_loot_lists and returns a map of
 // sticker-kit name → item_set_id (sub-list key with rarity suffix stripped).
-func StickerItemSetMap(ctx context.Context, ig *models.ItemsGame) map[string]string {
+func StickerItemSetMap(ctx context.Context, ig *models.ItemsGame, rarityKeys map[string]bool) map[string]string {
 	logger := zerolog.Ctx(ctx)
 
 	clientLootLists, err := ig.Get("client_loot_lists")
@@ -55,7 +55,7 @@ func StickerItemSetMap(ctx context.Context, ig *models.ItemsGame) map[string]str
 
 	result := make(map[string]string)
 	for _, subList := range clientLootLists.GetChilds() {
-		rarity := lootListRarity(subList.Key)
+		rarity := lootListRarity(subList.Key, rarityKeys)
 		if rarity == "default" {
 			continue
 		}

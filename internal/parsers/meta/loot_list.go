@@ -12,29 +12,14 @@ import (
 // client_loot_lists sub-lists. Shared by SkinRarityMap and StickerItemSetMap.
 var lootListItemRegexp = regexp.MustCompile(`^\[(.+?)\](.+)$`)
 
-// lootListRarityEndings enumerates the known rarity suffixes that appear at
-// the end of client_loot_lists sub-list keys. Order matters: longer/more
-// specific suffixes must be checked first — "uncommon" contains "common" as a
-// suffix, so checking "uncommon" before "common" prevents the mis-match.
-var lootListRarityEndings = []string{
-	"default",
-	"uncommon", // must precede "common" — "uncommon" ends with "common"
-	"common",
-	"rare",
-	"mythical",
-	"legendary",
-	"ancient",
-	"immortal",
-	"unusual",
-}
-
-// lootListRarity returns the rarity suffix of a sub-list key, or "default"
-// if none is recognised. Aggregator keys (e.g. "crate_abc") typically return
-// "default" and are skipped by callers.
-func lootListRarity(name string) string {
-	for _, ending := range lootListRarityEndings {
-		if strings.HasSuffix(name, ending) {
-			return ending
+// lootListRarity returns the rarity of a sub-list key by checking whether its
+// last underscore-delimited segment is a known rarity token derived from the
+// parsed rarities block. Returns "default" when no match is found so callers
+// can skip aggregator keys (e.g. "crate_abc").
+func lootListRarity(name string, rarityKeys map[string]bool) string {
+	if idx := strings.LastIndex(name, "_"); idx >= 0 {
+		if suffix := name[idx+1:]; rarityKeys[suffix] {
+			return suffix
 		}
 	}
 	return "default"
