@@ -36,8 +36,9 @@ type Inputs struct {
 	Gloves           []models.BaseWeapon
 	PaintKits        []models.PaintKit
 
-	StickerKits []models.StickerKit
-	ItemSets    []models.ItemSet
+	StickerKits  []models.StickerKit
+	GraffitiKits []models.Graffiti
+	ItemSets     []models.ItemSet
 }
 
 // Parser is the contract every concrete parser satisfies. The usual route is

@@ -38,6 +38,7 @@ var Default = Pipeline{
 	{
 		Parsers: []Parser{
 			stickers.NewKits(),
+			stickers.NewGraffiti(),
 			meta.NewItemSets(),
 			meta.NewCollections(),
 		},

@@ -13,9 +13,10 @@ import (
 )
 
 var hashNamePrefixes = map[string]string{
-	"sticker_kit": "Sticker | ",
-	"music_kit":   "Music Kit | ",
-	"keychain":    "Charm | ",
+	"sticker_kit":    "Sticker | ",
+	"graffiti":       "Sealed Graffiti | ",
+	"music_kit":      "Music Kit | ",
+	"keychain":       "Charm | ",
 }
 
 var stickerEffectNames = map[string]string{

@@ -31,6 +31,30 @@ type SchemaCustomSticker struct {
 	Count int    `json:"count"`
 }
 
+// GraffitiTint is a single colour variant available for consumer-grade
+// (common rarity) graffiti.
+type GraffitiTint struct {
+	ID             int    `json:"id"`
+	Name           string `json:"name"`
+	Hex            string `json:"hex"`
+	MarketHashName string `json:"market_hash_name"`
+}
+
+// Graffiti is a single graffiti/spray kit (sticker_kits entries whose name
+// begins with "spray_").
+type Graffiti struct {
+	DefinitionIndex int             `json:"definition_index"`
+	MarketHashName  string          `json:"market_hash_name"`
+	Name            string          `json:"name"`
+	StickerMaterial string          `json:"sticker_material"`
+	Image           string          `json:"image"`
+	Rarity          string          `json:"rarity"`
+	Tints           []GraffitiTint  `json:"tints,omitempty"`
+	Tournament      *TournamentData `json:"tournament"`
+	Team            *TournamentData `json:"team"`
+	Player          *TournamentData `json:"player"`
+}
+
 // StickerCapsule is a sticker-pack container (crate_sticker_pack_*,
 // crate_signature_pack_*, etc.).
 type StickerCapsule struct {

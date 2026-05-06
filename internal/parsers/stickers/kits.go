@@ -44,7 +44,7 @@ func (k *Kits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 
 		item_name, _ := item.GetString("item_name")
 		name, _ := item.GetString("name")
-		if strings.Contains(name, "patch_") || strings.Contains(name, "_graffiti") {
+		if strings.Contains(name, "patch_") || strings.Contains(name, "_graffiti") || strings.HasPrefix(name, "spray_") {
 			continue
 		}
 
