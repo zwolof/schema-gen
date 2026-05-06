@@ -14,12 +14,12 @@ var lootListItemRegexp = regexp.MustCompile(`^\[(.+?)\](.+)$`)
 
 // lootListRarityEndings enumerates the known rarity suffixes that appear at
 // the end of client_loot_lists sub-list keys. Order matters: longer/more
-// specific suffixes are checked first so that, e.g. "mythical" isn't matched
-// as "common".
+// specific suffixes must be checked first — "uncommon" contains "common" as a
+// suffix, so checking "uncommon" before "common" prevents the mis-match.
 var lootListRarityEndings = []string{
 	"default",
+	"uncommon", // must precede "common" — "uncommon" ends with "common"
 	"common",
-	"uncommon",
 	"rare",
 	"mythical",
 	"legendary",

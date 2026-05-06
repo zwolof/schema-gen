@@ -140,7 +140,7 @@
         "name": "Tilted",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_deagle_cu_overpass_aqua_deagle_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.75
@@ -166,7 +166,7 @@
         "name": "Urban DDPAT",
         "item_set_id": "set_overpass",
         "image": "econ/default_generated/weapon_deagle_hy_ddpat_urb_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -322,7 +322,7 @@
         "name": "Night",
         "item_set_id": "set_chopshop",
         "image": "econ/default_generated/weapon_deagle_so_night_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -348,7 +348,7 @@
         "name": "Midnight Storm",
         "item_set_id": "set_kimono",
         "image": "econ/default_generated/weapon_deagle_am_seastorm_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.75
@@ -517,7 +517,7 @@
         "name": "Mudder",
         "item_set_id": "set_lake",
         "image": "econ/default_generated/weapon_deagle_hy_mottled_sand_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -569,7 +569,7 @@
         "name": "The Bronze",
         "item_set_id": "set_op10_ct",
         "image": "econ/default_generated/weapon_deagle_am_numbers_bronze_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -720,7 +720,7 @@
         "name": "Grey Ghost",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_famas_soo_famas_grey_ghost_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.637288
@@ -733,7 +733,7 @@
         "name": "Vendetta",
         "item_set_id": "set_timed_drops_achroma",
         "image": "econ/default_generated/weapon_famas_soe_bw_blast_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -824,7 +824,7 @@
         "name": "CaliCamo",
         "item_set_id": "set_mirage_2021",
         "image": "econ/default_generated/weapon_famas_hy_varicamo_desert_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -902,7 +902,7 @@
         "name": "Half Sleeve",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_famas_gs_gamebred_famas_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -1071,7 +1071,7 @@
         "name": "Halftone Wash",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_famas_ht_splash_famas_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -1110,7 +1110,7 @@
         "name": "Cyanospatter",
         "item_set_id": "set_lake",
         "image": "econ/default_generated/weapon_famas_hy_reef_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -1144,7 +1144,7 @@
         "name": "Ancient Ritual",
         "item_set_id": "set_op10_ancient",
         "image": "econ/default_generated/weapon_g3sg1_am_ancient_wine_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.76
@@ -1248,7 +1248,7 @@
         "name": "VariCamo",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_g3sg1_hy_varicamo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -1261,7 +1261,7 @@
         "name": "Green Apple",
         "item_set_id": "set_bank",
         "image": "econ/default_generated/weapon_g3sg1_so_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -1365,7 +1365,7 @@
         "name": "Arctic Camo",
         "item_set_id": "set_office",
         "image": "econ/default_generated/weapon_g3sg1_hy_arctic_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -1659,7 +1659,7 @@
         "name": "Robin's Egg",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_galilar_soe_robinsegg_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -1685,7 +1685,7 @@
         "name": "Acid Dart",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_galilar_hye_yellow_usaf_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -1698,7 +1698,7 @@
         "name": "O-Ranger",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_galilar_soe_orange_flick_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.75
@@ -1763,7 +1763,7 @@
         "name": "VariCamo",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_galilar_hy_varicamo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -1776,7 +1776,7 @@
         "name": "Urban Rubble",
         "item_set_id": "set_chopshop",
         "image": "econ/default_generated/weapon_galilar_hy_varicamo_urban_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -1841,7 +1841,7 @@
         "name": "Green Apple",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_galilar_so_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -2010,7 +2010,7 @@
         "name": "Winter Forest",
         "item_set_id": "set_office",
         "image": "econ/default_generated/weapon_galilar_hy_forest_winter_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -2023,7 +2023,7 @@
         "name": "Cold Fusion",
         "item_set_id": "set_nuke_2",
         "image": "econ/default_generated/weapon_galilar_hy_nuclear_skulls_aqua_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.83
@@ -2075,7 +2075,7 @@
         "name": "NV",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_galilar_cu_poly_green_galil_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.47
@@ -2265,7 +2265,7 @@
         "name": "Gator Mesh",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_m249_sp_mesh_python_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -2304,7 +2304,7 @@
         "name": "Shipping Forecast",
         "item_set_id": "set_gods_and_monsters",
         "image": "econ/default_generated/weapon_m249_hy_zodiac3_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -2369,7 +2369,7 @@
         "name": "Blizzard Marbleized",
         "item_set_id": "set_office",
         "image": "econ/default_generated/weapon_m249_hy_blizzard_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -2395,7 +2395,7 @@
         "name": "Spectrogram",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_m249_ht_peaks_rainbow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -2434,7 +2434,7 @@
         "name": "Midnight Palm",
         "item_set_id": "set_dust_2_2021",
         "image": "econ/default_generated/weapon_m249_sp_palm_night_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -2468,7 +2468,7 @@
         "name": "Tornado",
         "item_set_id": "set_inferno",
         "image": "econ/default_generated/weapon_m4a1_so_tornado_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -2611,7 +2611,7 @@
         "name": "Naval Shred Camo",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_m4a1_hye_blue_m4a4_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -2637,7 +2637,7 @@
         "name": "Steel Work",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_m4a1_ht_metal_edges_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.7
@@ -2663,7 +2663,7 @@
         "name": "Aeolian Dark",
         "item_set_id": "set_timed_drops_achroma",
         "image": "econ/default_generated/weapon_m4a1_hye_abstract_knot_m4_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.65
@@ -2702,7 +2702,7 @@
         "name": "Jungle Tiger",
         "item_set_id": "set_aztec",
         "image": "econ/default_generated/weapon_m4a1_hy_v_tiger_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -2741,7 +2741,7 @@
         "name": "Urban DDPAT",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_m4a1_hy_ddpat_urb_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -2975,7 +2975,7 @@
         "name": "Dark Blossom",
         "item_set_id": "set_stmarc",
         "image": "econ/default_generated/weapon_m4a1_sp_bud_blue_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -2988,7 +2988,7 @@
         "name": "Mainframe",
         "item_set_id": "set_nuke_2",
         "image": "econ/default_generated/weapon_m4a1_am_circuitboard_silver_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -3014,7 +3014,7 @@
         "name": "Desert Storm",
         "item_set_id": "set_dust",
         "image": "econ/default_generated/weapon_m4a1_hy_desert_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -3282,7 +3282,7 @@
         "name": "Echoing Sands",
         "item_set_id": "set_anubis",
         "image": "econ/default_generated/weapon_mac10_cu_mac10_scarab_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.02,
           "max": 0.8
@@ -3334,7 +3334,7 @@
         "name": "Acid Hex",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_mac10_hye_green_camo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.58
@@ -3373,7 +3373,7 @@
         "name": "Snow Splash",
         "item_set_id": "set_timed_drops_achroma",
         "image": "econ/default_generated/weapon_mac10_hye_car_wrap4_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -3399,7 +3399,7 @@
         "name": "Palm",
         "item_set_id": "set_dust_2",
         "image": "econ/default_generated/weapon_mac10_sp_palm_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -3464,7 +3464,7 @@
         "name": "Candy Apple",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_mac10_so_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -3490,7 +3490,7 @@
         "name": "Silver",
         "item_set_id": "set_bank",
         "image": "econ/default_generated/weapon_mac10_an_silver_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -3529,7 +3529,7 @@
         "name": "Commuter",
         "item_set_id": "set_baggage",
         "image": "econ/default_generated/weapon_mac10_cu_luggage_mac10_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -3698,7 +3698,7 @@
         "name": "Calf Skin",
         "item_set_id": "set_inferno_2",
         "image": "econ/default_generated/weapon_mac10_gs_mac10_checker_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -3953,7 +3953,7 @@
         "name": "Straight Dimes",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_p90_p90_steelcraft_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -4044,7 +4044,7 @@
         "name": "Mustard Gas",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_p90_hye_zoom_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.63
@@ -4057,7 +4057,7 @@
         "name": "Wash me",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_p90_sp_overpass_doodle_plum_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -4122,7 +4122,7 @@
         "name": "Fallout Warning",
         "item_set_id": "set_nuke",
         "image": "econ/default_generated/weapon_p90_sp_nukestripe_maroon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -4187,7 +4187,7 @@
         "name": "Ash Wood",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_p90_sp_twigs_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.45
@@ -4252,7 +4252,7 @@
         "name": "Leather",
         "item_set_id": "set_baggage",
         "image": "econ/default_generated/weapon_p90_cu_brown_leather_p90_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -4382,7 +4382,7 @@
         "name": "Sunset Lily",
         "item_set_id": "set_stmarc",
         "image": "econ/default_generated/weapon_p90_sp_bloom_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -4434,7 +4434,7 @@
         "name": "Verdant Growth",
         "item_set_id": "set_mirage_2021",
         "image": "econ/default_generated/weapon_p90_sp_moro_textile_green_vine_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.47
@@ -4624,7 +4624,7 @@
         "name": "Rose Nacre",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_elite_soo_rose_gold_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.7
@@ -4637,7 +4637,7 @@
         "name": "Polished Malachite",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_elite_soch_marble_grips_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -4832,7 +4832,7 @@
         "name": "Stained",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_elite_aq_forced_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -5001,7 +5001,7 @@
         "name": "Drift Wood",
         "item_set_id": "set_mirage_2021",
         "image": "econ/default_generated/weapon_elite_sp_dry_wood_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -5014,7 +5014,7 @@
         "name": "Pyre",
         "item_set_id": "set_norse",
         "image": "econ/default_generated/weapon_elite_hy_gelpen_dark_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.55
@@ -5066,7 +5066,7 @@
         "name": "Switch Board",
         "item_set_id": "set_op10_ct",
         "image": "econ/default_generated/weapon_elite_hy_numbers_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.65
@@ -5178,7 +5178,7 @@
         "name": "Snow Splash",
         "item_set_id": "set_timed_drops_achroma",
         "image": "econ/default_generated/weapon_mp5sd_hye_mp5_car_wrap4_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -5191,7 +5191,7 @@
         "name": "Picnic",
         "item_set_id": "set_timed_drops_exuberant",
         "image": "econ/default_generated/weapon_mp5sd_soe_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.75
@@ -5204,7 +5204,7 @@
         "name": "Neon Squeezer",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_mp5sd_sp_overpass_paint_pen_neon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.2,
           "max": 0.9
@@ -5230,7 +5230,7 @@
         "name": "Savannah Halftone",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_mp5sd_ht_blur_camo_mp5sd_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.25,
           "max": 0.75
@@ -5256,7 +5256,7 @@
         "name": "Nitro",
         "item_set_id": "set_op10_ct",
         "image": "econ/default_generated/weapon_mp5sd_so_orange_accents3_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -5420,7 +5420,7 @@
         "name": "Houndstooth",
         "item_set_id": "set_op10_t",
         "image": "econ/default_generated/weapon_ump45_hy_houndstooth_brown_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -5446,7 +5446,7 @@
         "name": "Mechanism",
         "item_set_id": "set_vertigo_2021",
         "image": "econ/default_generated/weapon_ump45_aa_engine_performance_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.49
@@ -5589,7 +5589,7 @@
         "name": "Gunsmoke",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_ump45_hy_gelpen_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -5602,7 +5602,7 @@
         "name": "Fallout Warning",
         "item_set_id": "set_nuke",
         "image": "econ/default_generated/weapon_ump45_sp_nukestripe_maroon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -5849,7 +5849,7 @@
         "name": "Carbon Fiber",
         "item_set_id": "set_bank",
         "image": "econ/default_generated/weapon_ump45_am_carbon_fiber_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.12
@@ -6130,7 +6130,7 @@
         "name": "Gum Wall Camo",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_xm1014_hye_drippy_camo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -6182,7 +6182,7 @@
         "name": "XoooM",
         "item_set_id": "set_timed_drops_exuberant",
         "image": "econ/default_generated/weapon_xm1014_soe_yellow_xm_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -6221,7 +6221,7 @@
         "name": "Fallout Warning",
         "item_set_id": "set_nuke",
         "image": "econ/default_generated/weapon_xm1014_sp_nukestripe_maroon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -6260,7 +6260,7 @@
         "name": "CaliCamo",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_xm1014_hy_varicamo_desert_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -6351,7 +6351,7 @@
         "name": "Blue Steel",
         "item_set_id": "set_lake",
         "image": "econ/default_generated/weapon_xm1014_aq_blued_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -6455,7 +6455,7 @@
         "name": "Banana Leaf",
         "item_set_id": "set_stmarc",
         "image": "econ/default_generated/weapon_xm1014_hy_leaf_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -6580,7 +6580,7 @@
         "name": "Breaker Box",
         "item_set_id": "set_vertigo_2021",
         "image": "econ/default_generated/weapon_bizon_aa_wiring_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.44
@@ -6775,7 +6775,7 @@
         "name": "Night Ops",
         "item_set_id": "set_lake",
         "image": "econ/default_generated/weapon_bizon_hy_varicamo_night_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -6827,7 +6827,7 @@
         "name": "Candy Apple",
         "item_set_id": "set_inferno_2",
         "image": "econ/default_generated/weapon_bizon_so_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -6866,7 +6866,7 @@
         "name": "Chemical Green",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_bizon_so_grey_nuclear_green_bizon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.9
@@ -6983,7 +6983,7 @@
         "name": "Carbon Fiber",
         "item_set_id": "set_vertigo",
         "image": "econ/default_generated/weapon_bizon_am_carbon_fiber_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.12
@@ -6996,7 +6996,7 @@
         "name": "Cold Cell",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_bizon_sp_wax_rub_bizon_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.4
@@ -7251,7 +7251,7 @@
         "name": "Silver",
         "item_set_id": "set_cobblestone",
         "image": "econ/default_generated/weapon_mag7_an_silver_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -7264,7 +7264,7 @@
         "name": "Chainmail",
         "item_set_id": "set_norse",
         "image": "econ/default_generated/weapon_mag7_am_chainmail_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.22
@@ -7277,7 +7277,7 @@
         "name": "Metallic DDPAT",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_mag7_am_urban_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -7420,7 +7420,7 @@
         "name": "Carbon Fiber",
         "item_set_id": "set_op10_ct",
         "image": "econ/default_generated/weapon_mag7_am_carbon_fiber_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.12
@@ -7472,7 +7472,7 @@
         "name": "Wildwood",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_mag7_soch_wildwood_mag7_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.7
@@ -7623,7 +7623,7 @@
         "name": "Sour Grapes",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_negev_soe_berry_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -7649,7 +7649,7 @@
         "name": "Wall Bang",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_negev_cu_overpass_graf_negev_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -7662,7 +7662,7 @@
         "name": "Palm",
         "item_set_id": "set_bravo_ii",
         "image": "econ/default_generated/weapon_negev_sp_palm_bravo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -7675,7 +7675,7 @@
         "name": "CaliCamo",
         "item_set_id": "set_mirage",
         "image": "econ/default_generated/weapon_negev_hy_varicamo_desert_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -7753,7 +7753,7 @@
         "name": "Nuclear Waste",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_negev_sp_nuclear_pattern3_negev_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.4
@@ -7844,7 +7844,7 @@
         "name": "Bulkhead",
         "item_set_id": "set_nuke_2",
         "image": "econ/default_generated/weapon_negev_hy_ducts_yellow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -8021,7 +8021,7 @@
         "name": "Mosaico",
         "item_set_id": "set_bravo_ii",
         "image": "econ/default_generated/weapon_sawedoff_hy_ali_tile_bravo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -8073,7 +8073,7 @@
         "name": "Snake Camo",
         "item_set_id": "set_dust_2",
         "image": "econ/default_generated/weapon_sawedoff_sp_snake_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -8086,7 +8086,7 @@
         "name": "Rust Coat",
         "item_set_id": "set_cobblestone",
         "image": "econ/default_generated/weapon_sawedoff_aq_steel_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -8380,7 +8380,7 @@
         "name": "Midnight Paintover",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_fiveseven_hy_overpass_paintover_teal_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -8445,7 +8445,7 @@
         "name": "Sky Blue",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_fiveseven_soe_blue_and_chrome_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -8484,7 +8484,7 @@
         "name": "Orange Peel",
         "item_set_id": "set_dust_2",
         "image": "econ/default_generated/weapon_fiveseven_sp_tape_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -8601,7 +8601,7 @@
         "name": "Candy Apple",
         "item_set_id": "set_assault",
         "image": "econ/default_generated/weapon_fiveseven_so_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -8627,7 +8627,7 @@
         "name": "Hot Shot",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_fiveseven_so_grey_nuclear_orange_five_seven_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -8874,7 +8874,7 @@
         "name": "Withered Vine",
         "item_set_id": "set_dust_2_2021",
         "image": "econ/default_generated/weapon_fiveseven_sp_moro_textile_purple_yellow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -8999,7 +8999,7 @@
         "name": "Garter-9",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_tec9_soe_snakeskin_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.7
@@ -9025,7 +9025,7 @@
         "name": "Citric Acid",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_tec9_soo_paint_splats_yellow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -9038,7 +9038,7 @@
         "name": "Banana Leaf",
         "item_set_id": "set_timed_drops_exuberant",
         "image": "econ/default_generated/weapon_tec9_hye_batik_eyes_tec9_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -9129,7 +9129,7 @@
         "name": "VariCamo",
         "item_set_id": "set_dust_2",
         "image": "econ/default_generated/weapon_tec9_hy_varicamo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -9233,7 +9233,7 @@
         "name": "Hades",
         "item_set_id": "set_gods_and_monsters",
         "image": "econ/default_generated/weapon_tec9_hy_hades_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -9376,7 +9376,7 @@
         "name": "Rust Leaf",
         "item_set_id": "set_stmarc",
         "image": "econ/default_generated/weapon_tec9_sp_leaf_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -9389,7 +9389,7 @@
         "name": "Orange Murano",
         "item_set_id": "set_canals",
         "image": "econ/default_generated/weapon_tec9_hy_murano_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -9402,7 +9402,7 @@
         "name": "Tiger Stencil",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_tec9_soch_tiger_stencil_tec9_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -9553,7 +9553,7 @@
         "name": "Electric Blue",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_taser_soe_electric_blue_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.75
@@ -9613,7 +9613,7 @@
         "name": "Panther Camo",
         "item_set_id": "set_op10_ancient",
         "image": "econ/default_generated/weapon_hkp2000_am_black_panther_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -9626,7 +9626,7 @@
         "name": "Grassland Leaves",
         "item_set_id": "set_militia",
         "image": "econ/default_generated/weapon_hkp2000_sp_leaves_grassland_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -9704,7 +9704,7 @@
         "name": "Marsh",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_hkp2000_soe_teal_glitter_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -9756,7 +9756,7 @@
         "name": "Granite Marbleized",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_hkp2000_hy_granite_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -9847,7 +9847,7 @@
         "name": "Coach Class",
         "item_set_id": "set_baggage",
         "image": "econ/default_generated/weapon_hkp2000_cu_luggage_p2000_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -9886,7 +9886,7 @@
         "name": "Pathfinder",
         "item_set_id": "set_gods_and_monsters",
         "image": "econ/default_generated/weapon_hkp2000_sp_labyrinth2_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.35
@@ -10003,7 +10003,7 @@
         "name": "Coral Halftone",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_hkp2000_ht_facet_p2000_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.52
@@ -10029,7 +10029,7 @@
         "name": "Grassland",
         "item_set_id": "set_overpass",
         "image": "econ/default_generated/weapon_hkp2000_so_grassland_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -10089,7 +10089,7 @@
         "name": "Vault Heist",
         "item_set_id": "set_op10_t",
         "image": "econ/default_generated/weapon_mp7_am_heist_plans_yellow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -10115,7 +10115,7 @@
         "name": "Tall Grass",
         "item_set_id": "set_op10_ancient",
         "image": "econ/default_generated/weapon_mp7_hy_drywood_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.65
@@ -10219,7 +10219,7 @@
         "name": "Coral Paisley",
         "item_set_id": "set_timed_drops_exuberant",
         "image": "econ/default_generated/weapon_mp7_hye_paisley_warm_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.65
@@ -10232,7 +10232,7 @@
         "name": "Orange Peel",
         "item_set_id": "set_mirage",
         "image": "econ/default_generated/weapon_mp7_sp_tape_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -10258,7 +10258,7 @@
         "name": "Gunsmoke",
         "item_set_id": "set_overpass",
         "image": "econ/default_generated/weapon_mp7_hy_gelpen_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -10531,7 +10531,7 @@
         "name": "Motherboard",
         "item_set_id": "set_nuke_2",
         "image": "econ/default_generated/weapon_mp7_am_circuitboard_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -10583,7 +10583,7 @@
         "name": "Astrolabe",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_mp7_gs_constellation_dark_mp7_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -10799,7 +10799,7 @@
         "name": "Orange Peel",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_mp9_sp_tape_orange_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -11176,7 +11176,7 @@
         "name": "Old Roots",
         "item_set_id": "set_dust_2_2021",
         "image": "econ/default_generated/weapon_mp9_sp_moro_carving_yellow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -11275,7 +11275,7 @@
         "name": "Turquoise Pour",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_nova_soo_acrylic_flow_turquoise_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.678431
@@ -11301,7 +11301,7 @@
         "name": "Rain Station",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_nova_train_shapes_01_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.35
@@ -11496,7 +11496,7 @@
         "name": "Green Apple",
         "item_set_id": "set_cobblestone",
         "image": "econ/default_generated/weapon_nova_so_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -11522,7 +11522,7 @@
         "name": "Caged Steel",
         "item_set_id": "set_bank",
         "image": "econ/default_generated/weapon_nova_am_oval_hex_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.2
@@ -11535,7 +11535,7 @@
         "name": "Candy Apple",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_nova_so_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.3
@@ -11548,7 +11548,7 @@
         "name": "Rust Coat",
         "item_set_id": "set_op10_t",
         "image": "econ/default_generated/weapon_nova_aq_steel_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -11855,7 +11855,7 @@
         "name": "Constructivist",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_p250_brutalist_architecture_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.35
@@ -11959,7 +11959,7 @@
         "name": "Sedimentary",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_p250_soe_yellow_swirl_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.68
@@ -12011,7 +12011,7 @@
         "name": "Gunsmoke",
         "item_set_id": "set_inferno",
         "image": "econ/default_generated/weapon_p250_hy_gelpen_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -12063,7 +12063,7 @@
         "name": "Facets",
         "item_set_id": "set_bravo_ii",
         "image": "econ/default_generated/weapon_p250_hy_crumple_dark_bravo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -12154,7 +12154,7 @@
         "name": "Metallic DDPAT",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_p250_am_urban_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -12180,7 +12180,7 @@
         "name": "Contamination",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_p250_hy_nuclear_skulls4_p250_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.83
@@ -12232,7 +12232,7 @@
         "name": "Crimson Kimono",
         "item_set_id": "set_kimono",
         "image": "econ/default_generated/weapon_p250_hy_kimono_diamonds_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -12336,7 +12336,7 @@
         "name": "Dark Filigree",
         "item_set_id": "set_canals",
         "image": "econ/default_generated/weapon_p250_am_ren_dark_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -12656,7 +12656,7 @@
         "name": "Palm",
         "item_set_id": "set_dust",
         "image": "econ/default_generated/weapon_scar20_sp_palm_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -12864,7 +12864,7 @@
         "name": "Carbon Fiber",
         "item_set_id": "set_train",
         "image": "econ/default_generated/weapon_scar20_am_carbon_fiber_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.12
@@ -13041,7 +13041,7 @@
         "name": "Basket Halftone",
         "item_set_id": "set_timed_drops_warm",
         "image": "econ/default_generated/weapon_sg556_ht_orange_basket_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -13093,7 +13093,7 @@
         "name": "Gator Mesh",
         "item_set_id": "set_mirage",
         "image": "econ/default_generated/weapon_sg556_sp_mesh_python_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -13158,7 +13158,7 @@
         "name": "Traveler",
         "item_set_id": "set_baggage",
         "image": "econ/default_generated/weapon_sg556_cu_luggage_sg553_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -13171,7 +13171,7 @@
         "name": "Fallout Warning",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_sg556_sp_nukestripe_maroon_sg553_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -13353,7 +13353,7 @@
         "name": "Candy Apple",
         "item_set_id": "set_canals",
         "image": "econ/default_generated/weapon_sg556_so_red_sg553_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.7
@@ -13478,7 +13478,7 @@
         "name": "Red Tire",
         "item_set_id": "set_vertigo_2021",
         "image": "econ/default_generated/weapon_glock_sp_tire_tread_red_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.55
@@ -13647,7 +13647,7 @@
         "name": "Ocean Topo",
         "item_set_id": "set_timed_drops_cool",
         "image": "econ/default_generated/weapon_glock_hye_topo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -13764,7 +13764,7 @@
         "name": "Groundwater",
         "item_set_id": "set_mirage",
         "image": "econ/default_generated/weapon_glock_so_olive_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -13777,7 +13777,7 @@
         "name": "Sand Dune",
         "item_set_id": "set_bravo_ii",
         "image": "econ/default_generated/weapon_glock_so_sand_bravo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -13816,7 +13816,7 @@
         "name": "Death Rattle",
         "item_set_id": "set_bank",
         "image": "econ/default_generated/weapon_glock_hy_nerodia_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.08,
           "max": 0.5
@@ -13907,7 +13907,7 @@
         "name": "Night",
         "item_set_id": "set_overpass",
         "image": "econ/default_generated/weapon_glock_so_night_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -14089,7 +14089,7 @@
         "name": "High Beam",
         "item_set_id": "set_inferno_2",
         "image": "econ/default_generated/weapon_glock_aa_vertigo_blue_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -14266,7 +14266,7 @@
         "name": "Azure Glyph",
         "item_set_id": "set_anubis",
         "image": "econ/default_generated/weapon_ssg08_gs_ssg08_anubis_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.01,
           "max": 0.99
@@ -14305,7 +14305,7 @@
         "name": "Tiger Tear",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_ssg08_hye_tiger2_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.55
@@ -14357,7 +14357,7 @@
         "name": "Calligrafaux",
         "item_set_id": "set_timed_drops_exuberant",
         "image": "econ/default_generated/weapon_ssg08_ht_red_edges_fineline_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -14383,7 +14383,7 @@
         "name": "Mayan Dreams",
         "item_set_id": "set_bravo_ii",
         "image": "econ/default_generated/weapon_ssg08_hy_mayan_dreams_bravo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -14409,7 +14409,7 @@
         "name": "Tropical Storm",
         "item_set_id": "set_mirage",
         "image": "econ/default_generated/weapon_ssg08_sp_palm_shadow_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -14578,7 +14578,7 @@
         "name": "Carbon Fiber",
         "item_set_id": "set_vertigo_2021",
         "image": "econ/default_generated/weapon_ssg08_am_carbon_fiber_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.12
@@ -14643,7 +14643,7 @@
         "name": "Halftone Whorl",
         "item_set_id": "set_graphic_design",
         "image": "econ/default_generated/weapon_ssg08_ht_swirl_ssg08_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -14912,7 +14912,7 @@
         "name": "Mud-Spec",
         "item_set_id": "set_anubis",
         "image": "econ/default_generated/weapon_m4a1_silencer_gs_m4a1s_milspec_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.73
@@ -15003,7 +15003,7 @@
         "name": "Wash me plz",
         "item_set_id": "set_overpass_2024",
         "image": "econ/default_generated/weapon_m4a1_silencer_hy_overpass_doodle_m4a1s_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.58
@@ -15302,7 +15302,7 @@
         "name": "Boreal Forest",
         "item_set_id": "set_italy",
         "image": "econ/default_generated/weapon_m4a1_silencer_hy_forest_boreal_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -15328,7 +15328,7 @@
         "name": "Moss Quartz",
         "item_set_id": "set_norse",
         "image": "econ/default_generated/weapon_m4a1_silencer_am_crystallized_dark_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -15518,7 +15518,7 @@
         "name": "Desert Tactical",
         "item_set_id": "set_anubis",
         "image": "econ/default_generated/weapon_usp_silencer_gs_usps_tactical_camo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -15635,7 +15635,7 @@
         "name": "Forest Leaves",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_usp_silencer_sp_leaves_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -15700,7 +15700,7 @@
         "name": "Royal Blue",
         "item_set_id": "set_cobblestone",
         "image": "econ/default_generated/weapon_usp_silencer_hy_indigo_usp_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -15739,7 +15739,7 @@
         "name": "Pathfinder",
         "item_set_id": "set_norse",
         "image": "econ/default_generated/weapon_usp_silencer_sp_labyrinth2_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.35
@@ -15752,7 +15752,7 @@
         "name": "Para Green",
         "item_set_id": "set_chopshop",
         "image": "econ/default_generated/weapon_usp_silencer_so_khaki_green_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.8
@@ -15994,7 +15994,7 @@
         "name": "Copper Fiber",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_cz75a_am_carbon_fiber_cz75_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.563291
@@ -16150,7 +16150,7 @@
         "name": "Silver",
         "item_set_id": "set_op10_ancient",
         "image": "econ/default_generated/weapon_cz75a_an_silver_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.08
@@ -16371,7 +16371,7 @@
         "name": "Midnight Palm",
         "item_set_id": "set_mirage_2021",
         "image": "econ/default_generated/weapon_cz75a_sp_palm_night_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -16431,7 +16431,7 @@
         "name": "Phoenix Marker",
         "item_set_id": "set_op10_t",
         "image": "econ/default_generated/weapon_revolver_am_phoenix_tags_blue_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.6
@@ -16535,7 +16535,7 @@
         "name": "Leafhopper",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_revolver_aq_titanium_acid_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.65098
@@ -16548,7 +16548,7 @@
         "name": "Dark Chamber",
         "item_set_id": "set_timed_drops_achroma",
         "image": "econ/default_generated/weapon_revolver_soch_smoke_grips_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.80339
@@ -16691,7 +16691,7 @@
         "name": "Nitro",
         "item_set_id": "set_inferno_2",
         "image": "econ/default_generated/weapon_revolver_so_orange_accents3_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -16894,7 +16894,7 @@
         "name": "Olive Polycam",
         "item_set_id": "set_realism_camo",
         "image": "econ/default_generated/weapon_ak47_ht_poly_camo_ak47_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -16933,7 +16933,7 @@
         "name": "Jungle Spray",
         "item_set_id": "set_aztec",
         "image": "econ/default_generated/weapon_ak47_sp_spray_jungle_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -16985,7 +16985,7 @@
         "name": "VariCamo Grey",
         "item_set_id": "set_timed_drops_neutral",
         "image": "econ/default_generated/weapon_ak47_soe_varicamo_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.671875
@@ -17089,7 +17089,7 @@
         "name": "Predator",
         "item_set_id": "set_dust",
         "image": "econ/default_generated/weapon_ak47_sp_zebracam_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -17401,7 +17401,7 @@
         "name": "Safari Mesh",
         "item_set_id": "set_dust_2",
         "image": "econ/default_generated/weapon_ak47_sp_mesh_tan_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -17427,7 +17427,7 @@
         "name": "Baroque Purple",
         "item_set_id": "set_canals",
         "image": "econ/default_generated/weapon_ak47_hy_veneto_purple_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -17604,7 +17604,7 @@
         "name": "Condemned",
         "item_set_id": "set_safehouse",
         "image": "econ/default_generated/weapon_aug_sp_mesh_forest_fire_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
@@ -17617,7 +17617,7 @@
         "name": "Steel Sentinel",
         "item_set_id": "set_train_2025",
         "image": "econ/default_generated/weapon_aug_aug_cold_sentinel_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 1.0
@@ -17786,7 +17786,7 @@
         "name": "Radiation Hazard",
         "item_set_id": "set_cache",
         "image": "econ/default_generated/weapon_aug_sp_nukestripe_orange_aug_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.55
@@ -18085,7 +18085,7 @@
         "name": "Spalted Wood",
         "item_set_id": "set_dust_2_2021",
         "image": "econ/default_generated/weapon_aug_hy_dry_wood_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.48
@@ -18509,7 +18509,7 @@
         "name": "Sun in Leo",
         "item_set_id": "set_gods_and_monsters",
         "image": "econ/default_generated/weapon_awp_hy_zodiac2_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.0,
           "max": 0.5
@@ -18626,7 +18626,7 @@
         "name": "Safari Mesh",
         "item_set_id": "set_lake",
         "image": "econ/default_generated/weapon_awp_sp_mesh_tan_light",
-        "rarity": "common",
+        "rarity": "uncommon",
         "float": {
           "min": 0.06,
           "max": 0.8
