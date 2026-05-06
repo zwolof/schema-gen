@@ -72,11 +72,15 @@ func (is *ItemSets) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 		}
 
 		for _, sv := range in.SouvenirPackages {
-			if sv.ItemSetId == nil || *sv.ItemSetId != current.Key {
-				continue
+			for _, id := range sv.ItemSetIds {
+				if id == current.Key {
+					current.HasSouvenir = true
+					break
+				}
 			}
-			current.HasSouvenir = true
-			break
+			if current.HasSouvenir {
+				break
+			}
 		}
 
 		out = append(out, current)

@@ -22,6 +22,7 @@ type Collection struct {
 	HasCrate    bool   `json:"has_crate"`
 	HasSouvenir bool   `json:"has_souvenir"`
 	Image       string `json:"image"`
+	UseSvgImage bool   `json:"use_svg_image"`
 }
 
 // ItemSet is the internal shape of an item_sets entry with its members.

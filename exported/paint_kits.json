@@ -26,7 +26,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -44,7 +44,7 @@
       "max": 0.3
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -224,7 +224,7 @@
       "max": 0.8
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -296,7 +296,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -332,7 +332,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -584,7 +584,7 @@
       "max": 1.0
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -602,7 +602,7 @@
       "max": 1.0
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -638,7 +638,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -656,7 +656,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -925,7 +925,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -1015,7 +1015,7 @@
       "max": 0.8
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -1069,7 +1069,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -1105,7 +1105,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -1213,7 +1213,7 @@
       "max": 0.8
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -1339,7 +1339,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -1357,7 +1357,7 @@
       "max": 0.8
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -2886,7 +2886,7 @@
       "max": 0.6
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -2976,7 +2976,7 @@
       "max": 0.6
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -2994,7 +2994,7 @@
       "max": 0.6
     },
     "rarity": "uncommon",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -3012,7 +3012,7 @@
       "max": 0.6
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -3030,7 +3030,7 @@
       "max": 0.8
     },
     "rarity": "common",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -3102,7 +3102,7 @@
       "max": 0.4
     },
     "rarity": "mythical",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_lake",
     "use_legacy_model": false,
@@ -3120,7 +3120,7 @@
       "max": 0.6
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -3138,7 +3138,7 @@
       "max": 0.5
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_italy",
     "use_legacy_model": false,
@@ -3156,7 +3156,7 @@
       "max": 0.4
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -3174,7 +3174,7 @@
       "max": 0.03
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,
@@ -3192,7 +3192,7 @@
       "max": 0.8
     },
     "rarity": "rare",
-    "souvenir": false,
+    "souvenir": true,
     "stattrak": false,
     "item_set_id": "set_safehouse",
     "use_legacy_model": false,

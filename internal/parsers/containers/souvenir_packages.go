@@ -21,6 +21,31 @@ var souvenirPrefabs = []string{
 	"aus2025_souvenir_crate_promo_prefab",
 }
 
+// souvenirMultiSets maps souvenir package names that span multiple collections
+// to their full list of item-set IDs. These packages predate the per-set
+// souvenir model and are hardcoded here, mirroring the JS reference.
+var souvenirMultiSets = map[string][]string{
+	// DreamHack 2013 — 6 maps + R8 Revolver | Bone Mask
+	// Source: https://counterstrike.fandom.com/wiki/DreamHack_2013_Souvenir_Package
+	"crate_dhw13_promo": {
+		"set_dust_2",
+		"set_safehouse",
+		"set_italy",
+		"set_lake",
+		"set_train",
+		"set_mirage",
+	},
+	// EMS One Katowice 2014 — same 6 maps as DHW13
+	"crate_ems14_promo": {
+		"set_dust_2",
+		"set_safehouse",
+		"set_italy",
+		"set_lake",
+		"set_train",
+		"set_mirage",
+	},
+}
+
 // SouvenirPackages extracts the souvenir crate items from items_game.txt.
 type SouvenirPackages struct{ base.Parser }
 
@@ -58,10 +83,17 @@ func (s *SouvenirPackages) Parse(ctx context.Context, in *pipeline.Inputs) (any,
 		tournament_event_id, _ := itemsgame.GetTournamentEventId(c)
 		name, _ := c.GetString("name")
 
+		itemSetIds := souvenirMultiSets[name]
+		if itemSetIds == nil {
+			if id := itemsgame.GetContainerItemSet(c, "ItemSet"); id != nil {
+				itemSetIds = []string{*id}
+			}
+		}
+
 		out = append(out, models.SouvenirPackage{
 			DefinitionIndex: definition_index,
 			ImageInventory:  image_inventory,
-			ItemSetId:       itemsgame.GetContainerItemSet(c, "ItemSet"),
+			ItemSetIds:      itemSetIds,
 			MarketHashName:  marketname.GenerateMarketHashName(in.T, item_name, nil, "souvenir_package"),
 			KeychainSetId:   lookupKeychainSetId(clientLootLists, name),
 			Tournament:      i18n.GetTournamentData(in.T, tournament_event_id),

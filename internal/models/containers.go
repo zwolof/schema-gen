@@ -39,6 +39,6 @@ type SouvenirPackage struct {
 	MarketHashName  string          `json:"market_hash_name"`
 	ImageInventory  string          `json:"image"`
 	KeychainSetId   *string         `json:"keychain_set_id"`
-	ItemSetId       *string         `json:"item_set_id"`
+	ItemSetIds      []string        `json:"item_set_ids"`
 	Tournament      *TournamentData `json:"tournament"`
 }

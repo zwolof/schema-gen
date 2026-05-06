@@ -4,7 +4,14 @@
     "market_hash_name": "DreamHack 2013 Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw13_promo",
     "keychain_set_id": null,
-    "item_set_id": null,
+    "item_set_ids": [
+      "set_dust_2",
+      "set_safehouse",
+      "set_italy",
+      "set_lake",
+      "set_train",
+      "set_mirage"
+    ],
     "tournament": {
       "id": 1,
       "name": "2013 DreamHack Winter"
@@ -15,7 +22,14 @@
     "market_hash_name": "EMS One 2014 Souvenir Package",
     "image": "econ/weapon_cases/crate_ems14_promo",
     "keychain_set_id": null,
-    "item_set_id": null,
+    "item_set_ids": [
+      "set_dust_2",
+      "set_safehouse",
+      "set_italy",
+      "set_lake",
+      "set_train",
+      "set_mirage"
+    ],
     "tournament": {
       "id": 3,
       "name": "2014 EMS One Katowice"
@@ -26,7 +40,9 @@
     "market_hash_name": "ESL One Cologne 2014 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -37,7 +53,9 @@
     "market_hash_name": "ESL One Cologne 2014 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -48,7 +66,9 @@
     "market_hash_name": "ESL One Cologne 2014 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -59,7 +79,9 @@
     "market_hash_name": "ESL One Cologne 2014 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -70,7 +92,9 @@
     "market_hash_name": "ESL One Cologne 2014 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -81,7 +105,9 @@
     "market_hash_name": "ESL One Cologne 2014 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -92,7 +118,9 @@
     "market_hash_name": "ESL One Cologne 2014 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_esl14_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 4,
       "name": "2014 ESL One Cologne"
@@ -103,7 +131,9 @@
     "market_hash_name": "DreamHack 2014 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -114,7 +144,9 @@
     "market_hash_name": "DreamHack 2014 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -125,7 +157,9 @@
     "market_hash_name": "DreamHack 2014 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -136,7 +170,9 @@
     "market_hash_name": "DreamHack 2014 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -147,7 +183,9 @@
     "market_hash_name": "DreamHack 2014 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -158,7 +196,9 @@
     "market_hash_name": "DreamHack 2014 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -169,7 +209,9 @@
     "market_hash_name": "DreamHack 2014 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_dhw14_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 5,
       "name": "2014 DreamHack Winter"
@@ -180,7 +222,9 @@
     "market_hash_name": "ESL One Katowice 2015 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -191,7 +235,9 @@
     "market_hash_name": "ESL One Katowice 2015 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -202,7 +248,9 @@
     "market_hash_name": "ESL One Katowice 2015 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -213,7 +261,9 @@
     "market_hash_name": "ESL One Katowice 2015 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -224,7 +274,9 @@
     "market_hash_name": "ESL One Katowice 2015 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -235,7 +287,9 @@
     "market_hash_name": "ESL One Katowice 2015 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -246,7 +300,9 @@
     "market_hash_name": "ESL One Katowice 2015 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_eslkatowice2015_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 6,
       "name": "2015 ESL One Katowice"
@@ -257,7 +313,9 @@
     "market_hash_name": "ESL One Cologne 2015 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -268,7 +326,9 @@
     "market_hash_name": "ESL One Cologne 2015 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -279,7 +339,9 @@
     "market_hash_name": "ESL One Cologne 2015 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -290,7 +352,9 @@
     "market_hash_name": "ESL One Cologne 2015 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -301,7 +365,9 @@
     "market_hash_name": "ESL One Cologne 2015 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -312,7 +378,9 @@
     "market_hash_name": "ESL One Cologne 2015 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -323,7 +391,9 @@
     "market_hash_name": "ESL One Cologne 2015 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_eslcologne2015_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 7,
       "name": "2015 ESL One Cologne"
@@ -334,7 +404,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -345,7 +417,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -356,7 +430,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -367,7 +443,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -378,7 +456,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -389,7 +469,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -400,7 +482,9 @@
     "market_hash_name": "DreamHack Cluj-Napoca 2015 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_cluj2015_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 8,
       "name": "2015 DreamHack Cluj-Napoca"
@@ -411,7 +495,9 @@
     "market_hash_name": "MLG Columbus 2016 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -422,7 +508,9 @@
     "market_hash_name": "MLG Columbus 2016 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -433,7 +521,9 @@
     "market_hash_name": "MLG Columbus 2016 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -444,7 +534,9 @@
     "market_hash_name": "MLG Columbus 2016 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -455,7 +547,9 @@
     "market_hash_name": "MLG Columbus 2016 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -466,7 +560,9 @@
     "market_hash_name": "MLG Columbus 2016 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -477,7 +573,9 @@
     "market_hash_name": "MLG Columbus 2016 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -488,7 +586,9 @@
     "market_hash_name": "MLG Columbus 2016 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_columbus2016_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 9,
       "name": "2016 MLG Columbus"
@@ -499,7 +599,9 @@
     "market_hash_name": "Cologne 2016 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -510,7 +612,9 @@
     "market_hash_name": "Cologne 2016 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -521,7 +625,9 @@
     "market_hash_name": "Cologne 2016 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -532,7 +638,9 @@
     "market_hash_name": "Cologne 2016 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -543,7 +651,9 @@
     "market_hash_name": "Cologne 2016 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -554,7 +664,9 @@
     "market_hash_name": "Cologne 2016 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -565,7 +677,9 @@
     "market_hash_name": "Cologne 2016 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_cologne2016_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 10,
       "name": "2016 ESL One Cologne"
@@ -576,7 +690,9 @@
     "market_hash_name": "Atlanta 2017 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -587,7 +703,9 @@
     "market_hash_name": "Atlanta 2017 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -598,7 +716,9 @@
     "market_hash_name": "Atlanta 2017 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -609,7 +729,9 @@
     "market_hash_name": "Atlanta 2017 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -620,7 +742,9 @@
     "market_hash_name": "Atlanta 2017 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -631,7 +755,9 @@
     "market_hash_name": "Atlanta 2017 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -642,7 +768,9 @@
     "market_hash_name": "Atlanta 2017 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_atlanta2017_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 11,
       "name": "2017 ELEAGUE Atlanta"
@@ -653,7 +781,9 @@
     "market_hash_name": "Krakow 2017 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -664,7 +794,9 @@
     "market_hash_name": "Krakow 2017 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -675,7 +807,9 @@
     "market_hash_name": "Krakow 2017 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -686,7 +820,9 @@
     "market_hash_name": "Krakow 2017 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -697,7 +833,9 @@
     "market_hash_name": "Krakow 2017 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -708,7 +846,9 @@
     "market_hash_name": "Krakow 2017 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -719,7 +859,9 @@
     "market_hash_name": "Krakow 2017 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_krakow2017_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 12,
       "name": "2017 PGL Krakow"
@@ -730,7 +872,9 @@
     "market_hash_name": "Boston 2018 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno",
+    "item_set_ids": [
+      "set_inferno"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -741,7 +885,9 @@
     "market_hash_name": "Boston 2018 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -752,7 +898,9 @@
     "market_hash_name": "Boston 2018 Cobblestone Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_cbble",
     "keychain_set_id": null,
-    "item_set_id": "set_cobblestone",
+    "item_set_ids": [
+      "set_cobblestone"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -763,7 +911,9 @@
     "market_hash_name": "Boston 2018 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -774,7 +924,9 @@
     "market_hash_name": "Boston 2018 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -785,7 +937,9 @@
     "market_hash_name": "Boston 2018 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -796,7 +950,9 @@
     "market_hash_name": "Boston 2018 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_boston2018_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke",
+    "item_set_ids": [
+      "set_nuke"
+    ],
     "tournament": {
       "id": 13,
       "name": "2018 ELEAGUE Boston"
@@ -807,7 +963,9 @@
     "market_hash_name": "London 2018 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -818,7 +976,9 @@
     "market_hash_name": "London 2018 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -829,7 +989,9 @@
     "market_hash_name": "London 2018 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -840,7 +1002,9 @@
     "market_hash_name": "London 2018 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -851,7 +1015,9 @@
     "market_hash_name": "London 2018 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -862,7 +1028,9 @@
     "market_hash_name": "London 2018 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -873,7 +1041,9 @@
     "market_hash_name": "London 2018 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_london2018_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 14,
       "name": "2018 FACEIT London"
@@ -884,7 +1054,9 @@
     "market_hash_name": "Katowice 2019 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -895,7 +1067,9 @@
     "market_hash_name": "Katowice 2019 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -906,7 +1080,9 @@
     "market_hash_name": "Katowice 2019 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -917,7 +1093,9 @@
     "market_hash_name": "Katowice 2019 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -928,7 +1106,9 @@
     "market_hash_name": "Katowice 2019 Cache Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_cache",
     "keychain_set_id": null,
-    "item_set_id": "set_cache",
+    "item_set_ids": [
+      "set_cache"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -939,7 +1119,9 @@
     "market_hash_name": "Katowice 2019 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -950,7 +1132,9 @@
     "market_hash_name": "Katowice 2019 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_katowice2019_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 15,
       "name": "2019 IEM Katowice"
@@ -961,7 +1145,9 @@
     "market_hash_name": "Berlin 2019 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -972,7 +1158,9 @@
     "market_hash_name": "Berlin 2019 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage",
+    "item_set_ids": [
+      "set_mirage"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -983,7 +1171,9 @@
     "market_hash_name": "Berlin 2019 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2",
+    "item_set_ids": [
+      "set_dust_2"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -994,7 +1184,9 @@
     "market_hash_name": "Berlin 2019 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -1005,7 +1197,9 @@
     "market_hash_name": "Berlin 2019 Train Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_train",
     "keychain_set_id": null,
-    "item_set_id": "set_train",
+    "item_set_ids": [
+      "set_train"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -1016,7 +1210,9 @@
     "market_hash_name": "Berlin 2019 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -1027,7 +1223,9 @@
     "market_hash_name": "Berlin 2019 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_berlin2019_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo",
+    "item_set_ids": [
+      "set_vertigo"
+    ],
     "tournament": {
       "id": 16,
       "name": "2019 StarLadder Berlin"
@@ -1038,7 +1236,9 @@
     "market_hash_name": "Stockholm 2021 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1049,7 +1249,9 @@
     "market_hash_name": "Stockholm 2021 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1060,7 +1262,9 @@
     "market_hash_name": "Stockholm 2021 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1071,7 +1275,9 @@
     "market_hash_name": "Stockholm 2021 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1082,7 +1288,9 @@
     "market_hash_name": "Stockholm 2021 Ancient Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1093,7 +1301,9 @@
     "market_hash_name": "Stockholm 2021 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1104,7 +1314,9 @@
     "market_hash_name": "Stockholm 2021 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_stockh2021_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": 18,
       "name": "2021 PGL Stockholm"
@@ -1115,7 +1327,9 @@
     "market_hash_name": "Antwerp 2022 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1126,7 +1340,9 @@
     "market_hash_name": "Antwerp 2022 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1137,7 +1353,9 @@
     "market_hash_name": "Antwerp 2022 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1148,7 +1366,9 @@
     "market_hash_name": "Antwerp 2022 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1159,7 +1379,9 @@
     "market_hash_name": "Antwerp 2022 Ancient Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1170,7 +1392,9 @@
     "market_hash_name": "Antwerp 2022 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1181,7 +1405,9 @@
     "market_hash_name": "Antwerp 2022 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_antwerp2022_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": 19,
       "name": "2022 PGL Antwerp"
@@ -1192,7 +1418,9 @@
     "market_hash_name": "Rio 2022 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1203,7 +1431,9 @@
     "market_hash_name": "Rio 2022 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1214,7 +1444,9 @@
     "market_hash_name": "Rio 2022 Dust II Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1225,7 +1457,9 @@
     "market_hash_name": "Rio 2022 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1236,7 +1470,9 @@
     "market_hash_name": "Rio 2022 Ancient Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1247,7 +1483,9 @@
     "market_hash_name": "Rio 2022 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1258,7 +1496,9 @@
     "market_hash_name": "Rio 2022 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_rio2022_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": 20,
       "name": "IEM Rio 2022"
@@ -1269,7 +1509,9 @@
     "market_hash_name": "Paris 2023 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1280,7 +1522,9 @@
     "market_hash_name": "Paris 2023 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1291,7 +1535,9 @@
     "market_hash_name": "Paris 2023 Anubis Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_anubis",
     "keychain_set_id": null,
-    "item_set_id": "set_anubis",
+    "item_set_ids": [
+      "set_anubis"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1302,7 +1548,9 @@
     "market_hash_name": "Paris 2023 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1313,7 +1561,9 @@
     "market_hash_name": "Paris 2023 Ancient Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1324,7 +1574,9 @@
     "market_hash_name": "Paris 2023 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1335,7 +1587,9 @@
     "market_hash_name": "Paris 2023 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_paris2023_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": 21,
       "name": "BLAST.tv Paris 2023"
@@ -1346,7 +1600,9 @@
     "market_hash_name": "Copenhagen 2024 Inferno Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1357,7 +1613,9 @@
     "market_hash_name": "Copenhagen 2024 Mirage Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1368,7 +1626,9 @@
     "market_hash_name": "Copenhagen 2024 Anubis Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_anubis",
     "keychain_set_id": null,
-    "item_set_id": "set_anubis",
+    "item_set_ids": [
+      "set_anubis"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1379,7 +1639,9 @@
     "market_hash_name": "Copenhagen 2024 Overpass Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_overpass",
     "keychain_set_id": null,
-    "item_set_id": "set_overpass",
+    "item_set_ids": [
+      "set_overpass"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1390,7 +1652,9 @@
     "market_hash_name": "Copenhagen 2024 Ancient Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1401,7 +1665,9 @@
     "market_hash_name": "Copenhagen 2024 Nuke Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1412,7 +1678,9 @@
     "market_hash_name": "Copenhagen 2024 Vertigo Souvenir Package",
     "image": "econ/weapon_cases/crate_cph2024_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": 22,
       "name": "PGL Copenhagen 2024"
@@ -1423,7 +1691,9 @@
     "market_hash_name": "Shanghai 2024 Inferno Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_inferno",
     "keychain_set_id": null,
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1434,7 +1704,9 @@
     "market_hash_name": "Shanghai 2024 Mirage Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_mirage",
     "keychain_set_id": null,
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1445,7 +1717,9 @@
     "market_hash_name": "Shanghai 2024 Anubis Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_anubis",
     "keychain_set_id": null,
-    "item_set_id": "set_anubis",
+    "item_set_ids": [
+      "set_anubis"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1456,7 +1730,9 @@
     "market_hash_name": "Shanghai 2024 Dust II Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_dust2",
     "keychain_set_id": null,
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1467,7 +1743,9 @@
     "market_hash_name": "Shanghai 2024 Ancient Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_ancient",
     "keychain_set_id": null,
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1478,7 +1756,9 @@
     "market_hash_name": "Shanghai 2024 Nuke Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_nuke",
     "keychain_set_id": null,
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1489,7 +1769,9 @@
     "market_hash_name": "Shanghai 2024 Vertigo Souvenir Package",
     "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo",
     "keychain_set_id": null,
-    "item_set_id": "set_vertigo_2021",
+    "item_set_ids": [
+      "set_vertigo_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1500,7 +1782,9 @@
     "market_hash_name": "Austin 2025 Inferno Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1511,7 +1795,9 @@
     "market_hash_name": "Austin 2025 Mirage Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_mirage",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1522,7 +1808,9 @@
     "market_hash_name": "Austin 2025 Anubis Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_anubis",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_anubis",
+    "item_set_ids": [
+      "set_anubis"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1533,7 +1821,9 @@
     "market_hash_name": "Austin 2025 Dust II Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_dust2",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1544,7 +1834,9 @@
     "market_hash_name": "Austin 2025 Ancient Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_ancient",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1555,7 +1847,9 @@
     "market_hash_name": "Austin 2025 Nuke Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_nuke",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1566,7 +1860,9 @@
     "market_hash_name": "Austin 2025 Train Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_train",
     "keychain_set_id": "kc_aus2025",
-    "item_set_id": "set_train_2025",
+    "item_set_ids": [
+      "set_train_2025"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1577,7 +1873,9 @@
     "market_hash_name": "Budapest 2025 Inferno Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_inferno_2",
+    "item_set_ids": [
+      "set_inferno_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1588,7 +1886,9 @@
     "market_hash_name": "Budapest 2025 Mirage Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_mirage_2021",
+    "item_set_ids": [
+      "set_mirage_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1599,7 +1899,9 @@
     "market_hash_name": "Budapest 2025 Overpass Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_overpass_2024",
+    "item_set_ids": [
+      "set_overpass_2024"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1610,7 +1912,9 @@
     "market_hash_name": "Budapest 2025 Dust II Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_dust_2_2021",
+    "item_set_ids": [
+      "set_dust_2_2021"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1621,7 +1925,9 @@
     "market_hash_name": "Budapest 2025 Ancient Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_op10_ancient",
+    "item_set_ids": [
+      "set_op10_ancient"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1632,7 +1938,9 @@
     "market_hash_name": "Budapest 2025 Nuke Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_nuke_2",
+    "item_set_ids": [
+      "set_nuke_2"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"
@@ -1643,7 +1951,9 @@
     "market_hash_name": "Budapest 2025 Train Souvenir Package",
     "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_train",
     "keychain_set_id": "kc_bud2025",
-    "item_set_id": "set_train_2025",
+    "item_set_ids": [
+      "set_train_2025"
+    ],
     "tournament": {
       "id": -1,
       "name": "csgo_tournament_event_nameshort_-1"

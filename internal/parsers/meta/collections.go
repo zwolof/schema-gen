@@ -18,6 +18,14 @@ type Collections struct{ base.Parser }
 
 func NewCollections() *Collections { return &Collections{Parser: base.New("collections")} }
 
+// svgCollections is the set of collection name tokens (without the "#CSGO_"
+// prefix) whose set-icon image is an SVG rather than a PNG.
+var svgCollections = map[string]bool{
+	"set_timed_drops_achroma":   true,
+	"set_timed_drops_exuberant": true,
+	"set_community_37":          true,
+}
+
 func (c *Collections) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 	logger := zerolog.Ctx(ctx)
 
@@ -37,9 +45,10 @@ func (c *Collections) Parse(ctx context.Context, in *pipeline.Inputs) (any, erro
 		}
 
 		current := models.Collection{
-			Key:   s.Key,
-			Name:  marketname.GenerateMarketHashName(in.T, name, nil, "collection"),
-			Image: "econ/set_icons/" + s.Key,
+			Key:         s.Key,
+			Name:        marketname.GenerateMarketHashName(in.T, name, nil, "collection"),
+			Image:       "econ/set_icons/" + s.Key,
+			UseSvgImage: svgCollections[s.Key],
 		}
 
 		for _, wpncase := range in.WeaponCases {
@@ -51,11 +60,15 @@ func (c *Collections) Parse(ctx context.Context, in *pipeline.Inputs) (any, erro
 		}
 
 		for _, sv := range in.SouvenirPackages {
-			if sv.ItemSetId == nil || *sv.ItemSetId != current.Key {
-				continue
+			for _, id := range sv.ItemSetIds {
+				if id == current.Key {
+					current.HasSouvenir = true
+					break
+				}
 			}
-			current.HasSouvenir = true
-			break
+			if current.HasSouvenir {
+				break
+			}
 		}
 
 		out = append(out, current)
