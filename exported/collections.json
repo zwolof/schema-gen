@@ -562,14 +562,14 @@
   {
     "key": "set_community_36",
     "name": "The Genesis Collection",
-    "has_crate": false,
+    "has_crate": true,
     "has_souvenir": false,
     "image": "econ/set_icons/set_community_36"
   },
   {
     "key": "set_community_37",
     "name": "The Dead Hand Collection",
-    "has_crate": false,
+    "has_crate": true,
     "has_souvenir": false,
     "image": "econ/set_icons/set_community_37"
   },
@@ -584,7 +584,7 @@
     "key": "set_overpass_2024",
     "name": "The Overpass 2024 Collection",
     "has_crate": false,
-    "has_souvenir": false,
+    "has_souvenir": true,
     "image": "econ/set_icons/set_overpass_2024"
   },
   {

@@ -36,7 +36,7 @@ func (w *WeaponCases) Parse(ctx context.Context, in *pipeline.Inputs) (any, erro
 
 	for _, item := range items.GetChilds() {
 		prefab, _ := item.GetString("prefab")
-		if prefab != "weapon_case" {
+		if !isCratePrefab(prefab) {
 			continue
 		}
 
@@ -100,4 +100,20 @@ func lookupCaseKey(ig *models.ItemsGame, definitionIndex int) *models.WeaponCase
 		}
 	}
 	return &models.WeaponCaseKey{}
+}
+
+// isCratePrefab reports whether the (possibly space-separated) prefab field
+// indicates a weapon case that grants StatTrak skins. Mirrors the JS logic:
+//
+//	prefab.includes("weapon_case") ||
+//	prefab.includes("volatile_pricing") ||
+//	prefab.includes("volatile_pricing_gloves")
+func isCratePrefab(prefab string) bool {
+	for _, p := range strings.Fields(prefab) {
+		switch p {
+		case "weapon_case", "volatile_pricing", "volatile_pricing_gloves":
+			return true
+		}
+	}
+	return false
 }

@@ -838,5 +838,45 @@
     "prefab": "",
     "model_player": "",
     "first_sale_date": ""
+  },
+  {
+    "definition_index": 5176,
+    "name": "",
+    "market_hash_name": "Sealed Genesis Terminal",
+    "image": "econ/weapon_cases/crate_community_36_closed",
+    "item_set_id": "set_community_36",
+    "key": {
+      "definition_index": 0,
+      "name": "",
+      "item_name": "",
+      "item_description": "",
+      "first_sale_date": "",
+      "prefab": "",
+      "image": ""
+    },
+    "description": "#CSGO_crate_community_36_desc",
+    "prefab": "",
+    "model_player": "",
+    "first_sale_date": ""
+  },
+  {
+    "definition_index": 5181,
+    "name": "",
+    "market_hash_name": "Sealed Dead Hand Terminal",
+    "image": "econ/weapon_cases/crate_community_37_closed",
+    "item_set_id": "set_community_37",
+    "key": {
+      "definition_index": 0,
+      "name": "",
+      "item_name": "",
+      "item_description": "",
+      "first_sale_date": "",
+      "prefab": "",
+      "image": ""
+    },
+    "description": "#CSGO_crate_community_37_desc",
+    "prefab": "",
+    "model_player": "",
+    "first_sale_date": ""
   }
 ]

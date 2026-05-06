@@ -1,5 +1,10 @@
 package models
 
+import (
+	"strconv"
+	"strings"
+)
+
 // BaseWeapon is the shape of a weapon/knife/glove prefab extracted from
 // items_game.txt, used as the base item for skin maps.
 type BaseWeapon struct {
@@ -15,6 +20,19 @@ type BaseWeapon struct {
 type PaintKitWearRange struct {
 	Min float32 `json:"min"`
 	Max float32 `json:"max"`
+}
+
+// MarshalJSON ensures Min and Max are always emitted with a decimal point
+// (e.g. 0.0, 1.0) rather than as bare integers.
+func (w PaintKitWearRange) MarshalJSON() ([]byte, error) {
+	formatFloat := func(f float32) string {
+		s := strconv.FormatFloat(float64(f), 'f', -1, 32)
+		if !strings.Contains(s, ".") {
+			s += ".0"
+		}
+		return s
+	}
+	return []byte(`{"min":` + formatFloat(w.Min) + `,"max":` + formatFloat(w.Max) + `}`), nil
 }
 
 // PaintKit is a weapon paint finish.

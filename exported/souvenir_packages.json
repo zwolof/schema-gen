@@ -1419,6 +1419,83 @@
     }
   },
   {
+    "definition_index": 4967,
+    "market_hash_name": "Shanghai 2024 Inferno Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_inferno",
+    "keychain_set_id": null,
+    "item_set_id": "set_inferno_2",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4968,
+    "market_hash_name": "Shanghai 2024 Mirage Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_mirage",
+    "keychain_set_id": null,
+    "item_set_id": "set_mirage_2021",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4969,
+    "market_hash_name": "Shanghai 2024 Anubis Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_anubis",
+    "keychain_set_id": null,
+    "item_set_id": "set_anubis",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4970,
+    "market_hash_name": "Shanghai 2024 Dust II Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_dust2",
+    "keychain_set_id": null,
+    "item_set_id": "set_dust_2_2021",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4971,
+    "market_hash_name": "Shanghai 2024 Ancient Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_ancient",
+    "keychain_set_id": null,
+    "item_set_id": "set_op10_ancient",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4972,
+    "market_hash_name": "Shanghai 2024 Nuke Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_nuke",
+    "keychain_set_id": null,
+    "item_set_id": "set_nuke_2",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 4973,
+    "market_hash_name": "Shanghai 2024 Vertigo Souvenir Package",
+    "image": "econ/tournaments/sha2024/crate_sha2024_promo_de_vertigo",
+    "keychain_set_id": null,
+    "item_set_id": "set_vertigo_2021",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
     "definition_index": 5120,
     "market_hash_name": "Austin 2025 Inferno Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_inferno",
@@ -1489,6 +1566,83 @@
     "market_hash_name": "Austin 2025 Train Souvenir Package",
     "image": "econ/tournaments/aus2025/crate_aus2025_promo_de_train",
     "keychain_set_id": "kc_aus2025",
+    "item_set_id": "set_train_2025",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5219,
+    "market_hash_name": "Budapest 2025 Inferno Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_inferno",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_inferno_2",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5220,
+    "market_hash_name": "Budapest 2025 Mirage Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_mirage",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_mirage_2021",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5221,
+    "market_hash_name": "Budapest 2025 Overpass Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_overpass",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_overpass_2024",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5222,
+    "market_hash_name": "Budapest 2025 Dust II Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_dust2",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_dust_2_2021",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5223,
+    "market_hash_name": "Budapest 2025 Ancient Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_ancient",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_op10_ancient",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5224,
+    "market_hash_name": "Budapest 2025 Nuke Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_nuke",
+    "keychain_set_id": "kc_bud2025",
+    "item_set_id": "set_nuke_2",
+    "tournament": {
+      "id": -1,
+      "name": "csgo_tournament_event_nameshort_-1"
+    }
+  },
+  {
+    "definition_index": 5225,
+    "market_hash_name": "Budapest 2025 Train Souvenir Package",
+    "image": "econ/tournaments/bud2025/crate_bud2025_promo_de_train",
+    "keychain_set_id": "kc_bud2025",
     "item_set_id": "set_train_2025",
     "tournament": {
       "id": -1,

@@ -2,8 +2,8 @@ package containers
 
 import (
 	"context"
-	"slices"
 	"strconv"
+	"strings"
 
 	"go-csitems-parser/internal/i18n"
 	"go-csitems-parser/internal/itemsgame"
@@ -28,6 +28,11 @@ func NewSouvenirPackages() *SouvenirPackages {
 	return &SouvenirPackages{Parser: base.New("souvenir_packages")}
 }
 
+func isSouvenirPrefab(prefab string) bool {
+	return prefab == "weapon_case_souvenirpkg" ||
+		strings.Contains(prefab, "_souvenir_crate_promo_prefab")
+}
+
 func (s *SouvenirPackages) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 	logger := zerolog.Ctx(ctx)
 
@@ -43,7 +48,7 @@ func (s *SouvenirPackages) Parse(ctx context.Context, in *pipeline.Inputs) (any,
 
 	for _, c := range items.GetChilds() {
 		prefab, _ := c.GetString("prefab")
-		if !slices.Contains(souvenirPrefabs, prefab) {
+		if !isSouvenirPrefab(prefab) {
 			continue
 		}
 

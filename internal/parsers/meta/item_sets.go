@@ -61,6 +61,12 @@ func (is *ItemSets) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 			if wpncase.ItemSetId == nil || *wpncase.ItemSetId != current.Key {
 				continue
 			}
+			// The Dust 2 2021 collection has an associated crate but Valve
+			// never sold StatTrak™ versions of those skins. Skip it, mirroring
+			// the JS skipCollections list.
+			if current.Key == "set_dust_2_2021" {
+				break
+			}
 			current.HasCrate = true
 			break
 		}

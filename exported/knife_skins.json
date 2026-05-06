@@ -64,7 +64,7 @@
         "image": "econ/default_generated/weapon_bayonet_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -90,7 +90,7 @@
         "image": "econ/default_generated/weapon_bayonet_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -103,7 +103,7 @@
         "image": "econ/default_generated/weapon_bayonet_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -116,7 +116,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -130,7 +130,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -142,7 +142,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -155,7 +155,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -168,7 +168,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -181,7 +181,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -194,7 +194,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -207,8 +207,8 @@
         "image": "econ/default_generated/weapon_bayonet_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -220,7 +220,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -233,7 +233,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -246,8 +246,8 @@
         "image": "econ/default_generated/weapon_bayonet_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -259,8 +259,8 @@
         "image": "econ/default_generated/weapon_bayonet_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -285,7 +285,7 @@
         "image": "econ/default_generated/weapon_bayonet_cu_bayonet_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -298,8 +298,8 @@
         "image": "econ/default_generated/weapon_bayonet_cu_bayonet_stonewash_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -311,7 +311,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -324,7 +324,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -337,7 +337,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -350,7 +350,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -363,7 +363,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -376,7 +376,7 @@
         "image": "econ/default_generated/weapon_bayonet_gs_bayonet_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -389,7 +389,7 @@
         "image": "econ/default_generated/weapon_bayonet_hy_ocean_knife_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -402,7 +402,7 @@
         "image": "econ/default_generated/weapon_bayonet_am_marked_up_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -527,7 +527,7 @@
         "image": "econ/default_generated/weapon_knife_css_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -540,8 +540,8 @@
         "image": "econ/default_generated/weapon_knife_css_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -553,8 +553,8 @@
         "image": "econ/default_generated/weapon_knife_css_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -566,8 +566,8 @@
         "image": "econ/default_generated/weapon_knife_css_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -704,7 +704,7 @@
         "image": "econ/default_generated/weapon_knife_flip_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -730,7 +730,7 @@
         "image": "econ/default_generated/weapon_knife_flip_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -743,7 +743,7 @@
         "image": "econ/default_generated/weapon_knife_flip_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -756,7 +756,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -770,7 +770,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -782,7 +782,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -795,7 +795,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -808,7 +808,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -821,7 +821,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -834,7 +834,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -847,8 +847,8 @@
         "image": "econ/default_generated/weapon_knife_flip_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -860,7 +860,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -873,7 +873,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -886,8 +886,8 @@
         "image": "econ/default_generated/weapon_knife_flip_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -899,8 +899,8 @@
         "image": "econ/default_generated/weapon_knife_flip_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -925,7 +925,7 @@
         "image": "econ/default_generated/weapon_knife_flip_cu_flip_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -938,8 +938,8 @@
         "image": "econ/default_generated/weapon_knife_flip_cu_flip_stonewash_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -951,7 +951,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -964,7 +964,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -977,7 +977,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -990,7 +990,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1003,7 +1003,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1016,7 +1016,7 @@
         "image": "econ/default_generated/weapon_knife_flip_gs_flip_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -1029,7 +1029,7 @@
         "image": "econ/default_generated/weapon_knife_flip_hy_ocean_knife_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -1042,7 +1042,7 @@
         "image": "econ/default_generated/weapon_knife_flip_am_marked_up_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -1167,7 +1167,7 @@
         "image": "econ/default_generated/weapon_knife_gut_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1193,7 +1193,7 @@
         "image": "econ/default_generated/weapon_knife_gut_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1206,7 +1206,7 @@
         "image": "econ/default_generated/weapon_knife_gut_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -1219,7 +1219,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1233,7 +1233,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1245,7 +1245,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1258,7 +1258,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1271,7 +1271,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1284,7 +1284,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1297,7 +1297,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1310,8 +1310,8 @@
         "image": "econ/default_generated/weapon_knife_gut_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1323,7 +1323,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1336,7 +1336,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1349,8 +1349,8 @@
         "image": "econ/default_generated/weapon_knife_gut_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1362,8 +1362,8 @@
         "image": "econ/default_generated/weapon_knife_gut_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1388,7 +1388,7 @@
         "image": "econ/default_generated/weapon_knife_gut_cu_gut_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -1401,8 +1401,8 @@
         "image": "econ/default_generated/weapon_knife_gut_cu_gut_stonewash_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1414,7 +1414,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1427,7 +1427,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1440,7 +1440,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1453,7 +1453,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1466,7 +1466,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1479,7 +1479,7 @@
         "image": "econ/default_generated/weapon_knife_gut_gs_gut_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -1492,7 +1492,7 @@
         "image": "econ/default_generated/weapon_knife_gut_hy_ocean_knife_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -1505,7 +1505,7 @@
         "image": "econ/default_generated/weapon_knife_gut_am_marked_up_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -1630,7 +1630,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1656,7 +1656,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1669,7 +1669,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -1682,7 +1682,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1696,7 +1696,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1708,7 +1708,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1721,7 +1721,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1734,7 +1734,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1747,7 +1747,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1760,7 +1760,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1773,8 +1773,8 @@
         "image": "econ/default_generated/weapon_knife_karambit_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1786,7 +1786,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1799,7 +1799,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1812,8 +1812,8 @@
         "image": "econ/default_generated/weapon_knife_karambit_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1825,8 +1825,8 @@
         "image": "econ/default_generated/weapon_knife_karambit_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1851,7 +1851,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_cu_karam_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -1864,8 +1864,8 @@
         "image": "econ/default_generated/weapon_knife_karambit_cu_karam_stonewash_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -1877,7 +1877,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1890,7 +1890,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1903,7 +1903,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1916,7 +1916,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1929,7 +1929,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -1942,7 +1942,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_gs_karam_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -1955,7 +1955,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_hy_ocean_knife_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -1968,7 +1968,7 @@
         "image": "econ/default_generated/weapon_knife_karambit_am_marked_up_fine_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -2093,7 +2093,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2119,7 +2119,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2132,7 +2132,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -2145,7 +2145,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2159,7 +2159,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2171,7 +2171,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2184,7 +2184,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2197,7 +2197,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2210,7 +2210,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2223,7 +2223,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2236,8 +2236,8 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2249,7 +2249,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2262,7 +2262,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2275,8 +2275,8 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2288,8 +2288,8 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2314,7 +2314,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -2327,8 +2327,8 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_stonewash_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2340,7 +2340,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2353,7 +2353,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2366,7 +2366,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2379,7 +2379,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2392,7 +2392,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2405,7 +2405,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -2418,7 +2418,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -2431,7 +2431,7 @@
         "image": "econ/default_generated/weapon_knife_m9_bayonet_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -2517,7 +2517,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_cu_huntsman_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -2530,8 +2530,8 @@
         "image": "econ/default_generated/weapon_knife_tactical_gs_huntsman_black_laminate_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2543,7 +2543,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_gs_huntsman_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -2595,7 +2595,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2621,7 +2621,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2634,7 +2634,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -2647,7 +2647,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2661,7 +2661,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2673,7 +2673,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2686,7 +2686,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2699,7 +2699,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2712,7 +2712,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2725,7 +2725,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2738,8 +2738,8 @@
         "image": "econ/default_generated/weapon_knife_tactical_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2751,7 +2751,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2764,7 +2764,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2777,8 +2777,8 @@
         "image": "econ/default_generated/weapon_knife_tactical_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2790,8 +2790,8 @@
         "image": "econ/default_generated/weapon_knife_tactical_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -2816,7 +2816,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2829,7 +2829,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2842,7 +2842,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2855,7 +2855,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2868,7 +2868,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -2881,7 +2881,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -2894,7 +2894,7 @@
         "image": "econ/default_generated/weapon_knife_tactical_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -2980,7 +2980,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_cu_falchion_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.65
         },
         "souvenir": false,
@@ -2993,8 +2993,8 @@
         "image": "econ/default_generated/weapon_knife_falchion_gs_falchion_black_laminate_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3006,7 +3006,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_gs_falchion_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -3058,7 +3058,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3084,7 +3084,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3097,7 +3097,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -3110,7 +3110,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3124,7 +3124,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3136,7 +3136,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3149,7 +3149,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3162,7 +3162,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3175,7 +3175,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3188,7 +3188,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3201,8 +3201,8 @@
         "image": "econ/default_generated/weapon_knife_falchion_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3214,7 +3214,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3227,7 +3227,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3240,8 +3240,8 @@
         "image": "econ/default_generated/weapon_knife_falchion_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3253,8 +3253,8 @@
         "image": "econ/default_generated/weapon_knife_falchion_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3279,7 +3279,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3292,7 +3292,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3305,7 +3305,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3318,7 +3318,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3331,7 +3331,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3344,7 +3344,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -3357,7 +3357,7 @@
         "image": "econ/default_generated/weapon_knife_falchion_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -3443,8 +3443,8 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_cu_bowie_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3456,8 +3456,8 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_gs_bowie_black_laminate_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3469,7 +3469,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_gs_bowie_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -3521,7 +3521,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3547,7 +3547,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3560,7 +3560,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -3573,7 +3573,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3587,7 +3587,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3599,7 +3599,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3612,7 +3612,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3625,7 +3625,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3638,7 +3638,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3651,7 +3651,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3664,8 +3664,8 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3677,7 +3677,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3690,7 +3690,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3703,8 +3703,8 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3716,8 +3716,8 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3742,7 +3742,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3755,7 +3755,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3768,7 +3768,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3781,7 +3781,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3794,7 +3794,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -3807,7 +3807,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -3820,7 +3820,7 @@
         "image": "econ/default_generated/weapon_knife_survival_bowie_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -3906,8 +3906,8 @@
         "image": "econ/default_generated/weapon_knife_butterfly_cu_butterfly_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3919,8 +3919,8 @@
         "image": "econ/default_generated/weapon_knife_butterfly_gs_butterfly_black_laminate_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -3932,7 +3932,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_gs_butterfly_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -3984,7 +3984,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4010,7 +4010,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4023,7 +4023,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -4036,7 +4036,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4050,7 +4050,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4062,7 +4062,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4075,7 +4075,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4088,8 +4088,8 @@
         "image": "econ/default_generated/weapon_knife_butterfly_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4101,7 +4101,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4114,7 +4114,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4127,8 +4127,8 @@
         "image": "econ/default_generated/weapon_knife_butterfly_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4140,8 +4140,8 @@
         "image": "econ/default_generated/weapon_knife_butterfly_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4166,7 +4166,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4179,7 +4179,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4192,7 +4192,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4205,7 +4205,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4218,7 +4218,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4231,7 +4231,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -4244,7 +4244,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -4270,7 +4270,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_blackpearl_marbleized_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4283,7 +4283,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_doppler_phase2_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4296,7 +4296,7 @@
         "image": "econ/default_generated/weapon_knife_butterfly_am_sapphire_marbleized_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4369,8 +4369,8 @@
         "image": "econ/default_generated/weapon_knife_push_cu_push_lore_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4382,8 +4382,8 @@
         "image": "econ/default_generated/weapon_knife_push_gs_push_black_laminate_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4395,7 +4395,7 @@
         "image": "econ/default_generated/weapon_knife_push_gs_push_autotronic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.85
         },
         "souvenir": false,
@@ -4447,7 +4447,7 @@
         "image": "econ/default_generated/weapon_knife_push_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4473,7 +4473,7 @@
         "image": "econ/default_generated/weapon_knife_push_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4486,7 +4486,7 @@
         "image": "econ/default_generated/weapon_knife_push_aq_damascus_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -4499,7 +4499,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4513,7 +4513,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4525,7 +4525,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4538,7 +4538,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4551,8 +4551,8 @@
         "image": "econ/default_generated/weapon_knife_push_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4564,7 +4564,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4577,7 +4577,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4590,8 +4590,8 @@
         "image": "econ/default_generated/weapon_knife_push_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4603,8 +4603,8 @@
         "image": "econ/default_generated/weapon_knife_push_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4629,7 +4629,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_emerald_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4642,7 +4642,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4655,7 +4655,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4668,7 +4668,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4681,7 +4681,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_gamma_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4694,7 +4694,7 @@
         "image": "econ/default_generated/weapon_knife_push_hy_ocean_knife_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -4707,7 +4707,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_marked_up_90_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.48
         },
         "souvenir": false,
@@ -4733,7 +4733,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_blackpearl_marbleized_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4746,7 +4746,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_doppler_phase2_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4759,7 +4759,7 @@
         "image": "econ/default_generated/weapon_knife_push_am_sapphire_marbleized_b_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4871,7 +4871,7 @@
         "image": "econ/default_generated/weapon_knife_cord_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4884,7 +4884,7 @@
         "image": "econ/default_generated/weapon_knife_cord_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4897,7 +4897,7 @@
         "image": "econ/default_generated/weapon_knife_cord_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -4910,7 +4910,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4924,7 +4924,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -4936,7 +4936,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4949,7 +4949,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4962,7 +4962,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4975,7 +4975,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -4988,7 +4988,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5001,8 +5001,8 @@
         "image": "econ/default_generated/weapon_knife_cord_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5014,7 +5014,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5027,7 +5027,7 @@
         "image": "econ/default_generated/weapon_knife_cord_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5040,8 +5040,8 @@
         "image": "econ/default_generated/weapon_knife_cord_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5053,8 +5053,8 @@
         "image": "econ/default_generated/weapon_knife_cord_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5204,7 +5204,7 @@
         "image": "econ/default_generated/weapon_knife_canis_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5217,7 +5217,7 @@
         "image": "econ/default_generated/weapon_knife_canis_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5230,7 +5230,7 @@
         "image": "econ/default_generated/weapon_knife_canis_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -5243,7 +5243,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5257,7 +5257,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5269,7 +5269,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5282,7 +5282,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5295,7 +5295,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5308,7 +5308,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5321,7 +5321,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5334,8 +5334,8 @@
         "image": "econ/default_generated/weapon_knife_canis_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5347,7 +5347,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5360,7 +5360,7 @@
         "image": "econ/default_generated/weapon_knife_canis_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5373,8 +5373,8 @@
         "image": "econ/default_generated/weapon_knife_canis_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5386,8 +5386,8 @@
         "image": "econ/default_generated/weapon_knife_canis_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5537,7 +5537,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5550,7 +5550,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5563,7 +5563,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -5576,7 +5576,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5590,7 +5590,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5602,7 +5602,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5615,7 +5615,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5628,7 +5628,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5641,7 +5641,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5654,7 +5654,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5667,8 +5667,8 @@
         "image": "econ/default_generated/weapon_knife_ursus_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5680,7 +5680,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5693,7 +5693,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5706,8 +5706,8 @@
         "image": "econ/default_generated/weapon_knife_ursus_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5719,8 +5719,8 @@
         "image": "econ/default_generated/weapon_knife_ursus_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5797,7 +5797,7 @@
         "image": "econ/default_generated/weapon_knife_ursus_aq_damascus_prisma_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -5883,7 +5883,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5896,7 +5896,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5909,7 +5909,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5923,7 +5923,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -5935,7 +5935,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5948,7 +5948,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5961,7 +5961,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5974,7 +5974,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -5987,7 +5987,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6000,8 +6000,8 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6013,7 +6013,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6026,7 +6026,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6039,8 +6039,8 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6052,8 +6052,8 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6130,7 +6130,7 @@
         "image": "econ/default_generated/weapon_knife_gypsy_jackknife_aq_damascus_prisma_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -6216,7 +6216,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6229,7 +6229,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6242,7 +6242,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -6255,7 +6255,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6269,7 +6269,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6281,7 +6281,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6294,7 +6294,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6307,7 +6307,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6320,7 +6320,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6333,7 +6333,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6346,8 +6346,8 @@
         "image": "econ/default_generated/weapon_knife_outdoor_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6359,7 +6359,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6372,7 +6372,7 @@
         "image": "econ/default_generated/weapon_knife_outdoor_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6385,8 +6385,8 @@
         "image": "econ/default_generated/weapon_knife_outdoor_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6398,8 +6398,8 @@
         "image": "econ/default_generated/weapon_knife_outdoor_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6549,7 +6549,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6562,7 +6562,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6575,7 +6575,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6589,7 +6589,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6601,7 +6601,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6614,7 +6614,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6627,7 +6627,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6640,7 +6640,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6653,7 +6653,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6666,8 +6666,8 @@
         "image": "econ/default_generated/weapon_knife_stiletto_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6679,7 +6679,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6692,7 +6692,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6705,8 +6705,8 @@
         "image": "econ/default_generated/weapon_knife_stiletto_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6718,8 +6718,8 @@
         "image": "econ/default_generated/weapon_knife_stiletto_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6796,7 +6796,7 @@
         "image": "econ/default_generated/weapon_knife_stiletto_aq_damascus_prisma_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -6882,7 +6882,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6895,7 +6895,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6908,7 +6908,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -6922,7 +6922,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6934,7 +6934,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6947,7 +6947,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6960,7 +6960,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -6973,8 +6973,8 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6986,8 +6986,8 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -6999,8 +6999,8 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7077,7 +7077,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase1_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7090,7 +7090,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase2_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7103,7 +7103,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase3_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7116,7 +7116,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase4_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7129,7 +7129,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_am_marble_fade_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7142,7 +7142,7 @@
         "image": "econ/default_generated/weapon_knife_widowmaker_aq_damascus_widow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -7228,7 +7228,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7241,7 +7241,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_an_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7254,7 +7254,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_aq_damascus_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.5
         },
         "souvenir": false,
@@ -7267,7 +7267,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7281,7 +7281,7 @@
         "rarity": "ancient",
         "float": {
           "min": 0.4,
-          "max": 1
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7293,7 +7293,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_ruby_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7306,7 +7306,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_sapphire_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7319,7 +7319,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_blackpearl_marbleized_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7332,7 +7332,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase1_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7345,7 +7345,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase2_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7358,8 +7358,8 @@
         "image": "econ/default_generated/weapon_knife_skeleton_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7371,7 +7371,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase3_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7384,7 +7384,7 @@
         "image": "econ/default_generated/weapon_knife_skeleton_am_doppler_phase4_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7397,8 +7397,8 @@
         "image": "econ/default_generated/weapon_knife_skeleton_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7410,8 +7410,8 @@
         "image": "econ/default_generated/weapon_knife_skeleton_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7561,7 +7561,7 @@
         "image": "econ/default_generated/weapon_knife_kukri_aa_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
+          "min": 0.0,
           "max": 0.08
         },
         "souvenir": false,
@@ -7574,8 +7574,8 @@
         "image": "econ/default_generated/weapon_knife_kukri_aq_blued_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7587,8 +7587,8 @@
         "image": "econ/default_generated/weapon_knife_kukri_aq_forced_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true
@@ -7600,8 +7600,8 @@
         "image": "econ/default_generated/weapon_knife_kukri_aq_oiled_light",
         "rarity": "ancient",
         "float": {
-          "min": 0.06,
-          "max": 1
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": true

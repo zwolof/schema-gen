@@ -75,8 +75,15 @@ func (PaintKitBuilder) Weapons(weapons []models.BaseWeapon, paintKits []models.P
 			// client_loot_lists["removed_items"] rather than a normal item set,
 			// so it has no crate and no souvenir package — but a StatTrak™
 			// variant was sold before the skin was pulled. Hard-code it.
-			if pk.Name == "cu_m4a1_howling" {
+			// The X-Ray P250 is also a special case that bypasses normal
+			// item-set detection.
+			if pk.Name == "cu_m4a1_howling" || pk.Name == "cu_xray_p250" {
 				statTrak = true
+			}
+			// MP5-SD | Lab Rats shipped as a souvenir-only skin outside the
+			// normal souvenir-package item-set flow.
+			if pk.Name == "hy_labrat_mp5" {
+				souvenir = true
 			}
 
 			rarity := pk.Rarity

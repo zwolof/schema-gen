@@ -49,10 +49,10 @@ func (p *PaintKits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 		descriptionTag, _ := r.GetString("description_tag")
 		descriptionString, _ := r.GetString("description_string")
 
-		if wearMinErr != nil || wearMin == 0.0 {
+		if wearMinErr != nil {
 			wearMin = 0.06
 		}
-		if wearMaxErr != nil || wearMax == 0.0 {
+		if wearMaxErr != nil {
 			wearMax = 0.80
 		}
 
