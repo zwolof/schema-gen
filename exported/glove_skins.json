@@ -12,8 +12,8 @@
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_metalic_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -25,8 +25,8 @@
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_poison_frog_black_yellow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -38,8 +38,8 @@
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_floral_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -51,8 +51,8 @@
         "image": "econ/default_generated/studded_brokenfang_gloves_operation10_snakeskin_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -72,8 +72,8 @@
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -85,8 +85,8 @@
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_snakeskin_brass_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -98,8 +98,8 @@
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_metallic_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -111,8 +111,8 @@
         "image": "econ/default_generated/studded_bloodhound_gloves_bloodhound_guerrilla_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -132,8 +132,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_light_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -145,8 +145,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_military_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -158,8 +158,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_purple_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -171,8 +171,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -184,8 +184,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_poison_frog_blue_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -197,8 +197,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -210,8 +210,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_black_webbing_yellow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -223,8 +223,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_blue_pink_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -236,8 +236,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_slingshot_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -249,8 +249,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_hunter_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -262,8 +262,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_houndstooth_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -275,8 +275,8 @@
         "image": "econ/default_generated/sporty_gloves_sporty_jaguar_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -288,8 +288,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_beadwork_diamonds_purple_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -301,8 +301,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_camo_winter_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -314,8 +314,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_flames_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -327,8 +327,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_pinstripe_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -340,8 +340,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_racer_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -353,8 +353,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_tech_gradient_bright_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -366,8 +366,8 @@
         "image": "econ/default_generated/sporty_gloves_glove_sport_velvet_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -387,8 +387,8 @@
         "image": "econ/default_generated/slick_gloves_slick_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -400,8 +400,8 @@
         "image": "econ/default_generated/slick_gloves_slick_military_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -413,8 +413,8 @@
         "image": "econ/default_generated/slick_gloves_slick_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -426,8 +426,8 @@
         "image": "econ/default_generated/slick_gloves_slick_snakeskin_yellow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -439,8 +439,8 @@
         "image": "econ/default_generated/slick_gloves_slick_snakeskin_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -452,8 +452,8 @@
         "image": "econ/default_generated/slick_gloves_slick_plaid_purple_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -465,8 +465,8 @@
         "image": "econ/default_generated/slick_gloves_slick_stitched_black_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -478,8 +478,8 @@
         "image": "econ/default_generated/slick_gloves_slick_stitched_green_grey_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -491,8 +491,8 @@
         "image": "econ/default_generated/slick_gloves_slick_rezan_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -504,8 +504,8 @@
         "image": "econ/default_generated/slick_gloves_slick_jaguar_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -517,8 +517,8 @@
         "image": "econ/default_generated/slick_gloves_slick_jaguar_yellow_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -530,8 +530,8 @@
         "image": "econ/default_generated/slick_gloves_slick_stitched_black_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -543,8 +543,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_silk_dragon_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -556,8 +556,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_brocade_crane_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -569,8 +569,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_brocade_flower_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -582,8 +582,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_dragon_scale_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -595,8 +595,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_embroidered_flowers_teal_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -608,8 +608,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_scallop_metallic_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -621,8 +621,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_ostrich_purple_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -634,8 +634,8 @@
         "image": "econ/default_generated/slick_gloves_glove_driver_knit_argyle_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -655,8 +655,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -668,8 +668,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_camo_grey_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -681,8 +681,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_red_slaughter_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -694,8 +694,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_fabric_orange_camo_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -707,8 +707,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_blue_skulls_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -720,8 +720,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_geometric_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -733,8 +733,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_ducttape_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -746,8 +746,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_green_camo_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -759,8 +759,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_fabric_houndstooth_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -772,8 +772,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_fabric_giraffe_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -785,8 +785,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_snakeskin_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -798,8 +798,8 @@
         "image": "econ/default_generated/leather_handwraps_handwrap_leathery_caution_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -819,8 +819,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -832,8 +832,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_mint_triangle_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -845,8 +845,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_mono_boom_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -858,8 +858,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -871,8 +871,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -884,8 +884,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_basic_green_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -897,8 +897,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_yellow_camo_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -910,8 +910,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_trigrid_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -923,8 +923,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_checker_flag_blue_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -936,8 +936,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_smoke_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -949,8 +949,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_carbonfiber_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -962,8 +962,8 @@
         "image": "econ/default_generated/motorcycle_gloves_motorcycle_commando_ksk_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -983,8 +983,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_ddpat_green_camo_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -996,8 +996,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_kimono_diamonds_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1009,8 +1009,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_emerald_web_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1022,8 +1022,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_orange_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1035,8 +1035,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_webs_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1048,8 +1048,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_forest_brown_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1061,8 +1061,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1074,8 +1074,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_winterhex_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1087,8 +1087,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_marble_fade_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1100,8 +1100,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_ricksaw_camo_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1113,8 +1113,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_tiger_orange_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1126,8 +1126,8 @@
         "image": "econ/default_generated/specialist_gloves_specialist_fbi_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1139,8 +1139,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_abstract_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1152,8 +1152,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_graffiti_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1165,8 +1165,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_black_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1178,8 +1178,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_sunburst_red_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1191,8 +1191,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_wave_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1204,8 +1204,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_quilted_white_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1217,8 +1217,8 @@
         "image": "econ/default_generated/specialist_gloves_glove_specialist_dragon_blue_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1238,8 +1238,8 @@
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_black_green_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1251,8 +1251,8 @@
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_green_leather_mesh_brass_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1264,8 +1264,8 @@
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_snakeskin_brass_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
@@ -1277,8 +1277,8 @@
         "image": "econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light",
         "rarity": "ancient",
         "float": {
-          "min": 0,
-          "max": 1
+          "min": 0.06,
+          "max": 0.8
         },
         "souvenir": false,
         "stattrak": false
