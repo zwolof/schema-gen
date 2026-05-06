@@ -2,7 +2,7 @@ BINARY  := schema-gen
 BIN_DIR := bin
 GO_FILES := $(shell find . -name '*.go' -not -path './$(BIN_DIR)/*' -not -path './exported*')
 
-.PHONY: help run build fmt fmt-check vet tidy race check clean install-tools dev
+.PHONY: help run build fmt fmt-check vet tidy test race check clean install-tools dev
 
 .DEFAULT_GOAL := help
 
@@ -38,6 +38,9 @@ vet: ## Run go vet
 
 tidy: ## Tidy go.mod
 	go mod tidy
+
+test: ## Run tests against exported JSON (run 'make run' first)
+	go test ./tests/... -v
 
 race: ## Run with -race detector
 	go run -race .
