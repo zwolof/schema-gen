@@ -1051,5 +1051,18 @@
     "is_commodity": false,
     "is_special_charm": true,
     "loot_list_id": ""
+  },
+  {
+    "definition_index": 84,
+    "name": "kc_cologne2026",
+    "market_hash_name": "Cologne 2026 Highlight",
+    "loc_description": "",
+    "rarity": "rare",
+    "quality": "",
+    "image": "econ/keychains/cologne2026/kc_cologne2026",
+    "display_model": "weapons/keychains/cologne2026/kc_cologne2026.vmdl",
+    "is_commodity": false,
+    "is_special_charm": true,
+    "loot_list_id": ""
   }
 ]

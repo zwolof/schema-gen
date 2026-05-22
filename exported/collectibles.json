@@ -6968,5 +6968,101 @@
     "image": "econ/status_icons/trophy_cs2_finalists",
     "tournament_event_id": 0,
     "market_hash_name": "Quarterfinalist at StarLadder Budapest 2025"
+  },
+  {
+    "definition_index": 5312,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/cologne2026/cologne2026_coin_bronze",
+    "tournament_event_id": 0,
+    "market_hash_name": "Cologne 2026 Coin"
+  },
+  {
+    "definition_index": 5313,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/cologne2026/cologne2026_coin_silver",
+    "tournament_event_id": 0,
+    "market_hash_name": "Cologne 2026 Silver Coin"
+  },
+  {
+    "definition_index": 5314,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/cologne2026/cologne2026_coin_gold",
+    "tournament_event_id": 0,
+    "market_hash_name": "Cologne 2026 Gold Coin"
+  },
+  {
+    "definition_index": 5315,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/cologne2026/cologne2026_coin_crystal",
+    "tournament_event_id": 0,
+    "market_hash_name": "Cologne 2026 Diamond Coin"
+  },
+  {
+    "definition_index": 5319,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_champions",
+    "tournament_event_id": 0,
+    "market_hash_name": "Champion at IEM Cologne 2026"
+  },
+  {
+    "definition_index": 5320,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 0,
+    "market_hash_name": "Finalist at IEM Cologne 2026"
+  },
+  {
+    "definition_index": 5321,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 0,
+    "market_hash_name": "Semifinalist at IEM Cologne 2026"
+  },
+  {
+    "definition_index": 5322,
+    "name": "",
+    "type": "",
+    "display_model": "",
+    "prefab": "",
+    "description": "",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 0,
+    "market_hash_name": "Quarterfinalist at IEM Cologne 2026"
   }
 ]

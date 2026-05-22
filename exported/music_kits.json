@@ -734,5 +734,53 @@
     "market_hash_name": "Music Kit | Tigercub, The Perfume of Decay",
     "item_name": "",
     "display_model": ""
+  },
+  {
+    "definition_index": 98,
+    "name": "alrt_01",
+    "image": "econ/music_kits/alrt_01",
+    "market_hash_name": "Music Kit | ALRT, DOPAMINE HIT",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 99,
+    "name": "altare_01",
+    "image": "econ/music_kits/altare_01",
+    "market_hash_name": "Music Kit | Altare, Change My Mind",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 100,
+    "name": "borne_01",
+    "image": "econ/music_kits/borne_01",
+    "market_hash_name": "Music Kit | borne, Give It To Me",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 101,
+    "name": "pirapus_01",
+    "image": "econ/music_kits/pirapus_01",
+    "market_hash_name": "Music Kit | Pirapus, EVERYNITE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 102,
+    "name": "repiet_01",
+    "image": "econ/music_kits/repiet_01",
+    "market_hash_name": "Music Kit | Repiet \u0026 Julia Kleijn, On And On",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 103,
+    "name": "shockone_01",
+    "image": "econ/music_kits/shockone_01",
+    "market_hash_name": "Music Kit | ShockOne, Voices",
+    "item_name": "",
+    "display_model": ""
   }
 ]
