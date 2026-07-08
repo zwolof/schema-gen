@@ -640,6 +640,14 @@
     "use_svg_image": false
   },
   {
+    "key": "set_arabesque",
+    "name": "The Arabesque Collection",
+    "has_crate": false,
+    "has_souvenir": false,
+    "image": "econ/set_icons/set_arabesque",
+    "use_svg_image": false
+  },
+  {
     "key": "set_community_36",
     "name": "The Genesis Collection",
     "has_crate": true,
@@ -677,6 +685,14 @@
     "has_crate": false,
     "has_souvenir": false,
     "image": "econ/set_icons/set_realism_camo",
+    "use_svg_image": false
+  },
+  {
+    "key": "set_spy_tech",
+    "name": "The Spy Tech Collection",
+    "has_crate": false,
+    "has_souvenir": false,
+    "image": "econ/set_icons/set_spy_tech",
     "use_svg_image": false
   },
   {

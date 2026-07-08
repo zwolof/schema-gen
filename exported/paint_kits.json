@@ -703,7 +703,7 @@
   {
     "definition_index": 59,
     "name": "am_zebra",
-    "description": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n\u003ci\u003eValeria doesn't pay Javier to ask questions... she pays him to pry out answers\u003ci\u003e",
+    "description": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.\\n\\n\u003ci\u003eValeria doesn't pay Javier to ask questions... she pays him to pry out answers\u003c/i\u003e",
     "market_hash_name": "Slaughter",
     "float": {
       "min": 0.01,
@@ -756,7 +756,7 @@
   {
     "definition_index": 62,
     "name": "cu_spring_nova",
-    "description": "It has been airbrushed by hand with a cherry blossom motif, then given a high-gloss top coat.",
+    "description": "It has been airbrushed by hand with a cherry blossom motif, then given a high-gloss topcoat.",
     "market_hash_name": "Bloomstick",
     "float": {
       "min": 0.06,
@@ -16833,7 +16833,7 @@
   {
     "definition_index": 982,
     "name": "cu_p250_infect",
-    "description": "Its maroon top coat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n\u003ci\u003eIt's only as bad as it looks\u003c/i\u003e",
+    "description": "Its maroon topcoat has been eaten away, leaving a decaying weapon with limited remaining uses.\\n\\n\u003ci\u003eIt's only as bad as it looks\u003c/i\u003e",
     "market_hash_name": "Contaminant",
     "float": {
       "min": 0.0,
@@ -23280,7 +23280,7 @@
   {
     "definition_index": 1290,
     "name": "soch_marble_grips",
-    "description": "These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic top coat.\\n\\n\u003ci\u003eThey command respect, although I can't say the same for you... - Booth, Arms Dealer\u003c/i\u003e",
+    "description": "These Dual Berettas have been painted with striking green and silver colors. The grips are finished with a ceramic topcoat.\\n\\n\u003ci\u003eThey command respect, although I can't say the same for you... - Booth, Arms Dealer\u003c/i\u003e",
     "market_hash_name": "Polished Malachite",
     "float": {
       "min": 0.0,
@@ -25860,6 +25860,618 @@
     "rarity": "ancient",
     "souvenir": false,
     "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1442,
+    "name": "nova_smart",
+    "description": "It has been custom painted with a brain near the rear sight, designed to appear embedded in the weapon, and finished with metallic silver paint.\\n\\n\u003ci\u003eThe marriage of tech and organics\u003c/i\u003e",
+    "market_hash_name": "Smart Gun",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1443,
+    "name": "cz75_hydraulics",
+    "description": "The magazine has been painted to resemble a polymer material. \\\"HYDRA\\\" has been painted above the trigger.\\n\\n\u003ci\u003eAre you Heracles?\u003c/i\u003e",
+    "market_hash_name": "Hydraulics",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1445,
+    "name": "r8_monarch_extended",
+    "description": "It has been custom painted in orange and grey and features brass-finished controls.\\n\\n\u003ci\u003eA symbol of status and authority\u003c/i\u003e",
+    "market_hash_name": "Monarch",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1446,
+    "name": "m4a4_black_side_matte",
+    "description": "It has been custom painted in matte black and silver and finished with white graphic designs.\\n\\n\u003ci\u003eFunction before style\u003c/i\u003e",
+    "market_hash_name": "Dark Operative",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1447,
+    "name": "tec9_perimeter_urban",
+    "description": "A multicolored design of Xs, squares, and dots has been applied.\\n\\n\u003ci\u003eDrawing up the X's and O's\u003c/i\u003e",
+    "market_hash_name": "Perimeter",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1448,
+    "name": "mac10_video_cam",
+    "description": "It has been custom painted to resemble a handheld camera.\\n\\n\u003ci\u003eREC...\u003c/i\u003e",
+    "market_hash_name": "Video Cam",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1449,
+    "name": "ak47_autoexec_camo",
+    "description": "It has been custom painted with a high gloss blue and pink gradient and a number of graphic designs.\\n\\n\u003ci\u003e\\\"Kill\\\" in console\u003c/i\u003e",
+    "market_hash_name": "AUTOEXEC",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "legendary",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1450,
+    "name": "glock_ghost_protocol_red",
+    "description": "It has been custom painted with red paint in varying sheens.\\n\\n\u003ci\u003eI don't care if you were followed, you're here now - Valeria Jenner, Revolutionary\u003c/i\u003e",
+    "market_hash_name": "Ghost Protocol",
+    "float": {
+      "min": 0.0,
+      "max": 0.9
+    },
+    "rarity": "legendary",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1451,
+    "name": "usps_spiral_glitch_iridescent",
+    "description": "Disruptive designs have been custom painted beneath a topcoat of pearlescent paint.\\n\\n\u003ci\u003eThey won't know what hit 'em\u003c/i\u003e",
+    "market_hash_name": "Spiral Glitch",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1452,
+    "name": "aug_ghost_signal",
+    "description": "This custom paint job features multicolored designs over a matte black base.\\n\\n\u003ci\u003e\u003e Attempting to reconnect ... ... ...\u003c/i\u003e",
+    "market_hash_name": "Signal Scanner",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1453,
+    "name": "scar_sirocco",
+    "description": "A decorative pattern of pseudo-calligraphy and arabesque geometry has been applied.\\n\\n\u003ci\u003eShaped through heat, dust, and dry winds\u003c/i\u003e",
+    "market_hash_name": "Sirocco Script",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1454,
+    "name": "mac10_arabesque_gold",
+    "description": "It has been custom painted with a moving pattern of Middle Eastern-inspired scenery.\\n\\n\u003ci\u003eEver-shifting sands\u003c/i\u003e",
+    "market_hash_name": "Arabesque Mosaic",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1455,
+    "name": "p250_lotus_imprint_glitter_purple",
+    "description": "It has been custom painted with gold and blue metal flake paint.\\n\\n\u003ci\u003eA lotus in the hand is worth two in the kill feed\u003c/i\u003e",
+    "market_hash_name": "Lotus Imprint",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1457,
+    "name": "fiveseven_desert_seal",
+    "description": "It has been custom painted with a Desert Seal design in silver and purple.\\n\\n\u003ci\u003eFate calls\u003c/i\u003e",
+    "market_hash_name": "Desert Seal",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1458,
+    "name": "deagle_eastern_enigma_blue",
+    "description": "It has been custom painted with a metallic silver, black, and blue design.\\n\\n\u003ci\u003eDon't lose the thread\u003c/i\u003e",
+    "market_hash_name": "Eastern Enigma",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1459,
+    "name": "dualies_mystic_conjunction_v3",
+    "description": "It has been custom painted with gold, flowing lines which merge into a desert eye when overlaid.\\n\\n\u003ci\u003eA shared vision\u003c/i\u003e",
+    "market_hash_name": "Mystic Conjunction",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1460,
+    "name": "glock_ifrit_lattice",
+    "description": "It has been custom painted with a tan and black design.\\n\\n\u003ci\u003eOutdated intel is still intel, ya know...\u003c/i\u003e",
+    "market_hash_name": "Ifrit Lattice",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1461,
+    "name": "famas_snake_song",
+    "description": "It has been custom painted with a green snake, highlighted by a bright gold outline over a matte gold base.\\n\\n\u003ci\u003eA flicker of hope\u003c/i\u003e",
+    "market_hash_name": "Snake Song",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1462,
+    "name": "tec9_sultan",
+    "description": "It has been custom painted with arabesque-inspired mosaic designs.\\n\\n\u003ci\u003eCeasefire through increased fire\u003c/i\u003e",
+    "market_hash_name": "Sultan",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1463,
+    "name": "m4a4_falak",
+    "description": "It has been custom painted with a red serpent over a tan-colored base.\\n\\n\u003ci\u003eThe power you hold requires restraint\u003c/i\u003e",
+    "market_hash_name": "Falak",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1464,
+    "name": "aug_lapis_lazuli",
+    "description": "It has been custom painted with a white, blue, and gold design to resemble lapis lazuli.\\n\\n\u003ci\u003eAn exquisite piece, both powerful and fragile\u003c/i\u003e",
+    "market_hash_name": "Lapis Lazuli",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1465,
+    "name": "awp_sovereign_flame",
+    "description": "It has been custom painted with a golden scope and flames running the length of the weapon.\\n\\n\u003ci\u003eThe exalted won\u003c/i\u003e",
+    "market_hash_name": "Sovereign Flame",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "legendary",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1466,
+    "name": "ak47_jinn_consequence",
+    "description": "It has been custom painted with a bold orange base, high-sheen gold-colored flames and a Jinn painted on and above the magazine.\\n\\n\u003ci\u003eWish wisely...\u003c/i\u003e",
+    "market_hash_name": "Consequence of the Jinn",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "legendary",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1467,
+    "name": "awp_black_box",
+    "description": "It has been custom painted using matte black paint and finished with an orange stripe.\\n\\n\u003ci\u003e\\\"Nothing fancy, you hear me?\\\"\u003c/i\u003e",
+    "market_hash_name": "Black Box",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1468,
+    "name": "mp7_binary_green",
+    "description": "It has been custom painted with 1s and 0s using green and black.\\n\\n\u003ci\u003e01001101 01010000 00110111\u003c/i\u003e",
+    "market_hash_name": "Base-2",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1469,
+    "name": "mp9_prototype_extended",
+    "description": "It has been custom painted using a white satin base and finished with blue designs.\\n\\n\u003ci\u003eResults may vary\u003c/i\u003e",
+    "market_hash_name": "Spy Prototype",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1470,
+    "name": "scar_arctic_camo_panels",
+    "description": "A green and grey camo pattern has been applied.\\n\\n\u003ci\u003eCalling all Arctic Avengers!\u003c/i\u003e",
+    "market_hash_name": "Arctic Camo Panels",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1471,
+    "name": "xm1014_black_site",
+    "description": "It has been custom painted in matte black, grey, and bronze.\\n\\n\u003ci\u003eMake a scene\u003c/i\u003e",
+    "market_hash_name": "Black Site",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1472,
+    "name": "bizon_traitor",
+    "description": "It has been custom painted with a bronze and gold design.\\n\\n\u003ci\u003eBronze and bullets\u003c/i\u003e",
+    "market_hash_name": "Traitor",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1473,
+    "name": "mp9_dune_asp",
+    "description": "A snake has been custom painted with white calligraphy-style strokes over a tan-colored base.\\n\\n\u003ci\u003eAn unusual artifact from a barren world\u003c/i\u003e",
+    "market_hash_name": "Dune Asp",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1474,
+    "name": "nova_morning_sun",
+    "description": "An intricate design has been applied using sand-colored paint.\\n\\n\u003ci\u003eStrength begins with light\u003c/i\u003e",
+    "market_hash_name": "Morning Sun",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1475,
+    "name": "sawedoff_lunar_wyrm",
+    "description": "A serpent has been custom painted over a crimson-colored base.\\n\\n\u003ci\u003eCoiled at the world's depths\u003c/i\u003e",
+    "market_hash_name": "Lunar Wyrm",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_arabesque",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1476,
+    "name": "hye_spyglitch_green_m4a1s",
+    "description": "It has been custom painted using bright green pearlescent paint.\\n\\n\u003ci\u003eWhen keeping a low profile isn't an option\u003c/i\u003e",
+    "market_hash_name": "Fatal Glitch",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1477,
+    "name": "famas_corp_defense",
+    "description": "It has been custom painted in black and red.\\n\\n\u003ci\u003eSuit and sunglasses sold separately\u003c/i\u003e",
+    "market_hash_name": "Corp Defense",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "item_set_id": "set_spy_tech",
     "use_legacy_model": false,
     "description_string": "",
     "description_tag": "",

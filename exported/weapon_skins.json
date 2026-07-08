@@ -161,6 +161,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1458": {
+        "definition_index": 1458,
+        "name": "Eastern Enigma",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_deagle_deagle_eastern_enigma_blue_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "17": {
         "definition_index": 17,
         "name": "Urban DDPAT",
@@ -750,6 +763,32 @@
         "float": {
           "min": 0.0,
           "max": 0.55
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1461": {
+        "definition_index": 1461,
+        "name": "Snake Song",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_famas_famas_snake_song_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1477": {
+        "definition_index": 1477,
+        "name": "Corp Defense",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_famas_famas_corp_defense_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": false
@@ -2684,6 +2723,32 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1446": {
+        "definition_index": 1446,
+        "name": "Dark Operative",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_m4a1_m4a4_black_side_matte_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1463": {
+        "definition_index": 1463,
+        "name": "Falak",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_m4a1_m4a4_falak_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "155": {
         "definition_index": 155,
         "name": "Bullet Rain",
@@ -3392,6 +3457,32 @@
           "max": 0.9
         },
         "souvenir": true,
+        "stattrak": false
+      },
+      "1448": {
+        "definition_index": 1448,
+        "name": "Video Cam",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_mac10_mac10_video_cam_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1454": {
+        "definition_index": 1454,
+        "name": "Arabesque Mosaic",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_mac10_mac10_arabesque_gold_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
         "stattrak": false
       },
       "157": {
@@ -4695,6 +4786,19 @@
           "max": 0.82
         },
         "souvenir": true,
+        "stattrak": false
+      },
+      "1459": {
+        "definition_index": 1459,
+        "name": "Mystic Conjunction",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_elite_dualies_mystic_conjunction_v3_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
         "stattrak": false
       },
       "153": {
@@ -6203,6 +6307,19 @@
         "souvenir": true,
         "stattrak": false
       },
+      "1471": {
+        "definition_index": 1471,
+        "name": "Black Site",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_xm1014_xm1014_black_site_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "166": {
         "definition_index": 166,
         "name": "Blaze Orange",
@@ -6678,6 +6795,19 @@
         },
         "souvenir": false,
         "stattrak": true
+      },
+      "1472": {
+        "definition_index": 1472,
+        "name": "Traitor",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_bizon_bizon_traitor_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
       },
       "148": {
         "definition_index": 148,
@@ -8003,6 +8133,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1475": {
+        "definition_index": 1475,
+        "name": "Lunar Wyrm",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_sawedoff_sawedoff_lunar_wyrm_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "171": {
         "definition_index": 171,
         "name": "Irradiated Alert",
@@ -8504,6 +8647,19 @@
         },
         "souvenir": false,
         "stattrak": true
+      },
+      "1457": {
+        "definition_index": 1457,
+        "name": "Desert Seal",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_fiveseven_fiveseven_desert_seal_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
       },
       "151": {
         "definition_index": 151,
@@ -9042,6 +9198,32 @@
         "float": {
           "min": 0.0,
           "max": 0.6
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1447": {
+        "definition_index": 1447,
+        "name": "Perimeter",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_tec9_tec9_perimeter_urban_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1462": {
+        "definition_index": 1462,
+        "name": "Sultan",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_tec9_tec9_sultan_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": false
@@ -10253,6 +10435,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1468": {
+        "definition_index": 1468,
+        "name": "Base-2",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_mp7_mp7_binary_green_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "15": {
         "definition_index": 15,
         "name": "Gunsmoke",
@@ -10820,6 +11015,32 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1469": {
+        "definition_index": 1469,
+        "name": "Spy Prototype",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_mp9_mp9_prototype_extended_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1473": {
+        "definition_index": 1473,
+        "name": "Dune Asp",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_mp9_mp9_dune_asp_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "148": {
         "definition_index": 148,
         "name": "Sand Dashed",
@@ -11335,6 +11556,19 @@
         "souvenir": false,
         "stattrak": false
       },
+      "1442": {
+        "definition_index": 1442,
+        "name": "Smart Gun",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_nova_nova_smart_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "145": {
         "definition_index": 145,
         "name": "Wurst Hölle",
@@ -11346,6 +11580,19 @@
           "max": 1.0
         },
         "souvenir": true,
+        "stattrak": false
+      },
+      "1474": {
+        "definition_index": 1474,
+        "name": "Morning Sun",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_nova_nova_morning_sun_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
         "stattrak": false
       },
       "158": {
@@ -12006,6 +12253,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1455": {
+        "definition_index": 1455,
+        "name": "Lotus Imprint",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_p250_p250_lotus_imprint_glitter_purple_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "15": {
         "definition_index": 15,
         "name": "Gunsmoke",
@@ -12647,6 +12907,32 @@
         "float": {
           "min": 0.0,
           "max": 0.6
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1453": {
+        "definition_index": 1453,
+        "name": "Sirocco Script",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_scar20_scar_sirocco_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1470": {
+        "definition_index": 1470,
+        "name": "Arctic Camo Panels",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_scar20_scar_arctic_camo_panels_light",
+        "rarity": "uncommon",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": false
@@ -13732,6 +14018,32 @@
         },
         "souvenir": false,
         "stattrak": true
+      },
+      "1450": {
+        "definition_index": 1450,
+        "name": "Ghost Protocol",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_glock_glock_ghost_protocol_red_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0.0,
+          "max": 0.9
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1460": {
+        "definition_index": 1460,
+        "name": "Ifrit Lattice",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_glock_glock_ifrit_lattice_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
       },
       "152": {
         "definition_index": 152,
@@ -14998,6 +15310,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1476": {
+        "definition_index": 1476,
+        "name": "Fatal Glitch",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_m4a1_silencer_hye_spyglitch_green_m4a1s_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "160": {
         "definition_index": 160,
         "name": "Wash me plz",
@@ -15578,6 +15903,19 @@
         "souvenir": false,
         "stattrak": true
       },
+      "1451": {
+        "definition_index": 1451,
+        "name": "Spiral Glitch",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_usp_silencer_usps_spiral_glitch_iridescent_light",
+        "rarity": "legendary",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "183": {
         "definition_index": 183,
         "name": "Overgrowth",
@@ -16037,6 +16375,19 @@
         "float": {
           "min": 0.0,
           "max": 0.6
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1443": {
+        "definition_index": 1443,
+        "name": "Hydraulics",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_cz75a_cz75_hydraulics_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": false
@@ -16569,6 +16920,19 @@
         "souvenir": false,
         "stattrak": false
       },
+      "1445": {
+        "definition_index": 1445,
+        "name": "Monarch",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_revolver_r8_monarch_extended_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
       "27": {
         "definition_index": 27,
         "name": "Bone Mask",
@@ -17083,6 +17447,32 @@
         },
         "souvenir": false,
         "stattrak": true
+      },
+      "1449": {
+        "definition_index": 1449,
+        "name": "AUTOEXEC",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_ak47_ak47_autoexec_camo_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1466": {
+        "definition_index": 1466,
+        "name": "Consequence of the Jinn",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_ak47_ak47_jinn_consequence_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
       },
       "170": {
         "definition_index": 170,
@@ -17699,6 +18089,32 @@
         "float": {
           "min": 0.0,
           "max": 0.8
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1452": {
+        "definition_index": 1452,
+        "name": "Signal Scanner",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_aug_aug_ghost_signal_light",
+        "rarity": "rare",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1464": {
+        "definition_index": 1464,
+        "name": "Lapis Lazuli",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_aug_aug_lapis_lazuli_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
         },
         "souvenir": false,
         "stattrak": false
@@ -18334,6 +18750,32 @@
         },
         "souvenir": false,
         "stattrak": true
+      },
+      "1465": {
+        "definition_index": 1465,
+        "name": "Sovereign Flame",
+        "item_set_id": "set_arabesque",
+        "image": "econ/default_generated/weapon_awp_awp_sovereign_flame_light",
+        "rarity": "ancient",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
+      },
+      "1467": {
+        "definition_index": 1467,
+        "name": "Black Box",
+        "item_set_id": "set_spy_tech",
+        "image": "econ/default_generated/weapon_awp_awp_black_box_light",
+        "rarity": "mythical",
+        "float": {
+          "min": 0.0,
+          "max": 1.0
+        },
+        "souvenir": false,
+        "stattrak": false
       },
       "163": {
         "definition_index": 163,

@@ -18163,5 +18163,1286 @@
       "name": "Grand Final"
     },
     "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/025/061v089_100/025_061v089_100_de_overpass_bud2025_gf-twistzz-clutch-1v1-on-overpass_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1ultimatenukejumpkill",
+    "definition_index": 866,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ultimate Jump Kill",
+    "reel_title": "ultimate Jump Kill",
+    "reel_description": "ultimate lands a ridiculous strafe-jumping Deagle headshot on Nuke against BIG.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "Team Liquid",
+      "team_1": "BIG"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/048v069_049/026_048v069_049_de_nuke_cologne2026_st1ultimatenukejumpkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1tabsenmirage1v2clutch",
+    "definition_index": 867,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | tabseN 1v2 Clutch",
+    "reel_title": "tabseN 1v2 Clutch",
+    "reel_description": "tabseN wins a quick 1v2 on Mirage, cutting the deficit to 8-12 and keeping BIG's comeback alive before their overtime win.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "BIG",
+      "team_1": "NRG"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v087_049/026_069v087_049_de_mirage_cologne2026_st1tabsenmirage1v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1koalainfernoace",
+    "definition_index": 868,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | koala ACE",
+    "reel_title": "koala ACE",
+    "reel_description": "koala opens Inferno perfectly, wiping all five TYLOO players with Dual Berettas in the pistol round.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "TYLOO",
+      "team_1": "Sharks Esports"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v104_049/026_074v104_049_de_inferno_cologne2026_st1koalainfernoace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1starryancientquadkill",
+    "definition_index": 869,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Starry Quad Kill",
+    "reel_title": "Starry Quad Kill",
+    "reel_description": "Starry drags Lynn Vision back into the round on Ancient, taking over the post-plant with four kills.",
+    "map": "de_ancient",
+    "teams": {
+      "team_0": "TYLOO",
+      "team_1": "Lynn Vision"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/074v127_049/026_074v127_049_de_ancient_cologne2026_st1starryancientquadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1asapinfernoace",
+    "definition_index": 870,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | asap ACE",
+    "reel_title": "asap ACE",
+    "reel_description": "asap shuts down MIBR's force buy with a full ace on Inferno, powering THUNDERdOWNUNDER's upset.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "MIBR",
+      "team_1": "THUNDERdOWNUNDER"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v148_049/026_080v148_049_de_inferno_cologne2026_st1asapinfernoace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1hypexinfernosmokekill",
+    "definition_index": 871,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | hypex Smoke Kill",
+    "reel_title": "hypex Smoke Kill",
+    "reel_description": "hypex opens Inferno in bizarre fashion, killing an NRG player with the impact of a smoke grenade.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "NRG",
+      "team_1": "GamerLegion"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/087v115_049/026_087v115_049_de_inferno_cologne2026_st1hypexinfernosmokekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1suspinferno1v3clutch",
+    "definition_index": 872,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | susp 1v3 Clutch",
+    "reel_title": "susp 1v3 Clutch",
+    "reel_description": "susp closes Inferno with a 1v3 against Gaimin Gladiators, sealing HEROIC's clean 2-0 series win.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "HEROIC",
+      "team_1": "Gaimin Gladiators"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/095v146_049/026_095v146_049_de_inferno_cologne2026_st1suspinferno1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1beastikancientquadkill",
+    "definition_index": 873,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | beastik Quad Kill",
+    "reel_title": "beastik Quad Kill",
+    "reel_description": "beastik finds four kills against FlyQuest in Round 19 on Ancient to keep his team in contention.",
+    "map": "de_ancient",
+    "teams": {
+      "team_0": "Flyquest",
+      "team_1": "SINNERS"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/132v147_049/026_132v147_049_de_ancient_cologne2026_st1beastikancientquadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1s1zziinferno1v3clutch",
+    "definition_index": 874,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi 1v3 Clutch",
+    "reel_title": "s1zzi 1v3 Clutch",
+    "reel_description": "s1zzi pulls off a 1v3 clutch without the bomb on Inferno, tying it at 14-14 to keep B8 alive.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "B8",
+      "team_1": "M80"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/135v140_049/026_135v140_049_de_inferno_cologne2026_st1s1zziinferno1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st1magnojezdust21v3clutch",
+    "definition_index": 875,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Magnojez 1v3 Clutch",
+    "reel_title": "Magnojez 1v3 Clutch",
+    "reel_description": "Magnojez wins a 1v3 retake clutch on Dust II, clearing all three before defusing.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "BetBoom",
+      "team_1": "Gaimin Gladiators"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 49,
+      "name": "Stage I"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v146_049/026_137v146_049_de_dust2_cologne2026_st1magnojezdust21v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2nertzinfernoace",
+    "definition_index": 876,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NertZ ACE",
+    "reel_title": "NertZ ACE",
+    "reel_description": "NertZ takes over Banana on Inferno and aces BIG during G2's dominant map win.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "BIG"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v069_065/026_059v069_065_de_inferno_cologne2026_st2nertzinfernoace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2gizmymirageknifekill",
+    "definition_index": 877,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Gizmy Knife Kill",
+    "reel_title": "Gizmy Knife Kill",
+    "reel_description": "Gizmy seals the round on Mirage by knifing Heavygod, giving Monte match points in double overtime.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "Monte"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v119_065/026_059v119_065_de_mirage_cologne2026_st2gizmymirageknifekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2matysmirageace",
+    "definition_index": 878,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | MATYS ACE",
+    "reel_title": "MATYS ACE",
+    "reel_description": "MATYS tears through M80 with an MP9 ace on Mirage, giving G2 early control of the map.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "M80"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v140_065/026_059v140_065_de_mirage_cologne2026_st2matysmirageace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2saffeenuketriplekill",
+    "definition_index": 879,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | saffee Triple Kill",
+    "reel_title": "saffee Triple Kill",
+    "reel_description": "saffee closes Nuke against Astralis with three AWP kills, sealing paiN Gaming's 13-11 comeback win.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "Astralis",
+      "team_1": "paiN Gaming"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/060v102_065/026_060v102_065_de_nuke_cologne2026_st2saffeenuketriplekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2gr1ksancient1v3awpclutch",
+    "definition_index": 880,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | gr1ks 1v3 AWP Clutch",
+    "reel_title": "gr1ks 1v3 AWP Clutch",
+    "reel_description": "gr1ks turns a 1v3 on Ancient with three AWP kills, including a collateral double, to deny B8 the plant.",
+    "map": "de_ancient",
+    "teams": {
+      "team_0": "BIG",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_ancient_cologne2026_st2gr1ksancient1v3awpclutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2kensizordust2acetoadvance",
+    "definition_index": 881,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kensizor ACE to Advance",
+    "reel_title": "kensizor ACE to Advance",
+    "reel_description": "kensizor ends Dust II in style with an ace, sealing B8's series win and Stage 3 spot.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "BIG",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_dust2_cologne2026_st2kensizordust2acetoadvance_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2s1zzioverpassace",
+    "definition_index": 882,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | s1zzi ACE",
+    "reel_title": "s1zzi ACE",
+    "reel_description": "s1zzi wipes out all five BIG players on Overpass, helping B8 build a dominant first half.",
+    "map": "de_overpass",
+    "teams": {
+      "team_0": "BIG",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/069v135_065/026_069v135_065_de_overpass_cologne2026_st2s1zzioverpassace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2venomzeramirage1v3clutch",
+    "definition_index": 883,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | venomzera 1v3 Clutch",
+    "reel_title": "venomzera 1v3 Clutch",
+    "reel_description": "venomzera barely survives the final duel of a 1v3 on Mirage, playing the clock to deny B8 the plant.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "MIBR",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/080v135_065/026_080v135_065_de_mirage_cologne2026_st2venomzeramirage1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2donknuke4kwithonetaps",
+    "definition_index": 884,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 4K with One Taps",
+    "reel_title": "donk 4K with One Taps",
+    "reel_description": "donk tears through 9z on Nuke with four kills, including two crisp one-taps that surprise even him.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "9z Team"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_065/026_081v112_065_de_nuke_cologne2026_st2donknuke4kwithonetaps_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st2azuwudust2deagleace",
+    "definition_index": 885,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | AZUWU Deagle ACE",
+    "reel_title": "AZUWU Deagle ACE",
+    "reel_description": "AZUWU turns a low-buy round on Dust II into a full ace, powered by four Deagle kills.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "paiN Gaming",
+      "team_1": "Monte"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 65,
+      "name": "Stage II"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/102v119_065/026_102v119_065_de_dust2_cologne2026_st2azuwudust2deagleace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3w0nderfuldust22hp1v4clutch",
+    "definition_index": 886,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | w0nderful 2 HP 1v4 Clutch",
+    "reel_title": "w0nderful 2 HP 1v4 Clutch",
+    "reel_description": "w0nderful wins a 1v4 against G2 on Dust II with just 2 HP, basically saving the round for NAVI on his own.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "Natus Vincere",
+      "team_1": "G2 Esports"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/012v059_083/026_012v059_083_de_dust2_cologne2026_st3w0nderfuldust22hp1v4clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3sh1rodust24kwith1v2clutch",
+    "definition_index": 887,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro 4K with 1v2 Clutch",
+    "reel_title": "sh1ro 4K with 1v2 Clutch",
+    "reel_description": "sh1ro gets four kills against 9z on Dust II, including a 1v2 afterplant, and stops 9z from reaching match point.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "9z Team"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v112_083/026_081v112_083_de_dust2_cologne2026_st3sh1rodust24kwith1v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3magixxanubismultiweaponace",
+    "definition_index": 888,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx Multi-weapon ACE",
+    "reel_title": "magixx Multi-weapon ACE",
+    "reel_description": "magixx gets an ace against Aurora, switching weapons mid-round and finishing the last frags without slowing down.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v134_083/026_081v134_083_de_anubis_cologne2026_st3magixxanubismultiweaponace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3ksceratoinferno1v3clutch",
+    "definition_index": 889,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO 1v3 Clutch",
+    "reel_title": "KSCERATO 1v3 Clutch",
+    "reel_description": "KSCERATO wins a 1v3 against B8 on Inferno, stealing the second-half pistol and denying them a way back into the map.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_inferno_cologne2026_st3ksceratoinferno1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3yekindarmiragetriplekill",
+    "definition_index": 890,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR Triple Kill",
+    "reel_title": "YEKINDAR Triple Kill",
+    "reel_description": "YEKINDAR denies B8's B-site take on Mirage with a disciplined triple kill.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "B8"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v135_083/026_085v135_083_de_mirage_cologne2026_st3yekindarmiragetriplekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3zywoooverpassacewith1v3clutch",
+    "definition_index": 891,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | ZywOo ACE with 1v3 Clutch",
+    "reel_title": "ZywOo ACE with 1v3 Clutch",
+    "reel_description": "ZywOo turns a difficult round against FUT around with an ace and a 1v3 clutch on Overpass.",
+    "map": "de_overpass",
+    "teams": {
+      "team_0": "Vitality",
+      "team_1": "FUT"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v145_083/026_089v145_083_de_overpass_cologne2026_st3zywoooverpassacewith1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3dgtoverpasspistolace",
+    "definition_index": 892,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | dgt Pistol ACE",
+    "reel_title": "dgt Pistol ACE",
+    "reel_description": "dgt opens Overpass against The Mongolz with a pistol ace, a clean highlight straight from the first round of the map.",
+    "map": "de_overpass",
+    "teams": {
+      "team_0": "9z Team",
+      "team_1": "The MongolZ"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v122_083/026_112v122_083_de_overpass_cologne2026_st3dgtoverpasspistolace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3woxicdust21v4clutch",
+    "definition_index": 893,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | woxic 1v4 Clutch",
+    "reel_title": "woxic 1v4 Clutch",
+    "reel_description": "woxic wins a crazy 1v4 with the AWP against 9z Team on Dust II, including a stylish noscope.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "9z Team",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/112v134_083/026_112v134_083_de_dust2_cologne2026_st3woxicdust21v4clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3nikomiragequadkill",
+    "definition_index": 894,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Quad Kill",
+    "reel_title": "NiKo Quad Kill",
+    "reel_description": "NiKo holds A alone on Mirage, shredding Monte's hit with four quick AK kills to swing the round for Falcons.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "Monte",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/119v139_083/026_119v139_083_de_mirage_cologne2026_st3nikomiragequadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_st3krabenimirageace",
+    "definition_index": 895,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Krabeni ACE",
+    "reel_title": "Krabeni ACE",
+    "reel_description": "Krabeni takes full control on Mirage, dismantling BetBoom's Tec-9 eco with an ace.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "BetBoom",
+      "team_1": "FUT"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 83,
+      "name": "Stage III"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/137v145_083/026_137v145_083_de_mirage_cologne2026_st3krabenimirageace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfboombl4nuke1v3clutch",
+    "definition_index": 896,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Boombl4 1v3 Clutch",
+    "reel_title": "Boombl4 1v3 Clutch",
+    "reel_description": "Boombl4 pulls off a 1v3 on Nuke, including a sharp 180 in the final duel, to drag BetBoom back into the round.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "Aurora",
+      "team_1": "BetBoom"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfboombl4nuke1v3clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfsoulflynuke1v2clutch",
+    "definition_index": 897,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 1v2 Clutch",
+    "reel_title": "soulfly 1v2 Clutch",
+    "reel_description": "soulfly clutches a post-plant 1v2 on Nuke's B site, sealing Aurora's dominant map win.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "Aurora",
+      "team_1": "BetBoom"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/134v137_006/026_134v137_006_de_nuke_cologne2026_qfsoulflynuke1v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfsh1romirageace",
+    "definition_index": 898,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro ACE",
+    "reel_title": "sh1ro ACE",
+    "reel_description": "sh1ro kicks off second overtime on Mirage with an ACE, tearing through G2's mid and B attack.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "Team Spirit"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfsh1romirageace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfmagixxmirage1v4clutch",
+    "definition_index": 899,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 1v4 Clutch",
+    "reel_title": "magixx 1v4 Clutch",
+    "reel_description": "magixx pulls off a wild 1v4 on Mirage, backing his aim through G2's final push and stealing the round.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "Team Spirit"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_mirage_cologne2026_qfmagixxmirage1v4clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfdonkdust21v2clutch",
+    "definition_index": 900,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | donk 1v2 Clutch",
+    "reel_title": "donk 1v2 Clutch",
+    "reel_description": "donk wins the final Dust II clutch breaking G2's last retake attempt and closing the map in overtime.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "G2 Esports",
+      "team_1": "Team Spirit"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/059v081_006/026_059v081_006_de_dust2_cologne2026_qfdonkdust21v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfkyousukeanubis3kills",
+    "definition_index": 901,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 3 Kills",
+    "reel_title": "kyousuke 3 Kills",
+    "reel_description": "kyousuke closes Anubis for Falcons with a three-kill B-site hold, shutting down Vitality.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "Vitality",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_anubis_cologne2026_qfkyousukeanubis3kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfmeziidust2molotovkill",
+    "definition_index": 902,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | mezii Molotov Kill",
+    "reel_title": "mezii Molotov Kill",
+    "reel_description": "mezii takes out TeSeS on Dust II with a bizarre Molotov bottle impact kill.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "Vitality",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/089v139_006/026_089v139_006_de_dust2_cologne2026_qfmeziidust2molotovkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfyuurihmirage1v4clutch",
+    "definition_index": 903,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | yuurih 1v4 Clutch",
+    "reel_title": "yuurih 1v4 Clutch",
+    "reel_description": "yuurih turns the Mirage pistol into an absurd 1v4, slipping from mid toward A and finishing the last 9z team player after the plant.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "9z Team"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_mirage_cologne2026_qfyuurihmirage1v4clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfhuasopeekoverpassace",
+    "definition_index": 904,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | HUASOPEEK ACE",
+    "reel_title": "HUASOPEEK ACE",
+    "reel_description": "HUASOPEEK shuts down FURIA's B hit on Overpass with an MP9 ace through Monster smoke.",
+    "map": "de_overpass",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "9z Team"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_overpass_cologne2026_qfhuasopeekoverpassace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_qfmaxdust21v2clutch",
+    "definition_index": 905,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | max 1v2 Clutch",
+    "reel_title": "max 1v2 Clutch",
+    "reel_description": "max clutches a post-plant 1v2 through the A-site smokes on Dust II, sealing the win vs FURIA.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "9z Team"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 6,
+      "name": "Quarterfinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v112_006/026_085v112_006_de_dust2_cologne2026_qfmaxdust21v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfsoulflydust23kills",
+    "definition_index": 906,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | soulfly 3 Kills",
+    "reel_title": "soulfly 3 Kills",
+    "reel_description": "soulfly catches FURIA exiting B tunnels on Dust II with an MP9 triple, giving Aurora an early round.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfsoulflydust23kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfksceratodust2ace",
+    "definition_index": 907,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO ACE",
+    "reel_title": "KSCERATO ACE",
+    "reel_description": "KSCERATO delivers an ACE against Aurora on Dust II, closing the first half in style for FURIA.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfksceratodust2ace_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfyekindardust22kills",
+    "definition_index": 908,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 2 Kills",
+    "reel_title": "YEKINDAR 2 Kills",
+    "reel_description": "YEKINDAR closes Dust II for FURIA with two final kills on B, shutting down Aurora's last push from tunnels.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_dust2_cologne2026_sfyekindardust22kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfyekindarnuketriplekill",
+    "definition_index": 909,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | YEKINDAR 3 Kills",
+    "reel_title": "YEKINDAR 3 Kills",
+    "reel_description": "YEKINDAR deletes three Aurora players on Nuke, ripping open the round for FURIA.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfyekindarnuketriplekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfksceratonukequadkill",
+    "definition_index": 910,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | KSCERATO Quad Kill",
+    "reel_title": "KSCERATO Quad Kill",
+    "reel_description": "KSCERATO secures FURIA's match win on Nuke with four AK headshots, cutting down Aurora's final attack.",
+    "map": "de_nuke",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Aurora"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v134_008/026_085v134_008_de_nuke_cologne2026_sfksceratonukequadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfkyousukeanubistriplekill",
+    "definition_index": 911,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke Triple Kill",
+    "reel_title": "kyousuke Triple Kill",
+    "reel_description": "kyousuke closes Anubis with a three-kill retake, boxing Team Spirit in and stealing the map in overtime.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfkyousukeanubistriplekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfsh1roanubisquadkill",
+    "definition_index": 912,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | sh1ro Quad Kill",
+    "reel_title": "sh1ro Quad Kill",
+    "reel_description": "sh1ro turns a 2v4 on Anubis with four AWP kills, rescuing the post-plant after Falcons stack the site.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_anubis_cologne2026_sfsh1roanubisquadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sftesesdust21v2clutch",
+    "definition_index": 913,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | TeSeS 1v2 Clutch",
+    "reel_title": "TeSeS 1v2 Clutch",
+    "reel_description": "TeSeS wins a 1v2 on Dust2 for Falcons, reading the smoke perfectly and cutting down both Team Spirit players.",
+    "map": "de_dust2",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_dust2_cologne2026_sftesesdust21v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfkarriganmirage4kills",
+    "definition_index": 914,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 4 Kills",
+    "reel_title": "karrigan 4 Kills",
+    "reel_description": "karrigan holds Mirage B almost alone with four kills, buying enough time against Team Spirit's hit.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfkarriganmirage4kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_sfmagixxmirage4kills",
+    "definition_index": 915,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | magixx 4 Kills",
+    "reel_title": "magixx 4 Kills",
+    "reel_description": "magixx mows down Falcons at Mirage B with a four-kill hold, giving Team Spirit the last round of the map.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "Team Spirit",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 8,
+      "name": "Semifinal"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/081v139_008/026_081v139_008_de_mirage_cologne2026_sfmagixxmirage4kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gffalconsteamentrance",
+    "definition_index": 916,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Team Entrance",
+    "reel_title": "Falcons Team Entrance",
+    "reel_description": "Falcons enter the Cathedral of Counter-Strike to face their final opponent, FURIA.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffalconsteamentrance_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gffuriateamentrance",
+    "definition_index": 917,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FURIA Team Entrance",
+    "reel_title": "FURIA Team Entrance",
+    "reel_description": "FURIA makes their way onto the stage of Grand Final vs Falcons.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffuriateamentrance_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gffallenmiragequadkill",
+    "definition_index": 918,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | FalleN Quad Kill",
+    "reel_title": "FalleN Quad Kill",
+    "reel_description": "FalleN shreds Falcons' Mirage B hit with four quick kills.",
+    "map": "de_mirage",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_mirage_cologne2026_gffallenmiragequadkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfm0nesyanubis4kills",
+    "definition_index": 919,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 4 Kills",
+    "reel_title": "m0NESY 4 Kills",
+    "reel_description": "m0NESY opens Anubis with four Dual Elites kills on defense vs FURIA.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis4kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfm0nesyanubis3killswith1v2clutch",
+    "definition_index": 920,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY 3 Kills with 1v2 Clutch",
+    "reel_title": "m0NESY 3 Kills with 1v2 Clutch",
+    "reel_description": "m0NESY wins a 1v2 post-plant on Anubis, baiting FURIA's retake.",
+    "map": "de_anubis",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_anubis_cologne2026_gfm0nesyanubis3killswith1v2clutch_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfkyousukeinferno4kills",
+    "definition_index": 921,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | kyousuke 4 Kills",
+    "reel_title": "kyousuke 4 Kills",
+    "reel_description": "kyousuke shuts down FURIA's Inferno B hit with four kills.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkyousukeinferno4kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfkarriganinferno3kills",
+    "definition_index": 922,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan 3 Kills",
+    "reel_title": "karrigan 3 Kills",
+    "reel_description": "karrigan saves Falcons' Inferno B site with three quick USP-S kills vs FURIA's full buy.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinferno3kills_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfnikoinfernotriplekill",
+    "definition_index": 923,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | NiKo Triple Kill",
+    "reel_title": "NiKo Triple Kill",
+    "reel_description": "NiKo slips through Inferno apartments, catching FURIA with a three-kill lurk before the hit can settle.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfnikoinfernotriplekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfkarriganinfernodoublekill",
+    "definition_index": 924,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | karrigan Double Kill",
+    "reel_title": "karrigan Double Kill",
+    "reel_description": "karrigan resolves the 2v2 Inferno A retake with two M4A1-S kills to steal FURIA's post-plant.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfkarriganinfernodoublekill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gfm0nesyinfernomajorwinningkill",
+    "definition_index": 925,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | m0NESY Major-winning Kill",
+    "reel_title": "m0NESY Major-winning Kill",
+    "reel_description": "m0NESY lands the final AWP shot as Falcons close out the last round of the grand final against FURIA.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gfm0nesyinfernomajorwinningkill_ww_1080p.webm"
+  },
+  {
+    "id": "cologne2026_gffalconstrophyliftingmoment",
+    "definition_index": 926,
+    "market_hash_name": "Souvenir Charm | Cologne 2026 Highlight | Falcons Trophy-lifting Moment",
+    "reel_title": "Falcons Trophy-lifting Moment",
+    "reel_description": "Falcons win IEM Cologne Major 2026.",
+    "map": "de_inferno",
+    "teams": {
+      "team_0": "FURIA",
+      "team_1": "Falcons"
+    },
+    "tournament": {
+      "id": 26,
+      "name": "IEM Cologne 2026"
+    },
+    "stage": {
+      "id": 97,
+      "name": "Grand Final"
+    },
+    "video_url": "https://cdn.steamstatic.com/apps/csgo/videos/highlightreels/026/085v139_097/026_085v139_097_de_inferno_cologne2026_gffalconstrophyliftingmoment_ww_1080p.webm"
   }
 ]

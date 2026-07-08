@@ -1736,6 +1736,14 @@
     "item_set_id": "crate_sticker_pack_warhammer_xenos_capsule_lootlist"
   },
   {
+    "definition_index": 7041,
+    "name": "crate_sticker_pack_jackass_capsule",
+    "market_hash_name": "Jackass Sticker Capsule",
+    "item_description": "CSGO_crate_sticker_pack_jackass_capsule_desc",
+    "image": "econ/weapon_cases/crate_sticker_pack_jackass_capsule",
+    "item_set_id": "crate_sticker_pack_jackass_capsule_lootlist"
+  },
+  {
     "definition_index": 5117,
     "name": "crate_sticker_pack_aus2025_legends",
     "market_hash_name": "Austin 2025 Legends Sticker Capsule",
