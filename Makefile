@@ -2,7 +2,7 @@ BINARY  := schema-gen
 BIN_DIR := bin
 GO_FILES := $(shell find . -name '*.go' -not -path './$(BIN_DIR)/*' -not -path './exported*')
 
-.PHONY: help run build fmt fmt-check vet tidy test race check clean install-tools dev
+.PHONY: help run build fmt fmt-check vet tidy test race check clean install-tools dev pull-files
 
 .DEFAULT_GOAL := help
 
@@ -58,3 +58,12 @@ clean: ## Remove build artefacts and generated output
 
 install-tools: ## Install optional formatting tools
 	go install golang.org/x/tools/cmd/goimports@latest
+
+pull-files: ## Pull items_game.txt and csgo_english.txt from GameTracking-CS2
+	@echo "Downloading items_game.txt..."
+	@curl -fsSL "https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/game/csgo/pak01_dir/scripts/items/items_game.txt" \
+		-o files/items_game.txt
+	@echo "Downloading csgo_english.txt..."
+	@curl -fsSL "https://raw.githubusercontent.com/SteamTracking/GameTracking-CS2/master/game/csgo/pak01_dir/resource/csgo_english.txt" \
+		-o files/translations/csgo_english.txt
+	@echo "Done."

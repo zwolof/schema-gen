@@ -13619,6 +13619,681 @@
 				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
 			}
 		}
+		"5281"
+		{
+			"name"		"Map Token Boulder"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenBoulder"
+			"item_description"		"#CSGO_Collectible_MapTokenBoulder_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_boulder"
+			"map_name"		"#SFUI_Map_de_boulder"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5282"
+		{
+			"name"		"Map Token Fachwerk"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenFachwerk"
+			"item_description"		"#CSGO_Collectible_MapTokenFachwerk_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_fachwerk"
+			"map_name"		"#SFUI_Map_de_fachwerk"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5283"
+		{
+			"name"		"Map Token Shelter"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenShelter"
+			"item_description"		"#CSGO_Collectible_MapTokenShelter_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_shelter"
+			"map_name"		"#SFUI_Map_cs_shelter"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5284"
+		{
+			"name"		"Map Token Debris"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenDebris"
+			"item_description"		"#CSGO_Collectible_MapTokenDebris_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_debris"
+			"map_name"		"#SFUI_Map_de_debris"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5285"
+		{
+			"name"		"Map Token El Dorado"
+			"prefab"		"map_token"
+			"item_name"		"#CSGO_Collectible_MapTokenElDorado"
+			"item_description"		"#CSGO_Collectible_MapTokenElDorado_Desc"
+			"image_inventory"		"econ/status_icons/maptoken_eldorado"
+			"map_name"		"#SFUI_Map_de_eldorado"
+			"attributes"
+			{
+				"pedestal display model"		"models/inventory_items/cs2_maptokens/cs2_maptoken.vmdl"
+			}
+		}
+		"5330"
+		{
+			"name"		"premier season coin s=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_eg"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5331"
+		{
+			"name"		"premier season coin s=5 c=1 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_11"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"1"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5332"
+		{
+			"name"		"premier season coin s=5 c=1 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_12"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"1"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5333"
+		{
+			"name"		"premier season coin s=5 c=1 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_13"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"1"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5334"
+		{
+			"name"		"premier season coin s=5 c=1 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_14"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"1"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5335"
+		{
+			"name"		"premier season coin s=5 c=1 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_15"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"1"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5336"
+		{
+			"name"		"premier season coin s=5 c=2 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_21"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"2"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5337"
+		{
+			"name"		"premier season coin s=5 c=2 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_22"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"2"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5338"
+		{
+			"name"		"premier season coin s=5 c=2 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_23"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"2"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5339"
+		{
+			"name"		"premier season coin s=5 c=2 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_24"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"2"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5340"
+		{
+			"name"		"premier season coin s=5 c=2 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_25"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"2"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5341"
+		{
+			"name"		"premier season coin s=5 c=3 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_31"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"3"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5342"
+		{
+			"name"		"premier season coin s=5 c=3 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_32"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"3"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5343"
+		{
+			"name"		"premier season coin s=5 c=3 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_33"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"3"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5344"
+		{
+			"name"		"premier season coin s=5 c=3 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_34"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"3"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5345"
+		{
+			"name"		"premier season coin s=5 c=3 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_35"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"3"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5346"
+		{
+			"name"		"premier season coin s=5 c=4 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_41"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"4"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5347"
+		{
+			"name"		"premier season coin s=5 c=4 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_42"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"4"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5348"
+		{
+			"name"		"premier season coin s=5 c=4 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_43"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"4"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5349"
+		{
+			"name"		"premier season coin s=5 c=4 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_44"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"4"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5350"
+		{
+			"name"		"premier season coin s=5 c=4 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_45"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"4"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5351"
+		{
+			"name"		"premier season coin s=5 c=5 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_51"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"5"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5352"
+		{
+			"name"		"premier season coin s=5 c=5 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_52"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"5"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5353"
+		{
+			"name"		"premier season coin s=5 c=5 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_53"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"5"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5354"
+		{
+			"name"		"premier season coin s=5 c=5 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_54"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"5"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5355"
+		{
+			"name"		"premier season coin s=5 c=5 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_55"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"5"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5356"
+		{
+			"name"		"premier season coin s=5 c=6 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_61"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"6"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5357"
+		{
+			"name"		"premier season coin s=5 c=6 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_62"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"6"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5358"
+		{
+			"name"		"premier season coin s=5 c=6 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_63"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"6"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5359"
+		{
+			"name"		"premier season coin s=5 c=6 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_64"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"6"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5360"
+		{
+			"name"		"premier season coin s=5 c=6 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_65"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"6"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5361"
+		{
+			"name"		"premier season coin s=5 c=7 b=1"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_71"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"7"
+				"premier season bars"		"1"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5362"
+		{
+			"name"		"premier season coin s=5 c=7 b=2"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_72"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"7"
+				"premier season bars"		"2"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5363"
+		{
+			"name"		"premier season coin s=5 c=7 b=3"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_73"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"7"
+				"premier season bars"		"3"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5364"
+		{
+			"name"		"premier season coin s=5 c=7 b=4"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_74"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"7"
+				"premier season bars"		"4"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
+		"5365"
+		{
+			"name"		"premier season coin s=5 c=7 b=5"
+			"prefab"		"premier_season_coin"
+			"item_name"		"#CSGO_Collectible_PremierSeason5Coin"
+			"item_description"		"#CSGO_Collectible_PremierSeason5Coin_Desc"
+			"image_inventory"		"econ/premier_seasons/premier_season_5_coin_75"
+			"attributes"
+			{
+				"premier season"		"5"
+				"premier season clrs max"		"7"
+				"premier season bars max"		"5"
+				"premier season clrs"		"7"
+				"premier season bars"		"5"
+				"pedestal display model"		"models/inventory_items/premier_seasons/premier_season_5_coin_eg.vmdl"
+			}
+		}
 		"4001"
 		{
 			"item_name"		"#CSGO_crate_valve_1"
@@ -113195,12 +113870,20 @@
 			"operational_point_redeemable"
 			{
 				"points"		"4"
-				"item_name"		"lootlist:set_train_2025"
+				"item_name"		"lootlist:set_spy_tech"
 				"ui_order"		"2"
-				"callout"		"#CSGO_set_train_2025_short"
-				"ui_image_thumbnail"		"backgrounds/xpshop/set_train_2025_thumbnail"
-				"limited_until"		"1776733200"
-				"ui_show_new_tag"		"1746082800"
+				"callout"		"#CSGO_set_spy_tech_short"
+				"ui_image_thumbnail"		"backgrounds/xpshop/set_spy_tech_thumbnail"
+				"ui_show_new_tag"		"1785394800"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"4"
+				"item_name"		"lootlist:set_arabesque"
+				"ui_order"		"2"
+				"callout"		"#CSGO_set_arabesque_short"
+				"ui_image_thumbnail"		"backgrounds/xpshop/set_arabesque_thumbnail"
+				"ui_show_new_tag"		"1785394800"
 			}
 			"operational_point_redeemable"
 			{
@@ -113212,15 +113895,6 @@
 			}
 			"operational_point_redeemable"
 			{
-				"points"		"4"
-				"item_name"		"lootlist:set_realism_camo"
-				"ui_order"		"2"
-				"callout"		"#CSGO_set_realism_camo_short"
-				"ui_image_thumbnail"		"backgrounds/xpshop/set_realism_camo_thumbnail"
-				"limited_until"		"1776733200"
-			}
-			"operational_point_redeemable"
-			{
 				"points"		"2"
 				"flags"		"2"
 				"item_name"		"crate_community_35"
@@ -113228,17 +113902,6 @@
 				"ui_image_thumbnail"		"backgrounds/xpshop/crate_community_35_thumbnail"
 				"ui_order"		"3"
 				"ui_show_new_tag"		"1746082800"
-			}
-			"operational_point_redeemable"
-			{
-				"points"		"125"
-				"item_name"		"lootlist:set_xpshop_wpn_04"
-				"ui_order"		"1"
-				"callout"		"#CSGO_set_xpshop_wpn_01_short"
-				"ui_image_thumbnail"		"backgrounds/xpshop/set_xpshop_wpn_01_thumbnail"
-				"ui_set_image"		"set_xpshop_wpn_01"
-				"limited_until"		"1782766800"
-				"ui_show_new_tag"		"1771711200"
 			}
 			"operational_point_redeemable"
 			{
@@ -113285,33 +113948,32 @@
 			"operational_point_redeemable"
 			{
 				"points"		"1"
+				"item_name"		"lootlist:sticker_pack_auto_racing_lootlist"
+				"ui_order"		"3"
+				"ui_image_thumbnail"		"backgrounds/xpshop/auto_racing_thumbnail"
+				"ui_set_image"		"set_auto_racing"
+				"callout"		"#CSGO_crate_sticker_pack_auto_racing_short"
+				"ui_show_new_tag"		"1785394800"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"1"
+				"item_name"		"lootlist:sticker_pack_fruits_veggies_lootlist"
+				"ui_order"		"3"
+				"ui_image_thumbnail"		"backgrounds/xpshop/fruits_veggies_thumbnail"
+				"ui_set_image"		"set_fruits_veggies"
+				"callout"		"#CSGO_crate_sticker_pack_fruits_veggies_short"
+				"ui_show_new_tag"		"1785394800"
+			}
+			"operational_point_redeemable"
+			{
+				"points"		"1"
 				"item_name"		"lootlist:sticker_pack_community_2025_lootlist"
 				"ui_order"		"3"
 				"ui_image_thumbnail"		"backgrounds/xpshop/community_2025_thumbnail"
 				"ui_set_image"		"set_community_2025"
 				"callout"		"#CSGO_crate_sticker_pack_community_2025_short"
 				"ui_show_new_tag"		"1761858000"
-			}
-			"operational_point_redeemable"
-			{
-				"points"		"1"
-				"item_name"		"lootlist:sticker_pack_sugarface2_lootlist"
-				"ui_order"		"3"
-				"ui_image_thumbnail"		"backgrounds/xpshop/sugarface2_thumbnail"
-				"ui_set_image"		"set_sugarface2"
-				"callout"		"#CSGO_crate_sticker_pack_sugarface2_short"
-				"limited_until"		"1776733200"
-				"ui_show_new_tag"		"1761858000"
-			}
-			"operational_point_redeemable"
-			{
-				"points"		"1"
-				"item_name"		"lootlist:sticker_pack_stkr_craft_01_lootlist"
-				"ui_order"		"3"
-				"ui_image_thumbnail"		"backgrounds/xpshop/stkr_craft_01_thumbnail"
-				"ui_set_image"		"set_stkr_craft_01"
-				"callout"		"#CSGO_crate_sticker_pack_stkr_craft_01_short"
-				"limited_until"		"1776733200"
 			}
 		}
 	}
@@ -114254,6 +114916,60 @@
 				"115"		"12"
 				"127"		"13"
 				"131"		"13"
+			}
+		}
+		"26"
+		{
+			"place_names"
+			{
+				"1"		"#Place_Name_1st"
+				"2"		"#Place_Name_2nd"
+				"3"		"#Place_Name_3rd-4th"
+				"4"		"#Place_Name_5th-8th"
+				"5"		"#Place_Name_9th-11th"
+				"6"		"#Place_Name_12th-14th"
+				"7"		"#Place_Name_15th-16th"
+				"8"		"#Place_Name_17th-19th"
+				"9"		"#Place_Name_20th-22nd"
+				"10"		"#Place_Name_23rd-24th"
+				"11"		"#Place_Name_25th-27th"
+				"12"		"#Place_Name_28th-30th"
+				"13"		"#Place_Name_31st-32nd"
+			}
+			"team_places"
+			{
+				"139"		"1"
+				"85"		"2"
+				"81"		"3"
+				"134"		"3"
+				"89"		"4"
+				"59"		"4"
+				"112"		"4"
+				"137"		"4"
+				"12"		"5"
+				"145"		"5"
+				"122"		"5"
+				"126"		"6"
+				"106"		"6"
+				"119"		"6"
+				"142"		"7"
+				"135"		"7"
+				"74"		"8"
+				"69"		"8"
+				"102"		"8"
+				"140"		"9"
+				"80"		"9"
+				"60"		"9"
+				"132"		"10"
+				"115"		"10"
+				"48"		"11"
+				"87"		"11"
+				"127"		"11"
+				"148"		"12"
+				"104"		"12"
+				"95"		"12"
+				"146"		"13"
+				"147"		"13"
 			}
 		}
 	}
@@ -215963,6 +216679,346 @@
 			"description_tag"		"#PaintKit_glove_specialist_dragon_blue_Tag"
 			"composite_material_path"		"gloves/paints/volatile_02/glove_specialist_dragon_blue.vcompmat"
 		}
+		"1442"
+		{
+			"name"		"nova_smart"
+			"description_string"		"#PaintKit_nova_smart"
+			"description_tag"		"#PaintKit_nova_smart_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/nova_smart.vcompmat"
+		}
+		"1443"
+		{
+			"name"		"cz75_hydraulics"
+			"description_string"		"#PaintKit_cz75_hydraulics"
+			"description_tag"		"#PaintKit_cz75_hydraulics_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/cz75_hydraulics.vcompmat"
+		}
+		"1445"
+		{
+			"name"		"r8_monarch_extended"
+			"description_string"		"#PaintKit_r8_monarch"
+			"description_tag"		"#PaintKit_r8_monarch_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/r8_monarch_extended.vcompmat"
+		}
+		"1446"
+		{
+			"name"		"m4a4_black_side_matte"
+			"description_string"		"#PaintKit_m4a4_black_side_matte"
+			"description_tag"		"#PaintKit_m4a4_black_side_matte_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/m4a4_black_side_matte.vcompmat"
+		}
+		"1447"
+		{
+			"name"		"tec9_perimeter_urban"
+			"description_string"		"#PaintKit_tec9_perimeter_urban"
+			"description_tag"		"#PaintKit_tec9_perimeter_urban_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/tec9_perimeter_urban.vcompmat"
+		}
+		"1448"
+		{
+			"name"		"mac10_video_cam"
+			"description_string"		"#PaintKit_mac10_video_cam"
+			"description_tag"		"#PaintKit_mac10_video_cam_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/mac10_video_cam.vcompmat"
+		}
+		"1449"
+		{
+			"name"		"ak47_autoexec_camo"
+			"description_string"		"#PaintKit_ak47_autoexec_camo"
+			"description_tag"		"#PaintKit_ak47_autoexec_camo_Tag"
+			"style"		"7"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/ak47_autoexec_camo.vcompmat"
+		}
+		"1450"
+		{
+			"name"		"glock_ghost_protocol_red"
+			"description_string"		"#PaintKit_glock_ghost_protocol_red"
+			"description_tag"		"#PaintKit_glock_ghost_protocol_red_Tag"
+			"style"		"7"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"0.900000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/glock_ghost_protocol_red.vcompmat"
+		}
+		"1451"
+		{
+			"name"		"usps_spiral_glitch_iridescent"
+			"description_string"		"#PaintKit_usps_spiral_glitch_iridescent"
+			"description_tag"		"#PaintKit_usps_spiral_glitch_iridescent_Tag"
+			"style"		"7"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/usps_spiral_glitch_iridescent.vcompmat"
+		}
+		"1452"
+		{
+			"name"		"aug_ghost_signal"
+			"description_string"		"#PaintKit_aug_ghost_signal"
+			"description_tag"		"#PaintKit_aug_ghost_signal_Tag"
+			"style"		"7"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/aug_ghost_signal.vcompmat"
+		}
+		"1453"
+		{
+			"name"		"scar_sirocco"
+			"description_string"		"#PaintKit_scar_sirocco"
+			"description_tag"		"#PaintKit_scar_sirocco_Tag"
+			"style"		"3"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/scar_sirocco.vcompmat"
+		}
+		"1454"
+		{
+			"name"		"mac10_arabesque_gold"
+			"description_string"		"#PaintKit_mac10_arabesque_gold"
+			"description_tag"		"#PaintKit_mac10_arabesque_gold_Tag"
+			"style"		"3"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/mac10_arabesque_gold.vcompmat"
+		}
+		"1455"
+		{
+			"name"		"p250_lotus_imprint_glitter_purple"
+			"description_string"		"#PaintKit_p250_lotus_imprint_glitter_purple"
+			"description_tag"		"#PaintKit_p250_lotus_imprint_glitter_purple_Tag"
+			"style"		"7"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/p250_lotus_imprint_glitter_purple.vcompmat"
+		}
+		"1457"
+		{
+			"name"		"fiveseven_desert_seal"
+			"description_string"		"#PaintKit_fiveseven_desert_seal"
+			"description_tag"		"#PaintKit_fiveseven_desert_seal_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/fiveseven_desert_seal.vcompmat"
+		}
+		"1458"
+		{
+			"name"		"deagle_eastern_enigma_blue"
+			"description_string"		"#PaintKit_deagle_eastern_enigma_blue"
+			"description_tag"		"#PaintKit_deagle_eastern_enigma_blue_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/deagle_eastern_enigma_blue.vcompmat"
+		}
+		"1459"
+		{
+			"name"		"dualies_mystic_conjunction_v3"
+			"description_string"		"#PaintKit_dualies_mystic_conjunction_v3"
+			"description_tag"		"#PaintKit_dualies_mystic_conjunction_v3_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/dualies_mystic_conjunction_v3.vcompmat"
+		}
+		"1460"
+		{
+			"name"		"glock_ifrit_lattice"
+			"description_string"		"#PaintKit_glock_ifrit_lattice"
+			"description_tag"		"#PaintKit_glock_ifrit_lattice_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/glock_ifrit_lattice.vcompmat"
+		}
+		"1461"
+		{
+			"name"		"famas_snake_song"
+			"description_string"		"#PaintKit_famas_snake_song"
+			"description_tag"		"#PaintKit_famas_snake_song_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/famas_snake_song.vcompmat"
+		}
+		"1462"
+		{
+			"name"		"tec9_sultan"
+			"description_string"		"#PaintKit_tec9_sultan"
+			"description_tag"		"#PaintKit_tec9_sultan_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/tec9_sultan.vcompmat"
+		}
+		"1463"
+		{
+			"name"		"m4a4_falak"
+			"description_string"		"#PaintKit_m4a4_falak"
+			"description_tag"		"#PaintKit_m4a4_falak_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/m4a4_falak.vcompmat"
+		}
+		"1464"
+		{
+			"name"		"aug_lapis_lazuli"
+			"description_string"		"#PaintKit_aug_lapis_lazuli"
+			"description_tag"		"#PaintKit_aug_lapis_lazuli_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/aug_lapis_lazuli.vcompmat"
+		}
+		"1465"
+		{
+			"name"		"awp_sovereign_flame"
+			"description_string"		"#PaintKit_awp_sovereign_flame"
+			"description_tag"		"#PaintKit_awp_sovereign_flame_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/awp_sovereign_flame.vcompmat"
+		}
+		"1466"
+		{
+			"name"		"ak47_jinn_consequence"
+			"description_string"		"#PaintKit_ak47_jinn_consequence"
+			"description_tag"		"#PaintKit_ak47_jinn_consequence_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/ak47_jinn_consequence.vcompmat"
+		}
+		"1467"
+		{
+			"name"		"awp_black_box"
+			"description_string"		"#PaintKit_awp_black_box"
+			"description_tag"		"#PaintKit_awp_black_box_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/awp_black_box.vcompmat"
+		}
+		"1468"
+		{
+			"name"		"mp7_binary_green"
+			"description_string"		"#PaintKit_mp7_binary_green"
+			"description_tag"		"#PaintKit_mp7_binary_green_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/mp7_binary_green.vcompmat"
+		}
+		"1469"
+		{
+			"name"		"mp9_prototype_extended"
+			"description_string"		"#PaintKit_mp9_prototype_extended"
+			"description_tag"		"#PaintKit_mp9_prototype_extended_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/mp9_prototype_extended.vcompmat"
+		}
+		"1470"
+		{
+			"name"		"scar_arctic_camo_panels"
+			"description_string"		"#PaintKit_scar_arctic_camo_panels"
+			"description_tag"		"#PaintKit_scar_arctic_camo_panels_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/scar_arctic_camo_panels.vcompmat"
+		}
+		"1471"
+		{
+			"name"		"xm1014_black_site"
+			"description_string"		"#PaintKit_xm1014_black_site"
+			"description_tag"		"#PaintKit_xm1014_black_site_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/xm1014_black_site.vcompmat"
+		}
+		"1472"
+		{
+			"name"		"bizon_traitor"
+			"description_string"		"#PaintKit_bizon_traitor"
+			"description_tag"		"#PaintKit_bizon_traitor_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/bizon_traitor.vcompmat"
+		}
+		"1473"
+		{
+			"name"		"mp9_dune_asp"
+			"description_string"		"#PaintKit_mp9_dune_asp"
+			"description_tag"		"#PaintKit_mp9_dune_asp_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/mp9_dune_asp.vcompmat"
+		}
+		"1474"
+		{
+			"name"		"nova_morning_sun"
+			"description_string"		"#PaintKit_nova_morning_sun"
+			"description_tag"		"#PaintKit_nova_morning_sun_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/nova_morning_sun.vcompmat"
+		}
+		"1475"
+		{
+			"name"		"sawedoff_lunar_wyrm"
+			"description_string"		"#PaintKit_sawedoff_lunar_wyrm"
+			"description_tag"		"#PaintKit_sawedoff_lunar_wyrm_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_arabesque/sawedoff_lunar_wyrm.vcompmat"
+		}
+		"1476"
+		{
+			"name"		"hye_spyglitch_green_m4a1s"
+			"description_string"		"#PaintKit_hye_spyglitch"
+			"description_tag"		"#PaintKit_hye_spyglitch_Tag"
+			"style"		"2"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/hye_spyglitch_green_m4a1s.vcompmat"
+		}
+		"1477"
+		{
+			"name"		"famas_corp_defense"
+			"description_string"		"#PaintKit_famas_corp_defense"
+			"description_tag"		"#PaintKit_famas_corp_defense_Tag"
+			"style"		"9"
+			"wear_remap_min"		"0.000000"
+			"wear_remap_max"		"1.000000"
+			"composite_material_path"		"weapons/paints/set_spy_tech/famas_corp_defense.vcompmat"
+		}
 	}
 	"sticker_kits"
 	{
@@ -217421,6 +218477,758 @@
 			"description_string"		"StickerKit_desc_sugarface2_foil_lucas"
 			"sticker_material"		"community/sugarface2/foil_lucas"
 			"item_rarity"		"legendary"
+		}
+		"10314"
+		{
+			"name"		"paper_nana_strike"
+			"item_name"		"StickerKit_fruits_veggies_paper_nana_strike"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_nana_strike"
+			"sticker_material"		"community/fruits_veggies/paper_nana_strike"
+			"item_rarity"		"rare"
+		}
+		"10315"
+		{
+			"name"		"paper_agent_kucumber"
+			"item_name"		"StickerKit_fruits_veggies_paper_agent_kucumber"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_agent_kucumber"
+			"sticker_material"		"community/fruits_veggies/paper_agent_kucumber"
+			"item_rarity"		"rare"
+		}
+		"10316"
+		{
+			"name"		"paper_box_logo"
+			"item_name"		"StickerKit_fruits_veggies_paper_box_logo"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_box_logo"
+			"sticker_material"		"community/fruits_veggies/paper_box_logo"
+			"item_rarity"		"rare"
+		}
+		"10317"
+		{
+			"name"		"paper_dont_cry"
+			"item_name"		"StickerKit_fruits_veggies_paper_dont_cry"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_dont_cry"
+			"sticker_material"		"community/fruits_veggies/paper_dont_cry"
+			"item_rarity"		"rare"
+		}
+		"10318"
+		{
+			"name"		"paper_fresh_cut"
+			"item_name"		"StickerKit_fruits_veggies_paper_fresh_cut"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_fresh_cut"
+			"sticker_material"		"community/fruits_veggies/paper_fresh_cut"
+			"item_rarity"		"rare"
+		}
+		"10319"
+		{
+			"name"		"paper_from_the_source"
+			"item_name"		"StickerKit_fruits_veggies_paper_from_the_source"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_from_the_source"
+			"sticker_material"		"community/fruits_veggies/paper_from_the_source"
+			"item_rarity"		"rare"
+		}
+		"10320"
+		{
+			"name"		"paper_heckler"
+			"item_name"		"StickerKit_fruits_veggies_paper_heckler"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_heckler"
+			"sticker_material"		"community/fruits_veggies/paper_heckler"
+			"item_rarity"		"rare"
+		}
+		"10321"
+		{
+			"name"		"paper_lemin"
+			"item_name"		"StickerKit_fruits_veggies_paper_lemin"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_lemin"
+			"sticker_material"		"community/fruits_veggies/paper_lemin"
+			"item_rarity"		"rare"
+		}
+		"10322"
+		{
+			"name"		"paper_peekle"
+			"item_name"		"StickerKit_fruits_veggies_paper_peekle"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_peekle"
+			"sticker_material"		"community/fruits_veggies/paper_peekle"
+			"item_rarity"		"rare"
+		}
+		"10323"
+		{
+			"name"		"paper_pungent_comms"
+			"item_name"		"StickerKit_fruits_veggies_paper_pungent_comms"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_pungent_comms"
+			"sticker_material"		"community/fruits_veggies/paper_pungent_comms"
+			"item_rarity"		"rare"
+		}
+		"10324"
+		{
+			"name"		"paper_radish_k"
+			"item_name"		"StickerKit_fruits_veggies_paper_radish_k"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_radish_k"
+			"sticker_material"		"community/fruits_veggies/paper_radish_k"
+			"item_rarity"		"rare"
+		}
+		"10325"
+		{
+			"name"		"paper_scratch_n_whiff"
+			"item_name"		"StickerKit_fruits_veggies_paper_scratch_n_whiff"
+			"description_string"		"StickerKit_desc_fruits_veggies_paper_scratch_n_whiff"
+			"sticker_material"		"community/fruits_veggies/paper_scratch_n_whiff"
+			"item_rarity"		"rare"
+		}
+		"10326"
+		{
+			"name"		"glitter_aceberry"
+			"item_name"		"StickerKit_fruits_veggies_glitter_aceberry"
+			"description_string"		"StickerKit_desc_fruits_veggies_glitter_aceberry"
+			"sticker_material"		"community/fruits_veggies/glitter_aceberry"
+			"item_rarity"		"mythical"
+		}
+		"10327"
+		{
+			"name"		"glitter_apple_a_day"
+			"item_name"		"StickerKit_fruits_veggies_glitter_apple_a_day"
+			"description_string"		"StickerKit_desc_fruits_veggies_glitter_apple_a_day"
+			"sticker_material"		"community/fruits_veggies/glitter_apple_a_day"
+			"item_rarity"		"mythical"
+		}
+		"10328"
+		{
+			"name"		"holo_juice_box"
+			"item_name"		"StickerKit_fruits_veggies_holo_juice_box"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_juice_box"
+			"sticker_material"		"community/fruits_veggies/holo_juice_box"
+			"item_rarity"		"mythical"
+		}
+		"10329"
+		{
+			"name"		"holo_knife_streak"
+			"item_name"		"StickerKit_fruits_veggies_holo_knife_streak"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_knife_streak"
+			"sticker_material"		"community/fruits_veggies/holo_knife_streak"
+			"item_rarity"		"mythical"
+		}
+		"10330"
+		{
+			"name"		"holo_from_the_vine"
+			"item_name"		"StickerKit_fruits_veggies_holo_from_the_vine"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_from_the_vine"
+			"sticker_material"		"community/fruits_veggies/holo_from_the_vine"
+			"item_rarity"		"mythical"
+		}
+		"10331"
+		{
+			"name"		"holo_hot_pepper"
+			"item_name"		"StickerKit_fruits_veggies_holo_hot_pepper"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_hot_pepper"
+			"sticker_material"		"community/fruits_veggies/holo_hot_pepper"
+			"item_rarity"		"mythical"
+		}
+		"10332"
+		{
+			"name"		"holo_quality_control"
+			"item_name"		"StickerKit_fruits_veggies_holo_quality_control"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_quality_control"
+			"sticker_material"		"community/fruits_veggies/holo_quality_control"
+			"item_rarity"		"mythical"
+		}
+		"10333"
+		{
+			"name"		"holo_ultra_fruity"
+			"item_name"		"StickerKit_fruits_veggies_holo_ultra_fruity"
+			"description_string"		"StickerKit_desc_fruits_veggies_holo_ultra_fruity"
+			"sticker_material"		"community/fruits_veggies/holo_ultra_fruity"
+			"item_rarity"		"mythical"
+		}
+		"10334"
+		{
+			"name"		"foil_banana_face"
+			"item_name"		"StickerKit_fruits_veggies_foil_banana_face"
+			"description_string"		"StickerKit_desc_fruits_veggies_foil_banana_face"
+			"sticker_material"		"community/fruits_veggies/foil_banana_face"
+			"item_rarity"		"legendary"
+		}
+		"10335"
+		{
+			"name"		"foil_modern_art"
+			"item_name"		"StickerKit_fruits_veggies_foil_modern_art"
+			"description_string"		"StickerKit_desc_fruits_veggies_foil_modern_art"
+			"sticker_material"		"community/fruits_veggies/foil_modern_art"
+			"item_rarity"		"legendary"
+		}
+		"10336"
+		{
+			"name"		"foil_dragon_fruit"
+			"item_name"		"StickerKit_fruits_veggies_foil_dragon_fruit"
+			"description_string"		"StickerKit_desc_fruits_veggies_foil_dragon_fruit"
+			"sticker_material"		"community/fruits_veggies/foil_dragon_fruit"
+			"item_rarity"		"legendary"
+		}
+		"10337"
+		{
+			"name"		"foil_early_bird"
+			"item_name"		"StickerKit_fruits_veggies_foil_early_bird"
+			"description_string"		"StickerKit_desc_fruits_veggies_foil_early_bird"
+			"sticker_material"		"community/fruits_veggies/foil_early_bird"
+			"item_rarity"		"legendary"
+		}
+		"10338"
+		{
+			"name"		"foil_fruit_fly"
+			"item_name"		"StickerKit_fruits_veggies_foil_fruit_fly"
+			"description_string"		"StickerKit_desc_fruits_veggies_foil_fruit_fly"
+			"sticker_material"		"community/fruits_veggies/foil_fruit_fly"
+			"item_rarity"		"legendary"
+		}
+		"10339"
+		{
+			"name"		"lenticular_pineapple_pizza"
+			"item_name"		"StickerKit_fruits_veggies_lenticular_pineapple_pizza"
+			"description_string"		"StickerKit_desc_fruits_veggies_lenticular_pineapple_pizza"
+			"sticker_material"		"community/fruits_veggies/lenticular_pineapple_pizza"
+			"item_rarity"		"ancient"
+		}
+		"10340"
+		{
+			"name"		"lenticular_pepper_gauge"
+			"item_name"		"StickerKit_fruits_veggies_lenticular_pepper_gauge"
+			"description_string"		"StickerKit_desc_fruits_veggies_lenticular_pepper_gauge"
+			"sticker_material"		"community/fruits_veggies/lenticular_pepper_gauge"
+			"item_rarity"		"ancient"
+		}
+		"10341"
+		{
+			"name"		"paper_blaze_breeze"
+			"item_name"		"StickerKit_auto_racing_paper_blaze_breeze"
+			"description_string"		"StickerKit_desc_auto_racing_paper_blaze_breeze"
+			"sticker_material"		"community/auto_racing/paper_blaze_breeze"
+			"item_rarity"		"rare"
+		}
+		"10342"
+		{
+			"name"		"paper_bomb_on_board"
+			"item_name"		"StickerKit_auto_racing_paper_bomb_on_board"
+			"description_string"		"StickerKit_desc_auto_racing_paper_bomb_on_board"
+			"sticker_material"		"community/auto_racing/paper_bomb_on_board"
+			"item_rarity"		"rare"
+		}
+		"10343"
+		{
+			"name"		"paper_boreal_blast"
+			"item_name"		"StickerKit_auto_racing_paper_boreal_blast"
+			"description_string"		"StickerKit_desc_auto_racing_paper_boreal_blast"
+			"sticker_material"		"community/auto_racing/paper_boreal_blast"
+			"item_rarity"		"rare"
+		}
+		"10344"
+		{
+			"name"		"paper_bhop_hydraulics"
+			"item_name"		"StickerKit_auto_racing_paper_bhop_hydraulics"
+			"description_string"		"StickerKit_desc_auto_racing_paper_bhop_hydraulics"
+			"sticker_material"		"community/auto_racing/paper_bhop_hydraulics"
+			"item_rarity"		"rare"
+		}
+		"10345"
+		{
+			"name"		"paper_racing_flag"
+			"item_name"		"StickerKit_auto_racing_paper_racing_flag"
+			"description_string"		"StickerKit_desc_auto_racing_paper_racing_flag"
+			"sticker_material"		"community/auto_racing/paper_racing_flag"
+			"item_rarity"		"rare"
+		}
+		"10346"
+		{
+			"name"		"paper_defusal_sprint"
+			"item_name"		"StickerKit_auto_racing_paper_defusal_sprint"
+			"description_string"		"StickerKit_desc_auto_racing_paper_defusal_sprint"
+			"sticker_material"		"community/auto_racing/paper_defusal_sprint"
+			"item_rarity"		"rare"
+		}
+		"10347"
+		{
+			"name"		"paper_killometer"
+			"item_name"		"StickerKit_auto_racing_paper_killometer"
+			"description_string"		"StickerKit_desc_auto_racing_paper_killometer"
+			"sticker_material"		"community/auto_racing/paper_killometer"
+			"item_rarity"		"rare"
+		}
+		"10348"
+		{
+			"name"		"paper_roentgen_raceclub"
+			"item_name"		"StickerKit_auto_racing_paper_roentgen_raceclub"
+			"description_string"		"StickerKit_desc_auto_racing_paper_roentgen_raceclub"
+			"sticker_material"		"community/auto_racing/paper_roentgen_raceclub"
+			"item_rarity"		"rare"
+		}
+		"10349"
+		{
+			"name"		"paper_run_boost"
+			"item_name"		"StickerKit_auto_racing_paper_run_boost"
+			"description_string"		"StickerKit_desc_auto_racing_paper_run_boost"
+			"sticker_material"		"community/auto_racing/paper_run_boost"
+			"item_rarity"		"rare"
+		}
+		"10350"
+		{
+			"name"		"paper_safari_shine"
+			"item_name"		"StickerKit_auto_racing_paper_safari_shine"
+			"description_string"		"StickerKit_desc_auto_racing_paper_safari_shine"
+			"sticker_material"		"community/auto_racing/paper_safari_shine"
+			"item_rarity"		"rare"
+		}
+		"10351"
+		{
+			"name"		"paper_sand_dune_baja_tour"
+			"item_name"		"StickerKit_auto_racing_paper_sand_dune_baja_tour"
+			"description_string"		"StickerKit_desc_auto_racing_paper_sand_dune_baja_tour"
+			"sticker_material"		"community/auto_racing/paper_sand_dune_baja_tour"
+			"item_rarity"		"rare"
+		}
+		"10353"
+		{
+			"name"		"paper_w_tires"
+			"item_name"		"StickerKit_auto_racing_paper_w_tires"
+			"description_string"		"StickerKit_desc_auto_racing_paper_w_tires"
+			"sticker_material"		"community/auto_racing/paper_w_tires"
+			"item_rarity"		"rare"
+		}
+		"10354"
+		{
+			"name"		"holo_cone_zone"
+			"item_name"		"StickerKit_auto_racing_holo_cone_zone"
+			"description_string"		"StickerKit_desc_auto_racing_holo_cone_zone"
+			"sticker_material"		"community/auto_racing/holo_cone_zone"
+			"item_rarity"		"mythical"
+		}
+		"10355"
+		{
+			"name"		"holo_engine_start"
+			"item_name"		"StickerKit_auto_racing_holo_engine_start"
+			"description_string"		"StickerKit_desc_auto_racing_holo_engine_start"
+			"sticker_material"		"community/auto_racing/holo_engine_start"
+			"item_rarity"		"mythical"
+		}
+		"10356"
+		{
+			"name"		"holo_first_lap"
+			"item_name"		"StickerKit_auto_racing_holo_first_lap"
+			"description_string"		"StickerKit_desc_auto_racing_holo_first_lap"
+			"sticker_material"		"community/auto_racing/holo_first_lap"
+			"item_rarity"		"mythical"
+		}
+		"10357"
+		{
+			"name"		"holo_neo_hold"
+			"item_name"		"StickerKit_auto_racing_holo_neo_hold"
+			"description_string"		"StickerKit_desc_auto_racing_holo_neo_hold"
+			"sticker_material"		"community/auto_racing/holo_neo_hold"
+			"item_rarity"		"mythical"
+		}
+		"10358"
+		{
+			"name"		"holo_neo_rush"
+			"item_name"		"StickerKit_auto_racing_holo_neo_rush"
+			"description_string"		"StickerKit_desc_auto_racing_holo_neo_rush"
+			"sticker_material"		"community/auto_racing/holo_neo_rush"
+			"item_rarity"		"mythical"
+		}
+		"10359"
+		{
+			"name"		"holo_safety_first"
+			"item_name"		"StickerKit_auto_racing_holo_safety_first"
+			"description_string"		"StickerKit_desc_auto_racing_holo_safety_first"
+			"sticker_material"		"community/auto_racing/holo_safety_first"
+			"item_rarity"		"mythical"
+		}
+		"10360"
+		{
+			"name"		"foil_eco_mode"
+			"item_name"		"StickerKit_auto_racing_foil_eco_mode"
+			"description_string"		"StickerKit_desc_auto_racing_foil_eco_mode"
+			"sticker_material"		"community/auto_racing/foil_eco_mode"
+			"item_rarity"		"legendary"
+		}
+		"10361"
+		{
+			"name"		"foil_lucky_charms"
+			"item_name"		"StickerKit_auto_racing_foil_lucky_charms"
+			"description_string"		"StickerKit_desc_auto_racing_foil_lucky_charms"
+			"sticker_material"		"community/auto_racing/foil_lucky_charms"
+			"item_rarity"		"legendary"
+		}
+		"10363"
+		{
+			"name"		"foil_turbo_peek"
+			"item_name"		"StickerKit_auto_racing_foil_turbo_peek"
+			"description_string"		"StickerKit_desc_auto_racing_foil_turbo_peek"
+			"sticker_material"		"community/auto_racing/foil_turbo_peek"
+			"item_rarity"		"legendary"
+		}
+		"10364"
+		{
+			"name"		"foil_watch_sniper"
+			"item_name"		"StickerKit_auto_racing_foil_watch_sniper"
+			"description_string"		"StickerKit_desc_auto_racing_foil_watch_sniper"
+			"sticker_material"		"community/auto_racing/foil_watch_sniper"
+			"item_rarity"		"legendary"
+		}
+		"10365"
+		{
+			"name"		"lenticular_burnout"
+			"item_name"		"StickerKit_auto_racing_lenticular_burnout"
+			"description_string"		"StickerKit_desc_auto_racing_lenticular_burnout"
+			"sticker_material"		"community/auto_racing/lenticular_burnout"
+			"item_rarity"		"ancient"
+		}
+		"10366"
+		{
+			"name"		"lenticular_digital_dashboard"
+			"item_name"		"StickerKit_auto_racing_lenticular_digital_dashboard"
+			"description_string"		"StickerKit_desc_auto_racing_lenticular_digital_dashboard"
+			"sticker_material"		"community/auto_racing/lenticular_digital_dashboard"
+			"item_rarity"		"ancient"
+		}
+		"10367"
+		{
+			"name"		"lenticular_handheld"
+			"item_name"		"StickerKit_auto_racing_lenticular_handheld"
+			"description_string"		"StickerKit_desc_auto_racing_lenticular_handheld"
+			"sticker_material"		"community/auto_racing/lenticular_handheld"
+			"item_rarity"		"ancient"
+		}
+		"10368"
+		{
+			"name"		"lenticular_nitro"
+			"item_name"		"StickerKit_auto_racing_lenticular_nitro"
+			"description_string"		"StickerKit_desc_auto_racing_lenticular_nitro"
+			"sticker_material"		"community/auto_racing/lenticular_nitro"
+			"item_rarity"		"ancient"
+		}
+		"11194"
+		{
+			"name"		"paper_be_patient"
+			"item_name"		"StickerKit_auto_racing_paper_be_patient"
+			"description_string"		"StickerKit_desc_auto_racing_paper_be_patient"
+			"sticker_material"		"community/auto_racing/paper_be_patient"
+			"item_rarity"		"rare"
+		}
+		"11195"
+		{
+			"name"		"foil_born_to_peek"
+			"item_name"		"StickerKit_auto_racing_foil_born_to_peek"
+			"description_string"		"StickerKit_desc_auto_racing_foil_born_to_peek"
+			"sticker_material"		"community/auto_racing/foil_born_to_peek"
+			"item_rarity"		"legendary"
+		}
+		"11196"
+		{
+			"name"		"paper_airhorn"
+			"item_name"		"StickerKit_jackass_paper_airhorn"
+			"description_string"		"StickerKit_desc_jackass_paper_airhorn"
+			"sticker_material"		"community/jackass/paper_airhorn"
+			"item_rarity"		"rare"
+		}
+		"11197"
+		{
+			"name"		"paper_assterisk"
+			"item_name"		"StickerKit_jackass_paper_assterisk"
+			"description_string"		"StickerKit_desc_jackass_paper_assterisk"
+			"sticker_material"		"community/jackass/paper_assterisk"
+			"item_rarity"		"rare"
+		}
+		"11198"
+		{
+			"name"		"paper_big_red_rocket"
+			"item_name"		"StickerKit_jackass_paper_big_red_rocket"
+			"description_string"		"StickerKit_desc_jackass_paper_big_red_rocket"
+			"sticker_material"		"community/jackass/paper_big_red_rocket"
+			"item_rarity"		"rare"
+		}
+		"11199"
+		{
+			"name"		"paper_boner_snap"
+			"item_name"		"StickerKit_jackass_paper_boner_snap"
+			"description_string"		"StickerKit_desc_jackass_paper_boner_snap"
+			"sticker_material"		"community/jackass/paper_boner_snap"
+			"item_rarity"		"rare"
+		}
+		"11200"
+		{
+			"name"		"paper_censored"
+			"item_name"		"StickerKit_jackass_paper_censored"
+			"description_string"		"StickerKit_desc_jackass_paper_censored"
+			"sticker_material"		"community/jackass/paper_censored"
+			"item_rarity"		"rare"
+		}
+		"11201"
+		{
+			"name"		"paper_explosives"
+			"item_name"		"StickerKit_jackass_paper_explosives"
+			"description_string"		"StickerKit_desc_jackass_paper_explosives"
+			"sticker_material"		"community/jackass/paper_explosives"
+			"item_rarity"		"rare"
+		}
+		"11202"
+		{
+			"name"		"paper_golf_cart"
+			"item_name"		"StickerKit_jackass_paper_golf_cart"
+			"description_string"		"StickerKit_desc_jackass_paper_golf_cart"
+			"sticker_material"		"community/jackass/paper_golf_cart"
+			"item_rarity"		"rare"
+		}
+		"11203"
+		{
+			"name"		"paper_leave_a_mark"
+			"item_name"		"StickerKit_jackass_paper_leave_a_mark"
+			"description_string"		"StickerKit_desc_jackass_paper_leave_a_mark"
+			"sticker_material"		"community/jackass/paper_leave_a_mark"
+			"item_rarity"		"rare"
+		}
+		"11204"
+		{
+			"name"		"paper_head_in_hands"
+			"item_name"		"StickerKit_jackass_paper_head_in_hands"
+			"description_string"		"StickerKit_desc_jackass_paper_head_in_hands"
+			"sticker_material"		"community/jackass/paper_head_in_hands"
+			"item_rarity"		"rare"
+		}
+		"11205"
+		{
+			"name"		"paper_high_five"
+			"item_name"		"StickerKit_jackass_paper_high_five"
+			"description_string"		"StickerKit_desc_jackass_paper_high_five"
+			"sticker_material"		"community/jackass/paper_high_five"
+			"item_rarity"		"rare"
+		}
+		"11206"
+		{
+			"name"		"paper_jackass"
+			"item_name"		"StickerKit_jackass_paper_jackass"
+			"description_string"		"StickerKit_desc_jackass_paper_jackass"
+			"sticker_material"		"community/jackass/paper_jackass"
+			"item_rarity"		"rare"
+		}
+		"11207"
+		{
+			"name"		"paper_partyboy"
+			"item_name"		"StickerKit_jackass_paper_partyboy"
+			"description_string"		"StickerKit_desc_jackass_paper_partyboy"
+			"sticker_material"		"community/jackass/paper_partyboy"
+			"item_rarity"		"rare"
+		}
+		"11208"
+		{
+			"name"		"paper_radiograph"
+			"item_name"		"StickerKit_jackass_paper_radiograph"
+			"description_string"		"StickerKit_desc_jackass_paper_radiograph"
+			"sticker_material"		"community/jackass/paper_radiograph"
+			"item_rarity"		"rare"
+		}
+		"11209"
+		{
+			"name"		"paper_rocket_skates"
+			"item_name"		"StickerKit_jackass_paper_rocket_skates"
+			"description_string"		"StickerKit_desc_jackass_paper_rocket_skates"
+			"sticker_material"		"community/jackass/paper_rocket_skates"
+			"item_rarity"		"rare"
+		}
+		"11210"
+		{
+			"name"		"paper_skull_bunny"
+			"item_name"		"StickerKit_jackass_paper_skull_bunny"
+			"description_string"		"StickerKit_desc_jackass_paper_skull_bunny"
+			"sticker_material"		"community/jackass/paper_skull_bunny"
+			"item_rarity"		"rare"
+		}
+		"11211"
+		{
+			"name"		"paper_bull"
+			"item_name"		"StickerKit_jackass_paper_bull"
+			"description_string"		"StickerKit_desc_jackass_paper_bull"
+			"sticker_material"		"community/jackass/paper_bull"
+			"item_rarity"		"rare"
+		}
+		"11212"
+		{
+			"name"		"paper_warning"
+			"item_name"		"StickerKit_jackass_paper_warning"
+			"description_string"		"StickerKit_desc_jackass_paper_warning"
+			"sticker_material"		"community/jackass/paper_warning"
+			"item_rarity"		"rare"
+		}
+		"11213"
+		{
+			"name"		"paper_zzzap"
+			"item_name"		"StickerKit_jackass_paper_zzzap"
+			"description_string"		"StickerKit_desc_jackass_paper_zzzap"
+			"sticker_material"		"community/jackass/paper_zzzap"
+			"item_rarity"		"rare"
+		}
+		"11214"
+		{
+			"name"		"glitter_airhorn"
+			"item_name"		"StickerKit_jackass_glitter_airhorn"
+			"description_string"		"StickerKit_desc_jackass_glitter_airhorn"
+			"sticker_material"		"community/jackass/glitter_airhorn"
+			"item_rarity"		"mythical"
+		}
+		"11215"
+		{
+			"name"		"glitter_assterisk"
+			"item_name"		"StickerKit_jackass_glitter_assterisk"
+			"description_string"		"StickerKit_desc_jackass_glitter_assterisk"
+			"sticker_material"		"community/jackass/glitter_assterisk"
+			"item_rarity"		"mythical"
+		}
+		"11216"
+		{
+			"name"		"glitter_big_red_rocket"
+			"item_name"		"StickerKit_jackass_glitter_big_red_rocket"
+			"description_string"		"StickerKit_desc_jackass_glitter_big_red_rocket"
+			"sticker_material"		"community/jackass/glitter_big_red_rocket"
+			"item_rarity"		"mythical"
+		}
+		"11217"
+		{
+			"name"		"glitter_head_in_hands"
+			"item_name"		"StickerKit_jackass_glitter_head_in_hands"
+			"description_string"		"StickerKit_desc_jackass_glitter_head_in_hands"
+			"sticker_material"		"community/jackass/glitter_head_in_hands"
+			"item_rarity"		"mythical"
+		}
+		"11218"
+		{
+			"name"		"glitter_high_five"
+			"item_name"		"StickerKit_jackass_glitter_high_five"
+			"description_string"		"StickerKit_desc_jackass_glitter_high_five"
+			"sticker_material"		"community/jackass/glitter_high_five"
+			"item_rarity"		"mythical"
+		}
+		"11219"
+		{
+			"name"		"glitter_skull_bunny"
+			"item_name"		"StickerKit_jackass_glitter_skull_bunny"
+			"description_string"		"StickerKit_desc_jackass_glitter_skull_bunny"
+			"sticker_material"		"community/jackass/glitter_skull_bunny"
+			"item_rarity"		"mythical"
+		}
+		"11220"
+		{
+			"name"		"glitter_bull"
+			"item_name"		"StickerKit_jackass_glitter_bull"
+			"description_string"		"StickerKit_desc_jackass_glitter_bull"
+			"sticker_material"		"community/jackass/glitter_bull"
+			"item_rarity"		"mythical"
+		}
+		"11221"
+		{
+			"name"		"holo_boner_snap"
+			"item_name"		"StickerKit_jackass_holo_boner_snap"
+			"description_string"		"StickerKit_desc_jackass_holo_boner_snap"
+			"sticker_material"		"community/jackass/holo_boner_snap"
+			"item_rarity"		"mythical"
+		}
+		"11222"
+		{
+			"name"		"holo_jackass"
+			"item_name"		"StickerKit_jackass_holo_jackass"
+			"description_string"		"StickerKit_desc_jackass_holo_jackass"
+			"sticker_material"		"community/jackass/holo_jackass"
+			"item_rarity"		"mythical"
+		}
+		"11223"
+		{
+			"name"		"holo_leave_a_mark"
+			"item_name"		"StickerKit_jackass_holo_leave_a_mark"
+			"description_string"		"StickerKit_desc_jackass_holo_leave_a_mark"
+			"sticker_material"		"community/jackass/holo_leave_a_mark"
+			"item_rarity"		"mythical"
+		}
+		"11224"
+		{
+			"name"		"lenticular_partyboy"
+			"item_name"		"StickerKit_jackass_lenticular_partyboy"
+			"description_string"		"StickerKit_desc_jackass_lenticular_partyboy"
+			"sticker_material"		"community/jackass/lenticular_partyboy"
+			"item_rarity"		"ancient"
+		}
+		"11225"
+		{
+			"name"		"holo_radiograph"
+			"item_name"		"StickerKit_jackass_holo_radiograph"
+			"description_string"		"StickerKit_desc_jackass_holo_radiograph"
+			"sticker_material"		"community/jackass/holo_radiograph"
+			"item_rarity"		"mythical"
+		}
+		"11226"
+		{
+			"name"		"holo_rocket_skates"
+			"item_name"		"StickerKit_jackass_holo_rocket_skates"
+			"description_string"		"StickerKit_desc_jackass_holo_rocket_skates"
+			"sticker_material"		"community/jackass/holo_rocket_skates"
+			"item_rarity"		"mythical"
+		}
+		"11227"
+		{
+			"name"		"holo_zzzap"
+			"item_name"		"StickerKit_jackass_holo_zzzap"
+			"description_string"		"StickerKit_desc_jackass_holo_zzzap"
+			"sticker_material"		"community/jackass/holo_zzzap"
+			"item_rarity"		"mythical"
+		}
+		"11228"
+		{
+			"name"		"foil_assterisk"
+			"item_name"		"StickerKit_jackass_foil_assterisk"
+			"description_string"		"StickerKit_desc_jackass_foil_assterisk"
+			"sticker_material"		"community/jackass/foil_assterisk"
+			"item_rarity"		"legendary"
+		}
+		"11229"
+		{
+			"name"		"foil_censored"
+			"item_name"		"StickerKit_jackass_foil_censored"
+			"description_string"		"StickerKit_desc_jackass_foil_censored"
+			"sticker_material"		"community/jackass/foil_censored"
+			"item_rarity"		"legendary"
+		}
+		"11230"
+		{
+			"name"		"foil_explosives"
+			"item_name"		"StickerKit_jackass_foil_explosives"
+			"description_string"		"StickerKit_desc_jackass_foil_explosives"
+			"sticker_material"		"community/jackass/foil_explosives"
+			"item_rarity"		"legendary"
+		}
+		"11231"
+		{
+			"name"		"foil_radiograph"
+			"item_name"		"StickerKit_jackass_foil_radiograph"
+			"description_string"		"StickerKit_desc_jackass_foil_radiograph"
+			"sticker_material"		"community/jackass/foil_radiograph"
+			"item_rarity"		"legendary"
+		}
+		"11232"
+		{
+			"name"		"foil_warning"
+			"item_name"		"StickerKit_jackass_foil_warning"
+			"description_string"		"StickerKit_desc_jackass_foil_warning"
+			"sticker_material"		"community/jackass/foil_warning"
+			"item_rarity"		"legendary"
+		}
+		"11233"
+		{
+			"name"		"lenticular_electric_avenue"
+			"item_name"		"StickerKit_jackass_lenticular_electric_avenue"
+			"description_string"		"StickerKit_desc_jackass_lenticular_electric_avenue"
+			"sticker_material"		"community/jackass/lenticular_electric_avenue"
+			"item_rarity"		"ancient"
+		}
+		"11234"
+		{
+			"name"		"lenticular_poo_cocktail"
+			"item_name"		"StickerKit_jackass_lenticular_poo_cocktail"
+			"description_string"		"StickerKit_desc_jackass_lenticular_poo_cocktail"
+			"sticker_material"		"community/jackass/lenticular_poo_cocktail"
+			"item_rarity"		"ancient"
 		}
 	}
 	"keychain_definitions"
@@ -219144,6 +220952,134 @@
 	}
 	"items"
 	{
+		"7041"
+		{
+			"name"		"crate_sticker_pack_jackass_capsule"
+			"item_name"		"CSGO_crate_sticker_pack_jackass_capsule"
+			"item_description"		"CSGO_crate_sticker_pack_jackass_capsule_desc"
+			"image_inventory"		"econ/weapon_cases/crate_sticker_pack_jackass_capsule"
+			"first_sale_date"		"2026-07-03"
+			"prefab"		"sticker_capsule"
+			"attributes"
+			{
+				"set supply crate series"
+				{
+					"attribute_class"		"supply_crate_series"
+					"value"		"479"
+				}
+			}
+			"tags"
+			{
+				"StickerCapsule"
+				{
+					"tag_value"		"crate_sticker_pack_jackass_capsule_lootlist"
+					"tag_text"		"#CSGO_crate_sticker_pack_jackass_capsule"
+					"tag_group"		"StickerCapsule"
+					"tag_group_text"		"#SFUI_InvTooltip_StickerCapsuleTag"
+				}
+			}
+		}
+		"7042"
+		{
+			"name"		"coupon - jackass_sticker_capsule"
+			"item_name"		"#coupon_jackass_sticker_capsule"
+			"item_description"		"#coupon_desc"
+			"loot_list_name"		"coupon loot list - jackass_sticker_capsule"
+			"prefab"		"coupon_jackass_capsule_prefab"
+		}
+	}
+	"revolving_loot_lists"
+	{
+		"479"		"crate_sticker_pack_jackass_capsule_lootlist"
+	}
+	"client_loot_lists"
+	{
+		"crate_sticker_pack_jackass_capsule_rare"
+		{
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"[paper_airhorn]sticker"		"1"
+			"[paper_assterisk]sticker"		"1"
+			"[paper_big_red_rocket]sticker"		"1"
+			"[paper_boner_snap]sticker"		"1"
+			"[paper_censored]sticker"		"1"
+			"[paper_explosives]sticker"		"1"
+			"[paper_golf_cart]sticker"		"1"
+			"[paper_leave_a_mark]sticker"		"1"
+			"[paper_head_in_hands]sticker"		"1"
+			"[paper_high_five]sticker"		"1"
+			"[paper_jackass]sticker"		"1"
+			"[paper_partyboy]sticker"		"1"
+			"[paper_radiograph]sticker"		"1"
+			"[paper_rocket_skates]sticker"		"1"
+			"[paper_skull_bunny]sticker"		"1"
+			"[paper_bull]sticker"		"1"
+			"[paper_warning]sticker"		"1"
+			"[paper_zzzap]sticker"		"1"
+		}
+		"crate_sticker_pack_jackass_capsule_mythical"
+		{
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"[glitter_airhorn]sticker"		"1"
+			"[glitter_assterisk]sticker"		"1"
+			"[glitter_big_red_rocket]sticker"		"1"
+			"[glitter_head_in_hands]sticker"		"1"
+			"[glitter_high_five]sticker"		"1"
+			"[glitter_skull_bunny]sticker"		"1"
+			"[glitter_bull]sticker"		"1"
+			"[holo_boner_snap]sticker"		"1"
+			"[holo_jackass]sticker"		"1"
+			"[holo_leave_a_mark]sticker"		"1"
+			"[holo_radiograph]sticker"		"1"
+			"[holo_rocket_skates]sticker"		"1"
+			"[holo_zzzap]sticker"		"1"
+		}
+		"crate_sticker_pack_jackass_capsule_legendary"
+		{
+			"limit_description_to_number_rnd"		"1"
+			"limit_description_to_number_rnd"		"1"
+			"[foil_assterisk]sticker"		"1"
+			"[foil_censored]sticker"		"1"
+			"[foil_explosives]sticker"		"1"
+			"[foil_radiograph]sticker"		"1"
+			"[foil_warning]sticker"		"1"
+		}
+		"crate_sticker_pack_jackass_capsule_ancient"
+		{
+			"limit_description_to_number_rnd"		"1"
+			"[lenticular_electric_avenue]sticker"		"1"
+			"[lenticular_partyboy]sticker"		"1"
+			"[lenticular_poo_cocktail]sticker"		"1"
+		}
+		"crate_sticker_pack_jackass_capsule_lootlist"
+		{
+			"crate_sticker_pack_jackass_capsule_rare"		"1"
+			"crate_sticker_pack_jackass_capsule_mythical"		"1"
+			"crate_sticker_pack_jackass_capsule_legendary"		"1"
+			"crate_sticker_pack_jackass_capsule_ancient"		"1"
+		}
+		"coupon loot list - jackass_sticker_capsule"
+		{
+			"public_list_contents"		"1"
+			"crate_sticker_pack_jackass_capsule"		"1"
+		}
+	}
+	"prefabs"
+	{
+		"coupon_jackass_capsule_prefab"
+		{
+			"prefab"		"coupon_prefab"
+		}
+	}
+	"items"
+	{
 		"4904"
 		{
 			"name"		"crate_community_33"
@@ -219600,6 +221536,98 @@
 		"ump45_old_cartoon"		"legendary"
 		"awp_printstream"		"legendary"
 		"famas_badtrip"		"ancient"
+	}
+	"client_loot_lists"
+	{
+		"set_arabesque_uncommon"
+		{
+			"[bizon_traitor]weapon_bizon"		"1"
+			"[mp9_dune_asp]weapon_mp9"		"1"
+			"[nova_morning_sun]weapon_nova"		"1"
+			"[scar_sirocco]weapon_scar20"		"1"
+			"[fiveseven_desert_seal]weapon_fiveseven"		"1"
+			"[dualies_mystic_conjunction_v3]weapon_elite"		"1"
+		}
+		"set_arabesque_rare"
+		{
+			"[sawedoff_lunar_wyrm]weapon_sawedoff"		"1"
+			"[famas_snake_song]weapon_famas"		"1"
+			"[tec9_sultan]weapon_tec9"		"1"
+			"[mac10_arabesque_gold]weapon_mac10"		"1"
+		}
+		"set_arabesque_mythical"
+		{
+			"[aug_lapis_lazuli]weapon_aug"		"1"
+			"[glock_ifrit_lattice]weapon_glock"		"1"
+			"[p250_lotus_imprint_glitter_purple]weapon_p250"		"1"
+		}
+		"set_arabesque_legendary"
+		{
+			"[deagle_eastern_enigma_blue]weapon_deagle"		"1"
+			"[m4a4_falak]weapon_m4a1"		"1"
+		}
+		"set_arabesque_ancient"
+		{
+			"[awp_sovereign_flame]weapon_awp"		"1"
+			"[ak47_jinn_consequence]weapon_ak47"		"1"
+		}
+		"set_arabesque"
+		{
+			"set_arabesque_uncommon"		"1"
+			"set_arabesque_rare"		"1"
+			"set_arabesque_mythical"		"1"
+			"set_arabesque_legendary"		"1"
+			"set_arabesque_ancient"		"1"
+		}
+	}
+	"item_sets"
+	{
+		"set_arabesque"
+		{
+			"name"		"#CSGO_set_arabesque"
+			"set_description"		"#CSGO_set_arabesque_desc"
+			"is_collection"		"1"
+			"items"
+			{
+				"[bizon_traitor]weapon_bizon"		"1"
+				"[mp9_dune_asp]weapon_mp9"		"1"
+				"[nova_morning_sun]weapon_nova"		"1"
+				"[scar_sirocco]weapon_scar20"		"1"
+				"[fiveseven_desert_seal]weapon_fiveseven"		"1"
+				"[dualies_mystic_conjunction_v3]weapon_elite"		"1"
+				"[sawedoff_lunar_wyrm]weapon_sawedoff"		"1"
+				"[famas_snake_song]weapon_famas"		"1"
+				"[tec9_sultan]weapon_tec9"		"1"
+				"[mac10_arabesque_gold]weapon_mac10"		"1"
+				"[aug_lapis_lazuli]weapon_aug"		"1"
+				"[glock_ifrit_lattice]weapon_glock"		"1"
+				"[p250_lotus_imprint_glitter_purple]weapon_p250"		"1"
+				"[deagle_eastern_enigma_blue]weapon_deagle"		"1"
+				"[m4a4_falak]weapon_m4a1"		"1"
+				"[awp_sovereign_flame]weapon_awp"		"1"
+				"[ak47_jinn_consequence]weapon_ak47"		"1"
+			}
+		}
+	}
+	"paint_kits_rarity"
+	{
+		"bizon_traitor"		"uncommon"
+		"mp9_dune_asp"		"uncommon"
+		"nova_morning_sun"		"uncommon"
+		"scar_sirocco"		"uncommon"
+		"fiveseven_desert_seal"		"uncommon"
+		"dualies_mystic_conjunction_v3"		"uncommon"
+		"sawedoff_lunar_wyrm"		"rare"
+		"famas_snake_song"		"rare"
+		"tec9_sultan"		"rare"
+		"mac10_arabesque_gold"		"rare"
+		"glock_ifrit_lattice"		"rare"
+		"aug_lapis_lazuli"		"mythical"
+		"p250_lotus_imprint_glitter_purple"		"mythical"
+		"deagle_eastern_enigma_blue"		"mythical"
+		"m4a4_falak"		"mythical"
+		"awp_sovereign_flame"		"legendary"
+		"ak47_jinn_consequence"		"legendary"
 	}
 	"client_loot_lists"
 	{
@@ -220074,6 +222102,98 @@
 		"gsch_axia_glock"		"mythical"
 		"aq_titanium_rainbow_galilar"		"legendary"
 		"aa_fade_m4a1s"		"legendary"
+	}
+	"client_loot_lists"
+	{
+		"set_spy_tech_uncommon"
+		{
+			"[mp7_binary_green]weapon_mp7"		"1"
+			"[tec9_perimeter_urban]weapon_tec9"		"1"
+			"[mac10_video_cam]weapon_mac10"		"1"
+			"[scar_arctic_camo_panels]weapon_scar20"		"1"
+			"[xm1014_black_site]weapon_xm1014"		"1"
+			"[famas_corp_defense]weapon_famas"		"1"
+		}
+		"set_spy_tech_rare"
+		{
+			"[r8_monarch_extended]weapon_revolver"		"1"
+			"[aug_ghost_signal]weapon_aug"		"1"
+			"[mp9_prototype_extended]weapon_mp9"		"1"
+			"[m4a4_black_side_matte]weapon_m4a1"		"1"
+		}
+		"set_spy_tech_mythical"
+		{
+			"[cz75_hydraulics]weapon_cz75a"		"1"
+			"[nova_smart]weapon_nova"		"1"
+			"[awp_black_box]weapon_awp"		"1"
+		}
+		"set_spy_tech_legendary"
+		{
+			"[usps_spiral_glitch_iridescent]weapon_usp_silencer"		"1"
+			"[hye_spyglitch_green_m4a1s]weapon_m4a1_silencer"		"1"
+		}
+		"set_spy_tech_ancient"
+		{
+			"[ak47_autoexec_camo]weapon_ak47"		"1"
+			"[glock_ghost_protocol_red]weapon_glock"		"1"
+		}
+		"set_spy_tech"
+		{
+			"set_spy_tech_uncommon"		"1"
+			"set_spy_tech_rare"		"1"
+			"set_spy_tech_mythical"		"1"
+			"set_spy_tech_legendary"		"1"
+			"set_spy_tech_ancient"		"1"
+		}
+	}
+	"item_sets"
+	{
+		"set_spy_tech"
+		{
+			"name"		"#CSGO_set_spy_tech"
+			"set_description"		"#CSGO_set_spy_tech_desc"
+			"is_collection"		"1"
+			"items"
+			{
+				"[mp7_binary_green]weapon_mp7"		"1"
+				"[tec9_perimeter_urban]weapon_tec9"		"1"
+				"[mac10_video_cam]weapon_mac10"		"1"
+				"[scar_arctic_camo_panels]weapon_scar20"		"1"
+				"[xm1014_black_site]weapon_xm1014"		"1"
+				"[famas_corp_defense]weapon_famas"		"1"
+				"[r8_monarch_extended]weapon_revolver"		"1"
+				"[aug_ghost_signal]weapon_aug"		"1"
+				"[mp9_prototype_extended]weapon_mp9"		"1"
+				"[m4a4_black_side_matte]weapon_m4a1"		"1"
+				"[cz75_hydraulics]weapon_cz75a"		"1"
+				"[nova_smart]weapon_nova"		"1"
+				"[awp_black_box]weapon_awp"		"1"
+				"[usps_spiral_glitch_iridescent]weapon_usp_silencer"		"1"
+				"[hye_spyglitch_green_m4a1s]weapon_m4a1_silencer"		"1"
+				"[ak47_autoexec_camo]weapon_ak47"		"1"
+				"[glock_ghost_protocol_red]weapon_glock"		"1"
+			}
+		}
+	}
+	"paint_kits_rarity"
+	{
+		"mp7_binary_green"		"uncommon"
+		"tec9_perimeter_urban"		"uncommon"
+		"mac10_video_cam"		"uncommon"
+		"scar_arctic_camo_panels"		"uncommon"
+		"xm1014_black_site"		"uncommon"
+		"famas_corp_defense"		"uncommon"
+		"m4a4_black_side_matte"		"uncommon"
+		"r8_monarch_extended"		"rare"
+		"aug_ghost_signal"		"rare"
+		"mp9_prototype_extended"		"rare"
+		"awp_black_box"		"rare"
+		"cz75_hydraulics"		"mythical"
+		"nova_smart"		"mythical"
+		"usps_spiral_glitch_iridescent"		"mythical"
+		"hye_spyglitch_green_m4a1s"		"mythical"
+		"ak47_autoexec_camo"		"legendary"
+		"glock_ghost_protocol_red"		"legendary"
 	}
 	"client_loot_lists"
 	{
@@ -220802,6 +222922,56 @@
 	}
 	"client_loot_lists"
 	{
+		"sticker_pack_auto_racing_rare"
+		{
+			"[paper_boreal_blast]sticker"		"1"
+			"[paper_safari_shine]sticker"		"1"
+			"[paper_blaze_breeze]sticker"		"1"
+			"[paper_be_patient]sticker"		"1"
+			"[paper_bhop_hydraulics]sticker"		"1"
+			"[paper_run_boost]sticker"		"1"
+			"[paper_w_tires]sticker"		"1"
+			"[paper_roentgen_raceclub]sticker"		"1"
+			"[paper_defusal_sprint]sticker"		"1"
+			"[paper_killometer]sticker"		"1"
+			"[paper_racing_flag]sticker"		"1"
+			"[paper_bomb_on_board]sticker"		"1"
+			"[paper_sand_dune_baja_tour]sticker"		"1"
+		}
+		"sticker_pack_auto_racing_mythical"
+		{
+			"[holo_cone_zone]sticker"		"1"
+			"[holo_first_lap]sticker"		"1"
+			"[holo_neo_hold]sticker"		"1"
+			"[holo_neo_rush]sticker"		"1"
+			"[holo_safety_first]sticker"		"1"
+			"[holo_engine_start]sticker"		"1"
+		}
+		"sticker_pack_auto_racing_legendary"
+		{
+			"[foil_eco_mode]sticker"		"1"
+			"[foil_lucky_charms]sticker"		"1"
+			"[foil_born_to_peek]sticker"		"1"
+			"[foil_turbo_peek]sticker"		"1"
+			"[foil_watch_sniper]sticker"		"1"
+		}
+		"sticker_pack_auto_racing_ancient"
+		{
+			"[lenticular_burnout]sticker"		"1"
+			"[lenticular_nitro]sticker"		"1"
+			"[lenticular_digital_dashboard]sticker"		"1"
+			"[lenticular_handheld]sticker"		"1"
+		}
+		"sticker_pack_auto_racing_lootlist"
+		{
+			"sticker_pack_auto_racing_rare"		"1"
+			"sticker_pack_auto_racing_mythical"		"1"
+			"sticker_pack_auto_racing_legendary"		"1"
+			"sticker_pack_auto_racing_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
 		"sticker_pack_community_2025_rare"
 		{
 			"[paper_candy_apples]sticker"		"1"
@@ -220849,6 +223019,55 @@
 			"sticker_pack_community_2025_mythical"		"1"
 			"sticker_pack_community_2025_legendary"		"1"
 			"sticker_pack_community_2025_ancient"		"1"
+		}
+	}
+	"client_loot_lists"
+	{
+		"sticker_pack_fruits_veggies_rare"
+		{
+			"[paper_nana_strike]sticker"		"1"
+			"[paper_from_the_source]sticker"		"1"
+			"[paper_agent_kucumber]sticker"		"1"
+			"[paper_box_logo]sticker"		"1"
+			"[paper_dont_cry]sticker"		"1"
+			"[paper_fresh_cut]sticker"		"1"
+			"[paper_heckler]sticker"		"1"
+			"[paper_lemin]sticker"		"1"
+			"[paper_peekle]sticker"		"1"
+			"[paper_pungent_comms]sticker"		"1"
+			"[paper_radish_k]sticker"		"1"
+			"[paper_scratch_n_whiff]sticker"		"1"
+		}
+		"sticker_pack_fruits_veggies_mythical"
+		{
+			"[glitter_aceberry]sticker"		"1"
+			"[glitter_apple_a_day]sticker"		"1"
+			"[holo_juice_box]sticker"		"1"
+			"[holo_knife_streak]sticker"		"1"
+			"[holo_from_the_vine]sticker"		"1"
+			"[holo_hot_pepper]sticker"		"1"
+			"[holo_quality_control]sticker"		"1"
+			"[holo_ultra_fruity]sticker"		"1"
+		}
+		"sticker_pack_fruits_veggies_legendary"
+		{
+			"[foil_banana_face]sticker"		"1"
+			"[foil_modern_art]sticker"		"1"
+			"[foil_dragon_fruit]sticker"		"1"
+			"[foil_early_bird]sticker"		"1"
+			"[foil_fruit_fly]sticker"		"1"
+		}
+		"sticker_pack_fruits_veggies_ancient"
+		{
+			"[lenticular_pineapple_pizza]sticker"		"1"
+			"[lenticular_pepper_gauge]sticker"		"1"
+		}
+		"sticker_pack_fruits_veggies_lootlist"
+		{
+			"sticker_pack_fruits_veggies_rare"		"1"
+			"sticker_pack_fruits_veggies_mythical"		"1"
+			"sticker_pack_fruits_veggies_legendary"		"1"
+			"sticker_pack_fruits_veggies_ancient"		"1"
 		}
 	}
 	"client_loot_lists"
@@ -250676,12 +252895,998 @@
 				}
 			}
 		}
+		"85"
+		{
+			"name"		"kc_cologne2026_st1ultimatenukejumpkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1ultimatenukejumpkill"
+			"loc_name"		"#HighlightReel_cologne2026_st1ultimatenukejumpkill"
+		}
+		"86"
+		{
+			"name"		"kc_cologne2026_st1tabsenmirage1v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1tabsenmirage1v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st1tabsenmirage1v2clutch"
+		}
+		"87"
+		{
+			"name"		"kc_cologne2026_st1koalainfernoace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1koalainfernoace"
+			"loc_name"		"#HighlightReel_cologne2026_st1koalainfernoace"
+		}
+		"88"
+		{
+			"name"		"kc_cologne2026_st1starryancientquadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1starryancientquadkill"
+			"loc_name"		"#HighlightReel_cologne2026_st1starryancientquadkill"
+		}
+		"89"
+		{
+			"name"		"kc_cologne2026_st1asapinfernoace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1asapinfernoace"
+			"loc_name"		"#HighlightReel_cologne2026_st1asapinfernoace"
+		}
+		"90"
+		{
+			"name"		"kc_cologne2026_st1hypexinfernosmokekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1hypexinfernosmokekill"
+			"loc_name"		"#HighlightReel_cologne2026_st1hypexinfernosmokekill"
+		}
+		"91"
+		{
+			"name"		"kc_cologne2026_st1suspinferno1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1suspinferno1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st1suspinferno1v3clutch"
+		}
+		"92"
+		{
+			"name"		"kc_cologne2026_st1beastikancientquadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1beastikancientquadkill"
+			"loc_name"		"#HighlightReel_cologne2026_st1beastikancientquadkill"
+		}
+		"93"
+		{
+			"name"		"kc_cologne2026_st1s1zziinferno1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1s1zziinferno1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st1s1zziinferno1v3clutch"
+		}
+		"94"
+		{
+			"name"		"kc_cologne2026_st1magnojezdust21v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st1magnojezdust21v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st1magnojezdust21v3clutch"
+		}
+		"95"
+		{
+			"name"		"kc_cologne2026_st2nertzinfernoace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2nertzinfernoace"
+			"loc_name"		"#HighlightReel_cologne2026_st2nertzinfernoace"
+		}
+		"96"
+		{
+			"name"		"kc_cologne2026_st2gizmymirageknifekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2gizmymirageknifekill"
+			"loc_name"		"#HighlightReel_cologne2026_st2gizmymirageknifekill"
+		}
+		"97"
+		{
+			"name"		"kc_cologne2026_st2matysmirageace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2matysmirageace"
+			"loc_name"		"#HighlightReel_cologne2026_st2matysmirageace"
+		}
+		"98"
+		{
+			"name"		"kc_cologne2026_st2saffeenuketriplekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2saffeenuketriplekill"
+			"loc_name"		"#HighlightReel_cologne2026_st2saffeenuketriplekill"
+		}
+		"99"
+		{
+			"name"		"kc_cologne2026_st2gr1ksancient1v3awpclutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2gr1ksancient1v3awpclutch"
+			"loc_name"		"#HighlightReel_cologne2026_st2gr1ksancient1v3awpclutch"
+		}
+		"100"
+		{
+			"name"		"kc_cologne2026_st2kensizordust2acetoadvance"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2kensizordust2acetoadvance"
+			"loc_name"		"#HighlightReel_cologne2026_st2kensizordust2acetoadvance"
+		}
+		"101"
+		{
+			"name"		"kc_cologne2026_st2s1zzioverpassace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2s1zzioverpassace"
+			"loc_name"		"#HighlightReel_cologne2026_st2s1zzioverpassace"
+		}
+		"102"
+		{
+			"name"		"kc_cologne2026_st2venomzeramirage1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2venomzeramirage1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st2venomzeramirage1v3clutch"
+		}
+		"103"
+		{
+			"name"		"kc_cologne2026_st2donknuke4kwithonetaps"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2donknuke4kwithonetaps"
+			"loc_name"		"#HighlightReel_cologne2026_st2donknuke4kwithonetaps"
+		}
+		"104"
+		{
+			"name"		"kc_cologne2026_st2azuwudust2deagleace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st2azuwudust2deagleace"
+			"loc_name"		"#HighlightReel_cologne2026_st2azuwudust2deagleace"
+		}
+		"105"
+		{
+			"name"		"kc_cologne2026_st3w0nderfuldust22hp1v4clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3w0nderfuldust22hp1v4clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st3w0nderfuldust22hp1v4clutch"
+		}
+		"106"
+		{
+			"name"		"kc_cologne2026_st3sh1rodust24kwith1v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3sh1rodust24kwith1v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st3sh1rodust24kwith1v2clutch"
+		}
+		"107"
+		{
+			"name"		"kc_cologne2026_st3magixxanubismultiweaponace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3magixxanubismultiweaponace"
+			"loc_name"		"#HighlightReel_cologne2026_st3magixxanubismultiweaponace"
+		}
+		"108"
+		{
+			"name"		"kc_cologne2026_st3ksceratoinferno1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3ksceratoinferno1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st3ksceratoinferno1v3clutch"
+		}
+		"109"
+		{
+			"name"		"kc_cologne2026_st3yekindarmiragetriplekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3yekindarmiragetriplekill"
+			"loc_name"		"#HighlightReel_cologne2026_st3yekindarmiragetriplekill"
+		}
+		"110"
+		{
+			"name"		"kc_cologne2026_st3zywoooverpassacewith1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3zywoooverpassacewith1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st3zywoooverpassacewith1v3clutch"
+		}
+		"111"
+		{
+			"name"		"kc_cologne2026_st3dgtoverpasspistolace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3dgtoverpasspistolace"
+			"loc_name"		"#HighlightReel_cologne2026_st3dgtoverpasspistolace"
+		}
+		"112"
+		{
+			"name"		"kc_cologne2026_st3woxicdust21v4clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3woxicdust21v4clutch"
+			"loc_name"		"#HighlightReel_cologne2026_st3woxicdust21v4clutch"
+		}
+		"113"
+		{
+			"name"		"kc_cologne2026_st3nikomiragequadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3nikomiragequadkill"
+			"loc_name"		"#HighlightReel_cologne2026_st3nikomiragequadkill"
+		}
+		"114"
+		{
+			"name"		"kc_cologne2026_st3krabenimirageace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_st3krabenimirageace"
+			"loc_name"		"#HighlightReel_cologne2026_st3krabenimirageace"
+		}
+		"115"
+		{
+			"name"		"kc_cologne2026_qfboombl4nuke1v3clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfboombl4nuke1v3clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfboombl4nuke1v3clutch"
+		}
+		"116"
+		{
+			"name"		"kc_cologne2026_qfsoulflynuke1v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfsoulflynuke1v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfsoulflynuke1v2clutch"
+		}
+		"117"
+		{
+			"name"		"kc_cologne2026_qfsh1romirageace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfsh1romirageace"
+			"loc_name"		"#HighlightReel_cologne2026_qfsh1romirageace"
+		}
+		"118"
+		{
+			"name"		"kc_cologne2026_qfmagixxmirage1v4clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfmagixxmirage1v4clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfmagixxmirage1v4clutch"
+		}
+		"119"
+		{
+			"name"		"kc_cologne2026_qfdonkdust21v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfdonkdust21v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfdonkdust21v2clutch"
+		}
+		"120"
+		{
+			"name"		"kc_cologne2026_qfkyousukeanubis3kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfkyousukeanubis3kills"
+			"loc_name"		"#HighlightReel_cologne2026_qfkyousukeanubis3kills"
+		}
+		"121"
+		{
+			"name"		"kc_cologne2026_qfmeziidust2molotovkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfmeziidust2molotovkill"
+			"loc_name"		"#HighlightReel_cologne2026_qfmeziidust2molotovkill"
+		}
+		"122"
+		{
+			"name"		"kc_cologne2026_qfyuurihmirage1v4clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfyuurihmirage1v4clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfyuurihmirage1v4clutch"
+		}
+		"123"
+		{
+			"name"		"kc_cologne2026_qfhuasopeekoverpassace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfhuasopeekoverpassace"
+			"loc_name"		"#HighlightReel_cologne2026_qfhuasopeekoverpassace"
+		}
+		"124"
+		{
+			"name"		"kc_cologne2026_qfmaxdust21v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_qfmaxdust21v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_qfmaxdust21v2clutch"
+		}
+		"125"
+		{
+			"name"		"kc_cologne2026_sfsoulflydust23kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfsoulflydust23kills"
+			"loc_name"		"#HighlightReel_cologne2026_sfsoulflydust23kills"
+		}
+		"126"
+		{
+			"name"		"kc_cologne2026_sfksceratodust2ace"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfksceratodust2ace"
+			"loc_name"		"#HighlightReel_cologne2026_sfksceratodust2ace"
+		}
+		"127"
+		{
+			"name"		"kc_cologne2026_sfyekindardust22kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfyekindardust22kills"
+			"loc_name"		"#HighlightReel_cologne2026_sfyekindardust22kills"
+		}
+		"128"
+		{
+			"name"		"kc_cologne2026_sfyekindarnuketriplekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfyekindarnuketriplekill"
+			"loc_name"		"#HighlightReel_cologne2026_sfyekindarnuketriplekill"
+		}
+		"129"
+		{
+			"name"		"kc_cologne2026_sfksceratonukequadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfksceratonukequadkill"
+			"loc_name"		"#HighlightReel_cologne2026_sfksceratonukequadkill"
+		}
+		"130"
+		{
+			"name"		"kc_cologne2026_sfkyousukeanubistriplekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfkyousukeanubistriplekill"
+			"loc_name"		"#HighlightReel_cologne2026_sfkyousukeanubistriplekill"
+		}
+		"131"
+		{
+			"name"		"kc_cologne2026_sfsh1roanubisquadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfsh1roanubisquadkill"
+			"loc_name"		"#HighlightReel_cologne2026_sfsh1roanubisquadkill"
+		}
+		"132"
+		{
+			"name"		"kc_cologne2026_sftesesdust21v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sftesesdust21v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_sftesesdust21v2clutch"
+		}
+		"133"
+		{
+			"name"		"kc_cologne2026_sfkarriganmirage4kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfkarriganmirage4kills"
+			"loc_name"		"#HighlightReel_cologne2026_sfkarriganmirage4kills"
+		}
+		"134"
+		{
+			"name"		"kc_cologne2026_sfmagixxmirage4kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_sfmagixxmirage4kills"
+			"loc_name"		"#HighlightReel_cologne2026_sfmagixxmirage4kills"
+		}
+		"135"
+		{
+			"name"		"kc_cologne2026_gffalconsteamentrance"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gffalconsteamentrance"
+			"loc_name"		"#HighlightReel_cologne2026_gffalconsteamentrance"
+		}
+		"136"
+		{
+			"name"		"kc_cologne2026_gffuriateamentrance"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gffuriateamentrance"
+			"loc_name"		"#HighlightReel_cologne2026_gffuriateamentrance"
+		}
+		"137"
+		{
+			"name"		"kc_cologne2026_gffallenmiragequadkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gffallenmiragequadkill"
+			"loc_name"		"#HighlightReel_cologne2026_gffallenmiragequadkill"
+		}
+		"138"
+		{
+			"name"		"kc_cologne2026_gfm0nesyanubis4kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfm0nesyanubis4kills"
+			"loc_name"		"#HighlightReel_cologne2026_gfm0nesyanubis4kills"
+		}
+		"139"
+		{
+			"name"		"kc_cologne2026_gfm0nesyanubis3killswith1v2clutch"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfm0nesyanubis3killswith1v2clutch"
+			"loc_name"		"#HighlightReel_cologne2026_gfm0nesyanubis3killswith1v2clutch"
+		}
+		"140"
+		{
+			"name"		"kc_cologne2026_gfkyousukeinferno4kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfkyousukeinferno4kills"
+			"loc_name"		"#HighlightReel_cologne2026_gfkyousukeinferno4kills"
+		}
+		"141"
+		{
+			"name"		"kc_cologne2026_gfkarriganinferno3kills"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfkarriganinferno3kills"
+			"loc_name"		"#HighlightReel_cologne2026_gfkarriganinferno3kills"
+		}
+		"142"
+		{
+			"name"		"kc_cologne2026_gfnikoinfernotriplekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfnikoinfernotriplekill"
+			"loc_name"		"#HighlightReel_cologne2026_gfnikoinfernotriplekill"
+		}
+		"143"
+		{
+			"name"		"kc_cologne2026_gfkarriganinfernodoublekill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfkarriganinfernodoublekill"
+			"loc_name"		"#HighlightReel_cologne2026_gfkarriganinfernodoublekill"
+		}
+		"144"
+		{
+			"name"		"kc_cologne2026_gfm0nesyinfernomajorwinningkill"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gfm0nesyinfernomajorwinningkill"
+			"loc_name"		"#HighlightReel_cologne2026_gfm0nesyinfernomajorwinningkill"
+		}
+		"145"
+		{
+			"name"		"kc_cologne2026_gffalconstrophyliftingmoment"
+			"base"		"kc_cologne2026"
+			"highlight_reel"		"cologne2026_gffalconstrophyliftingmoment"
+			"loc_name"		"#HighlightReel_cologne2026_gffalconstrophyliftingmoment"
+		}
+	}
+	"highlight_reels"
+	{
+		"866"
+		{
+			"id"		"cologne2026_st1ultimatenukejumpkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"48"
+			"tournament event team1 id"		"69"
+		}
+		"867"
+		{
+			"id"		"cologne2026_st1tabsenmirage1v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"69"
+			"tournament event team1 id"		"87"
+		}
+		"868"
+		{
+			"id"		"cologne2026_st1koalainfernoace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"74"
+			"tournament event team1 id"		"104"
+		}
+		"869"
+		{
+			"id"		"cologne2026_st1starryancientquadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_ancient"
+			"tournament event team0 id"		"74"
+			"tournament event team1 id"		"127"
+		}
+		"870"
+		{
+			"id"		"cologne2026_st1asapinfernoace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"80"
+			"tournament event team1 id"		"148"
+		}
+		"871"
+		{
+			"id"		"cologne2026_st1hypexinfernosmokekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"87"
+			"tournament event team1 id"		"115"
+		}
+		"872"
+		{
+			"id"		"cologne2026_st1suspinferno1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"95"
+			"tournament event team1 id"		"146"
+		}
+		"873"
+		{
+			"id"		"cologne2026_st1beastikancientquadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_ancient"
+			"tournament event team0 id"		"132"
+			"tournament event team1 id"		"147"
+		}
+		"874"
+		{
+			"id"		"cologne2026_st1s1zziinferno1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"135"
+			"tournament event team1 id"		"140"
+		}
+		"875"
+		{
+			"id"		"cologne2026_st1magnojezdust21v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"49"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"137"
+			"tournament event team1 id"		"146"
+		}
+		"876"
+		{
+			"id"		"cologne2026_st2nertzinfernoace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"69"
+		}
+		"877"
+		{
+			"id"		"cologne2026_st2gizmymirageknifekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"119"
+		}
+		"878"
+		{
+			"id"		"cologne2026_st2matysmirageace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"140"
+		}
+		"879"
+		{
+			"id"		"cologne2026_st2saffeenuketriplekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"60"
+			"tournament event team1 id"		"102"
+		}
+		"880"
+		{
+			"id"		"cologne2026_st2gr1ksancient1v3awpclutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_ancient"
+			"tournament event team0 id"		"69"
+			"tournament event team1 id"		"135"
+		}
+		"881"
+		{
+			"id"		"cologne2026_st2kensizordust2acetoadvance"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"69"
+			"tournament event team1 id"		"135"
+		}
+		"882"
+		{
+			"id"		"cologne2026_st2s1zzioverpassace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_overpass"
+			"tournament event team0 id"		"69"
+			"tournament event team1 id"		"135"
+		}
+		"883"
+		{
+			"id"		"cologne2026_st2venomzeramirage1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"80"
+			"tournament event team1 id"		"135"
+		}
+		"884"
+		{
+			"id"		"cologne2026_st2donknuke4kwithonetaps"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"112"
+		}
+		"885"
+		{
+			"id"		"cologne2026_st2azuwudust2deagleace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"65"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"102"
+			"tournament event team1 id"		"119"
+		}
+		"886"
+		{
+			"id"		"cologne2026_st3w0nderfuldust22hp1v4clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"12"
+			"tournament event team1 id"		"59"
+		}
+		"887"
+		{
+			"id"		"cologne2026_st3sh1rodust24kwith1v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"112"
+		}
+		"888"
+		{
+			"id"		"cologne2026_st3magixxanubismultiweaponace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"134"
+		}
+		"889"
+		{
+			"id"		"cologne2026_st3ksceratoinferno1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"135"
+		}
+		"890"
+		{
+			"id"		"cologne2026_st3yekindarmiragetriplekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"135"
+		}
+		"891"
+		{
+			"id"		"cologne2026_st3zywoooverpassacewith1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_overpass"
+			"tournament event team0 id"		"89"
+			"tournament event team1 id"		"145"
+		}
+		"892"
+		{
+			"id"		"cologne2026_st3dgtoverpasspistolace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_overpass"
+			"tournament event team0 id"		"112"
+			"tournament event team1 id"		"122"
+		}
+		"893"
+		{
+			"id"		"cologne2026_st3woxicdust21v4clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"112"
+			"tournament event team1 id"		"134"
+		}
+		"894"
+		{
+			"id"		"cologne2026_st3nikomiragequadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"119"
+			"tournament event team1 id"		"139"
+		}
+		"895"
+		{
+			"id"		"cologne2026_st3krabenimirageace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"83"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"137"
+			"tournament event team1 id"		"145"
+		}
+		"896"
+		{
+			"id"		"cologne2026_qfboombl4nuke1v3clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"134"
+			"tournament event team1 id"		"137"
+		}
+		"897"
+		{
+			"id"		"cologne2026_qfsoulflynuke1v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"134"
+			"tournament event team1 id"		"137"
+		}
+		"898"
+		{
+			"id"		"cologne2026_qfsh1romirageace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"81"
+		}
+		"899"
+		{
+			"id"		"cologne2026_qfmagixxmirage1v4clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"81"
+		}
+		"900"
+		{
+			"id"		"cologne2026_qfdonkdust21v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"59"
+			"tournament event team1 id"		"81"
+		}
+		"901"
+		{
+			"id"		"cologne2026_qfkyousukeanubis3kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"89"
+			"tournament event team1 id"		"139"
+		}
+		"902"
+		{
+			"id"		"cologne2026_qfmeziidust2molotovkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"89"
+			"tournament event team1 id"		"139"
+		}
+		"903"
+		{
+			"id"		"cologne2026_qfyuurihmirage1v4clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"112"
+		}
+		"904"
+		{
+			"id"		"cologne2026_qfhuasopeekoverpassace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_overpass"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"112"
+		}
+		"905"
+		{
+			"id"		"cologne2026_qfmaxdust21v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"6"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"112"
+		}
+		"906"
+		{
+			"id"		"cologne2026_sfsoulflydust23kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"134"
+		}
+		"907"
+		{
+			"id"		"cologne2026_sfksceratodust2ace"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"134"
+		}
+		"908"
+		{
+			"id"		"cologne2026_sfyekindardust22kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"134"
+		}
+		"909"
+		{
+			"id"		"cologne2026_sfyekindarnuketriplekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"134"
+		}
+		"910"
+		{
+			"id"		"cologne2026_sfksceratonukequadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_nuke"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"134"
+		}
+		"911"
+		{
+			"id"		"cologne2026_sfkyousukeanubistriplekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"139"
+		}
+		"912"
+		{
+			"id"		"cologne2026_sfsh1roanubisquadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"139"
+		}
+		"913"
+		{
+			"id"		"cologne2026_sftesesdust21v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_dust2"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"139"
+		}
+		"914"
+		{
+			"id"		"cologne2026_sfkarriganmirage4kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"139"
+		}
+		"915"
+		{
+			"id"		"cologne2026_sfmagixxmirage4kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"8"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"81"
+			"tournament event team1 id"		"139"
+		}
+		"916"
+		{
+			"id"		"cologne2026_gffalconsteamentrance"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"917"
+		{
+			"id"		"cologne2026_gffuriateamentrance"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"918"
+		{
+			"id"		"cologne2026_gffallenmiragequadkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_mirage"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"919"
+		{
+			"id"		"cologne2026_gfm0nesyanubis4kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"920"
+		{
+			"id"		"cologne2026_gfm0nesyanubis3killswith1v2clutch"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_anubis"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"921"
+		{
+			"id"		"cologne2026_gfkyousukeinferno4kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"922"
+		{
+			"id"		"cologne2026_gfkarriganinferno3kills"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"923"
+		{
+			"id"		"cologne2026_gfnikoinfernotriplekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"924"
+		{
+			"id"		"cologne2026_gfkarriganinfernodoublekill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"925"
+		{
+			"id"		"cologne2026_gfm0nesyinfernomajorwinningkill"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
+		"926"
+		{
+			"id"		"cologne2026_gffalconstrophyliftingmoment"
+			"tournament event id"		"26"
+			"tournament event stage id"		"97"
+			"map"		"de_inferno"
+			"tournament event team0 id"		"85"
+			"tournament event team1 id"		"139"
+		}
 	}
 	"revolving_loot_lists"
 	{
 		"469"		"crate_sticker_pack_cologne2026_orgs"
 		"470"		"crate_signature_pack_cologne2026_group_players"
 		"471"		"crate_sticker_pack_cologne2026_all"
+		"472"		"crate_highlights_pack_cologne2026_1"
+		"473"		"crate_highlights_pack_cologne2026_2"
+		"474"		"crate_highlights_pack_cologne2026_3"
+		"475"		"crate_highlights_pack_cologne2026_4"
+		"476"		"crate_highlights_pack_cologne2026_5"
+		"477"		"crate_highlights_pack_cologne2026_6"
+		"478"		"crate_sticker_pack_cologne2026_champion"
 	}
 	"client_loot_lists"
 	{
@@ -250999,6 +254204,11 @@
 			"[cologne2026_signature_vexite]sticker"		"1"
 			"[cologne2026_signature_story]sticker"		"1"
 			"[cologne2026_signature_nettik]sticker"		"1"
+			"[cologne2026_signature_niko_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_champion]sticker"		"1"
+			"[cologne2026_signature_teses_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_champion]sticker"		"1"
 		}
 		"crate_signature_pack_cologne2026_group_players_mythical"
 		{
@@ -251162,6 +254372,11 @@
 			"[cologne2026_signature_vexite_foil]sticker"		"1"
 			"[cologne2026_signature_story_foil]sticker"		"1"
 			"[cologne2026_signature_nettik_foil]sticker"		"1"
+			"[cologne2026_signature_niko_foil_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_foil_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_foil_champion]sticker"		"1"
+			"[cologne2026_signature_teses_foil_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_foil_champion]sticker"		"1"
 		}
 		"crate_signature_pack_cologne2026_group_players_legendary"
 		{
@@ -251325,6 +254540,11 @@
 			"[cologne2026_signature_vexite_holo]sticker"		"1"
 			"[cologne2026_signature_story_holo]sticker"		"1"
 			"[cologne2026_signature_nettik_holo]sticker"		"1"
+			"[cologne2026_signature_niko_holo_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_holo_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_holo_champion]sticker"		"1"
+			"[cologne2026_signature_teses_holo_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_holo_champion]sticker"		"1"
 		}
 		"crate_signature_pack_cologne2026_group_players_ancient"
 		{
@@ -251488,6 +254708,11 @@
 			"[cologne2026_signature_vexite_gold]sticker"		"1"
 			"[cologne2026_signature_story_gold]sticker"		"1"
 			"[cologne2026_signature_nettik_gold]sticker"		"1"
+			"[cologne2026_signature_niko_gold_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_gold_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_gold_champion]sticker"		"1"
+			"[cologne2026_signature_teses_gold_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_gold_champion]sticker"		"1"
 		}
 		"crate_signature_pack_cologne2026_group_players"
 		{
@@ -252292,6 +255517,124 @@
 			"crate_sticker_pack_cologne2026_all_legendary"		"1"
 			"crate_sticker_pack_cologne2026_all_ancient"		"1"
 		}
+		"crate_sticker_pack_cologne2026_champion_rare"
+		{
+			"[cologne2026_signature_niko_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_champion]sticker"		"1"
+			"[cologne2026_signature_teses_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_champion]sticker"		"1"
+		}
+		"crate_sticker_pack_cologne2026_champion_mythical"
+		{
+			"[cologne2026_signature_niko_foil_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_foil_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_foil_champion]sticker"		"1"
+			"[cologne2026_signature_teses_foil_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_foil_champion]sticker"		"1"
+		}
+		"crate_sticker_pack_cologne2026_champion_legendary"
+		{
+			"[cologne2026_signature_niko_holo_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_holo_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_holo_champion]sticker"		"1"
+			"[cologne2026_signature_teses_holo_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_holo_champion]sticker"		"1"
+		}
+		"crate_sticker_pack_cologne2026_champion_ancient"
+		{
+			"[cologne2026_signature_niko_gold_champion]sticker"		"1"
+			"[cologne2026_signature_kyxsan_gold_champion]sticker"		"1"
+			"[cologne2026_signature_m0nesy_gold_champion]sticker"		"1"
+			"[cologne2026_signature_teses_gold_champion]sticker"		"1"
+			"[cologne2026_signature_kyousuke_gold_champion]sticker"		"1"
+		}
+		"crate_sticker_pack_cologne2026_champion"
+		{
+			"crate_sticker_pack_cologne2026_champion_rare"		"1"
+			"crate_sticker_pack_cologne2026_champion_mythical"		"1"
+			"crate_sticker_pack_cologne2026_champion_legendary"		"1"
+			"crate_sticker_pack_cologne2026_champion_ancient"		"1"
+		}
+		"crate_highlights_pack_cologne2026_1"
+		{
+			"[kc_cologne2026_st1ultimatenukejumpkill]keychain"		"1"
+			"[kc_cologne2026_st1tabsenmirage1v2clutch]keychain"		"1"
+			"[kc_cologne2026_st1koalainfernoace]keychain"		"1"
+			"[kc_cologne2026_st1starryancientquadkill]keychain"		"1"
+			"[kc_cologne2026_st1asapinfernoace]keychain"		"1"
+			"[kc_cologne2026_st1hypexinfernosmokekill]keychain"		"1"
+			"[kc_cologne2026_st1suspinferno1v3clutch]keychain"		"1"
+			"[kc_cologne2026_st1beastikancientquadkill]keychain"		"1"
+			"[kc_cologne2026_st1s1zziinferno1v3clutch]keychain"		"1"
+			"[kc_cologne2026_st1magnojezdust21v3clutch]keychain"		"1"
+		}
+		"crate_highlights_pack_cologne2026_2"
+		{
+			"[kc_cologne2026_st2nertzinfernoace]keychain"		"1"
+			"[kc_cologne2026_st2gizmymirageknifekill]keychain"		"1"
+			"[kc_cologne2026_st2matysmirageace]keychain"		"1"
+			"[kc_cologne2026_st2saffeenuketriplekill]keychain"		"1"
+			"[kc_cologne2026_st2gr1ksancient1v3awpclutch]keychain"		"1"
+			"[kc_cologne2026_st2kensizordust2acetoadvance]keychain"		"1"
+			"[kc_cologne2026_st2s1zzioverpassace]keychain"		"1"
+			"[kc_cologne2026_st2venomzeramirage1v3clutch]keychain"		"1"
+			"[kc_cologne2026_st2donknuke4kwithonetaps]keychain"		"1"
+			"[kc_cologne2026_st2azuwudust2deagleace]keychain"		"1"
+		}
+		"crate_highlights_pack_cologne2026_3"
+		{
+			"[kc_cologne2026_st3w0nderfuldust22hp1v4clutch]keychain"		"1"
+			"[kc_cologne2026_st3sh1rodust24kwith1v2clutch]keychain"		"1"
+			"[kc_cologne2026_st3magixxanubismultiweaponace]keychain"		"1"
+			"[kc_cologne2026_st3ksceratoinferno1v3clutch]keychain"		"1"
+			"[kc_cologne2026_st3yekindarmiragetriplekill]keychain"		"1"
+			"[kc_cologne2026_st3zywoooverpassacewith1v3clutch]keychain"		"1"
+			"[kc_cologne2026_st3dgtoverpasspistolace]keychain"		"1"
+			"[kc_cologne2026_st3woxicdust21v4clutch]keychain"		"1"
+			"[kc_cologne2026_st3nikomiragequadkill]keychain"		"1"
+			"[kc_cologne2026_st3krabenimirageace]keychain"		"1"
+		}
+		"crate_highlights_pack_cologne2026_4"
+		{
+			"[kc_cologne2026_qfboombl4nuke1v3clutch]keychain"		"1"
+			"[kc_cologne2026_qfsoulflynuke1v2clutch]keychain"		"1"
+			"[kc_cologne2026_qfsh1romirageace]keychain"		"1"
+			"[kc_cologne2026_qfmagixxmirage1v4clutch]keychain"		"1"
+			"[kc_cologne2026_qfdonkdust21v2clutch]keychain"		"1"
+			"[kc_cologne2026_qfkyousukeanubis3kills]keychain"		"1"
+			"[kc_cologne2026_qfmeziidust2molotovkill]keychain"		"1"
+			"[kc_cologne2026_qfyuurihmirage1v4clutch]keychain"		"1"
+			"[kc_cologne2026_qfhuasopeekoverpassace]keychain"		"1"
+			"[kc_cologne2026_qfmaxdust21v2clutch]keychain"		"1"
+		}
+		"crate_highlights_pack_cologne2026_5"
+		{
+			"[kc_cologne2026_sfsoulflydust23kills]keychain"		"1"
+			"[kc_cologne2026_sfksceratodust2ace]keychain"		"1"
+			"[kc_cologne2026_sfyekindardust22kills]keychain"		"1"
+			"[kc_cologne2026_sfyekindarnuketriplekill]keychain"		"1"
+			"[kc_cologne2026_sfksceratonukequadkill]keychain"		"1"
+			"[kc_cologne2026_sfkyousukeanubistriplekill]keychain"		"1"
+			"[kc_cologne2026_sfsh1roanubisquadkill]keychain"		"1"
+			"[kc_cologne2026_sftesesdust21v2clutch]keychain"		"1"
+			"[kc_cologne2026_sfkarriganmirage4kills]keychain"		"1"
+			"[kc_cologne2026_sfmagixxmirage4kills]keychain"		"1"
+		}
+		"crate_highlights_pack_cologne2026_6"
+		{
+			"[kc_cologne2026_gffalconsteamentrance]keychain"		"1"
+			"[kc_cologne2026_gffuriateamentrance]keychain"		"1"
+			"[kc_cologne2026_gffallenmiragequadkill]keychain"		"1"
+			"[kc_cologne2026_gfm0nesyanubis4kills]keychain"		"1"
+			"[kc_cologne2026_gfm0nesyanubis3killswith1v2clutch]keychain"		"1"
+			"[kc_cologne2026_gfkyousukeinferno4kills]keychain"		"1"
+			"[kc_cologne2026_gfkarriganinferno3kills]keychain"		"1"
+			"[kc_cologne2026_gfnikoinfernotriplekill]keychain"		"1"
+			"[kc_cologne2026_gfkarriganinfernodoublekill]keychain"		"1"
+			"[kc_cologne2026_gfm0nesyinfernomajorwinningkill]keychain"		"1"
+			"[kc_cologne2026_gffalconstrophyliftingmoment]keychain"		"1"
+		}
 	}
 	"seasonaloperations"
 	{
@@ -252299,6 +255642,13 @@
 		{
 			"redeemable_goods"		"credits"
 			"redeemable_goods"		"@crate_sticker_pack_cologne2026_all"
+			"redeemable_goods"		"@crate_sticker_pack_cologne2026_champion"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_1"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_2"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_3"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_4"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_5"
+			"redeemable_goods"		"@crate_highlights_pack_cologne2026_6"
 		}
 	}
 	"items"
@@ -252389,6 +255739,19 @@
 			"attributes"
 			{
 				"set supply crate series"		"471"
+				"volatile container"		"2"
+			}
+		}
+		"5329"
+		{
+			"item_name"		"#CSGO_crate_sticker_pack_cologne2026_all"
+			"name"		"crate_sticker_pack_cologne2026_champion"
+			"item_description"		"#CSGO_crate_sticker_pack_cologne2026_all_desc"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_stickercap1"
+			"attributes"
+			{
+				"set supply crate series"		"478"
 				"volatile container"		"2"
 			}
 		}
@@ -252492,6 +255855,84 @@
 					"attribute_class"		"tournament_event_id"
 					"value"		"26"
 				}
+			}
+		}
+		"5323"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_1"
+			"item_description"		"#CSGO_Tournament_Event_Stage_49"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"472"
+				"volatile container"		"2"
+			}
+		}
+		"5324"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_2"
+			"item_description"		"#CSGO_Tournament_Event_Stage_65"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"473"
+				"volatile container"		"2"
+			}
+		}
+		"5325"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_3"
+			"item_description"		"#CSGO_Tournament_Event_Stage_83"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"474"
+				"volatile container"		"2"
+			}
+		}
+		"5326"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_4"
+			"item_description"		"#CSGO_Tournament_Event_Stage_6"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"475"
+				"volatile container"		"2"
+			}
+		}
+		"5327"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_5"
+			"item_description"		"#CSGO_Tournament_Event_Stage_8"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"476"
+				"volatile container"		"2"
+			}
+		}
+		"5328"
+		{
+			"item_name"		"#keychain_kc_cologne2026"
+			"name"		"crate_highlights_pack_cologne2026_6"
+			"item_description"		"#CSGO_Tournament_Event_Stage_97"
+			"image_inventory"		"econ/tournaments/cologne2026/cologne2026_credits"
+			"prefab"		"cologne2026_sticker_capsule_prefab volatile_pricing_uniform1"
+			"attributes"
+			{
+				"set supply crate series"		"477"
+				"volatile container"		"2"
 			}
 		}
 	}
@@ -261186,6 +264627,226 @@
 			"tournament_event_id"		"26"
 			"tournament_team_id"		"132"
 			"tournament_player_id"		"372579523"
+		}
+		"11174"
+		{
+			"name"		"cologne2026_signature_niko_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_niko_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_niko_champion"
+			"sticker_material"		"cologne2026/sig_niko_champion"
+			"item_rarity"		"rare"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"81417650"
+		}
+		"11175"
+		{
+			"name"		"cologne2026_signature_niko_foil_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_niko_foil_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_niko_foil_champion"
+			"sticker_material"		"cologne2026/sig_niko_champion_foil"
+			"item_rarity"		"mythical"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"81417650"
+		}
+		"11176"
+		{
+			"name"		"cologne2026_signature_niko_holo_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_niko_holo_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_niko_holo_champion"
+			"sticker_material"		"cologne2026/sig_niko_champion_holo"
+			"item_rarity"		"legendary"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"81417650"
+		}
+		"11177"
+		{
+			"name"		"cologne2026_signature_niko_gold_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_niko_gold_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_niko_gold_champion"
+			"sticker_material"		"cologne2026/sig_niko_champion_gold"
+			"item_rarity"		"ancient"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"81417650"
+		}
+		"11178"
+		{
+			"name"		"cologne2026_signature_kyxsan_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyxsan_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyxsan_champion"
+			"sticker_material"		"cologne2026/sig_kyxsan_champion"
+			"item_rarity"		"rare"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"97016704"
+		}
+		"11179"
+		{
+			"name"		"cologne2026_signature_kyxsan_foil_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyxsan_foil_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyxsan_foil_champion"
+			"sticker_material"		"cologne2026/sig_kyxsan_champion_foil"
+			"item_rarity"		"mythical"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"97016704"
+		}
+		"11180"
+		{
+			"name"		"cologne2026_signature_kyxsan_holo_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyxsan_holo_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyxsan_holo_champion"
+			"sticker_material"		"cologne2026/sig_kyxsan_champion_holo"
+			"item_rarity"		"legendary"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"97016704"
+		}
+		"11181"
+		{
+			"name"		"cologne2026_signature_kyxsan_gold_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyxsan_gold_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyxsan_gold_champion"
+			"sticker_material"		"cologne2026/sig_kyxsan_champion_gold"
+			"item_rarity"		"ancient"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"97016704"
+		}
+		"11182"
+		{
+			"name"		"cologne2026_signature_m0nesy_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_m0nesy_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_m0nesy_champion"
+			"sticker_material"		"cologne2026/sig_m0nesy_champion"
+			"item_rarity"		"rare"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"114497073"
+		}
+		"11183"
+		{
+			"name"		"cologne2026_signature_m0nesy_foil_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_m0nesy_foil_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_m0nesy_foil_champion"
+			"sticker_material"		"cologne2026/sig_m0nesy_champion_foil"
+			"item_rarity"		"mythical"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"114497073"
+		}
+		"11184"
+		{
+			"name"		"cologne2026_signature_m0nesy_holo_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_m0nesy_holo_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_m0nesy_holo_champion"
+			"sticker_material"		"cologne2026/sig_m0nesy_champion_holo"
+			"item_rarity"		"legendary"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"114497073"
+		}
+		"11185"
+		{
+			"name"		"cologne2026_signature_m0nesy_gold_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_m0nesy_gold_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_m0nesy_gold_champion"
+			"sticker_material"		"cologne2026/sig_m0nesy_champion_gold"
+			"item_rarity"		"ancient"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"114497073"
+		}
+		"11186"
+		{
+			"name"		"cologne2026_signature_teses_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_teses_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_teses_champion"
+			"sticker_material"		"cologne2026/sig_teses_champion"
+			"item_rarity"		"rare"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"36412550"
+		}
+		"11187"
+		{
+			"name"		"cologne2026_signature_teses_foil_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_teses_foil_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_teses_foil_champion"
+			"sticker_material"		"cologne2026/sig_teses_champion_foil"
+			"item_rarity"		"mythical"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"36412550"
+		}
+		"11188"
+		{
+			"name"		"cologne2026_signature_teses_holo_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_teses_holo_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_teses_holo_champion"
+			"sticker_material"		"cologne2026/sig_teses_champion_holo"
+			"item_rarity"		"legendary"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"36412550"
+		}
+		"11189"
+		{
+			"name"		"cologne2026_signature_teses_gold_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_teses_gold_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_teses_gold_champion"
+			"sticker_material"		"cologne2026/sig_teses_champion_gold"
+			"item_rarity"		"ancient"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"36412550"
+		}
+		"11190"
+		{
+			"name"		"cologne2026_signature_kyousuke_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyousuke_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyousuke_champion"
+			"sticker_material"		"cologne2026/sig_kyousuke_champion"
+			"item_rarity"		"rare"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"1071740496"
+		}
+		"11191"
+		{
+			"name"		"cologne2026_signature_kyousuke_foil_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyousuke_foil_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyousuke_foil_champion"
+			"sticker_material"		"cologne2026/sig_kyousuke_champion_foil"
+			"item_rarity"		"mythical"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"1071740496"
+		}
+		"11192"
+		{
+			"name"		"cologne2026_signature_kyousuke_holo_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyousuke_holo_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyousuke_holo_champion"
+			"sticker_material"		"cologne2026/sig_kyousuke_champion_holo"
+			"item_rarity"		"legendary"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"1071740496"
+		}
+		"11193"
+		{
+			"name"		"cologne2026_signature_kyousuke_gold_champion"
+			"item_name"		"#StickerKit_cologne2026_signature_kyousuke_gold_champion"
+			"description_string"		"#StickerKit_desc_cologne2026_signature_kyousuke_gold_champion"
+			"sticker_material"		"cologne2026/sig_kyousuke_champion_gold"
+			"item_rarity"		"ancient"
+			"tournament_event_id"		"26"
+			"tournament_team_id"		"139"
+			"tournament_player_id"		"1071740496"
 		}
 	}
 	"quest_definitions"
