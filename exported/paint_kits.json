@@ -14789,7 +14789,7 @@
     "definition_index": 852,
     "name": "am_doppler_phase1_widow",
     "description": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n\u003ci\u003eGetting lost in its color can prove fatal\u003c/i\u003e",
-    "market_hash_name": "Doppler",
+    "market_hash_name": "Doppler (Phase 1)",
     "float": {
       "min": 0.0,
       "max": 0.08
@@ -14806,7 +14806,7 @@
     "definition_index": 853,
     "name": "am_doppler_phase2_widow",
     "description": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n\u003ci\u003eGetting lost in its color can prove fatal\u003c/i\u003e",
-    "market_hash_name": "Doppler",
+    "market_hash_name": "Doppler (Phase 2)",
     "float": {
       "min": 0.0,
       "max": 0.08
@@ -14823,7 +14823,7 @@
     "definition_index": 854,
     "name": "am_doppler_phase3_widow",
     "description": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n\u003ci\u003eGetting lost in its color can prove fatal\u003c/i\u003e",
-    "market_hash_name": "Doppler",
+    "market_hash_name": "Doppler (Phase 3)",
     "float": {
       "min": 0.0,
       "max": 0.08
@@ -14840,7 +14840,7 @@
     "definition_index": 855,
     "name": "am_doppler_phase4_widow",
     "description": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.\\n\\n\u003ci\u003eGetting lost in its color can prove fatal\u003c/i\u003e",
-    "market_hash_name": "Doppler",
+    "market_hash_name": "Doppler (Phase 4)",
     "float": {
       "min": 0.0,
       "max": 0.08

@@ -7072,7 +7072,7 @@
       },
       "852": {
         "definition_index": 852,
-        "name": "Doppler",
+        "name": "Doppler (Phase 1)",
         "item_set_id": "set_community_22",
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase1_widow_light",
         "rarity": "ancient",
@@ -7085,7 +7085,7 @@
       },
       "853": {
         "definition_index": 853,
-        "name": "Doppler",
+        "name": "Doppler (Phase 2)",
         "item_set_id": "set_community_22",
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase2_widow_light",
         "rarity": "ancient",
@@ -7098,7 +7098,7 @@
       },
       "854": {
         "definition_index": 854,
-        "name": "Doppler",
+        "name": "Doppler (Phase 3)",
         "item_set_id": "set_community_22",
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase3_widow_light",
         "rarity": "ancient",
@@ -7111,7 +7111,7 @@
       },
       "855": {
         "definition_index": 855,
-        "name": "Doppler",
+        "name": "Doppler (Phase 4)",
         "item_set_id": "set_community_22",
         "image": "econ/default_generated/weapon_knife_widowmaker_am_doppler_phase4_widow_light",
         "rarity": "ancient",
