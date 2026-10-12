@@ -13,10 +13,10 @@ import (
 )
 
 var hashNamePrefixes = map[string]string{
-	"sticker_kit":    "Sticker | ",
-	"graffiti":       "Sealed Graffiti | ",
-	"music_kit":      "Music Kit | ",
-	"keychain":       "Charm | ",
+	"sticker_kit": "Sticker | ",
+	"graffiti":    "Sealed Graffiti | ",
+	"music_kit":   "Music Kit | ",
+	"keychain":    "Charm | ",
 }
 
 var stickerEffectNames = map[string]string{
@@ -49,10 +49,10 @@ var dopplerPhaseMap = map[string]string{
 	"am_doppler_phase4_b": "Phase 4",
 
 	// Talon knives being dumb
-	"am_doppler_phase1_widow":   "Phase 1",
-	"am_doppler_phase2_widow":   "Phase 2",
-	"am_doppler_phase3_widow":   "Phase 3",
-	"am_doppler_phase4_widow":   "Phase 4",
+	"am_doppler_phase1_widow": "Phase 1",
+	"am_doppler_phase2_widow": "Phase 2",
+	"am_doppler_phase3_widow": "Phase 3",
+	"am_doppler_phase4_widow": "Phase 4",
 
 	// Gamma Doppler phases
 	"am_emerald_marbleized":   "Emerald",

@@ -76,7 +76,7 @@ type PaintEntry struct {
 		Max float64 `json:"max"`
 	} `json:"float"`
 	Souvenir bool `json:"souvenir"`
-	StatTrak  bool `json:"stattrak"`
+	StatTrak bool `json:"stattrak"`
 }
 
 // findSkin searches all weapons in the file for a paint whose name matches
