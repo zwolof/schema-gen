@@ -2,9 +2,11 @@ package cosmetics
 
 import (
 	"context"
+	"regexp"
 	"strconv"
 	"strings"
 
+	"go-csitems-parser/internal/itemsgame"
 	"go-csitems-parser/internal/marketname"
 	"go-csitems-parser/internal/models"
 	"go-csitems-parser/internal/parsers/base"
@@ -20,6 +22,9 @@ import (
 type Collectibles struct{ base.Parser }
 
 func NewCollectibles() *Collectibles { return &Collectibles{Parser: base.New("collectibles")} }
+
+var yearCoinRegex = regexp.MustCompile(`\d+yearcoin`)
+var seasonCoinRegex = regexp.MustCompile(`season\d+_coin`)
 
 func (p *Collectibles) Parse(ctx context.Context, in *pipeline.Inputs) (any, error) {
 	logger := zerolog.Ctx(ctx)
@@ -55,24 +60,80 @@ func (p *Collectibles) Parse(ctx context.Context, in *pipeline.Inputs) (any, err
 		}
 
 		definition_index, _ := strconv.Atoi(item.Key)
+		name, _ := item.GetString("name")
 		image_inventory, _ := item.GetString("image_inventory")
 		rarity, _ := item.GetString("item_rarity")
 		prefab, _ := item.GetString("prefab")
+
+		item_description, _ := item.GetString("item_description")
+		description := item_description
+		if item_description != "" {
+			if translated, err := in.T.GetValueByKey(item_description); err == nil {
+				description = translated
+			}
+		}
+
+		var display_model string
+		if attributes, err := item.Get("attributes"); err == nil {
+			display_model, _ = attributes.GetString("pedestal display model")
+		}
+
+		tournament_event_id, _ := itemsgame.GetTournamentEventId(item)
+		if tournament_event_id < 0 {
+			tournament_event_id = 0
+		}
 
 		if prefab == "map_token" {
 			rarity = "ancient"
 		}
 
 		out = append(out, models.Collectible{
-			DefinitionIndex: definition_index,
-			MarketHashName:  marketname.GenerateMarketHashName(in.T, item_name, nil, "collectible"),
-			ImageInventory:  image_inventory,
-			Rarity:          rarity,
-			Genuine:         prefabQuality[prefab] == "genuine",
+			DefinitionIndex:   definition_index,
+			Name:              name,
+			Type:              collectibleType(image_inventory, prefab, item_name),
+			Model:             display_model,
+			Prefab:            prefab,
+			Description:       description,
+			Rarity:            rarity,
+			ImageInventory:    image_inventory,
+			TournamentEventId: tournament_event_id,
+			MarketHashName:    marketname.GenerateMarketHashName(in.T, item_name, nil, "collectible"),
+			Genuine:           prefabQuality[prefab] == "genuine",
 		})
 	}
 
 	return out, nil
+}
+
+// collectibleType classifies a collectible into a stable snake_case category
+// derived from its image, prefab, and item_name.
+func collectibleType(image_inventory, prefab, item_name string) string {
+	if prefab == "" || image_inventory == "" {
+		return "unknown"
+	}
+
+	switch {
+	case prefab == "premier_season_coin":
+		return "premier_season_coin"
+	case strings.Contains(image_inventory, "service_medal"):
+		return "service_medal"
+	case yearCoinRegex.MatchString(image_inventory):
+		return "years_of_service"
+	case strings.Contains(item_name, "#CSGO_Collectible_Map"):
+		return "map_contributor"
+	case strings.HasPrefix(item_name, "#CSGO_TournamentJournal"),
+		strings.HasPrefix(item_name, "#CSGO_CollectibleCoin"):
+		return "pick_em"
+	case strings.HasPrefix(item_name, "#CSGO_Collectible_Pin"),
+		strings.HasPrefix(item_name, "#CSGO_Collectible_CommunitySeason"):
+		return "map_pin"
+	case seasonCoinRegex.MatchString(prefab):
+		return "operation"
+	case prefab == "majors_trophy":
+		return "tournament_finalist"
+	default:
+		return "unknown"
+	}
 }
 
 func isItemCollectible(name string) bool {
