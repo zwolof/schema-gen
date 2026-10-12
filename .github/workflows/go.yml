@@ -1,4 +1,5 @@
-# This workflow will build a golang project
+# This workflow builds the project, and on a daily schedule it pulls the
+# latest game files, regenerates the exported schemas, and commits them back.
 # For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-go
 
 name: Go
@@ -8,17 +9,24 @@ on:
     branches: ["main"]
   pull_request:
     branches: ["main"]
+  schedule:
+    # Runs every 24 hours at 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        go-version: ["1.20", "1.25.0"]
+        go-version: ["1.25.0"]
 
     steps:
       - uses: actions/checkout@v6
-      - name: Setup Go ${{ matrix.go-version }}
+      - name: Setup Golang ${{ matrix.go-version }}
         uses: actions/setup-go@v5
         with:
           go-version: ${{ matrix.go-version }}
@@ -27,7 +35,20 @@ jobs:
         run: make pull-files
 
       - name: Generate
-        run: make build
+        run: make run
 
       - name: Test
         run: make test
+
+      - name: Commit updated files
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily sync of game files and exported schemas"
+            git push
+          fi
