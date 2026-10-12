@@ -782,5 +782,13 @@
     "market_hash_name": "Music Kit | ShockOne, Voices",
     "item_name": "",
     "display_model": ""
+  },
+  {
+    "definition_index": 104,
+    "name": "starjunk95_01",
+    "image": "econ/music_kits/starjunk95_01",
+    "market_hash_name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+    "item_name": "",
+    "display_model": ""
   }
 ]
