@@ -8278,6 +8278,108 @@
     "style": 0
   },
   {
+    "definition_index": 1478,
+    "name": "hy_ddpat_knife",
+    "description": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.\\n\\n\u003ci\u003eBy the time you're close enough to notice the pixels it's already too late\u003c/i\u003e",
+    "market_hash_name": "Forest DDPAT",
+    "float": {
+      "min": 0.06,
+      "max": 0.8
+    },
+    "rarity": "common",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1479,
+    "name": "hy_webs_knife",
+    "description": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.\\n\\n\u003ci\u003eBe careful where you walk, you never know where the web is spread\u003c/i\u003e",
+    "market_hash_name": "Crimson Web",
+    "float": {
+      "min": 0.06,
+      "max": 0.8
+    },
+    "rarity": "rare",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1480,
+    "name": "aq_blued_knife",
+    "description": "It has been cold blued.\\n\\n\u003ci\u003eThis is the malbec of weapon design - Booth, Arms Dealer\u003c/i\u003e",
+    "market_hash_name": "Blue Steel",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1481,
+    "name": "aq_forced_knife",
+    "description": "It has been given a forced patina using lemon and mustard dripped onto the surface.\\n\\n\u003ci\u003eIf you think it's messy now, wait until you see it under a blacklight\u003c/i\u003e",
+    "market_hash_name": "Stained",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "uncommon",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1482,
+    "name": "aq_oiled_knife",
+    "description": "It has been color case-hardened through the application of wood charcoal at high temperatures.\\n\\n\u003ci\u003eA little color never hurt anyone\u003c/i\u003e",
+    "market_hash_name": "Case Hardened",
+    "float": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "rarity": "mythical",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
+    "definition_index": 1483,
+    "name": "hy_forest_boreal_knife",
+    "description": "It has been painted using a forest camouflage hydrographic.\\n\\n\u003ci\u003eThe woods can be a dangerous place... never travel alone\u003c/i\u003e",
+    "market_hash_name": "Boreal Forest",
+    "float": {
+      "min": 0.06,
+      "max": 0.8
+    },
+    "rarity": "common",
+    "souvenir": false,
+    "stattrak": false,
+    "use_legacy_model": false,
+    "description_string": "",
+    "description_tag": "",
+    "style": 0
+  },
+  {
     "definition_index": 10006,
     "name": "bloodhound_black_silver",
     "description": "It was crafted out of classic black supple leather.\\n\\n\u003ci\u003eChallenge coins are great, but they don't draw blood when you backfist someone - Carmen Cocinero, Extraction Expert\u003c/i\u003e",

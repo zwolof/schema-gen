@@ -7556,5 +7556,101 @@
     "image": "econ/status_icons/trophy_cs2_finalists",
     "tournament_event_id": 26,
     "market_hash_name": "Quarterfinalist at IEM Cologne 2026"
+  },
+  {
+    "definition_index": 5412,
+    "name": "tournament_journal_singapore2026",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/singapore2026_coin_bronze.vmdl",
+    "prefab": "singapore2026_tournament_journal_prefab",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/singapore2026/singapore2026_coin_bronze",
+    "tournament_event_id": 0,
+    "market_hash_name": "Singapore 2026 Coin"
+  },
+  {
+    "definition_index": 5413,
+    "name": "tournament_journal_singapore2026_silver",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/singapore2026_coin_silver.vmdl",
+    "prefab": "singapore2026_tournament_journal_prefab",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/singapore2026/singapore2026_coin_silver",
+    "tournament_event_id": 0,
+    "market_hash_name": "Singapore 2026 Silver Coin"
+  },
+  {
+    "definition_index": 5414,
+    "name": "tournament_journal_singapore2026_gold",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/singapore2026_coin_gold.vmdl",
+    "prefab": "singapore2026_tournament_journal_prefab",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/singapore2026/singapore2026_coin_gold",
+    "tournament_event_id": 0,
+    "market_hash_name": "Singapore 2026 Gold Coin"
+  },
+  {
+    "definition_index": 5415,
+    "name": "tournament_journal_singapore2026_crystal",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/singapore2026_coin_crystal.vmdl",
+    "prefab": "singapore2026_tournament_journal_prefab",
+    "description": "",
+    "rarity": "",
+    "image": "econ/tournaments/singapore2026/singapore2026_coin_crystal",
+    "tournament_event_id": 0,
+    "market_hash_name": "Singapore 2026 Diamond Coin"
+  },
+  {
+    "definition_index": 5419,
+    "name": "PGL Singapore 2026 CS:GO Champion",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/trophy_cs2/trophy_cs2_champions.vmdl",
+    "prefab": "majors_trophy",
+    "description": "This championship trophy was awarded to the Champion at the PGL Singapore 2026 CS2 Major Championship.",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_champions",
+    "tournament_event_id": 27,
+    "market_hash_name": "Champion at PGL Singapore 2026"
+  },
+  {
+    "definition_index": 5420,
+    "name": "PGL Singapore 2026 CS:GO Finalist",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/trophy_cs2/trophy_cs2_finalists.vmdl",
+    "prefab": "majors_trophy",
+    "description": "This championship trophy was awarded to the Finalist at the PGL Singapore 2026 CS2 Major Championship.",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 27,
+    "market_hash_name": "Finalist at PGL Singapore 2026"
+  },
+  {
+    "definition_index": 5421,
+    "name": "PGL Singapore 2026 CS:GO Semifinalist",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/trophy_cs2/trophy_cs2_finalists.vmdl",
+    "prefab": "majors_trophy",
+    "description": "This championship trophy was awarded to the Semifinalist at the PGL Singapore 2026 CS2 Major Championship.",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 27,
+    "market_hash_name": "Semifinalist at PGL Singapore 2026"
+  },
+  {
+    "definition_index": 5422,
+    "name": "PGL Singapore 2026 CS:GO Quarterfinalist",
+    "type": "pick_em",
+    "display_model": "models/inventory_items/trophy_cs2/trophy_cs2_finalists.vmdl",
+    "prefab": "majors_trophy",
+    "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Singapore 2026 CS2 Major Championship.",
+    "rarity": "",
+    "image": "econ/status_icons/trophy_cs2_finalists",
+    "tournament_event_id": 27,
+    "market_hash_name": "Quarterfinalist at PGL Singapore 2026"
   }
 ]

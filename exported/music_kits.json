@@ -790,5 +790,69 @@
     "market_hash_name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
     "item_name": "",
     "display_model": ""
+  },
+  {
+    "definition_index": 105,
+    "name": "alleycvt_01",
+    "image": "econ/music_kits/alleycvt_01",
+    "market_hash_name": "Music Kit | ALLEYCVT \u0026 LEVEL UP, BELIEVE",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 106,
+    "name": "arcando_01",
+    "image": "econ/music_kits/arcando_01",
+    "market_hash_name": "Music Kit | Arcando \u0026 Pirapus, Ultrasound",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 107,
+    "name": "djdiesel_01",
+    "image": "econ/music_kits/djdiesel_01",
+    "market_hash_name": "Music Kit | DJ DIESEL \u0026 Hairitage, BANG YOUR HEAD",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 108,
+    "name": "fool_01",
+    "image": "econ/music_kits/fool_01",
+    "market_hash_name": "Music Kit | F.O.O.L, Criminals",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 109,
+    "name": "noisestorm_01",
+    "image": "econ/music_kits/noisestorm_01",
+    "market_hash_name": "Music Kit | Noisestorm, Crab Rave",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 110,
+    "name": "pegboardnerds_01",
+    "image": "econ/music_kits/pegboardnerds_01",
+    "market_hash_name": "Music Kit | Pegboard Nerds, Disconnected",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 111,
+    "name": "tristam_braken_01",
+    "image": "econ/music_kits/tristam_braken_01",
+    "market_hash_name": "Music Kit | Tristam \u0026 Braken, Flight",
+    "item_name": "",
+    "display_model": ""
+  },
+  {
+    "definition_index": 112,
+    "name": "vicetone_01",
+    "image": "econ/music_kits/vicetone_01",
+    "market_hash_name": "Music Kit | Vicetone \u0026 Cozi Zuehlsdorff, Nevada",
+    "item_name": "",
+    "display_model": ""
   }
 ]
