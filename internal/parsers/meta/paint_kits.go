@@ -48,6 +48,7 @@ func (p *PaintKits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 		wearMax, wearMaxErr := r.GetFloat32("wear_remap_max")
 		descriptionTag, _ := r.GetString("description_tag")
 		descriptionString, _ := r.GetString("description_string")
+		useLegacyModel, _ := r.GetBool("use_legacy_model")
 
 		if wearMinErr != nil {
 			wearMin = 0.06
@@ -64,6 +65,7 @@ func (p *PaintKits) Parse(ctx context.Context, in *pipeline.Inputs) (any, error)
 			Description:     translatedDescription,
 			Wear:            models.PaintKitWearRange{Min: wearMin, Max: wearMax},
 			MarketHashName:  marketname.GenerateMarketHashName(in.T, descriptionTag, &name, "paint_kit"),
+			UseLegacyModel:  useLegacyModel,
 		}
 
 		rarity, exists := rarityMap[current.Name]
